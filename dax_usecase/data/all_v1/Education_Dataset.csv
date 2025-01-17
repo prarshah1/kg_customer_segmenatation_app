@@ -1,0 +1,501 @@
+education_level,field_of_study,institution_type,graduation_year,current_enrollment,academic_performance,continuing_education,post-graduation_education,scholarships/financial_aid,online_learning_engagement
+Master's Degree,Health Sciences,Private,2001,Yes,Excellent,No,Pursuing Post-graduate,Yes,Rare
+High School,Social Sciences,Vocational,2010,Yes,Good,Yes,None,No,None
+High School,Social Sciences,Vocational,2018,No,Below Average,No,None,Yes,None
+Doctorate,Other,Private,2004,No,Below Average,No,None,Yes,Frequent
+High School,Other,Online,2013,No,Excellent,No,None,Yes,Occasional
+Master's Degree,Humanities,Online,2000,Yes,Not Applicable,No,Pursuing Post-graduate,Yes,None
+High School,Technology,Public,2024,No,Not Applicable,No,Completed Post-graduate,No,Frequent
+Master's Degree,Health Sciences,Vocational,2013,No,Average,Yes,Pursuing Post-graduate,No,Frequent
+Associate Degree,Humanities,Online,2016,No,Excellent,Yes,Pursuing Post-graduate,No,Rare
+None,Social Sciences,Public,2001,Yes,Excellent,Yes,Pursuing Post-graduate,Yes,None
+Associate Degree,Health Sciences,Vocational,2009,Yes,Not Applicable,No,Completed Post-graduate,Yes,None
+None,Engineering,Online,2010,Yes,Average,No,None,No,Rare
+None,Business,Vocational,2013,Yes,Below Average,No,Pursuing Post-graduate,No,Rare
+High School,Arts,Public,2011,Yes,Excellent,No,Completed Post-graduate,No,None
+Doctorate,Business,Private,2013,Yes,Not Applicable,No,None,No,Occasional
+Doctorate,Social Sciences,Public,2005,No,Good,No,Completed Post-graduate,No,None
+Associate Degree,Engineering,Private,2021,No,Good,No,None,No,Rare
+High School,Social Sciences,Online,2023,Yes,Below Average,No,Completed Post-graduate,No,Frequent
+High School,Engineering,Public,2017,No,Excellent,Yes,None,No,Occasional
+None,Business,Vocational,2023,Yes,Good,No,Completed Post-graduate,No,Rare
+None,Health Sciences,Vocational,2004,No,Not Applicable,Yes,Pursuing Post-graduate,No,Frequent
+Doctorate,Engineering,Vocational,2011,Yes,Excellent,No,Completed Post-graduate,No,Rare
+Associate Degree,Engineering,Public,2025,Yes,Below Average,No,Pursuing Post-graduate,No,Occasional
+Master's Degree,Business,Private,2000,Yes,Below Average,Yes,Completed Post-graduate,No,Frequent
+Doctorate,Technology,Public,2013,No,Below Average,No,None,Yes,Occasional
+Bachelor's Degree,Humanities,Online,2022,Yes,Below Average,No,Completed Post-graduate,Yes,Rare
+Doctorate,Arts,Online,2021,Yes,Good,Yes,Completed Post-graduate,No,Frequent
+Associate Degree,Social Sciences,Public,2024,No,Below Average,Yes,None,Yes,Rare
+Bachelor's Degree,Humanities,Public,2019,No,Average,No,Completed Post-graduate,Yes,None
+Master's Degree,Engineering,Online,2017,No,Good,No,Completed Post-graduate,No,None
+High School,Social Sciences,Online,2004,Yes,Below Average,No,Pursuing Post-graduate,Yes,None
+None,Other,Public,2015,Yes,Below Average,Yes,Pursuing Post-graduate,No,Rare
+Master's Degree,Engineering,Public,2024,No,Not Applicable,No,None,Yes,Frequent
+High School,Engineering,Private,2008,Yes,Good,No,Pursuing Post-graduate,No,Occasional
+Associate Degree,Business,Public,2017,Yes,Below Average,Yes,Pursuing Post-graduate,No,None
+Associate Degree,Humanities,Public,2014,No,Not Applicable,Yes,Completed Post-graduate,No,Occasional
+Master's Degree,Other,Public,2014,Yes,Average,No,Pursuing Post-graduate,Yes,Rare
+Associate Degree,Business,Online,2022,No,Average,Yes,Pursuing Post-graduate,No,Occasional
+High School,Other,Online,2008,Yes,Excellent,Yes,None,Yes,Rare
+Master's Degree,Engineering,Public,2003,No,Average,Yes,Completed Post-graduate,No,None
+None,Business,Online,2021,Yes,Below Average,No,None,Yes,Frequent
+Associate Degree,Engineering,Public,2022,No,Not Applicable,Yes,None,No,Occasional
+High School,Business,Online,2024,Yes,Good,No,Pursuing Post-graduate,No,Rare
+None,Health Sciences,Public,2021,Yes,Average,No,None,No,Rare
+Associate Degree,Other,Public,2010,Yes,Not Applicable,Yes,Pursuing Post-graduate,Yes,None
+Master's Degree,Other,Public,2021,Yes,Average,No,Pursuing Post-graduate,Yes,Frequent
+Bachelor's Degree,Health Sciences,Online,2002,Yes,Excellent,No,Pursuing Post-graduate,No,Rare
+Master's Degree,Humanities,Online,2010,Yes,Below Average,No,Completed Post-graduate,No,Rare
+Associate Degree,Engineering,Vocational,2020,Yes,Not Applicable,No,None,No,None
+Master's Degree,Other,Public,2008,Yes,Good,Yes,Completed Post-graduate,No,None
+None,Social Sciences,Online,2020,No,Average,Yes,Completed Post-graduate,Yes,Occasional
+Doctorate,Business,Vocational,2023,No,Average,No,None,No,Rare
+Bachelor's Degree,Humanities,Vocational,2014,Yes,Below Average,No,None,No,Frequent
+High School,Humanities,Online,2024,Yes,Excellent,No,Completed Post-graduate,Yes,Frequent
+Master's Degree,Engineering,Online,2008,No,Not Applicable,No,Completed Post-graduate,No,Rare
+Master's Degree,Other,Online,2008,Yes,Below Average,No,Completed Post-graduate,No,Rare
+High School,Technology,Public,2007,No,Average,Yes,Completed Post-graduate,No,Occasional
+Doctorate,Social Sciences,Online,2024,Yes,Average,No,None,Yes,None
+Master's Degree,Humanities,Vocational,2011,Yes,Not Applicable,No,Pursuing Post-graduate,Yes,Occasional
+Associate Degree,Arts,Private,2011,No,Average,No,Completed Post-graduate,Yes,Occasional
+Associate Degree,Engineering,Private,2006,No,Good,No,Completed Post-graduate,No,Occasional
+Associate Degree,Arts,Private,2008,Yes,Excellent,Yes,Completed Post-graduate,Yes,Frequent
+Associate Degree,Business,Online,2023,No,Average,No,None,Yes,Frequent
+Bachelor's Degree,Business,Private,2012,No,Good,Yes,Completed Post-graduate,No,None
+Master's Degree,Business,Online,2020,No,Average,No,Pursuing Post-graduate,Yes,Occasional
+Doctorate,Humanities,Vocational,2008,No,Average,No,Pursuing Post-graduate,Yes,None
+None,Social Sciences,Vocational,2025,Yes,Average,Yes,Pursuing Post-graduate,Yes,Rare
+Master's Degree,Social Sciences,Online,2009,No,Below Average,No,Pursuing Post-graduate,No,Frequent
+High School,Health Sciences,Public,2000,No,Good,Yes,Completed Post-graduate,No,Rare
+High School,Social Sciences,Private,2021,Yes,Not Applicable,No,Completed Post-graduate,No,Frequent
+Master's Degree,Technology,Private,2023,No,Not Applicable,No,Completed Post-graduate,Yes,Frequent
+Doctorate,Technology,Online,2020,Yes,Average,Yes,None,No,Rare
+Master's Degree,Health Sciences,Private,2009,No,Excellent,Yes,Completed Post-graduate,No,Frequent
+High School,Social Sciences,Vocational,2007,No,Average,Yes,None,Yes,Frequent
+None,Humanities,Online,2015,Yes,Below Average,Yes,None,No,Rare
+Associate Degree,Technology,Public,2008,Yes,Not Applicable,Yes,None,No,Frequent
+High School,Engineering,Online,2019,Yes,Below Average,No,Completed Post-graduate,Yes,Frequent
+High School,Technology,Private,2001,No,Not Applicable,Yes,Completed Post-graduate,No,None
+Master's Degree,Other,Private,2025,Yes,Good,Yes,Completed Post-graduate,Yes,Occasional
+Associate Degree,Social Sciences,Private,2021,No,Average,Yes,Completed Post-graduate,Yes,Rare
+Associate Degree,Health Sciences,Online,2004,No,Excellent,No,None,Yes,Occasional
+Bachelor's Degree,Technology,Public,2014,No,Below Average,No,Completed Post-graduate,No,Frequent
+Bachelor's Degree,Arts,Online,2011,Yes,Good,No,Completed Post-graduate,No,None
+Bachelor's Degree,Business,Private,2009,Yes,Excellent,Yes,Pursuing Post-graduate,Yes,Frequent
+High School,Technology,Public,2000,Yes,Good,Yes,Completed Post-graduate,Yes,Occasional
+None,Social Sciences,Private,2003,No,Average,Yes,None,No,Frequent
+High School,Technology,Online,2022,No,Below Average,Yes,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Arts,Public,2003,Yes,Good,No,None,No,Frequent
+Bachelor's Degree,Business,Public,2024,Yes,Good,Yes,None,Yes,Occasional
+None,Technology,Online,2004,Yes,Excellent,Yes,None,No,Rare
+None,Other,Vocational,2004,No,Excellent,No,Completed Post-graduate,No,Frequent
+Master's Degree,Business,Vocational,2016,No,Not Applicable,No,Pursuing Post-graduate,Yes,None
+Doctorate,Social Sciences,Private,2003,Yes,Good,Yes,None,Yes,Rare
+Associate Degree,Arts,Vocational,2005,Yes,Not Applicable,Yes,Completed Post-graduate,Yes,None
+Master's Degree,Business,Public,2007,Yes,Good,Yes,Completed Post-graduate,No,None
+High School,Other,Vocational,2015,Yes,Not Applicable,No,Completed Post-graduate,Yes,Frequent
+Master's Degree,Arts,Private,2010,No,Below Average,Yes,Pursuing Post-graduate,Yes,Occasional
+Associate Degree,Engineering,Public,2017,No,Not Applicable,Yes,Completed Post-graduate,No,Frequent
+Doctorate,Humanities,Online,2003,Yes,Below Average,Yes,Completed Post-graduate,No,Frequent
+High School,Arts,Public,2008,No,Below Average,No,Completed Post-graduate,Yes,Rare
+Doctorate,Humanities,Vocational,2011,Yes,Good,No,None,No,None
+Associate Degree,Technology,Online,2018,No,Below Average,Yes,None,Yes,Frequent
+Bachelor's Degree,Arts,Vocational,2000,Yes,Average,Yes,Pursuing Post-graduate,Yes,Frequent
+High School,Health Sciences,Online,2011,Yes,Average,Yes,Completed Post-graduate,No,Rare
+Doctorate,Other,Online,2021,Yes,Not Applicable,Yes,None,No,Rare
+Master's Degree,Social Sciences,Online,2017,Yes,Excellent,No,Completed Post-graduate,No,None
+Bachelor's Degree,Business,Private,2009,No,Excellent,Yes,Pursuing Post-graduate,Yes,None
+Bachelor's Degree,Business,Vocational,2008,No,Below Average,No,Completed Post-graduate,Yes,Rare
+Master's Degree,Business,Private,2016,No,Excellent,Yes,None,No,Frequent
+None,Arts,Online,2013,No,Below Average,Yes,None,Yes,Rare
+Bachelor's Degree,Engineering,Online,2008,No,Not Applicable,Yes,Completed Post-graduate,Yes,Rare
+High School,Arts,Vocational,2000,Yes,Good,Yes,Completed Post-graduate,No,Frequent
+High School,Humanities,Vocational,2015,No,Below Average,Yes,Pursuing Post-graduate,Yes,None
+Associate Degree,Technology,Vocational,2024,No,Good,Yes,None,No,Occasional
+None,Engineering,Public,2012,Yes,Below Average,Yes,None,Yes,Rare
+Bachelor's Degree,Arts,Online,2018,No,Below Average,Yes,Pursuing Post-graduate,No,None
+Doctorate,Engineering,Public,2008,Yes,Not Applicable,Yes,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Social Sciences,Private,2004,No,Not Applicable,Yes,Completed Post-graduate,No,None
+Master's Degree,Health Sciences,Online,2017,No,Not Applicable,No,Pursuing Post-graduate,Yes,Frequent
+Doctorate,Technology,Online,2000,Yes,Below Average,Yes,Pursuing Post-graduate,No,None
+Bachelor's Degree,Humanities,Vocational,2020,Yes,Below Average,Yes,Completed Post-graduate,Yes,Occasional
+Master's Degree,Engineering,Vocational,2005,Yes,Excellent,Yes,Pursuing Post-graduate,No,Occasional
+Doctorate,Other,Public,2001,No,Good,Yes,Pursuing Post-graduate,Yes,Rare
+Associate Degree,Other,Vocational,2017,Yes,Excellent,Yes,Pursuing Post-graduate,No,None
+Associate Degree,Engineering,Public,2005,No,Not Applicable,No,None,No,None
+Associate Degree,Social Sciences,Online,2010,Yes,Below Average,No,Pursuing Post-graduate,Yes,Rare
+Bachelor's Degree,Health Sciences,Private,2024,Yes,Excellent,No,Pursuing Post-graduate,Yes,Rare
+Bachelor's Degree,Humanities,Private,2023,Yes,Good,No,Pursuing Post-graduate,Yes,Occasional
+None,Health Sciences,Private,2007,No,Excellent,Yes,None,Yes,Frequent
+None,Business,Online,2020,Yes,Excellent,No,Pursuing Post-graduate,Yes,Occasional
+None,Social Sciences,Vocational,2015,No,Not Applicable,No,Completed Post-graduate,Yes,Occasional
+High School,Business,Online,2022,No,Good,Yes,Pursuing Post-graduate,Yes,None
+None,Engineering,Vocational,2001,Yes,Below Average,Yes,Completed Post-graduate,No,None
+Associate Degree,Health Sciences,Private,2022,Yes,Excellent,No,Completed Post-graduate,No,Rare
+High School,Other,Online,2004,No,Below Average,No,Completed Post-graduate,Yes,Rare
+Bachelor's Degree,Engineering,Private,2014,Yes,Below Average,Yes,Pursuing Post-graduate,No,Occasional
+High School,Business,Vocational,2012,No,Not Applicable,Yes,None,No,None
+Doctorate,Technology,Online,2001,Yes,Average,No,Completed Post-graduate,Yes,Occasional
+High School,Technology,Vocational,2007,Yes,Excellent,Yes,None,No,Rare
+Doctorate,Humanities,Private,2005,Yes,Good,Yes,Completed Post-graduate,Yes,Frequent
+Doctorate,Health Sciences,Online,2008,No,Below Average,No,None,No,Occasional
+Bachelor's Degree,Other,Private,2017,Yes,Excellent,Yes,None,Yes,Frequent
+None,Arts,Vocational,2023,No,Good,No,Completed Post-graduate,No,None
+Master's Degree,Engineering,Private,2004,Yes,Not Applicable,No,Completed Post-graduate,Yes,Frequent
+Associate Degree,Health Sciences,Public,2016,No,Good,Yes,None,No,Frequent
+Doctorate,Technology,Private,2003,No,Below Average,Yes,Completed Post-graduate,No,Frequent
+Associate Degree,Humanities,Online,2003,Yes,Average,No,Pursuing Post-graduate,Yes,Frequent
+Bachelor's Degree,Social Sciences,Online,2023,No,Below Average,Yes,Completed Post-graduate,No,Rare
+Master's Degree,Humanities,Vocational,2005,Yes,Excellent,No,Pursuing Post-graduate,No,None
+Doctorate,Engineering,Private,2011,No,Average,No,None,No,Occasional
+None,Engineering,Private,2017,No,Not Applicable,Yes,Pursuing Post-graduate,No,Occasional
+High School,Health Sciences,Public,2006,Yes,Average,No,Completed Post-graduate,No,None
+Associate Degree,Social Sciences,Vocational,2004,Yes,Average,Yes,Completed Post-graduate,Yes,None
+Master's Degree,Technology,Online,2015,No,Average,Yes,Pursuing Post-graduate,Yes,Frequent
+Doctorate,Humanities,Online,2001,No,Below Average,No,None,No,Frequent
+None,Other,Public,2016,Yes,Below Average,Yes,None,Yes,Occasional
+None,Other,Vocational,2012,Yes,Excellent,No,Pursuing Post-graduate,Yes,Rare
+Master's Degree,Technology,Private,2009,Yes,Not Applicable,Yes,Pursuing Post-graduate,No,Rare
+None,Other,Vocational,2019,No,Average,No,Completed Post-graduate,Yes,Frequent
+Associate Degree,Humanities,Vocational,2009,No,Below Average,Yes,Completed Post-graduate,Yes,Rare
+High School,Health Sciences,Private,2022,Yes,Below Average,No,Completed Post-graduate,Yes,Frequent
+Master's Degree,Technology,Vocational,2018,Yes,Average,No,Pursuing Post-graduate,No,Rare
+High School,Humanities,Private,2007,Yes,Below Average,No,Pursuing Post-graduate,Yes,None
+None,Business,Vocational,2001,Yes,Below Average,Yes,Completed Post-graduate,Yes,Frequent
+None,Other,Vocational,2002,Yes,Good,Yes,Pursuing Post-graduate,No,Rare
+Associate Degree,Health Sciences,Public,2019,Yes,Not Applicable,Yes,None,Yes,None
+Bachelor's Degree,Social Sciences,Vocational,2017,No,Average,No,Completed Post-graduate,No,Rare
+Doctorate,Other,Online,2012,Yes,Below Average,No,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Technology,Online,2003,Yes,Good,Yes,Completed Post-graduate,Yes,Frequent
+Master's Degree,Health Sciences,Vocational,2001,Yes,Below Average,Yes,Completed Post-graduate,Yes,None
+Master's Degree,Engineering,Private,2012,No,Not Applicable,Yes,None,No,None
+Doctorate,Technology,Public,2004,No,Excellent,Yes,None,No,None
+High School,Humanities,Online,2019,No,Below Average,No,None,No,Occasional
+High School,Health Sciences,Vocational,2002,Yes,Good,Yes,Pursuing Post-graduate,Yes,None
+High School,Engineering,Public,2020,Yes,Good,No,None,Yes,Rare
+High School,Business,Vocational,2024,No,Average,Yes,None,Yes,None
+Associate Degree,Health Sciences,Vocational,2018,Yes,Excellent,No,None,Yes,Occasional
+Bachelor's Degree,Health Sciences,Online,2004,No,Average,No,None,No,Frequent
+High School,Arts,Vocational,2019,No,Excellent,No,Completed Post-graduate,Yes,Occasional
+High School,Health Sciences,Public,2023,Yes,Below Average,Yes,Completed Post-graduate,Yes,Rare
+None,Humanities,Public,2003,Yes,Good,No,None,Yes,Frequent
+Master's Degree,Engineering,Vocational,2005,No,Below Average,No,Pursuing Post-graduate,Yes,None
+High School,Arts,Online,2017,Yes,Below Average,Yes,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Social Sciences,Vocational,2004,Yes,Not Applicable,Yes,Pursuing Post-graduate,No,None
+Doctorate,Technology,Online,2002,Yes,Average,No,Completed Post-graduate,No,None
+Associate Degree,Other,Vocational,2006,No,Below Average,No,None,Yes,Rare
+Bachelor's Degree,Social Sciences,Vocational,2019,Yes,Below Average,No,Pursuing Post-graduate,No,Frequent
+Associate Degree,Technology,Private,2025,Yes,Excellent,No,Completed Post-graduate,No,Occasional
+High School,Social Sciences,Vocational,2007,No,Not Applicable,Yes,Pursuing Post-graduate,Yes,Rare
+Master's Degree,Social Sciences,Private,2013,Yes,Not Applicable,No,Pursuing Post-graduate,Yes,Rare
+Doctorate,Health Sciences,Online,2015,Yes,Excellent,No,Completed Post-graduate,No,Frequent
+Associate Degree,Engineering,Private,2017,Yes,Not Applicable,Yes,None,Yes,Frequent
+High School,Arts,Public,2013,Yes,Good,No,Pursuing Post-graduate,Yes,None
+Bachelor's Degree,Technology,Public,2013,Yes,Average,No,Pursuing Post-graduate,No,Occasional
+Doctorate,Humanities,Vocational,2021,No,Average,Yes,Pursuing Post-graduate,Yes,None
+Doctorate,Business,Private,2001,Yes,Not Applicable,No,None,No,Occasional
+Doctorate,Technology,Online,2022,No,Excellent,No,Completed Post-graduate,No,Occasional
+None,Health Sciences,Public,2016,No,Excellent,Yes,None,No,Frequent
+High School,Health Sciences,Online,2020,No,Excellent,Yes,Completed Post-graduate,No,Rare
+Doctorate,Business,Online,2011,Yes,Excellent,Yes,Pursuing Post-graduate,Yes,Rare
+Doctorate,Arts,Private,2006,Yes,Below Average,Yes,Completed Post-graduate,No,None
+High School,Social Sciences,Private,2013,Yes,Good,Yes,Pursuing Post-graduate,Yes,None
+Bachelor's Degree,Arts,Online,2015,No,Average,No,Pursuing Post-graduate,Yes,None
+Doctorate,Health Sciences,Public,2004,No,Not Applicable,No,Completed Post-graduate,Yes,Frequent
+Doctorate,Technology,Vocational,2010,No,Average,No,Completed Post-graduate,No,Rare
+High School,Humanities,Vocational,2006,No,Average,No,None,No,None
+High School,Humanities,Private,2014,No,Excellent,No,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Other,Online,2003,Yes,Below Average,Yes,None,Yes,None
+None,Social Sciences,Public,2006,Yes,Below Average,Yes,Completed Post-graduate,No,Rare
+Bachelor's Degree,Health Sciences,Vocational,2020,No,Excellent,Yes,None,No,Occasional
+Doctorate,Health Sciences,Public,2015,No,Not Applicable,No,Completed Post-graduate,Yes,Rare
+None,Humanities,Public,2016,No,Good,Yes,None,No,None
+None,Technology,Online,2013,No,Average,Yes,Completed Post-graduate,Yes,Frequent
+Bachelor's Degree,Business,Online,2023,Yes,Good,No,Completed Post-graduate,No,Occasional
+Master's Degree,Business,Online,2004,No,Excellent,No,Pursuing Post-graduate,Yes,Rare
+None,Health Sciences,Public,2002,No,Good,Yes,None,Yes,Rare
+None,Arts,Public,2019,No,Average,Yes,Pursuing Post-graduate,No,Occasional
+High School,Business,Public,2020,Yes,Not Applicable,Yes,Pursuing Post-graduate,No,Frequent
+Master's Degree,Humanities,Vocational,2004,No,Excellent,Yes,Completed Post-graduate,No,Rare
+None,Technology,Public,2008,No,Average,No,Pursuing Post-graduate,Yes,Frequent
+None,Social Sciences,Vocational,2003,No,Good,Yes,Completed Post-graduate,Yes,Frequent
+Associate Degree,Social Sciences,Online,2005,No,Below Average,No,None,Yes,Occasional
+None,Other,Public,2012,No,Average,No,Completed Post-graduate,No,Rare
+Doctorate,Health Sciences,Online,2004,No,Not Applicable,Yes,Pursuing Post-graduate,No,None
+High School,Engineering,Private,2001,Yes,Below Average,No,None,No,Occasional
+Master's Degree,Social Sciences,Vocational,2012,No,Average,No,Pursuing Post-graduate,No,Occasional
+Master's Degree,Other,Online,2002,Yes,Excellent,Yes,Completed Post-graduate,Yes,Occasional
+Associate Degree,Other,Vocational,2003,Yes,Average,Yes,None,Yes,Occasional
+Associate Degree,Social Sciences,Private,2001,Yes,Excellent,Yes,None,No,Occasional
+Associate Degree,Health Sciences,Private,2009,Yes,Below Average,No,Completed Post-graduate,Yes,Rare
+High School,Social Sciences,Public,2023,No,Average,Yes,Completed Post-graduate,No,Frequent
+High School,Technology,Online,2019,No,Good,Yes,Pursuing Post-graduate,Yes,Frequent
+Associate Degree,Engineering,Private,2022,Yes,Good,No,None,Yes,Occasional
+Doctorate,Engineering,Online,2002,No,Not Applicable,No,Completed Post-graduate,Yes,Occasional
+Doctorate,Humanities,Online,2011,Yes,Excellent,Yes,Pursuing Post-graduate,No,Occasional
+Associate Degree,Business,Vocational,2018,No,Not Applicable,No,None,Yes,Rare
+Doctorate,Technology,Vocational,2005,Yes,Average,No,Pursuing Post-graduate,Yes,Occasional
+None,Technology,Public,2010,Yes,Not Applicable,Yes,None,No,Frequent
+High School,Social Sciences,Vocational,2015,Yes,Average,No,None,No,Rare
+High School,Arts,Online,2015,No,Not Applicable,Yes,None,No,Frequent
+None,Technology,Private,2004,No,Not Applicable,Yes,Pursuing Post-graduate,Yes,Rare
+High School,Humanities,Private,2018,Yes,Excellent,No,Completed Post-graduate,Yes,Occasional
+None,Engineering,Public,2020,No,Not Applicable,No,Pursuing Post-graduate,Yes,None
+High School,Engineering,Private,2014,No,Good,Yes,None,Yes,Occasional
+Doctorate,Humanities,Public,2012,Yes,Excellent,No,Pursuing Post-graduate,Yes,None
+High School,Arts,Public,2011,No,Average,No,Completed Post-graduate,Yes,Occasional
+Associate Degree,Arts,Vocational,2020,Yes,Not Applicable,No,Pursuing Post-graduate,No,Frequent
+High School,Health Sciences,Public,2011,Yes,Good,No,Pursuing Post-graduate,No,Frequent
+High School,Health Sciences,Vocational,2024,No,Good,Yes,Pursuing Post-graduate,Yes,Frequent
+High School,Technology,Online,2008,No,Good,Yes,None,Yes,None
+Bachelor's Degree,Engineering,Public,2002,Yes,Below Average,Yes,None,Yes,Rare
+Master's Degree,Humanities,Vocational,2005,No,Excellent,No,None,No,Occasional
+None,Health Sciences,Online,2009,No,Good,No,None,No,None
+Associate Degree,Arts,Private,2023,No,Below Average,Yes,Completed Post-graduate,No,Occasional
+Master's Degree,Business,Online,2003,Yes,Excellent,No,Pursuing Post-graduate,No,Frequent
+Associate Degree,Social Sciences,Vocational,2011,Yes,Not Applicable,No,Pursuing Post-graduate,Yes,Frequent
+Associate Degree,Health Sciences,Vocational,2011,Yes,Good,Yes,Completed Post-graduate,No,Occasional
+Doctorate,Engineering,Private,2016,Yes,Excellent,No,Completed Post-graduate,No,None
+High School,Business,Public,2018,Yes,Not Applicable,Yes,Completed Post-graduate,No,None
+Bachelor's Degree,Humanities,Public,2003,Yes,Excellent,Yes,Completed Post-graduate,Yes,Rare
+Master's Degree,Social Sciences,Vocational,2010,Yes,Excellent,No,Pursuing Post-graduate,No,Occasional
+Associate Degree,Humanities,Private,2009,No,Below Average,Yes,Pursuing Post-graduate,Yes,Rare
+None,Humanities,Vocational,2015,No,Below Average,Yes,Pursuing Post-graduate,Yes,None
+Bachelor's Degree,Technology,Public,2010,No,Excellent,No,Pursuing Post-graduate,No,Occasional
+High School,Other,Online,2024,Yes,Not Applicable,No,None,Yes,Frequent
+High School,Business,Online,2017,Yes,Average,No,Pursuing Post-graduate,Yes,Frequent
+Bachelor's Degree,Other,Vocational,2000,No,Good,No,None,Yes,Occasional
+High School,Health Sciences,Online,2020,No,Average,Yes,Pursuing Post-graduate,No,None
+Doctorate,Humanities,Vocational,2008,No,Average,Yes,None,Yes,None
+High School,Arts,Public,2011,Yes,Not Applicable,No,None,Yes,Occasional
+Master's Degree,Business,Private,2010,Yes,Good,Yes,Pursuing Post-graduate,Yes,None
+Bachelor's Degree,Humanities,Private,2022,Yes,Excellent,Yes,Pursuing Post-graduate,No,Frequent
+Doctorate,Engineering,Vocational,2003,Yes,Average,No,Completed Post-graduate,No,Occasional
+Doctorate,Health Sciences,Private,2009,No,Not Applicable,No,Pursuing Post-graduate,Yes,None
+Associate Degree,Health Sciences,Public,2010,Yes,Excellent,No,Pursuing Post-graduate,Yes,Occasional
+None,Technology,Private,2021,Yes,Not Applicable,Yes,None,No,None
+Bachelor's Degree,Engineering,Private,2012,Yes,Good,No,Completed Post-graduate,Yes,None
+Doctorate,Business,Public,2013,Yes,Good,Yes,Pursuing Post-graduate,Yes,Occasional
+None,Humanities,Private,2007,Yes,Good,Yes,Pursuing Post-graduate,Yes,Rare
+High School,Business,Public,2003,No,Good,No,Completed Post-graduate,No,Frequent
+High School,Social Sciences,Online,2010,Yes,Not Applicable,No,Pursuing Post-graduate,Yes,Occasional
+High School,Social Sciences,Vocational,2001,Yes,Below Average,No,Completed Post-graduate,No,None
+Master's Degree,Health Sciences,Online,2024,Yes,Excellent,Yes,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Humanities,Vocational,2013,Yes,Below Average,Yes,None,Yes,None
+Master's Degree,Engineering,Vocational,2022,No,Not Applicable,No,Completed Post-graduate,Yes,Frequent
+Master's Degree,Business,Vocational,2003,No,Not Applicable,Yes,Pursuing Post-graduate,No,Occasional
+Associate Degree,Humanities,Vocational,2025,Yes,Not Applicable,No,None,No,None
+Bachelor's Degree,Humanities,Public,2010,No,Average,Yes,None,Yes,None
+Associate Degree,Humanities,Private,2002,Yes,Good,Yes,Completed Post-graduate,No,Frequent
+None,Humanities,Online,2013,Yes,Average,No,None,Yes,Frequent
+High School,Business,Vocational,2007,No,Not Applicable,No,Completed Post-graduate,Yes,None
+None,Humanities,Vocational,2010,Yes,Excellent,Yes,Pursuing Post-graduate,No,None
+Associate Degree,Business,Private,2008,No,Average,Yes,Completed Post-graduate,No,Occasional
+None,Humanities,Online,2023,No,Good,Yes,None,No,Frequent
+High School,Technology,Public,2003,Yes,Good,No,None,No,Occasional
+Doctorate,Social Sciences,Private,2012,No,Average,No,None,Yes,Frequent
+Bachelor's Degree,Humanities,Vocational,2011,No,Average,No,None,Yes,None
+None,Other,Private,2009,Yes,Excellent,No,Completed Post-graduate,Yes,None
+Doctorate,Other,Vocational,2008,Yes,Below Average,No,None,Yes,None
+Associate Degree,Humanities,Vocational,2011,Yes,Average,No,Pursuing Post-graduate,No,Rare
+Bachelor's Degree,Other,Public,2005,No,Good,No,Completed Post-graduate,Yes,Frequent
+None,Humanities,Online,2000,Yes,Good,No,Completed Post-graduate,No,Occasional
+Bachelor's Degree,Other,Vocational,2007,Yes,Excellent,Yes,Pursuing Post-graduate,No,None
+Bachelor's Degree,Technology,Vocational,2025,No,Below Average,No,None,Yes,Rare
+High School,Arts,Vocational,2013,Yes,Not Applicable,Yes,Pursuing Post-graduate,No,Rare
+Master's Degree,Health Sciences,Public,2007,Yes,Below Average,No,Pursuing Post-graduate,Yes,None
+Doctorate,Business,Private,2003,Yes,Excellent,No,None,No,Rare
+None,Technology,Online,2002,Yes,Average,No,None,No,Occasional
+Bachelor's Degree,Technology,Public,2010,Yes,Excellent,No,None,Yes,Frequent
+High School,Other,Vocational,2015,No,Below Average,Yes,None,No,Occasional
+Master's Degree,Business,Public,2002,No,Good,No,None,Yes,Frequent
+Associate Degree,Engineering,Vocational,2024,Yes,Below Average,No,None,No,Rare
+Master's Degree,Business,Public,2008,Yes,Average,No,Pursuing Post-graduate,Yes,Rare
+None,Humanities,Private,2011,No,Excellent,No,None,Yes,None
+Master's Degree,Engineering,Online,2018,No,Good,Yes,None,No,Frequent
+Bachelor's Degree,Engineering,Public,2002,Yes,Good,Yes,Pursuing Post-graduate,No,Rare
+High School,Technology,Vocational,2017,Yes,Not Applicable,Yes,Pursuing Post-graduate,No,Rare
+High School,Arts,Vocational,2002,Yes,Not Applicable,No,Completed Post-graduate,Yes,Occasional
+Doctorate,Humanities,Public,2011,Yes,Below Average,Yes,None,No,Rare
+Associate Degree,Humanities,Public,2002,Yes,Good,Yes,None,No,None
+None,Business,Online,2023,Yes,Below Average,No,Completed Post-graduate,No,Frequent
+Doctorate,Arts,Private,2025,No,Below Average,No,Pursuing Post-graduate,No,Occasional
+Associate Degree,Humanities,Private,2004,No,Excellent,Yes,Pursuing Post-graduate,Yes,Rare
+Doctorate,Other,Private,2023,No,Excellent,Yes,None,Yes,Frequent
+High School,Technology,Private,2024,Yes,Average,No,None,No,Occasional
+None,Humanities,Vocational,2023,No,Excellent,Yes,Completed Post-graduate,Yes,Occasional
+Master's Degree,Arts,Private,2013,Yes,Average,Yes,None,Yes,Occasional
+Master's Degree,Arts,Vocational,2009,Yes,Average,No,Pursuing Post-graduate,Yes,Occasional
+Associate Degree,Engineering,Online,2023,No,Average,No,Completed Post-graduate,No,Frequent
+Bachelor's Degree,Health Sciences,Online,2013,Yes,Below Average,No,Completed Post-graduate,Yes,Occasional
+Master's Degree,Engineering,Private,2002,Yes,Good,Yes,None,Yes,Rare
+High School,Other,Online,2009,No,Below Average,No,None,Yes,Frequent
+Associate Degree,Social Sciences,Vocational,2012,No,Good,No,Completed Post-graduate,Yes,Occasional
+Associate Degree,Social Sciences,Vocational,2014,No,Good,No,None,No,Rare
+Associate Degree,Business,Online,2005,No,Not Applicable,No,Completed Post-graduate,No,Rare
+Doctorate,Other,Vocational,2017,Yes,Average,No,None,Yes,Frequent
+Doctorate,Other,Vocational,2008,No,Good,No,Pursuing Post-graduate,No,Occasional
+Master's Degree,Humanities,Vocational,2024,No,Average,No,None,Yes,Frequent
+Doctorate,Business,Private,2020,No,Average,No,Pursuing Post-graduate,Yes,Frequent
+Associate Degree,Business,Private,2003,No,Good,No,None,No,Occasional
+Doctorate,Health Sciences,Vocational,2016,No,Excellent,Yes,None,Yes,None
+Bachelor's Degree,Business,Vocational,2019,No,Not Applicable,Yes,None,Yes,Frequent
+Master's Degree,Arts,Public,2013,No,Not Applicable,Yes,Completed Post-graduate,No,Frequent
+Master's Degree,Health Sciences,Public,2013,Yes,Average,No,Completed Post-graduate,Yes,Occasional
+Doctorate,Social Sciences,Vocational,2002,No,Not Applicable,No,Pursuing Post-graduate,No,Occasional
+Master's Degree,Humanities,Vocational,2016,Yes,Below Average,No,None,No,Occasional
+Master's Degree,Humanities,Public,2017,No,Not Applicable,Yes,Completed Post-graduate,No,Occasional
+None,Business,Vocational,2008,Yes,Good,Yes,None,No,Frequent
+Doctorate,Engineering,Online,2010,Yes,Good,No,Completed Post-graduate,Yes,Rare
+High School,Health Sciences,Vocational,2013,Yes,Good,Yes,Pursuing Post-graduate,No,Frequent
+Doctorate,Business,Public,2022,Yes,Excellent,Yes,Completed Post-graduate,Yes,Frequent
+None,Humanities,Online,2011,No,Not Applicable,Yes,None,Yes,Occasional
+Bachelor's Degree,Humanities,Vocational,2013,Yes,Excellent,No,Completed Post-graduate,Yes,None
+Associate Degree,Social Sciences,Private,2008,No,Average,No,Completed Post-graduate,Yes,Occasional
+Doctorate,Technology,Private,2002,Yes,Good,Yes,Completed Post-graduate,No,Frequent
+None,Humanities,Private,2006,No,Good,No,Completed Post-graduate,No,Rare
+Doctorate,Technology,Vocational,2007,Yes,Good,Yes,None,Yes,Frequent
+High School,Health Sciences,Vocational,2002,No,Average,Yes,Completed Post-graduate,No,Frequent
+None,Other,Public,2006,Yes,Excellent,No,Pursuing Post-graduate,No,Rare
+Doctorate,Humanities,Online,2012,No,Average,Yes,Completed Post-graduate,No,Rare
+High School,Social Sciences,Online,2015,No,Excellent,Yes,Completed Post-graduate,No,Frequent
+High School,Social Sciences,Vocational,2019,No,Below Average,No,None,No,Rare
+High School,Other,Public,2000,Yes,Below Average,Yes,None,Yes,Rare
+Associate Degree,Humanities,Online,2021,No,Excellent,No,Pursuing Post-graduate,Yes,Occasional
+High School,Humanities,Private,2009,Yes,Good,Yes,Pursuing Post-graduate,No,Occasional
+High School,Engineering,Private,2016,No,Good,No,Pursuing Post-graduate,Yes,Rare
+None,Other,Vocational,2002,No,Below Average,No,Pursuing Post-graduate,Yes,Rare
+Associate Degree,Business,Private,2007,No,Average,Yes,None,No,Frequent
+High School,Social Sciences,Vocational,2015,No,Excellent,Yes,Pursuing Post-graduate,No,None
+Bachelor's Degree,Technology,Vocational,2006,No,Excellent,Yes,None,Yes,Rare
+High School,Social Sciences,Vocational,2017,Yes,Below Average,No,Completed Post-graduate,Yes,Rare
+Associate Degree,Humanities,Public,2025,No,Not Applicable,Yes,None,No,Occasional
+None,Other,Public,2015,No,Not Applicable,No,None,Yes,Rare
+None,Health Sciences,Vocational,2014,No,Average,No,Completed Post-graduate,No,Occasional
+None,Health Sciences,Online,2001,No,Below Average,No,Pursuing Post-graduate,Yes,Occasional
+Associate Degree,Engineering,Private,2025,Yes,Excellent,Yes,None,No,Occasional
+None,Social Sciences,Private,2003,No,Excellent,No,Pursuing Post-graduate,Yes,Rare
+None,Social Sciences,Public,2018,No,Average,No,Pursuing Post-graduate,No,None
+None,Social Sciences,Private,2001,Yes,Average,Yes,Pursuing Post-graduate,Yes,None
+Associate Degree,Technology,Private,2008,No,Good,Yes,Completed Post-graduate,No,None
+Associate Degree,Humanities,Public,2006,No,Average,Yes,None,Yes,Rare
+Associate Degree,Arts,Public,2025,Yes,Good,No,Completed Post-graduate,Yes,Rare
+Master's Degree,Humanities,Online,2021,No,Good,No,Completed Post-graduate,Yes,Frequent
+Associate Degree,Social Sciences,Online,2025,Yes,Average,Yes,Completed Post-graduate,No,None
+Master's Degree,Humanities,Private,2001,Yes,Not Applicable,Yes,None,Yes,None
+Doctorate,Health Sciences,Online,2012,No,Average,No,Completed Post-graduate,Yes,Occasional
+Master's Degree,Other,Vocational,2022,Yes,Excellent,Yes,Pursuing Post-graduate,Yes,Occasional
+Master's Degree,Health Sciences,Private,2016,No,Average,Yes,None,No,Occasional
+High School,Social Sciences,Private,2001,Yes,Below Average,No,Pursuing Post-graduate,Yes,None
+High School,Health Sciences,Private,2004,Yes,Below Average,No,None,Yes,Rare
+Master's Degree,Technology,Vocational,2024,No,Average,Yes,Completed Post-graduate,No,Frequent
+Doctorate,Humanities,Vocational,2019,No,Average,No,Pursuing Post-graduate,Yes,Frequent
+None,Technology,Vocational,2025,No,Average,Yes,Pursuing Post-graduate,No,Rare
+High School,Humanities,Public,2018,Yes,Not Applicable,No,None,Yes,None
+None,Business,Public,2009,No,Not Applicable,No,None,No,Occasional
+Master's Degree,Health Sciences,Vocational,2002,No,Average,Yes,Pursuing Post-graduate,Yes,None
+High School,Other,Online,2002,Yes,Below Average,Yes,Completed Post-graduate,Yes,None
+Associate Degree,Social Sciences,Public,2002,Yes,Below Average,No,None,No,Occasional
+Bachelor's Degree,Health Sciences,Public,2025,No,Excellent,No,Pursuing Post-graduate,No,Frequent
+Master's Degree,Other,Public,2004,No,Good,No,None,No,Frequent
+Master's Degree,Health Sciences,Public,2002,Yes,Excellent,Yes,None,Yes,Occasional
+Bachelor's Degree,Humanities,Online,2024,Yes,Average,Yes,Pursuing Post-graduate,Yes,Rare
+High School,Arts,Vocational,2021,No,Not Applicable,No,None,Yes,Occasional
+Master's Degree,Humanities,Public,2009,No,Good,No,Completed Post-graduate,Yes,None
+Bachelor's Degree,Other,Public,2024,No,Below Average,No,Pursuing Post-graduate,No,Frequent
+Associate Degree,Engineering,Vocational,2023,No,Good,Yes,None,Yes,Frequent
+Master's Degree,Social Sciences,Public,2023,No,Average,Yes,None,No,Occasional
+Associate Degree,Business,Online,2006,No,Good,No,Completed Post-graduate,No,None
+Doctorate,Business,Private,2012,Yes,Good,Yes,Completed Post-graduate,No,Rare
+None,Engineering,Public,2003,No,Good,No,Completed Post-graduate,No,Rare
+None,Engineering,Private,2015,No,Good,No,None,Yes,Occasional
+Bachelor's Degree,Humanities,Online,2006,Yes,Not Applicable,No,None,Yes,Frequent
+Doctorate,Health Sciences,Public,2009,Yes,Below Average,Yes,None,Yes,Frequent
+Bachelor's Degree,Health Sciences,Private,2006,Yes,Average,No,None,No,Frequent
+Doctorate,Other,Online,2021,No,Below Average,Yes,Pursuing Post-graduate,No,Occasional
+Master's Degree,Other,Vocational,2018,No,Below Average,Yes,Completed Post-graduate,No,Rare
+Master's Degree,Technology,Public,2004,No,Excellent,No,Pursuing Post-graduate,Yes,Rare
+None,Technology,Public,2008,No,Average,Yes,None,No,None
+None,Arts,Vocational,2025,Yes,Below Average,Yes,Completed Post-graduate,Yes,Rare
+Associate Degree,Health Sciences,Vocational,2018,No,Below Average,No,Completed Post-graduate,Yes,None
+Master's Degree,Arts,Private,2011,No,Good,No,None,No,Frequent
+Bachelor's Degree,Health Sciences,Vocational,2014,Yes,Not Applicable,Yes,Completed Post-graduate,Yes,Rare
+Doctorate,Arts,Vocational,2013,Yes,Excellent,Yes,None,No,None
+None,Social Sciences,Private,2004,Yes,Not Applicable,Yes,Completed Post-graduate,No,Rare
+Master's Degree,Humanities,Public,2015,Yes,Average,Yes,Completed Post-graduate,Yes,Frequent
+Associate Degree,Other,Online,2012,No,Excellent,No,None,Yes,Rare
+Doctorate,Humanities,Private,2022,No,Average,Yes,Pursuing Post-graduate,No,None
+High School,Arts,Vocational,2005,Yes,Good,No,Pursuing Post-graduate,Yes,Rare
+None,Humanities,Vocational,2008,Yes,Below Average,Yes,None,No,Frequent
+Bachelor's Degree,Humanities,Vocational,2014,No,Average,No,None,Yes,None
+Doctorate,Other,Public,2010,Yes,Excellent,Yes,Completed Post-graduate,Yes,Occasional
+Associate Degree,Technology,Private,2014,No,Good,No,None,Yes,Rare
+Associate Degree,Technology,Vocational,2017,Yes,Excellent,Yes,Completed Post-graduate,No,None
+Associate Degree,Humanities,Online,2011,No,Average,Yes,None,No,None
+Doctorate,Humanities,Online,2019,No,Not Applicable,Yes,None,Yes,Frequent
+Associate Degree,Other,Vocational,2007,Yes,Good,No,None,Yes,Frequent
+Associate Degree,Other,Vocational,2011,Yes,Good,Yes,None,Yes,Frequent
+None,Social Sciences,Online,2017,Yes,Excellent,Yes,Completed Post-graduate,No,None
+None,Technology,Public,2010,Yes,Below Average,Yes,Completed Post-graduate,Yes,Frequent
+Master's Degree,Social Sciences,Public,2020,Yes,Excellent,No,Pursuing Post-graduate,Yes,None
+None,Social Sciences,Public,2002,Yes,Average,No,None,Yes,Rare
+None,Business,Private,2010,Yes,Below Average,No,Pursuing Post-graduate,No,Rare
+None,Arts,Vocational,2014,Yes,Excellent,Yes,Pursuing Post-graduate,Yes,Frequent
+Associate Degree,Social Sciences,Vocational,2004,No,Excellent,No,None,No,Frequent
+Master's Degree,Technology,Online,2009,No,Below Average,Yes,None,Yes,Rare
+None,Other,Public,2012,No,Good,No,Pursuing Post-graduate,Yes,Rare
+Bachelor's Degree,Health Sciences,Public,2014,Yes,Good,Yes,Pursuing Post-graduate,Yes,Occasional
+Bachelor's Degree,Humanities,Public,2013,Yes,Average,No,Pursuing Post-graduate,No,Frequent
+Doctorate,Technology,Vocational,2005,No,Not Applicable,Yes,None,Yes,Occasional
+High School,Social Sciences,Vocational,2009,No,Not Applicable,No,None,Yes,None
+None,Business,Private,2017,No,Good,No,Pursuing Post-graduate,No,None
+Associate Degree,Technology,Vocational,2001,No,Not Applicable,No,Pursuing Post-graduate,No,Frequent
+High School,Social Sciences,Public,2016,No,Not Applicable,No,Completed Post-graduate,Yes,None
+None,Humanities,Vocational,2017,Yes,Good,Yes,Completed Post-graduate,No,Rare
+None,Business,Vocational,2022,Yes,Not Applicable,No,Completed Post-graduate,Yes,Rare
+None,Engineering,Online,2014,Yes,Average,Yes,None,No,Frequent
+None,Health Sciences,Vocational,2011,No,Not Applicable,No,Completed Post-graduate,No,None
+Bachelor's Degree,Social Sciences,Public,2016,No,Excellent,Yes,Completed Post-graduate,Yes,Rare
+None,Health Sciences,Private,2025,Yes,Not Applicable,No,Pursuing Post-graduate,No,None
+Associate Degree,Arts,Vocational,2001,Yes,Excellent,Yes,Completed Post-graduate,No,Rare
+Bachelor's Degree,Health Sciences,Public,2025,Yes,Not Applicable,Yes,None,Yes,None
+Bachelor's Degree,Other,Public,2009,No,Excellent,Yes,Completed Post-graduate,No,Frequent
+None,Health Sciences,Vocational,2014,Yes,Not Applicable,Yes,Completed Post-graduate,Yes,Frequent
+Bachelor's Degree,Health Sciences,Public,2003,No,Average,No,Pursuing Post-graduate,No,Rare
+Bachelor's Degree,Technology,Public,2015,No,Excellent,No,Pursuing Post-graduate,No,Frequent
+None,Humanities,Public,2000,Yes,Average,Yes,None,No,Frequent
+High School,Business,Public,2001,No,Not Applicable,No,Completed Post-graduate,No,Occasional
+High School,Health Sciences,Private,2019,No,Below Average,Yes,Completed Post-graduate,Yes,Occasional
+Master's Degree,Business,Vocational,2007,No,Below Average,No,Pursuing Post-graduate,No,Frequent
+Associate Degree,Social Sciences,Private,2024,Yes,Excellent,No,None,No,Frequent
+Master's Degree,Health Sciences,Vocational,2025,No,Below Average,No,Completed Post-graduate,No,Occasional
+Doctorate,Social Sciences,Public,2019,No,Excellent,No,None,Yes,Rare
+None,Arts,Vocational,2023,No,Not Applicable,No,Pursuing Post-graduate,Yes,Rare
+Associate Degree,Engineering,Online,2002,No,Average,Yes,Pursuing Post-graduate,No,None
+Master's Degree,Arts,Public,2025,No,Not Applicable,Yes,Completed Post-graduate,Yes,Frequent
+Master's Degree,Engineering,Public,2020,No,Not Applicable,Yes,Pursuing Post-graduate,Yes,Occasional
+Bachelor's Degree,Health Sciences,Vocational,2020,No,Excellent,No,Pursuing Post-graduate,Yes,None
+Master's Degree,Social Sciences,Private,2013,No,Good,No,Completed Post-graduate,Yes,Rare
+High School,Humanities,Private,2021,No,Good,Yes,Completed Post-graduate,No,Frequent
+Bachelor's Degree,Technology,Private,2003,Yes,Below Average,Yes,Pursuing Post-graduate,Yes,Frequent
+Bachelor's Degree,Other,Online,2012,No,Average,Yes,Completed Post-graduate,Yes,Occasional
+Associate Degree,Arts,Online,2021,Yes,Below Average,Yes,Pursuing Post-graduate,Yes,Frequent
+None,Health Sciences,Online,2010,Yes,Excellent,Yes,None,No,Occasional
+Associate Degree,Business,Online,2011,No,Good,No,Completed Post-graduate,Yes,Frequent
+Associate Degree,Social Sciences,Private,2023,No,Excellent,Yes,Completed Post-graduate,No,None
+Master's Degree,Health Sciences,Online,2011,Yes,Below Average,Yes,Completed Post-graduate,Yes,Occasional
+Doctorate,Engineering,Private,2005,Yes,Below Average,No,Pursuing Post-graduate,No,Rare
+High School,Health Sciences,Private,2020,No,Average,No,Completed Post-graduate,Yes,Rare
+Doctorate,Health Sciences,Public,2025,Yes,Below Average,Yes,Completed Post-graduate,No,None
+High School,Business,Online,2020,No,Excellent,No,None,Yes,Rare
+None,Arts,Private,2015,Yes,Below Average,Yes,Pursuing Post-graduate,No,Frequent
+Associate Degree,Social Sciences,Private,2017,Yes,Not Applicable,No,None,Yes,None
+Doctorate,Social Sciences,Online,2006,No,Good,Yes,Completed Post-graduate,Yes,Occasional
+High School,Other,Vocational,2001,Yes,Average,Yes,Pursuing Post-graduate,Yes,Rare
+Master's Degree,Health Sciences,Online,2016,No,Excellent,No,Completed Post-graduate,Yes,Rare
+Doctorate,Business,Public,2003,Yes,Not Applicable,Yes,None,Yes,Rare
+High School,Social Sciences,Online,2012,No,Average,Yes,None,No,Frequent
+Associate Degree,Humanities,Private,2002,Yes,Average,No,None,Yes,Rare
+Associate Degree,Business,Public,2008,Yes,Good,Yes,Pursuing Post-graduate,No,Frequent
+Doctorate,Health Sciences,Public,2002,No,Excellent,Yes,Pursuing Post-graduate,Yes,None

@@ -1,0 +1,501 @@
+credit_score,spending_patterns,savings_account_usage,investment_portfolios,loan_information,mortgage_details,credit_card_usage,insurance_policies,financial_goals,emergency_fund_status,financial_planning_services,budget_adherence,debt_management_practices,tax_planning_strategies,charitable_contributions
+Good,Moderate,Occasional,Bonds,No,No,High,Health,Buying a House,Insufficient,No,Poor,Moderate,Yes,Frequent
+Good,Low,Occasional,Cryptocurrency,Yes,No,High,Car,None,Adequate,No,Good,Moderate,Yes,None
+Poor,Moderate,Occasional,Stocks,Yes,Yes,Low,Car,Travel,Insufficient,No,Good,None,No,Occasional
+Good,High,Occasional,None,No,Yes,High,Home,Travel,Adequate,No,Excellent,Moderate,Yes,None
+Excellent,Moderate,None,Real Estate,Yes,No,Low,Car,None,Adequate,No,Fair,Moderate,Yes,Occasional
+Poor,Low,Frequent,None,No,No,High,Home,Retirement,Insufficient,No,Poor,Aggressive,Yes,Frequent
+Fair,High,Occasional,None,No,Yes,Low,Life,Buying a House,None,Yes,Excellent,Moderate,No,Frequent
+Fair,High,None,None,No,No,High,Life,Travel,Adequate,No,Excellent,Aggressive,Yes,Frequent
+Excellent,Moderate,Frequent,Bonds,No,No,Moderate,Life,Education,Insufficient,Yes,Excellent,Conservative,No,None
+Excellent,Moderate,None,Real Estate,Yes,No,Moderate,None,None,Adequate,Yes,Good,None,No,Occasional
+Excellent,Low,None,Real Estate,Yes,No,High,None,Education,None,No,Fair,Conservative,Yes,Occasional
+Poor,Low,Frequent,Stocks,Yes,Yes,High,None,Retirement,Insufficient,No,Poor,Aggressive,No,Frequent
+Poor,Low,None,None,Yes,No,Moderate,Home,Travel,None,Yes,Good,Moderate,Yes,Frequent
+Excellent,Low,Occasional,Real Estate,No,No,Low,Health,Education,Adequate,No,Poor,None,No,Occasional
+Fair,High,Occasional,Cryptocurrency,Yes,Yes,Low,Health,None,Adequate,Yes,Good,Conservative,Yes,None
+Poor,Low,Occasional,Real Estate,No,Yes,High,Life,Travel,Adequate,Yes,Fair,None,No,Frequent
+Good,Moderate,None,Real Estate,Yes,Yes,High,Health,Education,None,Yes,Good,Moderate,Yes,None
+Excellent,High,Occasional,Real Estate,No,Yes,Low,None,Retirement,Insufficient,No,Good,Conservative,No,Frequent
+Good,Low,Frequent,Stocks,No,Yes,Moderate,None,Education,Adequate,Yes,Poor,Aggressive,Yes,Occasional
+Excellent,Low,Frequent,Stocks,No,No,Moderate,Life,Travel,Insufficient,No,Fair,Moderate,No,None
+Good,Low,None,Stocks,Yes,Yes,Moderate,Car,Buying a House,Insufficient,Yes,Poor,None,No,Frequent
+Excellent,High,Frequent,Real Estate,Yes,Yes,Moderate,None,None,Insufficient,No,Fair,Conservative,Yes,None
+Fair,High,Occasional,None,No,No,High,Health,Retirement,Insufficient,No,Excellent,None,Yes,Occasional
+Fair,Low,Occasional,Stocks,No,Yes,High,None,Education,Adequate,No,Good,Aggressive,No,Frequent
+Good,High,Occasional,Stocks,Yes,No,Low,Health,None,Adequate,No,Poor,Conservative,No,Occasional
+Excellent,Low,Frequent,Bonds,Yes,Yes,Moderate,Home,Education,Adequate,No,Poor,Aggressive,Yes,Frequent
+Good,Moderate,Frequent,Real Estate,Yes,No,High,Life,None,None,No,Excellent,None,Yes,None
+Excellent,High,None,Real Estate,No,Yes,High,Health,Buying a House,Insufficient,Yes,Poor,Aggressive,No,None
+Excellent,High,Frequent,Real Estate,Yes,Yes,Low,Home,None,Adequate,Yes,Fair,Conservative,Yes,Frequent
+Excellent,Low,Occasional,Cryptocurrency,Yes,Yes,Moderate,Health,None,Adequate,Yes,Poor,Moderate,No,Occasional
+Good,Low,None,None,No,Yes,Low,None,Education,Adequate,Yes,Excellent,None,Yes,None
+Fair,Low,Frequent,Real Estate,No,Yes,Moderate,Car,Retirement,Insufficient,Yes,Excellent,Conservative,No,None
+Excellent,High,Frequent,None,Yes,Yes,High,Life,None,Adequate,No,Fair,Aggressive,No,Occasional
+Fair,Low,None,Stocks,No,Yes,Moderate,None,Buying a House,Adequate,Yes,Poor,Conservative,No,Occasional
+Fair,Moderate,Frequent,Stocks,Yes,No,Low,None,None,Adequate,No,Poor,Moderate,No,Occasional
+Good,Low,Occasional,Cryptocurrency,Yes,No,High,Home,None,Insufficient,No,Good,Aggressive,No,None
+Good,Moderate,None,Real Estate,No,No,Low,Life,Buying a House,Insufficient,No,Excellent,Aggressive,No,None
+Fair,Low,Frequent,Stocks,No,No,Low,Life,Buying a House,None,Yes,Excellent,Conservative,No,Frequent
+Good,Low,None,Real Estate,No,No,Low,Life,Education,None,No,Excellent,Conservative,No,None
+Fair,Low,Occasional,None,No,Yes,Low,Car,Retirement,Insufficient,No,Good,Moderate,No,None
+Good,Moderate,None,Cryptocurrency,No,No,Low,Car,None,Adequate,No,Good,Moderate,No,Occasional
+Good,High,Frequent,Stocks,No,Yes,Low,Car,Buying a House,Insufficient,Yes,Fair,Aggressive,Yes,None
+Good,Moderate,Frequent,Bonds,No,No,Low,Home,Education,None,Yes,Poor,Moderate,Yes,None
+Excellent,Moderate,Occasional,Real Estate,Yes,No,Low,None,Travel,None,Yes,Excellent,Moderate,No,Occasional
+Fair,Moderate,Frequent,Stocks,No,Yes,Moderate,Life,Travel,Adequate,No,Good,Conservative,No,None
+Excellent,Low,None,Stocks,No,No,Low,Home,Buying a House,Adequate,Yes,Good,Conservative,No,Occasional
+Fair,Low,Frequent,Stocks,No,No,Moderate,None,Retirement,None,No,Good,Aggressive,No,Frequent
+Poor,Moderate,Frequent,Real Estate,No,Yes,Moderate,Life,Buying a House,None,Yes,Excellent,Moderate,No,Frequent
+Fair,High,Occasional,Real Estate,Yes,Yes,High,None,Buying a House,Insufficient,No,Excellent,None,Yes,Occasional
+Poor,High,Occasional,Cryptocurrency,Yes,No,Low,Car,Travel,None,Yes,Good,Aggressive,No,Frequent
+Fair,Moderate,None,Cryptocurrency,Yes,Yes,Moderate,Life,Travel,Adequate,Yes,Excellent,Moderate,No,Occasional
+Excellent,Moderate,Frequent,Cryptocurrency,Yes,No,Low,Health,None,Insufficient,No,Fair,None,No,Frequent
+Fair,Moderate,None,None,No,No,Moderate,Home,Education,Insufficient,No,Good,Moderate,No,Occasional
+Excellent,Low,Occasional,Cryptocurrency,Yes,No,Low,Health,Education,Insufficient,Yes,Poor,Moderate,Yes,None
+Fair,High,Frequent,None,No,No,High,Health,Retirement,Adequate,Yes,Good,None,Yes,None
+Excellent,Moderate,Frequent,Stocks,Yes,No,Moderate,Life,Retirement,None,Yes,Excellent,Conservative,Yes,None
+Excellent,Low,Frequent,Bonds,No,Yes,Low,Health,Buying a House,Adequate,Yes,Poor,Moderate,Yes,Frequent
+Poor,Moderate,None,Stocks,Yes,No,Moderate,None,Travel,Adequate,No,Fair,Moderate,Yes,Frequent
+Fair,Low,Occasional,Cryptocurrency,Yes,Yes,High,None,Education,None,No,Good,Conservative,No,Frequent
+Poor,High,Frequent,Cryptocurrency,No,No,Low,Health,Education,None,No,Excellent,Moderate,Yes,Occasional
+Fair,High,Frequent,Bonds,Yes,Yes,Low,Health,Buying a House,Insufficient,No,Fair,Moderate,Yes,Occasional
+Good,High,Occasional,Cryptocurrency,No,No,Moderate,None,Travel,None,Yes,Fair,Aggressive,No,None
+Good,Moderate,Occasional,Cryptocurrency,Yes,No,Low,Home,Buying a House,Insufficient,Yes,Fair,Moderate,No,Occasional
+Excellent,Moderate,Occasional,Real Estate,Yes,Yes,Moderate,None,None,Insufficient,Yes,Good,Conservative,Yes,Frequent
+Fair,High,Frequent,Bonds,No,No,Low,None,Education,Insufficient,Yes,Fair,Moderate,No,Frequent
+Excellent,High,Occasional,Bonds,Yes,Yes,Low,None,Buying a House,Insufficient,Yes,Poor,None,Yes,None
+Good,Low,Frequent,Bonds,Yes,No,Moderate,Health,Buying a House,Insufficient,Yes,Fair,Conservative,No,Occasional
+Good,Low,None,Cryptocurrency,Yes,Yes,Moderate,Life,Education,Adequate,No,Poor,Aggressive,No,Frequent
+Fair,Low,None,Cryptocurrency,Yes,No,High,Life,Education,Adequate,Yes,Good,Conservative,No,Frequent
+Excellent,Moderate,None,Stocks,Yes,Yes,Moderate,Life,Retirement,None,No,Fair,Aggressive,Yes,Occasional
+Fair,High,None,Bonds,Yes,Yes,Low,Health,Retirement,None,Yes,Poor,None,Yes,Frequent
+Good,Low,None,Stocks,Yes,Yes,Low,Health,Buying a House,Adequate,No,Poor,Conservative,No,Occasional
+Fair,High,None,Cryptocurrency,No,Yes,Low,Home,Retirement,None,Yes,Good,Conservative,No,Occasional
+Excellent,High,None,Bonds,Yes,Yes,Low,None,Education,None,No,Poor,Moderate,No,None
+Excellent,High,Frequent,None,Yes,Yes,High,Health,Travel,Insufficient,Yes,Fair,Moderate,No,Frequent
+Good,Low,Occasional,None,No,No,Moderate,None,Retirement,Insufficient,No,Poor,Aggressive,Yes,Frequent
+Poor,Low,Frequent,Stocks,Yes,Yes,Moderate,Life,Education,Adequate,No,Fair,Moderate,No,Occasional
+Excellent,High,Frequent,Cryptocurrency,No,No,Moderate,Home,Buying a House,Insufficient,No,Excellent,Aggressive,Yes,Frequent
+Excellent,Low,None,Stocks,No,Yes,Moderate,Home,Buying a House,Adequate,No,Fair,None,No,Frequent
+Poor,Moderate,None,Stocks,Yes,No,High,Health,Retirement,None,No,Excellent,Aggressive,No,None
+Good,Low,Occasional,Cryptocurrency,No,No,High,Health,None,Adequate,No,Good,Conservative,Yes,Occasional
+Fair,Moderate,Frequent,Cryptocurrency,No,No,Low,None,Retirement,Insufficient,No,Good,Aggressive,No,Occasional
+Good,Moderate,Occasional,Real Estate,Yes,Yes,Moderate,Home,Travel,Insufficient,No,Fair,Aggressive,No,Frequent
+Good,Moderate,Frequent,Stocks,Yes,No,High,Life,Education,Adequate,Yes,Excellent,Moderate,Yes,Frequent
+Poor,Low,Frequent,None,Yes,No,Low,Health,Travel,Insufficient,Yes,Good,Moderate,Yes,Occasional
+Good,High,None,Bonds,No,Yes,Low,Life,Travel,Insufficient,Yes,Poor,None,Yes,Occasional
+Excellent,Low,Frequent,Real Estate,Yes,No,Moderate,Health,Retirement,Insufficient,No,Excellent,Conservative,No,Occasional
+Good,Low,Occasional,Bonds,No,Yes,High,None,Education,Adequate,No,Good,Conservative,Yes,Occasional
+Poor,Moderate,Occasional,Bonds,Yes,No,Moderate,None,Buying a House,Adequate,No,Fair,Aggressive,No,Occasional
+Poor,Moderate,None,Real Estate,No,Yes,High,Life,Education,None,Yes,Good,Aggressive,Yes,Frequent
+Fair,Low,None,Real Estate,No,No,Moderate,Car,Retirement,Adequate,Yes,Excellent,None,No,Frequent
+Fair,Low,None,Stocks,Yes,No,High,Home,None,Insufficient,Yes,Excellent,None,No,Frequent
+Excellent,High,Frequent,Cryptocurrency,Yes,Yes,High,Health,Travel,Insufficient,No,Fair,None,Yes,Occasional
+Excellent,Low,None,Cryptocurrency,No,No,Moderate,Home,Buying a House,None,Yes,Poor,Moderate,Yes,Frequent
+Fair,Low,Occasional,Real Estate,Yes,No,Low,Car,Buying a House,Insufficient,Yes,Fair,Conservative,Yes,Occasional
+Good,Low,None,Real Estate,No,Yes,Low,Health,Buying a House,Adequate,Yes,Poor,None,No,Frequent
+Good,Low,Occasional,None,No,Yes,Low,Health,None,None,Yes,Excellent,Moderate,No,Frequent
+Poor,High,None,Stocks,No,Yes,Low,Health,Travel,None,No,Poor,Conservative,Yes,None
+Fair,Low,Frequent,None,Yes,No,Moderate,Health,Education,None,No,Excellent,None,Yes,None
+Poor,High,Frequent,Stocks,No,No,High,Home,Retirement,Insufficient,No,Poor,Aggressive,No,None
+Poor,Low,Occasional,Bonds,No,Yes,High,Life,Education,Adequate,No,Excellent,Moderate,No,Occasional
+Fair,High,Occasional,Bonds,No,No,High,None,None,None,No,Fair,Aggressive,Yes,None
+Fair,High,None,Bonds,No,Yes,High,Car,Education,Insufficient,Yes,Poor,Moderate,Yes,Occasional
+Fair,Moderate,Frequent,Real Estate,No,No,High,Home,None,Insufficient,Yes,Fair,None,No,Occasional
+Fair,Moderate,Frequent,Bonds,Yes,Yes,Moderate,Home,Travel,None,Yes,Fair,None,Yes,Occasional
+Fair,High,None,Cryptocurrency,Yes,No,Moderate,Car,None,Insufficient,Yes,Excellent,None,Yes,Frequent
+Poor,Moderate,Occasional,Bonds,No,No,High,Home,None,Insufficient,No,Poor,None,Yes,Frequent
+Fair,Moderate,Frequent,None,No,No,High,Health,Retirement,None,Yes,Good,Aggressive,No,None
+Excellent,High,Occasional,Cryptocurrency,Yes,Yes,Moderate,Home,None,None,Yes,Fair,Aggressive,Yes,None
+Poor,High,Frequent,Stocks,No,No,High,Car,Buying a House,Adequate,Yes,Fair,Aggressive,No,Occasional
+Good,Low,None,None,Yes,Yes,High,Health,None,None,Yes,Good,None,No,Frequent
+Excellent,High,None,None,No,No,High,Car,Retirement,Insufficient,No,Fair,Conservative,Yes,Occasional
+Fair,Low,None,None,Yes,No,Moderate,Home,Travel,None,Yes,Fair,Conservative,Yes,None
+Poor,High,Frequent,Bonds,No,Yes,Moderate,Car,Education,None,Yes,Excellent,Aggressive,No,Occasional
+Excellent,Low,None,None,No,No,High,Car,Education,Adequate,No,Fair,Aggressive,No,Frequent
+Excellent,High,Occasional,Stocks,Yes,Yes,Low,Car,Buying a House,Insufficient,Yes,Fair,Aggressive,No,None
+Fair,Moderate,Occasional,Bonds,No,Yes,Moderate,None,Education,Adequate,No,Excellent,Aggressive,Yes,Frequent
+Fair,Low,None,Cryptocurrency,Yes,Yes,Low,Life,Retirement,None,Yes,Fair,Conservative,No,Occasional
+Excellent,Low,Frequent,Cryptocurrency,No,Yes,High,Car,Travel,Insufficient,No,Fair,Moderate,No,Occasional
+Good,High,Frequent,Cryptocurrency,Yes,No,Low,Life,Education,Insufficient,Yes,Excellent,Moderate,No,Frequent
+Fair,High,Frequent,Real Estate,No,No,High,Health,Retirement,None,No,Good,None,No,None
+Fair,High,Frequent,None,No,Yes,Low,Car,Education,Adequate,Yes,Poor,Aggressive,Yes,None
+Excellent,Low,Frequent,Cryptocurrency,Yes,No,Moderate,None,Retirement,None,Yes,Poor,Conservative,No,Frequent
+Excellent,Low,Frequent,Bonds,Yes,Yes,High,Car,Travel,Adequate,Yes,Excellent,None,Yes,Occasional
+Excellent,Low,None,Stocks,Yes,Yes,High,Home,Retirement,Adequate,No,Poor,None,No,None
+Poor,Moderate,Frequent,None,Yes,No,Low,Health,Travel,None,Yes,Good,None,Yes,Occasional
+Poor,Low,Frequent,Stocks,No,Yes,High,Health,Buying a House,None,No,Good,Conservative,No,Frequent
+Excellent,Low,None,None,Yes,No,Moderate,Car,Travel,None,No,Poor,None,Yes,None
+Good,High,Frequent,None,No,No,High,Car,Education,Adequate,No,Good,Aggressive,No,Occasional
+Good,Low,None,Stocks,Yes,Yes,Moderate,None,Retirement,None,No,Good,Conservative,Yes,None
+Good,High,Frequent,None,Yes,No,Low,None,Retirement,None,Yes,Poor,Conservative,Yes,None
+Good,Moderate,Occasional,Stocks,Yes,No,Low,Life,None,Adequate,No,Poor,None,No,None
+Excellent,Low,None,Real Estate,No,No,Low,Home,Travel,None,No,Fair,Moderate,No,Occasional
+Good,High,None,Stocks,Yes,Yes,High,Health,Retirement,Insufficient,No,Excellent,Conservative,No,Occasional
+Poor,Moderate,None,Stocks,Yes,Yes,Low,Home,Travel,None,No,Good,Conservative,Yes,Occasional
+Excellent,High,Occasional,Bonds,No,Yes,High,None,None,None,Yes,Excellent,Aggressive,Yes,Frequent
+Fair,Moderate,Frequent,Cryptocurrency,Yes,No,Low,Home,Education,None,Yes,Excellent,Aggressive,Yes,None
+Poor,High,Occasional,Bonds,Yes,No,Low,Health,None,Adequate,Yes,Poor,Aggressive,No,None
+Fair,Low,Frequent,Real Estate,No,Yes,High,Home,Buying a House,Adequate,No,Poor,Conservative,Yes,None
+Good,High,Frequent,Bonds,Yes,No,Moderate,Life,None,None,Yes,Good,Conservative,No,Occasional
+Good,High,None,Real Estate,No,Yes,Moderate,Life,Education,Adequate,No,Good,Conservative,Yes,None
+Poor,Moderate,Occasional,Cryptocurrency,No,Yes,Moderate,Health,Education,None,No,Fair,Moderate,No,None
+Poor,Low,Frequent,Stocks,Yes,Yes,Moderate,Life,Education,Insufficient,No,Fair,Aggressive,Yes,Occasional
+Poor,Low,None,Cryptocurrency,No,Yes,Moderate,Health,Buying a House,Adequate,No,Excellent,Conservative,Yes,Occasional
+Poor,Low,None,Stocks,No,No,High,Life,None,None,No,Fair,Moderate,Yes,Frequent
+Good,Low,None,None,Yes,No,Moderate,Health,Retirement,Insufficient,No,Poor,None,No,Frequent
+Poor,Moderate,Occasional,Real Estate,Yes,Yes,Low,Home,None,Insufficient,Yes,Good,Moderate,Yes,Occasional
+Good,High,Frequent,Cryptocurrency,Yes,Yes,Low,Health,Travel,None,Yes,Fair,None,Yes,Frequent
+Fair,Moderate,Frequent,Stocks,No,Yes,High,Home,Buying a House,Adequate,No,Poor,None,No,None
+Fair,High,None,Real Estate,No,Yes,High,Home,None,Insufficient,No,Good,Moderate,Yes,Occasional
+Excellent,Moderate,Frequent,Real Estate,No,Yes,High,Health,Retirement,Insufficient,Yes,Good,Conservative,Yes,None
+Excellent,High,None,None,No,Yes,High,Car,None,None,No,Good,Moderate,Yes,Frequent
+Poor,Low,Occasional,Bonds,Yes,No,Low,Car,None,None,Yes,Excellent,Moderate,Yes,None
+Excellent,Moderate,Frequent,Bonds,No,No,Low,Health,Travel,Adequate,Yes,Fair,Moderate,Yes,None
+Fair,High,Frequent,Cryptocurrency,No,Yes,High,Life,Education,Insufficient,No,Poor,Aggressive,No,Occasional
+Excellent,High,None,Cryptocurrency,No,Yes,Low,Health,Education,None,Yes,Excellent,Conservative,Yes,None
+Poor,Moderate,Occasional,Real Estate,Yes,No,Low,Car,Education,None,No,Good,Moderate,No,Frequent
+Excellent,High,Occasional,None,No,Yes,High,Home,Buying a House,None,Yes,Fair,None,No,Occasional
+Excellent,Low,None,Cryptocurrency,Yes,Yes,Moderate,Life,Retirement,None,No,Excellent,Conservative,No,Occasional
+Fair,High,None,Real Estate,Yes,No,Moderate,None,Retirement,None,No,Good,Aggressive,Yes,None
+Fair,Moderate,Frequent,Stocks,No,Yes,High,Home,Travel,None,No,Good,Aggressive,No,Occasional
+Excellent,Moderate,None,Stocks,Yes,Yes,Low,Life,None,Insufficient,Yes,Good,Moderate,No,Occasional
+Fair,Low,Occasional,None,Yes,No,High,Home,Travel,Adequate,Yes,Poor,None,Yes,None
+Poor,Moderate,Frequent,Stocks,Yes,Yes,High,Health,Buying a House,None,Yes,Fair,Aggressive,No,Frequent
+Poor,Low,None,Cryptocurrency,No,Yes,Moderate,Home,Travel,Adequate,No,Excellent,Conservative,Yes,Frequent
+Fair,Low,None,Cryptocurrency,Yes,No,High,Home,Travel,None,No,Good,Conservative,No,Occasional
+Excellent,High,None,Stocks,No,Yes,High,Life,Education,None,No,Fair,Moderate,No,None
+Good,Moderate,None,None,Yes,No,High,Life,Buying a House,None,Yes,Excellent,None,No,Frequent
+Fair,Moderate,Occasional,Real Estate,No,Yes,Moderate,Health,Education,Insufficient,No,Poor,Conservative,No,Occasional
+Good,High,Frequent,None,No,Yes,Low,Car,None,Insufficient,No,Poor,None,No,None
+Fair,Low,Occasional,Real Estate,Yes,No,High,Home,None,None,Yes,Fair,Moderate,Yes,Frequent
+Fair,Low,Frequent,Stocks,No,No,Moderate,Home,Buying a House,Insufficient,Yes,Fair,Aggressive,No,None
+Poor,High,Occasional,Bonds,Yes,No,Moderate,Home,Travel,Insufficient,Yes,Good,None,Yes,Occasional
+Poor,High,None,Stocks,Yes,Yes,Low,None,Retirement,Insufficient,No,Excellent,Conservative,No,Frequent
+Poor,Moderate,Frequent,None,Yes,No,High,Home,Buying a House,None,Yes,Poor,Moderate,No,Frequent
+Good,Low,Frequent,Cryptocurrency,No,Yes,Low,Car,Buying a House,Insufficient,Yes,Poor,None,Yes,Frequent
+Good,Low,Occasional,None,No,Yes,Low,Home,None,None,Yes,Poor,Aggressive,Yes,Frequent
+Excellent,Moderate,Occasional,Bonds,Yes,Yes,High,None,Travel,Adequate,No,Poor,Aggressive,Yes,Occasional
+Fair,Low,Occasional,Real Estate,No,Yes,Low,None,Retirement,Insufficient,No,Excellent,Moderate,No,Occasional
+Poor,Moderate,Occasional,Bonds,No,Yes,Low,None,Education,Insufficient,No,Poor,Moderate,No,Frequent
+Fair,Low,Frequent,None,No,Yes,Moderate,Life,Travel,None,No,Fair,Conservative,Yes,None
+Poor,High,Occasional,Stocks,Yes,Yes,Low,Car,None,None,No,Good,None,Yes,None
+Poor,Moderate,Frequent,Bonds,No,No,Moderate,Home,Retirement,None,No,Excellent,Aggressive,Yes,None
+Excellent,Low,Occasional,None,Yes,Yes,High,Home,Education,Adequate,Yes,Poor,Aggressive,Yes,Occasional
+Good,Low,Occasional,Bonds,Yes,No,Moderate,Health,Retirement,None,Yes,Fair,Conservative,No,Frequent
+Poor,High,None,None,No,Yes,Moderate,Car,None,Adequate,Yes,Good,Conservative,No,Frequent
+Excellent,High,None,Real Estate,Yes,Yes,Low,Home,Education,Insufficient,No,Excellent,Aggressive,Yes,Occasional
+Fair,Moderate,Frequent,Bonds,No,No,Moderate,Health,None,Adequate,No,Fair,Moderate,Yes,None
+Good,Moderate,None,None,Yes,No,Low,None,None,None,Yes,Good,Aggressive,No,None
+Excellent,High,Frequent,Cryptocurrency,Yes,Yes,High,Car,Education,Adequate,No,Good,Moderate,No,None
+Good,Low,Frequent,Real Estate,Yes,No,Moderate,Health,Retirement,Adequate,Yes,Good,Moderate,No,Frequent
+Poor,Moderate,None,Real Estate,Yes,Yes,Moderate,Home,Education,Insufficient,No,Fair,Conservative,No,Occasional
+Poor,Moderate,None,None,No,Yes,High,Car,Retirement,Insufficient,No,Good,None,No,None
+Good,Low,None,None,Yes,No,High,Life,Education,None,Yes,Fair,None,No,Occasional
+Good,Moderate,Occasional,None,No,No,High,Life,Education,Adequate,No,Excellent,Conservative,Yes,Occasional
+Poor,High,None,Cryptocurrency,Yes,No,Low,Health,Retirement,None,Yes,Good,Moderate,No,Frequent
+Excellent,High,Frequent,Bonds,No,Yes,High,Health,Retirement,Adequate,Yes,Good,Conservative,No,Frequent
+Good,Low,None,Stocks,No,No,Moderate,Life,None,None,No,Excellent,Aggressive,No,None
+Good,High,Occasional,Real Estate,No,No,Low,Health,Travel,Adequate,No,Good,Conservative,Yes,None
+Fair,Low,Occasional,Real Estate,Yes,Yes,Moderate,None,Retirement,Adequate,No,Excellent,Moderate,Yes,Occasional
+Poor,Moderate,Frequent,None,No,No,Low,Car,Education,None,No,Good,None,Yes,None
+Excellent,Low,Frequent,Real Estate,No,Yes,Moderate,Health,None,None,Yes,Fair,None,No,None
+Poor,Low,Frequent,Stocks,Yes,No,Low,Health,Education,None,Yes,Good,Moderate,No,Frequent
+Fair,Moderate,Frequent,None,Yes,Yes,Moderate,None,Buying a House,Adequate,No,Good,Moderate,No,Occasional
+Poor,High,Occasional,Bonds,Yes,Yes,Moderate,Life,Travel,None,Yes,Poor,Aggressive,Yes,Frequent
+Poor,Moderate,Frequent,Bonds,No,Yes,Moderate,None,Buying a House,None,No,Good,None,Yes,None
+Poor,Low,Occasional,Bonds,No,No,High,Life,Travel,Insufficient,No,Good,Moderate,No,Frequent
+Poor,High,Frequent,Real Estate,Yes,No,Moderate,Health,None,None,Yes,Good,Conservative,No,None
+Excellent,High,None,Stocks,No,Yes,High,Home,Retirement,Adequate,No,Poor,Aggressive,Yes,Occasional
+Good,Low,Frequent,Bonds,Yes,Yes,Low,Health,None,Insufficient,No,Poor,None,No,Occasional
+Excellent,High,None,Cryptocurrency,Yes,Yes,Moderate,Home,Retirement,None,Yes,Poor,Moderate,Yes,Frequent
+Fair,Low,None,Bonds,No,No,High,Car,None,Adequate,Yes,Good,Moderate,Yes,None
+Fair,Moderate,Occasional,Real Estate,Yes,Yes,Low,Car,Buying a House,Insufficient,No,Good,None,Yes,Occasional
+Good,High,Frequent,Cryptocurrency,No,No,Low,Car,Education,Adequate,No,Fair,Conservative,No,None
+Good,Moderate,Occasional,None,No,No,Low,Car,Education,None,Yes,Fair,Conservative,No,None
+Poor,High,None,Real Estate,No,Yes,Low,Car,Travel,Adequate,No,Poor,Conservative,Yes,Occasional
+Fair,Low,Occasional,Cryptocurrency,Yes,Yes,High,Health,None,Adequate,Yes,Good,Moderate,No,None
+Good,Low,None,Bonds,No,No,Low,Car,Buying a House,None,No,Fair,Conservative,Yes,None
+Fair,Moderate,Frequent,None,Yes,No,Low,None,None,Adequate,No,Excellent,None,No,None
+Good,Moderate,Occasional,None,Yes,Yes,High,Home,Retirement,None,No,Fair,Moderate,No,None
+Excellent,High,Occasional,Stocks,Yes,No,High,Life,None,Insufficient,Yes,Fair,Conservative,Yes,None
+Good,High,None,Stocks,No,Yes,Low,Car,Travel,Adequate,Yes,Poor,Moderate,No,Occasional
+Poor,Low,Occasional,Cryptocurrency,Yes,No,Moderate,Health,Education,Adequate,No,Excellent,Conservative,Yes,Frequent
+Excellent,Moderate,Occasional,Bonds,No,Yes,Low,None,None,Insufficient,Yes,Fair,None,Yes,Occasional
+Excellent,High,None,Bonds,No,No,Moderate,Car,Education,Adequate,No,Excellent,Conservative,No,Occasional
+Good,Moderate,Frequent,Stocks,No,No,Low,Life,Buying a House,Insufficient,Yes,Good,Moderate,No,Occasional
+Good,Low,Frequent,Cryptocurrency,No,No,Low,Home,Buying a House,None,No,Fair,Conservative,No,Occasional
+Fair,High,Frequent,Bonds,Yes,No,High,Home,Travel,Adequate,Yes,Excellent,None,No,Frequent
+Excellent,Moderate,None,Real Estate,Yes,Yes,High,Home,None,Adequate,No,Good,Aggressive,No,None
+Poor,High,None,Bonds,No,Yes,Moderate,Health,Travel,Adequate,No,Fair,None,Yes,Frequent
+Poor,Low,None,Stocks,Yes,No,Moderate,Life,None,Adequate,No,Poor,Moderate,No,None
+Poor,Moderate,None,None,Yes,No,High,None,Education,None,No,Poor,Conservative,No,None
+Excellent,Moderate,Frequent,Stocks,No,No,Low,Life,Retirement,None,No,Fair,Conservative,No,Occasional
+Excellent,High,Frequent,Cryptocurrency,Yes,No,Low,Car,Education,Adequate,No,Poor,None,No,Occasional
+Fair,High,Frequent,Bonds,Yes,Yes,Moderate,Health,None,Insufficient,Yes,Excellent,Moderate,No,Occasional
+Good,Low,Frequent,Bonds,Yes,Yes,Moderate,None,Education,Adequate,No,Good,Aggressive,No,None
+Fair,Low,Frequent,Cryptocurrency,No,Yes,Moderate,Car,None,None,No,Excellent,Moderate,No,None
+Fair,Low,None,Cryptocurrency,Yes,Yes,High,Health,Retirement,Adequate,No,Good,Moderate,No,None
+Fair,Low,Occasional,None,Yes,No,High,Health,None,None,No,Excellent,Moderate,Yes,Occasional
+Fair,High,None,None,No,Yes,Moderate,Car,Education,Insufficient,No,Poor,Aggressive,Yes,Frequent
+Poor,Moderate,None,Cryptocurrency,No,No,Low,Life,Education,Adequate,Yes,Good,Aggressive,No,Frequent
+Fair,Low,Frequent,None,No,Yes,High,Health,None,None,No,Poor,None,No,None
+Good,High,Frequent,Cryptocurrency,Yes,No,High,Car,Education,Adequate,No,Poor,Conservative,Yes,None
+Good,Low,Frequent,None,Yes,No,High,None,Buying a House,Insufficient,Yes,Poor,Moderate,Yes,Occasional
+Fair,High,Frequent,Stocks,No,Yes,Moderate,Home,None,None,No,Excellent,None,No,Occasional
+Fair,High,Occasional,Bonds,No,Yes,Moderate,Home,Travel,Insufficient,No,Excellent,None,Yes,Occasional
+Poor,Moderate,None,Bonds,No,Yes,High,Life,Travel,None,No,Good,Conservative,No,None
+Fair,Low,Occasional,Bonds,No,Yes,Moderate,Health,Buying a House,Adequate,No,Good,Moderate,Yes,None
+Excellent,High,Occasional,None,Yes,No,High,Life,None,None,No,Poor,Aggressive,Yes,None
+Good,Moderate,Occasional,Bonds,Yes,Yes,High,Health,Travel,Insufficient,Yes,Good,Moderate,Yes,Occasional
+Poor,High,Occasional,Real Estate,No,Yes,High,Life,Retirement,None,Yes,Fair,None,No,Frequent
+Poor,High,None,None,No,Yes,Moderate,Health,Buying a House,Adequate,Yes,Good,Moderate,No,Occasional
+Poor,Low,Occasional,Cryptocurrency,No,No,High,Life,Retirement,Insufficient,Yes,Good,Moderate,Yes,Occasional
+Excellent,Moderate,Occasional,Real Estate,No,Yes,Low,None,Travel,Insufficient,No,Excellent,Aggressive,Yes,None
+Poor,High,Frequent,Cryptocurrency,No,Yes,Low,Life,Retirement,None,Yes,Good,Aggressive,Yes,Frequent
+Excellent,Moderate,None,Bonds,No,Yes,Low,Home,Travel,Insufficient,No,Fair,Conservative,No,None
+Fair,Low,None,Cryptocurrency,Yes,Yes,High,Home,Travel,Adequate,No,Good,Moderate,No,None
+Good,Moderate,Occasional,Stocks,No,Yes,Moderate,Car,Buying a House,None,Yes,Poor,Moderate,Yes,None
+Good,Low,Frequent,Cryptocurrency,Yes,No,Low,Health,None,None,No,Excellent,None,Yes,Occasional
+Fair,High,Occasional,Bonds,No,No,Moderate,Health,Education,Insufficient,Yes,Poor,Aggressive,Yes,None
+Fair,Moderate,None,Bonds,No,Yes,High,Life,Retirement,Insufficient,No,Excellent,None,No,Occasional
+Good,Moderate,None,Stocks,No,Yes,High,Life,Buying a House,None,Yes,Excellent,Conservative,No,Frequent
+Poor,Moderate,Occasional,Real Estate,No,Yes,Moderate,None,Education,None,No,Good,Aggressive,No,Occasional
+Poor,High,Frequent,Stocks,No,No,Moderate,Life,Buying a House,Insufficient,No,Excellent,None,No,Occasional
+Fair,Low,None,Real Estate,Yes,No,Low,Home,Education,Insufficient,No,Fair,None,Yes,None
+Poor,Moderate,Frequent,Real Estate,Yes,Yes,Moderate,Home,Buying a House,None,No,Fair,Moderate,Yes,Occasional
+Fair,High,Frequent,Stocks,Yes,Yes,Moderate,Life,Travel,None,No,Good,Conservative,No,Occasional
+Fair,Low,None,Real Estate,Yes,No,Moderate,None,Travel,Insufficient,Yes,Excellent,None,No,Occasional
+Poor,High,None,Cryptocurrency,Yes,No,Moderate,Health,Education,Adequate,Yes,Poor,Moderate,No,Occasional
+Good,High,Occasional,None,Yes,No,High,Health,Education,None,Yes,Good,Conservative,No,None
+Poor,High,Occasional,Bonds,Yes,Yes,High,Home,None,Adequate,No,Good,Aggressive,Yes,Occasional
+Poor,Moderate,Frequent,Bonds,Yes,No,Moderate,Health,None,Insufficient,No,Poor,Moderate,No,Frequent
+Fair,High,Frequent,Stocks,Yes,No,High,None,Buying a House,Adequate,No,Fair,Conservative,No,Frequent
+Poor,Low,Occasional,None,No,Yes,Low,Home,Retirement,None,No,Poor,Moderate,Yes,Frequent
+Good,Moderate,Occasional,Real Estate,No,No,Moderate,Home,Travel,Insufficient,No,Good,None,Yes,Frequent
+Good,Low,Occasional,Cryptocurrency,No,No,High,None,Retirement,None,No,Excellent,Moderate,No,None
+Good,Low,None,None,Yes,Yes,Low,Life,Buying a House,Adequate,No,Fair,Conservative,Yes,None
+Fair,Moderate,None,Real Estate,No,No,Moderate,Home,None,Insufficient,No,Fair,None,No,Occasional
+Excellent,Moderate,Frequent,Real Estate,No,Yes,High,None,Travel,Insufficient,Yes,Poor,Moderate,Yes,None
+Good,Moderate,Frequent,Cryptocurrency,No,No,High,None,Travel,None,Yes,Excellent,None,Yes,None
+Fair,Low,Frequent,Bonds,Yes,Yes,Low,Home,Education,None,Yes,Poor,None,No,None
+Excellent,Moderate,Frequent,Real Estate,Yes,Yes,Low,Home,Travel,Insufficient,Yes,Poor,None,No,Frequent
+Excellent,Moderate,None,None,No,Yes,Moderate,Health,Buying a House,None,No,Excellent,None,No,None
+Poor,High,None,Real Estate,Yes,No,Low,None,Education,Insufficient,No,Poor,Conservative,No,Frequent
+Fair,Moderate,Frequent,Stocks,No,No,Moderate,Car,Retirement,None,No,Excellent,Conservative,Yes,Frequent
+Poor,High,None,Real Estate,No,No,Moderate,Health,Retirement,Insufficient,No,Fair,None,Yes,Frequent
+Good,High,Frequent,Cryptocurrency,Yes,No,Moderate,Car,None,None,Yes,Excellent,Conservative,No,None
+Fair,High,None,Cryptocurrency,Yes,Yes,Moderate,None,Travel,None,No,Poor,Aggressive,No,Frequent
+Poor,High,Occasional,Real Estate,No,Yes,Low,Health,Travel,Adequate,No,Fair,None,Yes,None
+Fair,Moderate,Occasional,Bonds,No,No,High,Health,Travel,Adequate,No,Excellent,Aggressive,No,None
+Good,Low,Frequent,Cryptocurrency,No,No,Low,Life,Travel,Adequate,No,Good,Conservative,No,None
+Fair,High,None,Cryptocurrency,No,No,Moderate,Car,None,Adequate,No,Poor,Moderate,Yes,None
+Fair,Low,Frequent,Bonds,No,Yes,High,Home,Travel,Insufficient,Yes,Fair,Conservative,Yes,Occasional
+Excellent,Low,Occasional,Real Estate,No,No,High,Car,Buying a House,Insufficient,Yes,Fair,Conservative,No,Frequent
+Good,Low,Frequent,None,No,Yes,High,Car,Retirement,None,Yes,Poor,Conservative,Yes,Occasional
+Excellent,Moderate,Occasional,Stocks,Yes,No,High,Home,None,Adequate,Yes,Excellent,Moderate,No,Occasional
+Poor,High,Frequent,Cryptocurrency,Yes,Yes,Moderate,Life,Buying a House,Adequate,No,Good,Conservative,No,Occasional
+Good,Moderate,Frequent,Real Estate,Yes,Yes,Low,Health,Buying a House,Insufficient,No,Poor,Moderate,No,Occasional
+Poor,Low,Frequent,Bonds,Yes,Yes,High,Home,Retirement,Insufficient,No,Good,Aggressive,Yes,None
+Excellent,High,Occasional,None,No,Yes,Low,Car,Buying a House,Insufficient,Yes,Excellent,Aggressive,Yes,None
+Fair,Moderate,None,Bonds,No,No,Low,None,Travel,Adequate,Yes,Excellent,Moderate,No,Frequent
+Poor,Moderate,Frequent,Cryptocurrency,No,No,High,Car,Buying a House,None,No,Poor,Conservative,No,Occasional
+Poor,High,Occasional,Bonds,Yes,No,High,Life,None,None,Yes,Fair,Moderate,No,Occasional
+Poor,Low,None,Cryptocurrency,No,No,Moderate,Car,Buying a House,None,No,Poor,Moderate,Yes,Occasional
+Poor,Low,Frequent,Stocks,Yes,No,High,Life,Education,Adequate,No,Good,Moderate,Yes,Frequent
+Fair,Moderate,Frequent,Real Estate,No,No,Moderate,None,Travel,None,Yes,Good,Aggressive,No,None
+Poor,Moderate,Occasional,Cryptocurrency,Yes,Yes,High,None,Travel,None,Yes,Poor,Conservative,Yes,Occasional
+Good,High,Frequent,Real Estate,No,No,Moderate,Home,None,Insufficient,No,Fair,None,No,Occasional
+Excellent,Moderate,Frequent,Cryptocurrency,Yes,Yes,High,Home,Education,Adequate,No,Good,Moderate,Yes,Frequent
+Excellent,Moderate,Occasional,Bonds,Yes,Yes,Moderate,Health,Retirement,None,No,Excellent,Moderate,Yes,None
+Fair,Moderate,None,None,Yes,No,High,Car,None,Adequate,Yes,Excellent,None,Yes,None
+Good,Low,None,Real Estate,No,Yes,High,None,None,Adequate,Yes,Poor,Conservative,Yes,Frequent
+Poor,Moderate,None,None,No,Yes,High,Health,Education,None,No,Poor,Aggressive,No,None
+Fair,Moderate,Frequent,Real Estate,No,Yes,Low,Car,None,Adequate,No,Good,Moderate,No,None
+Poor,Moderate,Occasional,Bonds,Yes,No,Low,None,Buying a House,Adequate,No,Poor,Conservative,Yes,Occasional
+Excellent,Moderate,Frequent,Bonds,Yes,No,Low,Car,Education,None,No,Fair,Aggressive,No,None
+Good,High,Frequent,Stocks,Yes,Yes,Low,Health,Education,Adequate,No,Fair,Moderate,Yes,Occasional
+Poor,Low,None,Stocks,Yes,No,Moderate,Life,Education,None,Yes,Fair,Conservative,Yes,Occasional
+Poor,Moderate,Occasional,Cryptocurrency,Yes,No,High,None,Retirement,Adequate,No,Excellent,None,No,None
+Excellent,Moderate,Occasional,Bonds,Yes,Yes,Low,None,Education,Adequate,Yes,Fair,Conservative,Yes,Frequent
+Poor,High,Frequent,None,No,No,High,Home,Education,Insufficient,Yes,Poor,None,No,Occasional
+Good,Moderate,None,Bonds,Yes,No,High,None,Retirement,Insufficient,No,Fair,Conservative,Yes,Occasional
+Poor,High,None,Cryptocurrency,No,No,Low,Life,Retirement,Insufficient,Yes,Poor,Moderate,No,None
+Good,Moderate,Frequent,Stocks,Yes,Yes,Low,Home,Travel,Adequate,No,Poor,None,No,Frequent
+Poor,Moderate,Frequent,Bonds,No,No,High,Car,Travel,Adequate,Yes,Good,Moderate,Yes,Frequent
+Poor,Moderate,None,Real Estate,No,Yes,Moderate,Health,Retirement,None,Yes,Good,Aggressive,No,Frequent
+Excellent,High,Occasional,Real Estate,No,No,Moderate,Home,Buying a House,Adequate,No,Good,None,No,Frequent
+Fair,Low,Frequent,Cryptocurrency,No,Yes,High,Life,Buying a House,Adequate,No,Fair,Moderate,Yes,None
+Excellent,Moderate,Occasional,Stocks,Yes,Yes,Low,Car,Buying a House,Insufficient,Yes,Fair,Conservative,No,Occasional
+Poor,Moderate,None,Cryptocurrency,No,No,Moderate,None,Buying a House,Adequate,Yes,Good,Aggressive,Yes,None
+Good,Low,None,Bonds,Yes,Yes,Low,Life,Education,Adequate,Yes,Fair,Aggressive,No,Frequent
+Good,Low,Frequent,Real Estate,No,Yes,High,None,Buying a House,Insufficient,Yes,Good,None,Yes,None
+Fair,Low,Occasional,Stocks,No,No,Low,Health,Travel,Insufficient,Yes,Fair,None,Yes,Frequent
+Poor,Moderate,Occasional,Cryptocurrency,Yes,Yes,High,Life,Education,Insufficient,Yes,Excellent,Moderate,Yes,Occasional
+Poor,Moderate,Frequent,Stocks,Yes,Yes,High,None,None,None,No,Good,Conservative,Yes,Frequent
+Poor,Moderate,Occasional,Real Estate,No,Yes,Low,Home,Travel,Adequate,No,Excellent,Moderate,No,None
+Good,Low,Occasional,None,Yes,Yes,Low,Life,None,Insufficient,Yes,Excellent,Moderate,Yes,Occasional
+Poor,Low,Occasional,Cryptocurrency,No,Yes,High,None,Buying a House,Insufficient,Yes,Fair,None,No,None
+Excellent,Low,Occasional,Cryptocurrency,Yes,Yes,Low,Car,Retirement,Insufficient,Yes,Good,Moderate,No,None
+Fair,High,Occasional,Stocks,No,No,High,None,Travel,Insufficient,Yes,Poor,None,No,Frequent
+Excellent,Low,Occasional,None,No,Yes,Moderate,None,Buying a House,Adequate,Yes,Excellent,Moderate,Yes,None
+Poor,High,Occasional,Real Estate,No,Yes,Moderate,Car,Buying a House,None,Yes,Fair,Moderate,No,Occasional
+Fair,Low,None,Real Estate,Yes,Yes,Moderate,Health,Travel,None,No,Good,Moderate,Yes,Occasional
+Fair,Moderate,Occasional,Bonds,Yes,Yes,Moderate,Car,Travel,None,No,Poor,None,Yes,Occasional
+Excellent,Low,None,Bonds,Yes,Yes,High,Life,Education,None,No,Poor,Aggressive,No,None
+Poor,Low,None,Stocks,Yes,No,High,None,Buying a House,None,Yes,Good,None,Yes,None
+Poor,Moderate,Frequent,Stocks,No,No,Low,Life,None,None,No,Fair,Conservative,No,Frequent
+Fair,Moderate,Frequent,None,Yes,Yes,Low,Home,Retirement,Adequate,No,Good,Aggressive,Yes,None
+Good,Moderate,Occasional,Real Estate,Yes,Yes,High,Home,None,None,No,Excellent,Conservative,No,Occasional
+Fair,High,Frequent,Bonds,No,Yes,High,Life,Buying a House,Insufficient,No,Fair,Moderate,No,Occasional
+Good,High,None,None,Yes,No,Moderate,Health,Retirement,None,Yes,Good,Aggressive,Yes,Frequent
+Fair,High,Frequent,Bonds,Yes,Yes,High,None,None,Adequate,Yes,Fair,Moderate,Yes,Occasional
+Good,Moderate,Frequent,Cryptocurrency,Yes,Yes,Moderate,Health,None,Insufficient,No,Poor,Aggressive,Yes,Frequent
+Fair,Moderate,Occasional,Stocks,No,No,High,Health,Education,Insufficient,No,Good,Moderate,Yes,Occasional
+Fair,Moderate,None,Bonds,No,No,Low,None,Retirement,None,Yes,Good,Moderate,No,Occasional
+Excellent,Low,Occasional,Real Estate,No,Yes,Low,None,Retirement,Adequate,Yes,Fair,Conservative,No,Frequent
+Excellent,Moderate,Frequent,None,Yes,No,High,Life,Buying a House,None,No,Fair,Aggressive,No,Frequent
+Fair,High,None,Real Estate,No,No,Low,Life,None,Insufficient,No,Poor,Aggressive,No,Occasional
+Poor,Low,Frequent,None,Yes,No,High,Health,Education,None,Yes,Excellent,Conservative,Yes,None
+Poor,Low,Frequent,Real Estate,No,No,High,Car,None,Insufficient,No,Good,Aggressive,No,Frequent
+Poor,High,Frequent,Bonds,Yes,Yes,Moderate,Car,Travel,Insufficient,Yes,Poor,Aggressive,No,Frequent
+Fair,Low,Frequent,Real Estate,No,No,Moderate,Home,Travel,None,No,Good,Aggressive,No,Frequent
+Fair,High,None,None,No,Yes,Moderate,None,None,None,No,Good,Conservative,No,Occasional
+Fair,Moderate,Occasional,Bonds,No,Yes,High,Car,Education,Adequate,Yes,Poor,Aggressive,No,None
+Fair,Low,None,Real Estate,No,Yes,Low,Car,Retirement,Insufficient,No,Excellent,Conservative,No,Occasional
+Poor,High,Occasional,Stocks,Yes,Yes,Low,Car,Buying a House,Insufficient,Yes,Good,Moderate,Yes,Occasional
+Good,Low,Frequent,Bonds,No,Yes,Moderate,Car,None,Adequate,Yes,Fair,Aggressive,No,Occasional
+Poor,Low,Frequent,Bonds,Yes,Yes,High,Car,Education,None,Yes,Good,Conservative,No,Frequent
+Poor,Low,Frequent,Stocks,No,Yes,Low,Home,Travel,None,Yes,Excellent,None,Yes,None
+Fair,Low,Frequent,None,Yes,No,Moderate,Car,Travel,Insufficient,Yes,Poor,Conservative,No,Occasional
+Good,High,Occasional,Real Estate,No,Yes,Moderate,Car,Retirement,None,Yes,Fair,Moderate,Yes,None
+Excellent,High,Occasional,Cryptocurrency,Yes,No,High,Car,None,None,No,Good,Conservative,Yes,None
+Excellent,Moderate,Occasional,None,Yes,Yes,Low,Car,Buying a House,Adequate,No,Poor,Aggressive,Yes,Frequent
+Fair,High,None,Cryptocurrency,No,No,Moderate,Health,Buying a House,Insufficient,No,Good,None,Yes,Frequent
+Fair,Moderate,Frequent,Cryptocurrency,No,No,High,Car,None,None,No,Good,Moderate,No,Occasional
+Good,High,None,Stocks,Yes,No,Moderate,Home,Travel,Adequate,No,Fair,Moderate,No,Occasional
+Fair,Low,Occasional,Cryptocurrency,No,No,Low,Car,Buying a House,Adequate,No,Fair,Aggressive,Yes,Occasional
+Good,Low,None,Bonds,No,No,High,Home,Education,None,Yes,Excellent,Aggressive,No,Frequent
+Excellent,High,Frequent,None,Yes,Yes,Moderate,Home,Retirement,Adequate,No,Excellent,Moderate,Yes,Frequent
+Good,High,Frequent,None,No,No,Moderate,Home,Education,None,No,Poor,Aggressive,Yes,Occasional
+Poor,High,None,Cryptocurrency,Yes,No,Moderate,None,Education,None,Yes,Good,Conservative,Yes,None
+Excellent,High,Frequent,None,Yes,No,Low,Home,Travel,Adequate,No,Poor,Moderate,No,None
+Excellent,High,Frequent,Real Estate,Yes,Yes,Moderate,Life,Education,None,Yes,Poor,Conservative,Yes,Frequent
+Poor,High,Frequent,Cryptocurrency,Yes,No,Low,Car,None,None,Yes,Fair,Aggressive,No,None
+Poor,High,Frequent,None,Yes,No,High,Life,Travel,None,No,Poor,Aggressive,Yes,Frequent
+Excellent,Low,Frequent,Stocks,No,Yes,Moderate,Home,None,None,Yes,Fair,Moderate,Yes,Frequent
+Fair,Low,None,Cryptocurrency,Yes,No,Moderate,Health,Retirement,None,No,Excellent,Aggressive,No,Occasional
+Poor,Low,Occasional,Cryptocurrency,Yes,Yes,Low,Home,Buying a House,Insufficient,Yes,Poor,Aggressive,No,Frequent
+Poor,Low,Occasional,Bonds,No,Yes,High,Health,Education,Insufficient,Yes,Excellent,None,Yes,Occasional
+Excellent,Low,Occasional,Real Estate,No,No,Moderate,None,Buying a House,Insufficient,No,Fair,Moderate,Yes,None
+Fair,Low,Frequent,Real Estate,Yes,No,High,Car,Travel,Adequate,No,Good,Moderate,No,None
+Poor,Low,Occasional,Bonds,Yes,No,Moderate,Health,Travel,None,Yes,Good,Moderate,No,Occasional
+Poor,Low,Frequent,Bonds,Yes,Yes,High,None,Travel,Insufficient,Yes,Excellent,Conservative,No,None
+Excellent,Low,Occasional,Real Estate,No,No,High,Health,Retirement,Adequate,Yes,Fair,Aggressive,Yes,None
+Excellent,High,Frequent,None,Yes,Yes,High,Life,Retirement,Adequate,Yes,Poor,Moderate,No,Frequent
+Excellent,Low,Occasional,Bonds,Yes,No,High,Car,Travel,Insufficient,Yes,Excellent,None,Yes,None
+Good,Moderate,Frequent,Cryptocurrency,Yes,No,Low,Life,Education,Adequate,No,Excellent,Aggressive,Yes,Occasional
+Fair,High,Frequent,Real Estate,No,No,Low,Health,Retirement,Adequate,Yes,Excellent,None,Yes,Frequent
+Excellent,High,None,Bonds,No,Yes,High,Life,Travel,Insufficient,No,Fair,None,No,Frequent
+Good,High,Occasional,Real Estate,Yes,No,Low,Home,Travel,Insufficient,Yes,Poor,None,No,Occasional
+Good,Low,Frequent,Stocks,Yes,No,Low,Life,Education,Adequate,No,Poor,Moderate,No,None
+Poor,Moderate,Frequent,Real Estate,No,Yes,Moderate,Life,None,Adequate,Yes,Poor,None,No,Frequent
+Poor,Low,Occasional,Bonds,No,No,High,Home,None,None,Yes,Fair,Aggressive,No,Occasional
+Good,Low,Frequent,Bonds,Yes,No,High,Life,Buying a House,None,No,Poor,Aggressive,Yes,Occasional
+Fair,Low,None,Cryptocurrency,Yes,Yes,Low,Health,None,None,No,Excellent,None,No,None
+Good,Moderate,Frequent,None,Yes,Yes,Moderate,None,Buying a House,Insufficient,No,Fair,Aggressive,Yes,None
+Excellent,Moderate,None,Bonds,No,No,Moderate,Health,Travel,None,Yes,Poor,Moderate,No,None
+Fair,Moderate,None,None,No,No,Moderate,None,Travel,Adequate,No,Excellent,Aggressive,No,Occasional
+Poor,High,Frequent,Cryptocurrency,No,No,Moderate,Life,Education,Adequate,No,Excellent,None,Yes,None
+Fair,High,None,Bonds,No,No,Moderate,Health,Education,Adequate,No,Good,Conservative,No,None
+Fair,High,Frequent,Real Estate,No,Yes,Moderate,Home,Retirement,Insufficient,No,Poor,Moderate,Yes,Occasional
+Excellent,Moderate,Occasional,Bonds,No,No,Moderate,None,None,Insufficient,No,Poor,Aggressive,No,Occasional
+Fair,Moderate,Occasional,Stocks,Yes,Yes,High,None,Retirement,None,No,Excellent,None,No,None
+Excellent,Moderate,None,Bonds,Yes,Yes,Moderate,Home,None,None,No,Poor,None,No,None
+Poor,High,None,None,No,No,High,Home,None,Adequate,Yes,Fair,Aggressive,No,Frequent
+Fair,Low,None,Real Estate,Yes,No,Moderate,None,None,None,No,Excellent,None,No,None
+Fair,Moderate,None,Bonds,No,No,Moderate,Car,Buying a House,Insufficient,No,Poor,Conservative,No,Frequent
+Poor,High,Occasional,Stocks,No,Yes,Moderate,Home,Buying a House,Adequate,No,Fair,None,No,None
+Fair,Moderate,None,Real Estate,No,Yes,Low,Life,Retirement,Adequate,Yes,Good,Conservative,No,None
+Good,High,None,Real Estate,No,Yes,Moderate,Life,Buying a House,Insufficient,No,Good,Conservative,Yes,None
+Good,High,Occasional,Real Estate,No,No,High,Life,Buying a House,Insufficient,No,Poor,Aggressive,No,Occasional
+Good,Low,Occasional,Bonds,No,No,Low,Home,Travel,Insufficient,Yes,Good,Conservative,No,Frequent
+Excellent,Moderate,Occasional,Real Estate,Yes,No,Moderate,Health,Education,Insufficient,Yes,Poor,Conservative,Yes,None
+Fair,High,None,Cryptocurrency,Yes,Yes,Low,None,Education,Adequate,No,Fair,None,No,None
+Good,Moderate,Frequent,Stocks,Yes,No,Low,Health,Buying a House,Insufficient,No,Fair,None,No,Frequent
+Fair,High,Occasional,Bonds,Yes,No,Moderate,Health,None,None,No,Excellent,None,Yes,Occasional
+Excellent,Moderate,Occasional,Real Estate,No,No,Moderate,Car,None,Adequate,No,Good,Aggressive,No,Frequent
+Poor,Moderate,Occasional,Stocks,Yes,No,Low,Home,None,Insufficient,Yes,Fair,None,No,Frequent
+Good,Moderate,None,Bonds,Yes,Yes,High,Health,Travel,Adequate,No,Fair,None,Yes,Occasional
+Poor,Moderate,Occasional,Bonds,No,No,Low,Home,Buying a House,Adequate,Yes,Good,Aggressive,No,Frequent
+Excellent,High,Frequent,Real Estate,No,No,High,Health,None,Insufficient,Yes,Fair,None,Yes,Occasional
+Poor,Low,Frequent,Bonds,Yes,Yes,Low,None,Education,None,No,Fair,Conservative,No,Frequent
+Good,High,Frequent,None,Yes,No,High,Life,Travel,None,No,Excellent,Moderate,No,None
+Good,Low,None,Stocks,Yes,No,Moderate,Home,Retirement,None,No,Excellent,Conservative,No,Occasional
+Poor,Moderate,Occasional,Bonds,No,Yes,Low,Home,None,None,Yes,Good,Moderate,No,Occasional
+Good,Low,Occasional,None,No,No,Moderate,Home,Buying a House,Adequate,Yes,Poor,Conservative,No,None
+Excellent,High,None,Cryptocurrency,Yes,No,Moderate,Health,Buying a House,Adequate,No,Poor,Aggressive,Yes,None
+Good,Low,Occasional,Cryptocurrency,No,Yes,Moderate,Life,Buying a House,None,No,Excellent,Aggressive,Yes,None
+Excellent,Low,Frequent,Stocks,Yes,Yes,Low,Life,Retirement,None,Yes,Good,Moderate,No,Occasional
+Excellent,High,None,Stocks,Yes,No,Low,Home,Travel,None,No,Poor,Conservative,No,None
+Good,High,Occasional,Stocks,Yes,No,High,Car,Buying a House,None,Yes,Fair,None,Yes,Occasional
+Fair,High,None,Stocks,Yes,Yes,Moderate,Health,Travel,None,No,Excellent,Moderate,No,None
+Fair,High,Frequent,Cryptocurrency,Yes,Yes,Moderate,Life,Education,Insufficient,Yes,Poor,Conservative,No,Frequent
+Excellent,High,None,Real Estate,Yes,No,High,Home,None,Adequate,No,Fair,Aggressive,Yes,None
+Fair,Moderate,Occasional,Cryptocurrency,No,Yes,Moderate,Car,Buying a House,None,Yes,Fair,None,No,None
+Good,Low,Occasional,Real Estate,No,Yes,Moderate,Car,Education,Adequate,Yes,Excellent,Aggressive,No,Frequent
+Excellent,Moderate,Occasional,Cryptocurrency,No,Yes,High,Life,None,Adequate,No,Excellent,None,No,Occasional
+Poor,Low,Frequent,Real Estate,Yes,Yes,Moderate,None,None,Adequate,No,Excellent,None,No,None
+Poor,High,Occasional,Cryptocurrency,No,Yes,High,Home,Buying a House,Adequate,Yes,Poor,Moderate,No,Frequent
+Fair,Low,Frequent,Bonds,No,Yes,Moderate,Health,Education,Adequate,Yes,Excellent,None,Yes,None
+Good,Moderate,Frequent,Real Estate,Yes,No,Moderate,None,None,Insufficient,No,Excellent,None,No,Frequent
+Excellent,Low,None,Bonds,No,Yes,Low,Home,Travel,Adequate,Yes,Good,Moderate,Yes,None
+Excellent,Moderate,Frequent,Cryptocurrency,No,No,Low,None,Travel,Adequate,Yes,Fair,Conservative,Yes,None
+Excellent,Moderate,Frequent,Stocks,No,No,Low,Life,Retirement,None,No,Good,Conservative,No,Frequent
+Poor,Moderate,None,Real Estate,No,No,Low,Home,Education,None,Yes,Poor,None,Yes,Frequent
+Fair,High,Frequent,None,No,No,Low,None,Travel,Adequate,Yes,Poor,None,Yes,Frequent
+Good,Moderate,Occasional,Stocks,No,Yes,Moderate,Life,Buying a House,Adequate,Yes,Poor,None,No,Occasional
+Fair,Moderate,Occasional,Stocks,Yes,Yes,High,Car,Education,None,Yes,Excellent,Aggressive,No,Frequent
+Fair,Low,Occasional,Real Estate,Yes,No,Low,None,Retirement,Insufficient,No,Good,None,No,Occasional
+Fair,Low,Occasional,Real Estate,Yes,Yes,Moderate,Life,None,None,No,Good,Conservative,Yes,None
+Poor,Moderate,Frequent,Stocks,Yes,Yes,Moderate,None,None,None,Yes,Fair,Conservative,No,None
+Excellent,High,Occasional,Real Estate,Yes,Yes,High,Health,Buying a House,Insufficient,No,Fair,None,No,None
+Excellent,Moderate,Occasional,Real Estate,No,No,Moderate,Home,Travel,Adequate,No,Excellent,Aggressive,No,None
+Fair,Moderate,None,Bonds,Yes,No,Moderate,Life,Retirement,Insufficient,Yes,Fair,Moderate,Yes,None
+Good,Low,Frequent,Cryptocurrency,No,Yes,Moderate,Car,Buying a House,Adequate,Yes,Fair,Aggressive,No,Occasional
+Excellent,High,Frequent,None,Yes,No,High,Car,Travel,Adequate,Yes,Good,Conservative,No,None
+Fair,Low,Occasional,Real Estate,Yes,No,Moderate,Life,None,Insufficient,Yes,Fair,Conservative,No,Frequent
+Excellent,Moderate,Occasional,Real Estate,Yes,Yes,Moderate,None,Buying a House,Insufficient,No,Poor,Moderate,Yes,Occasional
+Poor,High,Frequent,Cryptocurrency,No,No,Moderate,Health,Travel,Insufficient,Yes,Poor,None,No,None
+Fair,High,None,Real Estate,No,Yes,Low,Life,Retirement,Insufficient,No,Poor,None,No,None
+Poor,Low,Frequent,Cryptocurrency,Yes,Yes,Moderate,Health,Buying a House,None,No,Poor,None,No,Occasional
+Fair,Moderate,Frequent,Cryptocurrency,No,Yes,High,Home,Retirement,Insufficient,No,Excellent,Conservative,Yes,Occasional
+Excellent,High,Occasional,Cryptocurrency,Yes,Yes,Moderate,Life,Retirement,Insufficient,No,Excellent,None,Yes,None
+Excellent,Low,Frequent,None,Yes,No,High,Health,Travel,Adequate,No,Good,Aggressive,No,Frequent
+Fair,Moderate,Occasional,Bonds,No,Yes,Low,Life,Travel,Adequate,No,Fair,None,No,None
+Good,High,Occasional,Bonds,No,No,Moderate,Health,Retirement,Insufficient,Yes,Excellent,Aggressive,Yes,None
+Good,Low,None,None,Yes,No,Low,Car,Retirement,Adequate,No,Poor,Aggressive,Yes,None
+Good,Moderate,Occasional,Cryptocurrency,Yes,No,Moderate,Car,None,Insufficient,Yes,Fair,None,Yes,None
+Good,High,None,Stocks,Yes,Yes,Moderate,None,Education,Insufficient,No,Good,None,No,None
+Good,Moderate,Frequent,None,Yes,Yes,Moderate,Car,Travel,Adequate,Yes,Good,None,No,None
+Poor,Low,Frequent,Cryptocurrency,Yes,No,Moderate,None,Travel,None,No,Excellent,Moderate,No,None
+Poor,Low,Occasional,None,No,No,High,Health,Buying a House,None,No,Poor,None,No,Frequent
+Excellent,Low,None,Bonds,No,No,Moderate,Health,Buying a House,Adequate,No,Poor,Moderate,Yes,Occasional
+Poor,Low,Frequent,None,No,No,Moderate,Car,None,None,Yes,Excellent,Conservative,No,Frequent
+Poor,High,None,Bonds,Yes,No,High,Life,Travel,Insufficient,No,Poor,Conservative,Yes,Occasional
+Poor,Moderate,Occasional,Stocks,No,No,High,Life,None,Insufficient,No,Fair,Moderate,Yes,Occasional
+Good,Moderate,Occasional,None,Yes,Yes,Moderate,Home,Buying a House,None,Yes,Poor,Moderate,No,Occasional
+Poor,High,Occasional,Cryptocurrency,No,Yes,High,Car,Retirement,Insufficient,No,Excellent,Moderate,No,Frequent
+Poor,Moderate,Frequent,None,Yes,Yes,High,None,None,Insufficient,Yes,Good,Conservative,No,None
+Poor,Low,Frequent,Real Estate,Yes,No,Low,Life,Education,Adequate,No,Fair,Aggressive,No,Occasional
+Good,Low,Frequent,Cryptocurrency,No,No,Low,None,None,Adequate,Yes,Fair,Aggressive,No,None
+Excellent,Low,Occasional,None,Yes,Yes,High,Health,Retirement,None,Yes,Fair,Conservative,No,Occasional
+Poor,Low,Frequent,Bonds,Yes,No,High,Car,Travel,None,Yes,Poor,Aggressive,No,Occasional
+Fair,Low,Occasional,Stocks,No,No,Moderate,Life,None,Insufficient,No,Poor,Moderate,No,Occasional
+Poor,Low,Occasional,Cryptocurrency,No,Yes,Low,Car,Travel,Insufficient,No,Good,Conservative,Yes,None
+Fair,High,None,Cryptocurrency,No,Yes,Moderate,Health,Buying a House,Insufficient,Yes,Fair,None,No,None
+Excellent,Low,Frequent,Bonds,No,No,Moderate,Home,None,None,Yes,Excellent,Moderate,Yes,None
+Good,Moderate,Frequent,Real Estate,No,Yes,High,Life,Education,Adequate,Yes,Excellent,Moderate,Yes,Occasional
+Good,High,Occasional,Bonds,No,No,High,Home,Retirement,None,Yes,Good,Moderate,No,None
+Fair,High,Occasional,Stocks,Yes,Yes,Low,Home,None,Insufficient,No,Fair,Moderate,No,Occasional

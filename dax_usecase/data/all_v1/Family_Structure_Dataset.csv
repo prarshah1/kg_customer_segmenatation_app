@@ -1,0 +1,501 @@
+children_count,family_responsibilities,household_chores_arrangement,pet_ownership,family_decision_maker,family_vacation_habits,educational_priorities,work-life_balance_strategies,extended_family_proximity,family_traditions,childcare_preferences,household_technology_usage,elder_care_involvement,family_communication_practices,household_media_consumption
+None,Low,Shared,Yes,Joint,Frequent,Moderate,Strained,None,None,Nanny,Low,Moderate,Occasional,Moderate
+None,Moderate,Shared,No,Joint,Frequent,Low,Strained,Near,None,Relative,Moderate,High,Occasional,High
+1-2,Moderate,Shared,Yes,Joint,Frequent,Low,Flexible,None,Moderate,None,Moderate,High,Rare,Low
+None,Low,Not Shared,No,Single,Occasional,Moderate,Balanced,Near,Moderate,Nanny,Moderate,High,Occasional,Low
+3-4,Moderate,Not Shared,No,Joint,Rare,Moderate,Flexible,None,Strong,Stay-at-home,Moderate,High,Frequent,Low
+1-2,Moderate,Shared,Yes,Joint,Frequent,Low,Strained,Near,Moderate,None,Moderate,High,Occasional,High
+3-4,Moderate,Not Shared,Yes,Joint,Rare,Low,Flexible,Near,Strong,Daycare,Moderate,High,Occasional,Moderate
+3-4,Low,Not Shared,No,Joint,Rare,Moderate,Balanced,Near,None,None,Low,High,Frequent,Moderate
+3-4,Low,Not Shared,No,Joint,Rare,High,Balanced,Near,Moderate,Relative,Moderate,High,Rare,Low
+3-4,High,Not Shared,Yes,Joint,Occasional,Moderate,Strained,Near,Moderate,Relative,Low,Moderate,Frequent,Low
+5+,Moderate,Not Shared,Yes,Joint,Rare,Low,Balanced,Near,Strong,Daycare,Low,Moderate,Occasional,Low
+3-4,Low,Not Shared,No,Single,Frequent,Moderate,Flexible,None,Strong,Daycare,High,High,Frequent,High
+None,Moderate,Shared,No,Single,Frequent,Moderate,Balanced,Far,Moderate,Stay-at-home,Moderate,Moderate,Rare,Moderate
+5+,High,Shared,Yes,Joint,Occasional,High,Balanced,None,None,Nanny,Low,Low,Rare,Moderate
+None,High,Not Shared,Yes,Joint,Occasional,High,Balanced,None,None,None,High,Low,Occasional,Moderate
+1-2,Moderate,Not Shared,Yes,Joint,Occasional,Low,Flexible,Far,Moderate,None,Low,High,Occasional,Moderate
+3-4,High,Not Shared,Yes,Joint,Rare,Low,Balanced,Near,Moderate,Daycare,Low,Low,Rare,Low
+5+,Moderate,Not Shared,No,Single,Frequent,Moderate,Flexible,None,Strong,Daycare,Moderate,Low,Frequent,Moderate
+None,Low,Not Shared,No,Single,Rare,Moderate,Flexible,Near,None,Nanny,Low,High,Rare,High
+3-4,Low,Shared,Yes,Joint,Rare,Moderate,Balanced,None,Moderate,None,Low,Moderate,Occasional,Moderate
+3-4,High,Shared,Yes,Single,Occasional,Moderate,Strained,None,None,Daycare,Low,High,Occasional,Moderate
+5+,High,Shared,No,Single,Occasional,Low,Strained,Far,None,Relative,Low,High,Rare,Moderate
+None,Moderate,Shared,No,Single,Occasional,Low,Flexible,Far,None,Nanny,Low,Low,Occasional,Moderate
+1-2,High,Shared,No,Joint,Occasional,Moderate,Strained,None,Strong,Nanny,Low,High,Occasional,Low
+5+,Low,Not Shared,Yes,Single,Frequent,Moderate,Balanced,None,Moderate,Nanny,Moderate,Moderate,Frequent,High
+3-4,Moderate,Shared,No,Joint,Occasional,Moderate,Strained,Far,Strong,None,Moderate,Low,Frequent,Moderate
+5+,Low,Not Shared,Yes,Single,Occasional,Low,Strained,Far,Strong,Stay-at-home,High,High,Rare,High
+1-2,High,Not Shared,Yes,Single,Rare,Moderate,Flexible,Near,Moderate,Relative,High,High,Frequent,High
+3-4,High,Shared,No,Joint,Rare,Moderate,Flexible,Near,Moderate,None,Low,Low,Occasional,Low
+1-2,High,Not Shared,No,Joint,Occasional,Moderate,Strained,Near,Moderate,Relative,Moderate,High,Rare,Moderate
+5+,Low,Shared,Yes,Joint,Occasional,Moderate,Flexible,None,Strong,Nanny,Moderate,High,Rare,Low
+5+,High,Shared,Yes,Single,Frequent,Low,Strained,None,None,Nanny,Moderate,High,Rare,Moderate
+None,Moderate,Shared,Yes,Single,Frequent,Low,Strained,Far,Strong,Daycare,High,Moderate,Occasional,Low
+5+,Low,Not Shared,Yes,Joint,Rare,Moderate,Balanced,None,None,Stay-at-home,Low,Low,Rare,High
+3-4,High,Shared,Yes,Single,Rare,Low,Strained,None,None,None,Low,Low,Occasional,Low
+1-2,Low,Shared,Yes,Single,Frequent,Low,Strained,Near,None,Nanny,Low,High,Rare,Low
+5+,Low,Shared,Yes,Single,Occasional,High,Balanced,Far,None,Daycare,High,High,Occasional,Moderate
+5+,Low,Not Shared,Yes,Joint,Frequent,Moderate,Flexible,None,Moderate,Nanny,High,Moderate,Occasional,High
+5+,High,Not Shared,No,Single,Occasional,Low,Flexible,Near,Strong,Daycare,Moderate,Low,Rare,Moderate
+None,Moderate,Not Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,None,Stay-at-home,High,High,Occasional,Moderate
+1-2,Moderate,Not Shared,No,Joint,Frequent,Low,Flexible,Far,Moderate,Nanny,Low,Moderate,Frequent,Low
+5+,Low,Not Shared,No,Joint,Rare,Low,Flexible,Far,None,Stay-at-home,Moderate,Low,Frequent,Low
+5+,Moderate,Not Shared,No,Single,Rare,High,Balanced,Near,None,Nanny,Low,Low,Rare,Moderate
+None,High,Not Shared,No,Joint,Frequent,Low,Strained,Far,Strong,None,Low,Low,Frequent,Low
+5+,Moderate,Not Shared,No,Single,Occasional,High,Balanced,None,Moderate,None,Moderate,Moderate,Frequent,Low
+1-2,Moderate,Not Shared,No,Single,Occasional,High,Balanced,Far,Strong,None,High,High,Frequent,High
+3-4,Moderate,Shared,Yes,Joint,Rare,Low,Balanced,None,Strong,Nanny,High,Low,Rare,Moderate
+3-4,Moderate,Not Shared,Yes,Single,Occasional,Low,Flexible,Near,Strong,None,High,High,Occasional,Low
+1-2,Moderate,Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,None,None,Low,Moderate,Occasional,Low
+5+,Moderate,Shared,Yes,Joint,Frequent,Low,Flexible,None,Strong,None,Moderate,Moderate,Frequent,Low
+1-2,High,Shared,No,Joint,Occasional,Low,Balanced,Near,None,Stay-at-home,High,High,Occasional,Moderate
+None,Low,Shared,Yes,Joint,Occasional,Low,Strained,None,None,Nanny,High,Moderate,Rare,Low
+1-2,Low,Shared,Yes,Single,Rare,Moderate,Balanced,None,None,None,Moderate,High,Rare,Low
+5+,High,Shared,No,Single,Occasional,High,Flexible,Far,None,Stay-at-home,High,High,Rare,Moderate
+1-2,Moderate,Not Shared,Yes,Joint,Occasional,Low,Strained,Near,None,Stay-at-home,Low,High,Occasional,High
+1-2,High,Not Shared,Yes,Single,Rare,Moderate,Strained,Far,Moderate,Stay-at-home,Low,High,Occasional,Moderate
+3-4,Low,Not Shared,No,Joint,Frequent,High,Balanced,None,None,Relative,Low,Low,Frequent,Low
+5+,Low,Shared,No,Single,Rare,Moderate,Strained,Near,Strong,Stay-at-home,High,Low,Occasional,Low
+5+,High,Shared,Yes,Single,Occasional,High,Flexible,Far,Strong,Daycare,Moderate,High,Frequent,Low
+5+,Moderate,Shared,No,Single,Frequent,High,Flexible,None,None,Stay-at-home,Moderate,High,Frequent,Low
+1-2,High,Not Shared,Yes,Joint,Occasional,High,Flexible,None,Strong,Relative,High,Low,Frequent,Moderate
+5+,Low,Shared,No,Single,Rare,High,Strained,Near,Moderate,Stay-at-home,Low,High,Rare,Low
+3-4,Moderate,Not Shared,No,Joint,Occasional,Low,Strained,Near,Moderate,None,Low,High,Occasional,Moderate
+5+,Moderate,Not Shared,Yes,Joint,Occasional,High,Balanced,Far,Strong,None,Moderate,Low,Occasional,High
+None,High,Not Shared,No,Single,Rare,Low,Flexible,Far,Strong,Stay-at-home,Moderate,Low,Frequent,Moderate
+1-2,Moderate,Shared,Yes,Joint,Rare,High,Flexible,Near,Moderate,Relative,High,High,Occasional,Low
+5+,Low,Not Shared,Yes,Single,Frequent,Moderate,Flexible,None,Strong,Stay-at-home,High,High,Rare,Moderate
+5+,High,Not Shared,No,Single,Frequent,Moderate,Strained,Far,Moderate,Nanny,High,Low,Frequent,High
+5+,Moderate,Not Shared,No,Single,Occasional,Moderate,Balanced,Near,Strong,Daycare,Moderate,High,Occasional,Low
+5+,High,Shared,No,Single,Occasional,Low,Flexible,Near,Moderate,None,High,Moderate,Frequent,High
+1-2,High,Shared,Yes,Single,Frequent,High,Balanced,Near,None,Relative,Low,Low,Rare,Moderate
+1-2,High,Not Shared,No,Single,Occasional,High,Strained,Near,Strong,Stay-at-home,Low,Moderate,Rare,Low
+None,Low,Shared,No,Joint,Frequent,Low,Strained,Far,Strong,Stay-at-home,Moderate,High,Frequent,High
+None,Moderate,Shared,No,Single,Frequent,Moderate,Strained,Far,Strong,None,High,Low,Rare,Moderate
+1-2,Low,Not Shared,Yes,Joint,Rare,Moderate,Balanced,Far,Moderate,Daycare,Moderate,High,Frequent,High
+5+,Low,Shared,Yes,Joint,Occasional,High,Strained,Far,Moderate,Daycare,Moderate,Moderate,Rare,High
+5+,Moderate,Shared,Yes,Joint,Occasional,Moderate,Strained,Near,Strong,None,High,Moderate,Rare,High
+5+,High,Shared,Yes,Joint,Rare,Moderate,Flexible,Near,Moderate,Relative,High,Low,Rare,Low
+3-4,Low,Shared,Yes,Single,Frequent,Low,Balanced,None,Moderate,None,Moderate,Low,Occasional,High
+1-2,Moderate,Not Shared,No,Joint,Rare,Low,Strained,Far,Strong,None,High,High,Rare,Moderate
+5+,Low,Shared,No,Joint,Frequent,Low,Flexible,Far,Strong,None,Low,High,Occasional,High
+None,High,Shared,Yes,Single,Frequent,High,Balanced,None,Moderate,Stay-at-home,Low,High,Occasional,Low
+None,Low,Shared,No,Joint,Occasional,Low,Balanced,None,Strong,Nanny,Low,Moderate,Rare,High
+None,High,Not Shared,No,Single,Frequent,Low,Strained,Far,None,None,Moderate,Moderate,Rare,Low
+1-2,Moderate,Shared,Yes,Joint,Occasional,High,Strained,Far,Strong,Nanny,Moderate,Moderate,Frequent,Low
+3-4,High,Not Shared,No,Joint,Rare,High,Flexible,Far,Moderate,None,Moderate,Moderate,Rare,Low
+3-4,Moderate,Not Shared,No,Single,Occasional,Low,Flexible,None,Strong,Nanny,High,High,Occasional,Moderate
+5+,Low,Shared,Yes,Single,Occasional,Low,Strained,Near,Moderate,None,Moderate,Low,Occasional,Low
+None,Low,Not Shared,No,Joint,Occasional,Moderate,Balanced,Far,Moderate,Relative,Low,High,Rare,Moderate
+5+,Moderate,Not Shared,No,Joint,Rare,High,Flexible,Far,Strong,None,Low,Moderate,Rare,High
+5+,Low,Not Shared,No,Single,Rare,Low,Balanced,Near,Strong,Relative,Moderate,High,Occasional,Low
+1-2,Low,Shared,No,Single,Frequent,Low,Balanced,Far,None,None,Low,Low,Rare,High
+1-2,High,Shared,Yes,Single,Occasional,Moderate,Strained,Far,Moderate,Nanny,Low,High,Frequent,Moderate
+None,Moderate,Shared,No,Single,Occasional,High,Balanced,Far,Strong,Stay-at-home,Moderate,Low,Frequent,High
+3-4,High,Not Shared,No,Joint,Frequent,Moderate,Flexible,Near,None,None,Low,High,Occasional,Moderate
+1-2,Low,Not Shared,No,Joint,Occasional,Moderate,Strained,Far,Strong,None,Low,Moderate,Frequent,High
+None,Moderate,Not Shared,No,Single,Occasional,Low,Strained,None,None,Daycare,Moderate,High,Occasional,High
+5+,High,Shared,No,Single,Occasional,Moderate,Flexible,Near,Strong,Nanny,High,Moderate,Rare,Low
+1-2,High,Shared,No,Single,Occasional,High,Flexible,Far,None,Nanny,Low,High,Rare,High
+None,High,Not Shared,Yes,Joint,Rare,Moderate,Balanced,Far,None,Nanny,High,Moderate,Occasional,Moderate
+3-4,Moderate,Shared,Yes,Single,Occasional,High,Flexible,None,None,Daycare,High,High,Frequent,Low
+1-2,Low,Not Shared,Yes,Joint,Occasional,Low,Flexible,None,Strong,None,High,Low,Frequent,Low
+3-4,Moderate,Not Shared,No,Single,Frequent,Moderate,Strained,Near,Moderate,None,High,Low,Occasional,High
+3-4,Low,Shared,No,Single,Occasional,High,Flexible,Near,None,Relative,Low,Low,Occasional,Moderate
+3-4,Moderate,Shared,No,Joint,Rare,High,Balanced,None,None,Relative,High,Moderate,Frequent,Moderate
+5+,Moderate,Not Shared,Yes,Single,Occasional,High,Balanced,None,None,None,Low,Low,Rare,Moderate
+1-2,Moderate,Not Shared,Yes,Single,Occasional,Moderate,Strained,Far,Moderate,Daycare,Moderate,Moderate,Rare,Low
+5+,Moderate,Not Shared,Yes,Joint,Frequent,Moderate,Strained,None,Strong,Relative,Moderate,Low,Frequent,High
+3-4,Low,Not Shared,No,Joint,Frequent,Moderate,Strained,None,None,Daycare,Low,Moderate,Frequent,Moderate
+3-4,High,Shared,No,Joint,Rare,Low,Strained,Far,Moderate,Relative,Moderate,Moderate,Rare,Moderate
+None,Moderate,Not Shared,No,Single,Rare,High,Flexible,Near,Strong,Relative,Moderate,Moderate,Occasional,High
+3-4,Moderate,Shared,No,Joint,Rare,Moderate,Balanced,Far,None,Daycare,Low,Moderate,Rare,Low
+None,Low,Not Shared,No,Single,Rare,Low,Flexible,None,None,None,High,Moderate,Rare,Moderate
+None,Moderate,Shared,Yes,Joint,Rare,Low,Flexible,Near,None,Relative,Moderate,Low,Frequent,Moderate
+None,Moderate,Shared,No,Joint,Occasional,High,Flexible,Far,Moderate,Nanny,Moderate,Moderate,Occasional,High
+3-4,High,Shared,Yes,Single,Frequent,Moderate,Strained,Near,None,Daycare,Moderate,Low,Rare,Moderate
+5+,Moderate,Not Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,Moderate,Daycare,Moderate,Moderate,Frequent,Moderate
+None,Moderate,Shared,No,Single,Occasional,Moderate,Flexible,None,None,Stay-at-home,Low,Moderate,Rare,High
+1-2,Low,Not Shared,Yes,Single,Rare,Low,Balanced,Near,Moderate,Stay-at-home,Moderate,High,Frequent,High
+1-2,Low,Not Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,Moderate,Stay-at-home,Low,Moderate,Frequent,High
+1-2,Low,Shared,No,Joint,Occasional,High,Balanced,Far,None,Stay-at-home,High,High,Occasional,High
+1-2,Moderate,Not Shared,Yes,Single,Occasional,Moderate,Flexible,Far,Moderate,None,Low,Moderate,Frequent,Low
+5+,High,Shared,No,Single,Rare,Low,Strained,Near,None,None,High,Moderate,Rare,Low
+3-4,Low,Not Shared,Yes,Single,Frequent,High,Strained,None,Moderate,Relative,High,Moderate,Rare,High
+3-4,Low,Not Shared,Yes,Single,Rare,Moderate,Balanced,Near,None,Daycare,Moderate,High,Frequent,High
+1-2,High,Not Shared,Yes,Joint,Rare,Low,Balanced,None,Moderate,Daycare,High,High,Occasional,High
+5+,High,Not Shared,Yes,Single,Occasional,High,Strained,Far,None,Daycare,Moderate,Low,Rare,High
+3-4,Low,Shared,No,Single,Frequent,Moderate,Strained,Far,Moderate,None,High,High,Occasional,Low
+1-2,High,Not Shared,No,Single,Rare,Low,Flexible,Near,None,Daycare,Moderate,Low,Frequent,Moderate
+None,Low,Shared,No,Joint,Rare,Moderate,Balanced,None,Moderate,Stay-at-home,High,Moderate,Occasional,Low
+1-2,Low,Not Shared,No,Single,Frequent,Moderate,Flexible,None,Strong,Nanny,Low,High,Occasional,High
+3-4,Moderate,Shared,Yes,Single,Frequent,Moderate,Balanced,Far,Moderate,Stay-at-home,High,High,Occasional,Low
+5+,High,Not Shared,No,Single,Frequent,Moderate,Balanced,Near,None,None,High,Moderate,Occasional,High
+3-4,High,Not Shared,Yes,Joint,Rare,Low,Strained,Far,Moderate,Relative,High,Moderate,Occasional,Moderate
+5+,High,Shared,No,Single,Frequent,High,Balanced,None,Moderate,Daycare,Low,Moderate,Frequent,Moderate
+3-4,High,Not Shared,No,Joint,Frequent,Moderate,Balanced,Near,Strong,Nanny,Moderate,Low,Frequent,High
+None,Moderate,Shared,No,Single,Frequent,Moderate,Strained,Far,None,Nanny,Low,High,Frequent,Low
+5+,Low,Shared,Yes,Joint,Occasional,High,Flexible,Near,Strong,Nanny,Moderate,High,Frequent,High
+3-4,Low,Not Shared,Yes,Single,Occasional,Low,Flexible,Near,None,Nanny,Low,High,Occasional,Low
+5+,Low,Not Shared,Yes,Single,Rare,Moderate,Strained,Near,Moderate,None,High,High,Frequent,High
+1-2,Low,Not Shared,Yes,Single,Frequent,Low,Flexible,Near,Moderate,Daycare,High,Low,Occasional,Moderate
+3-4,Moderate,Not Shared,No,Single,Rare,Low,Strained,Near,Strong,Stay-at-home,Low,Moderate,Rare,Moderate
+5+,Moderate,Shared,No,Joint,Rare,High,Flexible,Near,Strong,Relative,Low,Moderate,Occasional,Moderate
+3-4,Low,Not Shared,No,Joint,Rare,Low,Strained,None,Moderate,Nanny,High,Moderate,Frequent,Moderate
+5+,High,Shared,Yes,Single,Rare,Low,Flexible,Near,Moderate,Stay-at-home,Moderate,Low,Occasional,Low
+1-2,Low,Shared,Yes,Single,Occasional,Low,Flexible,Far,Strong,Daycare,Low,High,Occasional,Moderate
+None,Moderate,Shared,No,Single,Occasional,Moderate,Flexible,Far,Strong,Nanny,High,High,Rare,High
+None,High,Shared,Yes,Single,Rare,Low,Balanced,None,None,Relative,Low,Moderate,Rare,High
+5+,Low,Shared,No,Single,Frequent,Moderate,Balanced,Near,None,None,Low,High,Frequent,Low
+3-4,High,Shared,No,Single,Frequent,High,Balanced,Far,None,Daycare,Moderate,High,Rare,Low
+1-2,Low,Not Shared,No,Single,Occasional,High,Flexible,None,Moderate,None,Low,Low,Rare,High
+None,Moderate,Shared,No,Single,Frequent,Low,Strained,Near,Strong,Daycare,Low,Low,Rare,Moderate
+1-2,High,Shared,No,Joint,Rare,Low,Balanced,Far,Moderate,Relative,Low,Moderate,Occasional,High
+1-2,High,Shared,No,Joint,Frequent,Moderate,Balanced,None,Strong,Stay-at-home,Low,Low,Frequent,Moderate
+3-4,High,Not Shared,Yes,Joint,Frequent,Low,Flexible,Far,None,Daycare,Moderate,Low,Rare,Low
+5+,High,Not Shared,No,Joint,Occasional,High,Balanced,Far,Moderate,Nanny,Low,High,Frequent,Moderate
+3-4,High,Not Shared,No,Single,Occasional,High,Balanced,Far,None,Nanny,High,Low,Occasional,High
+5+,Low,Shared,Yes,Single,Occasional,Moderate,Strained,Far,Moderate,Relative,Low,Moderate,Rare,High
+None,High,Not Shared,No,Single,Occasional,Low,Flexible,None,None,Stay-at-home,Low,Low,Occasional,High
+3-4,Low,Shared,No,Single,Occasional,High,Balanced,Far,Moderate,Daycare,Moderate,Low,Frequent,Moderate
+1-2,Low,Shared,Yes,Single,Occasional,Low,Balanced,Near,None,None,High,Moderate,Rare,Moderate
+None,Moderate,Shared,Yes,Joint,Occasional,Moderate,Balanced,Far,None,Stay-at-home,Low,Low,Frequent,High
+1-2,Moderate,Shared,No,Joint,Occasional,High,Balanced,Far,Moderate,Daycare,Moderate,High,Occasional,High
+1-2,Moderate,Shared,No,Joint,Frequent,Moderate,Strained,None,Strong,Nanny,Low,Low,Occasional,Moderate
+5+,High,Not Shared,No,Single,Frequent,High,Flexible,None,Strong,Stay-at-home,High,Moderate,Rare,Moderate
+1-2,Low,Shared,Yes,Joint,Rare,Moderate,Flexible,Near,Strong,Relative,Moderate,High,Frequent,Moderate
+3-4,Moderate,Not Shared,Yes,Single,Rare,High,Flexible,Far,Strong,Stay-at-home,Moderate,Moderate,Frequent,Moderate
+1-2,High,Not Shared,No,Single,Frequent,Low,Flexible,None,Moderate,Daycare,Low,High,Frequent,Low
+3-4,Low,Not Shared,Yes,Single,Frequent,High,Strained,None,Strong,Relative,Moderate,Moderate,Occasional,Low
+None,Moderate,Not Shared,Yes,Joint,Rare,High,Flexible,None,Moderate,Relative,Moderate,Low,Rare,Low
+3-4,Moderate,Shared,No,Single,Occasional,Moderate,Flexible,None,Moderate,Relative,Low,Low,Rare,Moderate
+None,Moderate,Shared,Yes,Single,Occasional,Moderate,Flexible,Far,Moderate,Relative,High,Low,Rare,Low
+3-4,Moderate,Shared,No,Joint,Frequent,High,Flexible,None,None,Stay-at-home,Low,Moderate,Frequent,Low
+3-4,High,Shared,Yes,Joint,Rare,Low,Strained,None,Strong,Stay-at-home,High,Low,Occasional,Moderate
+3-4,High,Shared,No,Joint,Rare,Moderate,Balanced,None,None,None,Moderate,Low,Rare,High
+None,Moderate,Not Shared,Yes,Joint,Frequent,High,Flexible,None,None,Daycare,Low,Low,Rare,Low
+3-4,Low,Not Shared,Yes,Single,Rare,Moderate,Flexible,Near,Moderate,Stay-at-home,Low,Low,Frequent,Low
+5+,High,Shared,No,Single,Frequent,Moderate,Strained,Far,Strong,None,Low,Moderate,Rare,Moderate
+1-2,High,Shared,No,Single,Frequent,High,Flexible,Near,None,Relative,Low,Moderate,Occasional,High
+5+,High,Not Shared,No,Single,Frequent,High,Strained,Far,None,Daycare,Low,Low,Occasional,Low
+1-2,High,Shared,No,Single,Frequent,Moderate,Balanced,None,None,Stay-at-home,Low,High,Rare,High
+1-2,High,Not Shared,Yes,Joint,Frequent,High,Balanced,Far,Strong,Daycare,Moderate,Low,Frequent,High
+3-4,High,Not Shared,No,Joint,Frequent,High,Flexible,None,Strong,Daycare,Moderate,High,Frequent,High
+3-4,High,Not Shared,Yes,Joint,Occasional,Low,Strained,Far,Strong,Relative,High,High,Rare,High
+3-4,Moderate,Shared,Yes,Single,Occasional,High,Balanced,None,Moderate,Daycare,High,Low,Rare,Low
+None,High,Not Shared,Yes,Single,Rare,High,Strained,Near,Moderate,Stay-at-home,Moderate,Low,Occasional,High
+None,Low,Shared,No,Joint,Rare,Moderate,Balanced,Near,Strong,Daycare,Low,Moderate,Occasional,Low
+None,Moderate,Shared,No,Single,Frequent,Moderate,Flexible,Near,None,Relative,High,Moderate,Occasional,High
+5+,Moderate,Not Shared,Yes,Joint,Rare,Moderate,Flexible,Far,Strong,None,Low,Low,Frequent,Low
+1-2,Low,Shared,Yes,Single,Occasional,Moderate,Balanced,Far,None,Stay-at-home,High,Moderate,Occasional,High
+1-2,Moderate,Not Shared,No,Joint,Frequent,Moderate,Balanced,Far,None,Daycare,High,Low,Occasional,High
+None,Low,Shared,Yes,Joint,Frequent,High,Balanced,Near,Moderate,None,Low,High,Occasional,Moderate
+None,High,Shared,No,Joint,Rare,Moderate,Balanced,Far,Strong,None,Low,Moderate,Rare,Low
+None,High,Shared,No,Single,Occasional,Low,Flexible,Near,Moderate,Stay-at-home,Moderate,Low,Rare,High
+3-4,High,Shared,No,Single,Rare,Low,Balanced,Near,Moderate,Stay-at-home,Low,Moderate,Occasional,High
+None,High,Shared,Yes,Single,Frequent,Low,Flexible,None,Strong,None,Low,Moderate,Occasional,Low
+1-2,High,Shared,No,Single,Occasional,High,Balanced,Far,None,None,High,Low,Frequent,Moderate
+1-2,Low,Shared,Yes,Joint,Frequent,Low,Strained,Far,None,Nanny,High,Low,Frequent,Low
+1-2,Low,Not Shared,Yes,Single,Rare,Moderate,Balanced,Near,Moderate,Relative,Low,Low,Occasional,Low
+1-2,High,Shared,No,Single,Frequent,High,Flexible,Near,None,Stay-at-home,Low,High,Rare,Moderate
+1-2,High,Shared,Yes,Single,Frequent,Moderate,Flexible,Far,Moderate,None,Moderate,Low,Rare,Low
+1-2,Low,Not Shared,Yes,Single,Occasional,High,Flexible,Near,Strong,None,Moderate,Moderate,Frequent,High
+3-4,Low,Not Shared,No,Joint,Frequent,Low,Flexible,None,Moderate,None,Moderate,Moderate,Rare,Low
+3-4,Low,Not Shared,Yes,Single,Occasional,Low,Flexible,Far,None,Nanny,High,Low,Rare,Low
+1-2,Moderate,Not Shared,Yes,Joint,Frequent,Moderate,Flexible,Far,Strong,None,Moderate,Moderate,Frequent,High
+3-4,Low,Not Shared,No,Single,Rare,Low,Flexible,Near,Moderate,None,Low,High,Rare,Low
+5+,High,Shared,Yes,Single,Rare,High,Balanced,Far,Strong,Nanny,High,High,Rare,Moderate
+3-4,Low,Shared,No,Single,Rare,Moderate,Balanced,Far,Strong,Stay-at-home,Low,High,Frequent,Low
+3-4,Moderate,Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,Strong,None,Low,High,Rare,Moderate
+3-4,High,Shared,Yes,Joint,Rare,High,Flexible,Far,None,Nanny,Low,High,Frequent,Moderate
+3-4,High,Not Shared,Yes,Joint,Occasional,Low,Balanced,Near,None,Daycare,Low,High,Rare,Low
+3-4,High,Shared,Yes,Single,Frequent,Moderate,Flexible,None,None,Nanny,Moderate,Low,Rare,High
+None,Low,Not Shared,Yes,Joint,Occasional,Low,Flexible,Far,None,None,Low,Moderate,Rare,Moderate
+1-2,Moderate,Shared,Yes,Joint,Occasional,Low,Balanced,Near,Strong,Relative,High,Low,Frequent,High
+5+,Moderate,Shared,Yes,Single,Frequent,High,Balanced,None,None,None,Moderate,High,Frequent,Low
+5+,Moderate,Shared,No,Single,Occasional,Moderate,Balanced,Far,None,Stay-at-home,Low,Low,Occasional,High
+3-4,Low,Shared,No,Single,Rare,Low,Strained,None,None,Nanny,High,High,Frequent,Moderate
+1-2,High,Not Shared,Yes,Single,Frequent,Moderate,Strained,Near,None,Stay-at-home,Moderate,Moderate,Occasional,Moderate
+1-2,Low,Shared,No,Joint,Occasional,Moderate,Strained,Near,Strong,None,Moderate,Low,Occasional,Moderate
+5+,High,Shared,Yes,Joint,Frequent,Moderate,Flexible,Near,Moderate,None,High,High,Frequent,Moderate
+1-2,High,Shared,No,Joint,Frequent,High,Flexible,Near,Moderate,Stay-at-home,Moderate,Moderate,Occasional,Low
+3-4,High,Not Shared,No,Joint,Occasional,Moderate,Balanced,Far,Strong,Relative,Low,High,Occasional,Moderate
+3-4,Moderate,Shared,Yes,Single,Rare,Moderate,Balanced,Near,None,Relative,Low,High,Rare,Moderate
+3-4,Low,Not Shared,No,Joint,Frequent,Low,Flexible,Far,None,None,Moderate,Low,Rare,High
+5+,Low,Not Shared,Yes,Joint,Occasional,High,Strained,None,None,Stay-at-home,Moderate,High,Occasional,High
+1-2,Moderate,Not Shared,No,Single,Rare,Moderate,Strained,None,Moderate,Stay-at-home,Low,High,Occasional,Low
+5+,Moderate,Not Shared,Yes,Single,Rare,High,Strained,None,Moderate,Stay-at-home,Low,High,Frequent,High
+5+,High,Not Shared,No,Joint,Rare,High,Balanced,Far,Moderate,Daycare,Moderate,Low,Rare,Low
+5+,Low,Not Shared,No,Joint,Occasional,High,Balanced,Far,None,Nanny,Low,Moderate,Rare,Low
+1-2,High,Shared,No,Joint,Rare,High,Balanced,None,Strong,Nanny,Moderate,Moderate,Rare,High
+1-2,Low,Not Shared,Yes,Joint,Rare,High,Balanced,Near,Strong,Relative,Moderate,Moderate,Frequent,Low
+3-4,High,Shared,No,Joint,Frequent,Low,Strained,Far,Strong,None,Low,Moderate,Frequent,Moderate
+3-4,Low,Not Shared,No,Joint,Occasional,High,Flexible,Far,Strong,Daycare,Moderate,Low,Frequent,High
+1-2,Low,Not Shared,No,Joint,Rare,Moderate,Flexible,Near,None,Stay-at-home,High,High,Occasional,High
+3-4,Low,Not Shared,No,Joint,Rare,Low,Strained,Near,Strong,Daycare,High,Low,Occasional,High
+5+,High,Shared,No,Single,Occasional,Moderate,Strained,None,Strong,None,Low,Low,Occasional,Moderate
+3-4,High,Shared,Yes,Single,Occasional,Moderate,Strained,None,None,Relative,Low,High,Rare,Low
+5+,Moderate,Not Shared,Yes,Joint,Occasional,High,Flexible,None,Strong,Nanny,Moderate,Low,Occasional,High
+3-4,Moderate,Shared,Yes,Joint,Rare,Low,Strained,Far,Moderate,Daycare,Moderate,High,Frequent,Moderate
+5+,High,Shared,No,Joint,Occasional,Low,Balanced,Near,Moderate,Stay-at-home,Low,High,Occasional,Low
+3-4,High,Shared,No,Single,Rare,High,Balanced,Far,Moderate,Nanny,High,Moderate,Occasional,High
+1-2,High,Shared,Yes,Single,Occasional,Moderate,Balanced,None,Strong,Stay-at-home,Moderate,Moderate,Rare,Low
+5+,High,Shared,No,Joint,Rare,Moderate,Strained,Near,Strong,Daycare,Low,Moderate,Occasional,Low
+3-4,High,Not Shared,Yes,Joint,Rare,Low,Flexible,Near,Strong,Relative,Low,Low,Rare,Low
+5+,High,Not Shared,Yes,Single,Frequent,Moderate,Strained,Far,Strong,None,Low,High,Rare,High
+3-4,Low,Not Shared,No,Joint,Frequent,High,Strained,Far,Strong,None,Moderate,Low,Occasional,Moderate
+3-4,Moderate,Not Shared,Yes,Single,Rare,High,Balanced,None,Moderate,None,Moderate,High,Frequent,Moderate
+None,Moderate,Not Shared,Yes,Single,Rare,Low,Balanced,Near,Strong,None,Moderate,Low,Frequent,Low
+3-4,Low,Shared,Yes,Joint,Rare,Moderate,Balanced,Near,Strong,Daycare,Moderate,High,Frequent,Moderate
+3-4,Moderate,Not Shared,No,Joint,Rare,High,Strained,Near,Strong,Relative,Moderate,Moderate,Frequent,Low
+5+,Moderate,Shared,Yes,Joint,Occasional,Low,Flexible,Far,None,None,Moderate,High,Frequent,Low
+1-2,High,Shared,Yes,Joint,Rare,High,Flexible,None,Moderate,None,Low,Moderate,Occasional,Low
+None,Low,Not Shared,Yes,Joint,Occasional,High,Strained,Far,Moderate,Relative,Low,Moderate,Frequent,Low
+5+,Low,Not Shared,No,Single,Occasional,High,Strained,None,None,Nanny,Moderate,Moderate,Occasional,Low
+5+,Low,Shared,Yes,Single,Occasional,High,Flexible,Far,Moderate,None,Moderate,Moderate,Rare,High
+1-2,Moderate,Not Shared,No,Joint,Frequent,Moderate,Flexible,None,None,Relative,Moderate,Moderate,Occasional,Low
+3-4,High,Shared,No,Single,Frequent,Low,Balanced,None,None,Stay-at-home,Low,Low,Frequent,High
+1-2,Moderate,Not Shared,Yes,Joint,Rare,High,Balanced,None,Strong,Nanny,Low,Low,Occasional,High
+3-4,Low,Not Shared,Yes,Single,Frequent,Low,Flexible,None,Strong,Nanny,High,High,Frequent,High
+None,Moderate,Shared,No,Single,Occasional,Moderate,Balanced,None,None,Nanny,Moderate,Low,Occasional,Low
+None,Moderate,Not Shared,No,Joint,Frequent,High,Strained,Near,Strong,Daycare,High,High,Rare,High
+None,High,Not Shared,Yes,Single,Frequent,Low,Balanced,None,Strong,Nanny,High,High,Frequent,High
+5+,Moderate,Shared,Yes,Joint,Frequent,High,Balanced,Far,None,None,High,Moderate,Rare,High
+1-2,High,Not Shared,No,Single,Frequent,Low,Flexible,Far,None,Relative,Moderate,High,Rare,High
+3-4,Low,Shared,Yes,Single,Rare,High,Strained,None,None,Relative,Moderate,High,Occasional,Low
+1-2,High,Not Shared,Yes,Single,Frequent,Moderate,Flexible,None,None,None,Moderate,Moderate,Rare,High
+None,Moderate,Shared,No,Single,Rare,High,Balanced,Near,Moderate,Stay-at-home,High,High,Rare,Moderate
+3-4,Moderate,Not Shared,No,Joint,Rare,Low,Balanced,None,Moderate,Daycare,Moderate,Moderate,Occasional,Low
+1-2,Moderate,Shared,No,Single,Occasional,High,Balanced,Far,Strong,Stay-at-home,Low,Moderate,Occasional,Low
+3-4,Moderate,Not Shared,Yes,Joint,Rare,High,Strained,Far,Strong,Relative,High,Low,Frequent,High
+None,High,Shared,No,Joint,Frequent,High,Balanced,Far,Moderate,Relative,Moderate,Moderate,Rare,High
+1-2,Moderate,Shared,Yes,Single,Rare,Moderate,Strained,Near,Strong,Nanny,Moderate,Low,Occasional,Low
+5+,Moderate,Not Shared,Yes,Single,Frequent,Moderate,Strained,Near,None,Nanny,High,Moderate,Rare,Moderate
+None,High,Shared,Yes,Joint,Occasional,Low,Strained,Far,None,Daycare,Moderate,High,Occasional,High
+3-4,High,Not Shared,No,Single,Occasional,High,Strained,None,Moderate,None,Low,Moderate,Occasional,Low
+5+,Moderate,Not Shared,No,Single,Occasional,High,Balanced,None,None,Nanny,Moderate,Low,Rare,Low
+1-2,High,Not Shared,Yes,Single,Frequent,High,Balanced,Far,None,Nanny,High,Moderate,Occasional,Low
+None,Moderate,Not Shared,No,Joint,Frequent,High,Balanced,None,Strong,Relative,Low,Moderate,Frequent,Low
+3-4,High,Not Shared,No,Joint,Occasional,High,Flexible,Far,Moderate,Daycare,Moderate,Low,Frequent,High
+None,Low,Shared,No,Single,Occasional,Low,Balanced,Far,Moderate,Daycare,High,High,Frequent,Low
+1-2,Low,Shared,No,Joint,Frequent,Moderate,Strained,Far,Moderate,Relative,Moderate,High,Frequent,Moderate
+5+,Low,Not Shared,Yes,Single,Rare,Moderate,Strained,Near,None,None,Moderate,Moderate,Rare,Low
+5+,Low,Not Shared,No,Single,Frequent,Moderate,Balanced,Near,Moderate,Stay-at-home,High,Moderate,Rare,Moderate
+None,Moderate,Shared,No,Single,Occasional,Moderate,Strained,Far,Moderate,Nanny,Moderate,Moderate,Rare,Low
+3-4,Low,Shared,No,Single,Occasional,Low,Balanced,None,Strong,Relative,Moderate,Low,Rare,Low
+None,Low,Not Shared,Yes,Joint,Frequent,High,Flexible,Far,Strong,Nanny,High,Moderate,Rare,High
+5+,High,Not Shared,No,Single,Occasional,Moderate,Strained,Far,Moderate,Nanny,High,High,Frequent,High
+5+,High,Shared,No,Single,Rare,Moderate,Balanced,Far,None,Nanny,Moderate,Low,Rare,High
+3-4,High,Shared,Yes,Joint,Rare,High,Balanced,Far,None,Relative,High,High,Occasional,High
+3-4,Low,Shared,Yes,Single,Frequent,High,Balanced,None,Strong,Nanny,Low,Low,Occasional,Low
+5+,Moderate,Not Shared,Yes,Single,Occasional,High,Flexible,None,Strong,Stay-at-home,Moderate,Moderate,Frequent,High
+3-4,Low,Shared,No,Joint,Rare,Moderate,Flexible,Far,None,Nanny,Low,Low,Occasional,Low
+1-2,Low,Not Shared,Yes,Joint,Occasional,High,Balanced,Near,Strong,Nanny,Low,Moderate,Rare,Moderate
+1-2,High,Not Shared,Yes,Single,Occasional,High,Strained,Near,Strong,None,Low,Low,Rare,Moderate
+1-2,Low,Shared,Yes,Single,Occasional,High,Flexible,Near,None,Relative,High,High,Frequent,Moderate
+5+,High,Not Shared,No,Single,Occasional,High,Flexible,Far,Strong,Stay-at-home,Low,Moderate,Occasional,Moderate
+1-2,High,Not Shared,Yes,Joint,Occasional,High,Strained,Near,Strong,Relative,Low,Low,Frequent,Moderate
+3-4,Moderate,Not Shared,No,Joint,Frequent,Moderate,Flexible,Near,Strong,Stay-at-home,Low,Moderate,Rare,High
+None,Moderate,Shared,Yes,Joint,Frequent,High,Balanced,None,Strong,Daycare,Low,High,Rare,Moderate
+1-2,Moderate,Shared,No,Single,Frequent,Moderate,Strained,Far,Strong,None,High,Low,Frequent,Low
+None,High,Shared,Yes,Joint,Occasional,Low,Flexible,Near,Moderate,None,High,Low,Rare,Low
+5+,Low,Shared,Yes,Single,Frequent,Low,Flexible,None,Strong,None,Low,High,Frequent,Moderate
+5+,High,Shared,No,Single,Frequent,Low,Balanced,None,Strong,Stay-at-home,Low,High,Frequent,Moderate
+None,Low,Shared,Yes,Joint,Occasional,Moderate,Flexible,None,Strong,Stay-at-home,High,High,Occasional,Moderate
+None,Low,Not Shared,Yes,Joint,Rare,High,Balanced,Far,Moderate,Daycare,Low,Moderate,Frequent,Moderate
+5+,High,Shared,No,Single,Occasional,High,Balanced,None,Strong,None,High,Moderate,Occasional,High
+1-2,High,Shared,Yes,Single,Frequent,Moderate,Balanced,None,None,Stay-at-home,Low,Moderate,Frequent,Low
+None,Moderate,Shared,No,Single,Frequent,Low,Strained,Near,Moderate,Daycare,Moderate,High,Rare,Moderate
+5+,High,Shared,No,Joint,Rare,Low,Flexible,Near,Moderate,Nanny,Low,Low,Occasional,Low
+3-4,High,Not Shared,No,Single,Rare,Moderate,Balanced,Far,Strong,None,Low,Moderate,Frequent,Low
+5+,High,Not Shared,No,Single,Occasional,High,Flexible,None,None,Nanny,Moderate,Moderate,Rare,Low
+5+,Low,Shared,No,Single,Frequent,Low,Flexible,None,Moderate,Stay-at-home,Moderate,High,Occasional,High
+3-4,High,Shared,No,Joint,Frequent,Moderate,Balanced,None,Strong,Nanny,Moderate,Low,Rare,Moderate
+None,Moderate,Shared,No,Single,Rare,Low,Balanced,Near,Strong,Nanny,High,Low,Rare,High
+5+,High,Not Shared,No,Joint,Frequent,Low,Balanced,Far,Moderate,Daycare,Moderate,Moderate,Frequent,Moderate
+None,High,Not Shared,No,Single,Frequent,Moderate,Balanced,None,None,None,High,Low,Rare,High
+3-4,Low,Not Shared,Yes,Single,Frequent,Moderate,Balanced,None,None,Relative,High,Moderate,Rare,High
+5+,Low,Shared,No,Single,Rare,Moderate,Flexible,Near,Moderate,Stay-at-home,Low,High,Frequent,Low
+1-2,High,Shared,No,Joint,Frequent,High,Flexible,None,Strong,Stay-at-home,High,Low,Rare,High
+None,High,Shared,No,Joint,Frequent,Moderate,Flexible,None,None,Daycare,Moderate,Moderate,Occasional,Low
+None,Moderate,Not Shared,No,Joint,Rare,Moderate,Flexible,Near,Moderate,Relative,High,High,Rare,High
+3-4,High,Shared,Yes,Single,Frequent,Low,Balanced,None,Moderate,Nanny,Moderate,Low,Rare,Low
+None,Moderate,Not Shared,Yes,Single,Rare,Low,Strained,None,Moderate,Stay-at-home,Moderate,High,Occasional,Moderate
+1-2,Low,Not Shared,No,Joint,Frequent,High,Strained,Far,Strong,None,High,Low,Frequent,High
+None,Moderate,Not Shared,No,Single,Occasional,Low,Flexible,None,Moderate,Nanny,Moderate,Moderate,Occasional,Low
+3-4,High,Not Shared,No,Joint,Frequent,High,Balanced,Near,Moderate,Stay-at-home,Low,Moderate,Frequent,Low
+5+,Moderate,Shared,Yes,Joint,Rare,High,Flexible,None,None,Stay-at-home,High,Low,Rare,Moderate
+5+,High,Shared,Yes,Single,Rare,High,Strained,Far,None,Nanny,Low,Low,Rare,Low
+3-4,Low,Shared,No,Joint,Rare,Moderate,Flexible,Near,Moderate,Stay-at-home,Low,Moderate,Occasional,Moderate
+1-2,Moderate,Not Shared,No,Joint,Rare,Low,Strained,Near,Moderate,Nanny,High,High,Rare,High
+None,Moderate,Not Shared,No,Single,Occasional,Low,Balanced,Near,None,Stay-at-home,High,Moderate,Rare,Low
+3-4,Low,Shared,Yes,Single,Frequent,Low,Flexible,Far,Strong,None,High,Low,Frequent,High
+5+,Low,Not Shared,Yes,Joint,Occasional,Low,Balanced,Far,None,Daycare,High,High,Frequent,Low
+5+,Low,Not Shared,No,Joint,Frequent,Low,Strained,Far,Strong,None,High,Moderate,Frequent,High
+None,Low,Shared,Yes,Single,Frequent,High,Balanced,Near,None,Relative,High,Low,Rare,Low
+3-4,High,Shared,No,Joint,Frequent,High,Balanced,Near,Moderate,Daycare,High,Low,Occasional,Moderate
+1-2,High,Shared,No,Single,Frequent,Moderate,Balanced,None,Strong,Nanny,Low,Low,Frequent,Low
+3-4,Low,Shared,No,Joint,Frequent,High,Flexible,None,Strong,Daycare,High,Moderate,Occasional,High
+1-2,Moderate,Not Shared,No,Single,Frequent,Moderate,Strained,Near,None,Daycare,High,High,Rare,Moderate
+1-2,High,Shared,Yes,Single,Rare,High,Strained,Far,Moderate,Daycare,Moderate,Moderate,Rare,Moderate
+1-2,Low,Shared,Yes,Joint,Frequent,Low,Flexible,Near,None,Stay-at-home,High,High,Occasional,High
+None,High,Not Shared,No,Single,Rare,High,Strained,Near,Moderate,Daycare,High,Low,Frequent,Low
+5+,High,Shared,No,Joint,Occasional,Moderate,Flexible,None,Moderate,Nanny,High,Low,Occasional,Low
+3-4,High,Not Shared,No,Single,Frequent,Moderate,Flexible,Near,Moderate,Daycare,High,Low,Occasional,Moderate
+3-4,High,Shared,Yes,Joint,Frequent,Low,Balanced,None,Moderate,Relative,High,Low,Frequent,Low
+3-4,Low,Not Shared,Yes,Joint,Rare,Low,Strained,Far,None,Daycare,Low,High,Occasional,Moderate
+None,Low,Shared,Yes,Single,Occasional,High,Balanced,Far,None,Daycare,Low,High,Occasional,Moderate
+3-4,Low,Shared,Yes,Joint,Rare,Low,Flexible,Near,None,Daycare,High,Low,Frequent,High
+None,Moderate,Shared,Yes,Joint,Frequent,Moderate,Balanced,Far,Moderate,Relative,Moderate,Low,Occasional,Low
+None,Low,Not Shared,Yes,Joint,Occasional,Low,Flexible,Near,Strong,Relative,Moderate,High,Occasional,High
+1-2,Low,Shared,Yes,Single,Rare,Moderate,Flexible,None,None,Relative,Low,High,Frequent,Low
+3-4,Low,Shared,Yes,Single,Rare,Low,Flexible,Near,Strong,Stay-at-home,Moderate,Moderate,Frequent,High
+1-2,Low,Shared,No,Joint,Rare,Moderate,Strained,Far,Strong,None,Moderate,High,Frequent,High
+3-4,Low,Shared,Yes,Single,Occasional,Low,Balanced,Near,Strong,Nanny,Low,High,Rare,Moderate
+3-4,High,Shared,No,Joint,Frequent,Low,Balanced,Far,Strong,Nanny,High,Low,Rare,Low
+5+,Moderate,Shared,Yes,Single,Rare,High,Balanced,None,Strong,Stay-at-home,Moderate,Low,Occasional,Low
+None,High,Not Shared,No,Single,Rare,Moderate,Strained,None,Strong,Daycare,Low,Low,Rare,Low
+3-4,High,Not Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,None,Stay-at-home,High,Moderate,Frequent,High
+None,High,Not Shared,Yes,Joint,Occasional,High,Flexible,None,Moderate,Nanny,Moderate,High,Occasional,Low
+5+,High,Not Shared,Yes,Joint,Rare,High,Balanced,Far,Moderate,Stay-at-home,Low,High,Occasional,High
+None,Moderate,Not Shared,Yes,Single,Occasional,Low,Balanced,None,None,Stay-at-home,High,High,Occasional,Moderate
+1-2,Low,Shared,No,Single,Rare,Moderate,Balanced,Far,None,Daycare,Low,Low,Occasional,Moderate
+3-4,High,Not Shared,Yes,Joint,Occasional,Moderate,Balanced,Near,Strong,Stay-at-home,High,High,Frequent,Low
+5+,Moderate,Shared,No,Joint,Frequent,Moderate,Flexible,None,Moderate,Relative,Low,Low,Rare,High
+1-2,Moderate,Shared,Yes,Single,Occasional,High,Flexible,Far,None,Nanny,Low,High,Frequent,Moderate
+5+,Moderate,Shared,Yes,Joint,Frequent,Low,Balanced,None,None,Stay-at-home,High,High,Frequent,Moderate
+None,High,Shared,No,Single,Rare,High,Strained,Far,Moderate,None,High,High,Rare,Moderate
+5+,Moderate,Not Shared,Yes,Joint,Frequent,High,Strained,None,None,Relative,Low,Low,Rare,High
+1-2,High,Shared,No,Joint,Frequent,Moderate,Flexible,None,None,Stay-at-home,Moderate,High,Frequent,Low
+None,Low,Not Shared,Yes,Single,Rare,Moderate,Balanced,None,None,Daycare,High,High,Rare,Low
+1-2,Moderate,Shared,Yes,Single,Rare,High,Balanced,None,Strong,Stay-at-home,High,High,Occasional,High
+None,High,Shared,Yes,Single,Frequent,Low,Flexible,Near,Strong,Nanny,Moderate,Moderate,Frequent,High
+None,High,Not Shared,Yes,Joint,Frequent,Moderate,Strained,None,Moderate,None,High,High,Rare,Low
+None,High,Not Shared,No,Joint,Frequent,Low,Flexible,Far,Strong,Relative,High,High,Occasional,Moderate
+5+,Moderate,Shared,Yes,Joint,Rare,Moderate,Balanced,Near,Moderate,None,High,Moderate,Rare,High
+1-2,Low,Not Shared,No,Joint,Occasional,Moderate,Balanced,Far,None,None,High,Moderate,Rare,High
+5+,Moderate,Not Shared,Yes,Joint,Occasional,Low,Strained,Far,None,Relative,Moderate,Low,Occasional,Moderate
+3-4,Moderate,Not Shared,No,Single,Rare,High,Flexible,None,Strong,Nanny,High,Moderate,Rare,Low
+None,Low,Not Shared,Yes,Single,Rare,High,Flexible,None,Strong,Relative,High,High,Frequent,High
+None,Low,Not Shared,Yes,Joint,Occasional,Low,Balanced,Far,Strong,None,Moderate,Moderate,Occasional,Low
+5+,High,Not Shared,Yes,Single,Rare,Moderate,Strained,Far,Strong,None,High,Moderate,Occasional,Moderate
+5+,High,Not Shared,Yes,Joint,Rare,Low,Flexible,Far,None,Stay-at-home,High,Low,Occasional,Low
+5+,High,Shared,Yes,Joint,Rare,High,Flexible,Near,Moderate,Stay-at-home,Low,Low,Rare,Low
+1-2,Moderate,Shared,No,Joint,Rare,High,Balanced,Near,None,Daycare,High,Moderate,Occasional,Low
+5+,High,Not Shared,No,Joint,Rare,Moderate,Flexible,Far,Strong,Nanny,High,Moderate,Rare,Moderate
+None,High,Shared,Yes,Single,Frequent,Moderate,Balanced,Near,Strong,Daycare,High,High,Rare,Moderate
+1-2,Low,Shared,No,Joint,Rare,Moderate,Flexible,None,Moderate,Relative,Moderate,High,Rare,Low
+3-4,Low,Not Shared,No,Joint,Frequent,Moderate,Flexible,Near,Moderate,Nanny,Moderate,High,Rare,Moderate
+None,Low,Not Shared,No,Single,Frequent,High,Flexible,Far,None,Nanny,Moderate,Moderate,Frequent,High
+3-4,Moderate,Shared,No,Joint,Occasional,High,Balanced,None,Strong,Relative,High,Low,Frequent,Moderate
+5+,Moderate,Shared,No,Single,Frequent,High,Balanced,Far,Moderate,None,Low,Moderate,Frequent,High
+None,High,Not Shared,Yes,Single,Occasional,High,Flexible,Far,None,Relative,Low,Low,Occasional,Low
+5+,Moderate,Not Shared,No,Joint,Occasional,High,Strained,Far,Moderate,Stay-at-home,High,Moderate,Frequent,High
+5+,Moderate,Shared,No,Joint,Frequent,High,Flexible,None,None,Stay-at-home,High,Low,Frequent,Moderate
+1-2,High,Not Shared,No,Joint,Frequent,Moderate,Balanced,Near,Strong,None,High,Moderate,Frequent,Moderate
+5+,High,Shared,Yes,Single,Occasional,Moderate,Strained,Far,Strong,Daycare,Low,Low,Rare,Moderate
+None,High,Shared,Yes,Single,Occasional,Moderate,Strained,Far,None,Nanny,Moderate,Moderate,Occasional,Moderate
+3-4,Low,Shared,Yes,Single,Frequent,Low,Strained,None,Moderate,Daycare,Low,Low,Rare,High
+5+,Moderate,Shared,Yes,Joint,Frequent,Low,Balanced,Far,Moderate,Relative,Low,Moderate,Frequent,High
+1-2,Low,Not Shared,No,Joint,Rare,Low,Balanced,Far,Moderate,Stay-at-home,Low,Low,Frequent,Moderate
+None,Moderate,Not Shared,No,Single,Frequent,Moderate,Flexible,None,Strong,Relative,Low,Low,Frequent,Moderate
+None,High,Shared,Yes,Single,Occasional,High,Flexible,Far,Strong,Daycare,Moderate,High,Rare,High
+1-2,Moderate,Shared,No,Joint,Occasional,Moderate,Balanced,Near,Moderate,Stay-at-home,High,High,Frequent,High
+None,Moderate,Shared,Yes,Single,Occasional,Low,Flexible,Near,None,None,Moderate,Low,Rare,Moderate
+1-2,Moderate,Not Shared,No,Single,Frequent,Low,Flexible,None,Strong,None,Low,Moderate,Frequent,Low
+1-2,Low,Shared,No,Single,Frequent,Low,Flexible,Near,None,Daycare,High,Low,Frequent,High
+1-2,Moderate,Shared,No,Single,Rare,Low,Balanced,None,None,Stay-at-home,Low,High,Rare,Moderate
+3-4,Moderate,Not Shared,No,Single,Occasional,Moderate,Balanced,None,Strong,Nanny,Moderate,Moderate,Occasional,Moderate
+None,Low,Shared,Yes,Joint,Occasional,Low,Flexible,None,Strong,Relative,High,Moderate,Rare,High
+5+,Low,Shared,No,Single,Frequent,Low,Strained,Near,Moderate,Relative,High,Moderate,Occasional,High
+3-4,Moderate,Shared,Yes,Single,Frequent,Moderate,Flexible,Far,Strong,Stay-at-home,High,Low,Frequent,Low
+3-4,High,Not Shared,No,Single,Frequent,Moderate,Balanced,None,Strong,Relative,High,Low,Occasional,High
+None,High,Shared,No,Single,Rare,Low,Balanced,None,None,Daycare,Moderate,Low,Occasional,Moderate
+None,Moderate,Shared,Yes,Single,Occasional,Moderate,Flexible,None,None,Nanny,Low,High,Rare,Moderate
+5+,High,Shared,No,Single,Frequent,High,Balanced,None,Strong,Daycare,High,Low,Frequent,Low
+None,High,Shared,No,Single,Occasional,High,Flexible,Far,Strong,None,High,High,Occasional,Moderate
+1-2,High,Not Shared,Yes,Single,Frequent,Moderate,Strained,None,Strong,Stay-at-home,High,Low,Rare,Moderate
+1-2,Moderate,Not Shared,Yes,Single,Occasional,High,Balanced,Near,None,None,Moderate,Moderate,Rare,Low
+3-4,Moderate,Not Shared,Yes,Joint,Rare,Moderate,Flexible,Far,Moderate,Nanny,High,Low,Occasional,Moderate
+None,High,Not Shared,No,Joint,Occasional,Low,Strained,Near,None,Daycare,Low,Low,Occasional,Low
+3-4,Moderate,Not Shared,No,Single,Occasional,High,Balanced,Near,Moderate,None,Moderate,Low,Rare,Moderate
+5+,High,Not Shared,No,Joint,Rare,Low,Balanced,Far,None,Stay-at-home,Low,High,Occasional,Low
+1-2,High,Shared,Yes,Single,Rare,High,Balanced,Near,Moderate,Nanny,Moderate,High,Occasional,High
+1-2,Moderate,Shared,No,Joint,Frequent,Low,Balanced,Far,None,Daycare,Low,High,Occasional,Low
+1-2,High,Not Shared,No,Single,Frequent,Low,Balanced,None,None,Nanny,Moderate,High,Frequent,Low
+3-4,Low,Not Shared,Yes,Joint,Occasional,High,Strained,Far,None,Stay-at-home,Low,Moderate,Frequent,Low
+None,High,Shared,Yes,Joint,Rare,Moderate,Balanced,Far,Strong,None,High,Moderate,Rare,High
+1-2,High,Shared,Yes,Single,Frequent,Moderate,Flexible,None,None,Stay-at-home,Moderate,High,Occasional,High
+1-2,High,Not Shared,Yes,Single,Rare,Low,Flexible,Near,Strong,Daycare,High,High,Frequent,High
+3-4,High,Not Shared,Yes,Joint,Occasional,High,Balanced,Far,None,None,Moderate,Moderate,Frequent,Low
+None,High,Not Shared,Yes,Single,Frequent,Moderate,Strained,Far,None,Daycare,High,Low,Rare,Moderate
+3-4,High,Not Shared,No,Single,Rare,High,Strained,None,None,Stay-at-home,High,Moderate,Frequent,High
+1-2,Moderate,Not Shared,Yes,Joint,Occasional,Low,Balanced,Near,Strong,None,High,Moderate,Rare,Moderate
+3-4,Moderate,Shared,No,Joint,Rare,Low,Strained,None,None,Nanny,Moderate,High,Frequent,Low
+5+,Low,Shared,Yes,Joint,Frequent,Moderate,Flexible,None,Strong,Nanny,Moderate,Moderate,Rare,Moderate
+3-4,Low,Shared,No,Joint,Occasional,High,Flexible,Near,None,Nanny,Low,Low,Frequent,Low
+5+,High,Not Shared,Yes,Single,Occasional,Low,Flexible,Far,Moderate,Relative,High,High,Occasional,High
+None,High,Not Shared,Yes,Single,Rare,Low,Flexible,None,Strong,Daycare,Low,Moderate,Occasional,Low
+5+,Moderate,Not Shared,Yes,Single,Rare,Low,Balanced,Near,Moderate,Relative,High,Low,Occasional,Moderate
+None,Moderate,Not Shared,Yes,Single,Frequent,High,Strained,Near,None,None,Moderate,Moderate,Frequent,Moderate
+1-2,Moderate,Not Shared,Yes,Single,Occasional,Low,Balanced,Far,None,Relative,High,High,Rare,Low
+1-2,High,Not Shared,Yes,Single,Frequent,Low,Strained,Far,Moderate,Nanny,Low,Moderate,Rare,Moderate
+5+,High,Not Shared,Yes,Single,Frequent,High,Flexible,None,Strong,Stay-at-home,Moderate,High,Rare,High
+5+,High,Shared,No,Joint,Occasional,High,Strained,Far,None,Relative,High,Low,Frequent,Moderate
+5+,High,Shared,No,Joint,Occasional,High,Flexible,Far,Moderate,Stay-at-home,High,Moderate,Rare,High
+1-2,High,Shared,Yes,Joint,Rare,Moderate,Flexible,Near,Moderate,Daycare,High,Moderate,Frequent,Low
+3-4,High,Shared,No,Joint,Occasional,Low,Flexible,None,None,Relative,High,Low,Frequent,Moderate
+None,Moderate,Shared,No,Single,Rare,Moderate,Balanced,Far,Strong,Daycare,Low,Low,Frequent,Moderate
+1-2,High,Not Shared,Yes,Single,Rare,Moderate,Strained,None,Strong,Daycare,High,Moderate,Occasional,Low
+1-2,Low,Shared,Yes,Joint,Frequent,High,Flexible,None,None,Stay-at-home,Moderate,Low,Rare,High
+3-4,Moderate,Shared,No,Single,Occasional,Moderate,Strained,Near,Moderate,Daycare,Low,Low,Occasional,Low
+3-4,Low,Not Shared,Yes,Joint,Rare,High,Strained,Near,Moderate,Relative,Low,Moderate,Occasional,High
+3-4,High,Not Shared,Yes,Joint,Occasional,High,Balanced,Near,None,Nanny,Low,Moderate,Occasional,Low
+1-2,Moderate,Not Shared,Yes,Joint,Rare,High,Flexible,None,Moderate,Daycare,Low,Low,Rare,Low
+5+,Moderate,Not Shared,No,Single,Occasional,High,Strained,Far,None,Daycare,Moderate,High,Frequent,High
+5+,High,Shared,No,Joint,Rare,Moderate,Balanced,None,None,Stay-at-home,Low,High,Rare,Low
+3-4,High,Not Shared,No,Single,Rare,High,Balanced,Far,None,Stay-at-home,High,High,Rare,High
+None,Low,Shared,Yes,Single,Occasional,High,Balanced,Far,Strong,Nanny,High,Moderate,Rare,Low
+None,Low,Not Shared,No,Joint,Occasional,High,Balanced,Near,Moderate,Daycare,Moderate,High,Occasional,Moderate
+None,High,Not Shared,No,Joint,Frequent,Low,Balanced,Far,Strong,Relative,High,Low,Occasional,Low
+3-4,High,Shared,No,Single,Occasional,Low,Strained,None,Moderate,Relative,Moderate,Moderate,Frequent,High
+None,Low,Shared,Yes,Joint,Occasional,High,Balanced,Far,None,Stay-at-home,Low,High,Rare,Low
+1-2,Moderate,Shared,No,Single,Occasional,High,Strained,Near,Strong,Stay-at-home,High,Low,Rare,High
+1-2,Moderate,Not Shared,No,Joint,Occasional,Moderate,Flexible,Near,Moderate,None,Moderate,High,Rare,Moderate
+5+,High,Not Shared,No,Joint,Occasional,Moderate,Strained,Far,None,None,Moderate,High,Frequent,Low
+None,Low,Not Shared,No,Joint,Frequent,Moderate,Strained,Far,Strong,Relative,Moderate,Low,Occasional,Moderate
+5+,Moderate,Not Shared,No,Single,Occasional,Moderate,Flexible,Near,None,Relative,High,Moderate,Rare,Low
+3-4,Moderate,Shared,Yes,Joint,Rare,Low,Strained,Far,Moderate,Nanny,Low,Moderate,Frequent,Moderate
+5+,High,Not Shared,Yes,Single,Occasional,Moderate,Balanced,Near,Strong,None,High,High,Frequent,Moderate
+5+,Moderate,Shared,Yes,Joint,Occasional,High,Balanced,None,Strong,Daycare,Moderate,Moderate,Occasional,High
+None,Moderate,Shared,No,Single,Rare,High,Balanced,Near,None,Relative,High,Moderate,Occasional,Moderate
+None,Moderate,Shared,No,Joint,Occasional,Moderate,Balanced,Near,Moderate,Relative,High,Moderate,Frequent,Moderate
+3-4,High,Shared,No,Single,Rare,High,Balanced,Near,None,Stay-at-home,High,High,Occasional,Low
+None,High,Shared,No,Joint,Occasional,High,Flexible,Far,Moderate,None,High,Moderate,Rare,Moderate
+1-2,High,Shared,Yes,Joint,Occasional,Low,Flexible,Far,None,None,High,Moderate,Occasional,Low
+None,Moderate,Not Shared,No,Single,Frequent,Low,Balanced,Far,None,Stay-at-home,High,Low,Frequent,Low
+1-2,High,Not Shared,Yes,Single,Occasional,High,Flexible,Near,Moderate,None,High,High,Occasional,Low
+3-4,Low,Shared,No,Joint,Rare,Low,Flexible,None,None,Stay-at-home,Low,Low,Frequent,Low
+1-2,Low,Shared,No,Single,Rare,Low,Flexible,Near,Moderate,Daycare,Low,Moderate,Frequent,Low
+1-2,Moderate,Not Shared,Yes,Joint,Frequent,Low,Flexible,Near,Moderate,Stay-at-home,Moderate,High,Frequent,Moderate
+5+,Moderate,Not Shared,Yes,Joint,Frequent,Moderate,Balanced,Far,None,Daycare,Moderate,High,Frequent,High
+None,Moderate,Shared,Yes,Joint,Frequent,Low,Balanced,None,None,Relative,High,High,Occasional,High
+1-2,High,Not Shared,Yes,Single,Occasional,High,Balanced,Far,Strong,Nanny,Low,Moderate,Frequent,Moderate
+None,Low,Not Shared,No,Single,Occasional,Low,Balanced,None,Strong,Stay-at-home,Moderate,Low,Frequent,Low
+5+,Moderate,Not Shared,Yes,Single,Occasional,Low,Balanced,None,Strong,Nanny,Moderate,Low,Frequent,Low
+1-2,Moderate,Not Shared,Yes,Joint,Occasional,High,Strained,Far,Moderate,Stay-at-home,Low,High,Occasional,High
+5+,Moderate,Shared,No,Single,Frequent,Moderate,Strained,None,Strong,Nanny,Moderate,High,Occasional,Moderate
+1-2,Moderate,Shared,Yes,Single,Frequent,High,Flexible,None,Moderate,Stay-at-home,Low,Low,Occasional,Low
+1-2,Low,Not Shared,Yes,Joint,Rare,Moderate,Strained,Far,Moderate,Daycare,High,Moderate,Occasional,High
+5+,Moderate,Not Shared,No,Single,Occasional,Low,Strained,None,Strong,Stay-at-home,Low,High,Occasional,High
+None,High,Shared,No,Joint,Rare,Moderate,Balanced,Near,Strong,Stay-at-home,High,High,Frequent,Low
+1-2,Low,Not Shared,No,Single,Rare,Moderate,Flexible,None,None,Relative,High,Low,Rare,Moderate
+1-2,Low,Not Shared,No,Single,Rare,Low,Flexible,Near,Strong,Daycare,Low,Moderate,Frequent,Low
+None,Low,Not Shared,No,Joint,Rare,High,Strained,None,Strong,Stay-at-home,High,Moderate,Frequent,Low
+5+,High,Shared,No,Single,Rare,High,Flexible,None,Moderate,Nanny,High,Low,Rare,High
+3-4,Moderate,Not Shared,No,Single,Frequent,Low,Flexible,Near,None,Nanny,High,Low,Frequent,High
+3-4,Moderate,Shared,No,Single,Rare,High,Strained,None,Strong,None,Low,Moderate,Occasional,High
+1-2,High,Shared,No,Single,Rare,High,Flexible,Near,Moderate,None,Low,Moderate,Rare,Low
+5+,High,Not Shared,No,Single,Occasional,High,Strained,Near,Strong,Nanny,Low,Low,Occasional,Low
+None,Moderate,Shared,No,Single,Frequent,Low,Flexible,None,Strong,Nanny,Moderate,Low,Frequent,Moderate

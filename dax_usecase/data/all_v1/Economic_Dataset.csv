@@ -1,0 +1,501 @@
+annual_income_range,employment_status,job_title,industry,property_ownership,socio-economic_classification,tax_bracket,wealth_index,debt_levels,retirement_savings,investment_types,household_expenses,credit_worthiness,income_growth_rate,employment_history,affluence
+$100k-$200k,Freelancer,Clerk,Other,Owner,Lower,30-40%,High,High Debt,$50k-$100k,Mutual Funds,<$1000,Poor,Negative,Stable,High Affluence
+$50k-$100k,Employed,Manager,IT,Owner,Lower,20-30%,Medium,No Debt,<$50k,Cryptocurrency,<$1000,Poor,10%+,Frequent Changes,Low Affluence
+$25k-$50k,Unemployed,Technician,IT,Other,Upper,<10%,Medium,No Debt,>$200k,Stocks,>$5000,Poor,5-10%,Frequent Changes,High Affluence
+>$200k,Freelancer,Manager,Other,Owner,Lower-Middle,30-40%,Low,Moderate Debt,$50k-$100k,Real Estate,>$5000,Good,5-10%,Stable,High Affluence
+>$200k,Unemployed,Other,IT,Owner,Lower,40%+,High,No Debt,<$50k,Real Estate,>$5000,Excellent,Negative,Unstable,High Affluence
+>$200k,Employed,Other,Healthcare,Other,Middle,<10%,Medium,No Debt,$100k-$200k,Real Estate,>$5000,Fair,10%+,Frequent Changes,High Affluence
+<$25k,Employed,Clerk,Healthcare,Other,Middle,10-20%,Low,High Debt,$100k-$200k,None,<$1000,Good,0-5%,Stable,Low Affluence
+$25k-$50k,Employed,Consultant,Finance,Owner,Upper-Middle,10-20%,High,Moderate Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Good,5-10%,Unstable,High Affluence
+>$200k,Part-time,Manager,IT,Renter,Upper-Middle,20-30%,Medium,Moderate Debt,$50k-$100k,None,>$5000,Good,Negative,Stable,High Affluence
+<$25k,Employed,Consultant,Education,Other,Lower,10-20%,High,Low Debt,>$200k,Cryptocurrency,<$1000,Good,Negative,Unstable,Low Affluence
+>$200k,Unemployed,Manager,IT,Renter,Lower,40%+,Medium,No Debt,$100k-$200k,Real Estate,<$1000,Good,0-5%,Frequent Changes,High Affluence
+>$200k,Employed,Technician,Other,Owner,Lower,40%+,Medium,No Debt,$100k-$200k,Mutual Funds,>$5000,Good,0-5%,Frequent Changes,High Affluence
+>$200k,Employed,Other,Finance,Renter,Lower-Middle,10-20%,Medium,No Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Excellent,0-5%,Stable,High Affluence
+$25k-$50k,Freelancer,Technician,Finance,Other,Lower,10-20%,Low,High Debt,<$50k,Real Estate,$1000-$3000,Poor,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Consultant,IT,Renter,Upper-Middle,40%+,Low,Moderate Debt,$100k-$200k,None,>$5000,Excellent,5-10%,Stable,Low Affluence
+$100k-$200k,Employed,Manager,Other,Owner,Middle,30-40%,Medium,Low Debt,>$200k,Mutual Funds,$1000-$3000,Excellent,10%+,Stable,High Affluence
+<$25k,Freelancer,Clerk,IT,Other,Upper-Middle,10-20%,Low,Moderate Debt,<$50k,Real Estate,<$1000,Fair,Negative,Unstable,Low Affluence
+$50k-$100k,Part-time,Technician,Healthcare,Other,Lower,40%+,High,Moderate Debt,$50k-$100k,Stocks,$1000-$3000,Excellent,Negative,Frequent Changes,Low Affluence
+<$25k,Employed,Clerk,Other,Other,Lower-Middle,<10%,Medium,Low Debt,<$50k,Stocks,>$5000,Fair,Negative,Frequent Changes,Low Affluence
+<$25k,Freelancer,Clerk,Healthcare,Renter,Lower,30-40%,Low,High Debt,<$50k,Stocks,$1000-$3000,Poor,Negative,Unstable,Low Affluence
+$25k-$50k,Employed,Clerk,Other,Owner,Lower,30-40%,Medium,High Debt,$50k-$100k,Stocks,$3000-$5000,Poor,10%+,Stable,High Affluence
+$50k-$100k,Employed,Manager,Healthcare,Owner,Middle,20-30%,High,No Debt,<$50k,Mutual Funds,$3000-$5000,Poor,Negative,Stable,Low Affluence
+>$200k,Employed,Other,Finance,Renter,Lower,40%+,Low,High Debt,>$200k,Stocks,>$5000,Fair,0-5%,Stable,High Affluence
+>$200k,Freelancer,Other,Finance,Renter,Lower-Middle,10-20%,Low,Low Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Good,Negative,Unstable,High Affluence
+$100k-$200k,Freelancer,Manager,Healthcare,Renter,Lower-Middle,10-20%,Low,No Debt,$100k-$200k,Cryptocurrency,<$1000,Fair,Negative,Stable,High Affluence
+$25k-$50k,Part-time,Manager,Finance,Renter,Middle,<10%,Low,Moderate Debt,$50k-$100k,Stocks,$1000-$3000,Fair,Negative,Frequent Changes,High Affluence
+$50k-$100k,Freelancer,Technician,Healthcare,Renter,Upper,30-40%,Medium,High Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Poor,0-5%,Frequent Changes,Low Affluence
+$100k-$200k,Freelancer,Clerk,Other,Other,Middle,30-40%,Medium,Moderate Debt,$100k-$200k,Stocks,$3000-$5000,Poor,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Freelancer,Clerk,Healthcare,Renter,Middle,10-20%,Medium,Moderate Debt,$100k-$200k,Real Estate,<$1000,Excellent,10%+,Unstable,Low Affluence
+$100k-$200k,Employed,Manager,Finance,Other,Middle,<10%,Low,No Debt,>$200k,None,$1000-$3000,Excellent,0-5%,Unstable,High Affluence
+$100k-$200k,Employed,Technician,Finance,Renter,Upper,30-40%,Medium,No Debt,>$200k,Stocks,$3000-$5000,Excellent,Negative,Stable,High Affluence
+$100k-$200k,Unemployed,Manager,IT,Renter,Upper-Middle,40%+,High,No Debt,$100k-$200k,Stocks,$1000-$3000,Fair,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Technician,Other,Renter,Middle,<10%,Medium,Low Debt,<$50k,Mutual Funds,>$5000,Good,0-5%,Stable,Low Affluence
+$100k-$200k,Part-time,Other,Healthcare,Renter,Upper,40%+,Low,Moderate Debt,>$200k,None,<$1000,Excellent,0-5%,Stable,High Affluence
+$25k-$50k,Part-time,Technician,Healthcare,Other,Upper,20-30%,High,No Debt,>$200k,Mutual Funds,$3000-$5000,Poor,10%+,Unstable,High Affluence
+$50k-$100k,Unemployed,Consultant,Finance,Renter,Lower-Middle,10-20%,Medium,High Debt,<$50k,Mutual Funds,$3000-$5000,Good,0-5%,Unstable,Low Affluence
+<$25k,Employed,Consultant,IT,Owner,Lower,<10%,High,Moderate Debt,<$50k,Mutual Funds,>$5000,Poor,0-5%,Unstable,Low Affluence
+$50k-$100k,Employed,Technician,Other,Renter,Upper,<10%,High,Moderate Debt,$50k-$100k,Real Estate,$3000-$5000,Fair,0-5%,Stable,Low Affluence
+>$200k,Part-time,Technician,IT,Renter,Upper,<10%,Low,No Debt,>$200k,None,<$1000,Excellent,5-10%,Stable,High Affluence
+$100k-$200k,Part-time,Clerk,Finance,Other,Upper-Middle,<10%,Medium,No Debt,>$200k,None,<$1000,Fair,0-5%,Unstable,High Affluence
+$25k-$50k,Unemployed,Consultant,Finance,Other,Upper,40%+,Medium,No Debt,<$50k,Real Estate,$1000-$3000,Fair,10%+,Unstable,High Affluence
+$50k-$100k,Employed,Consultant,Healthcare,Renter,Upper-Middle,20-30%,Low,No Debt,<$50k,None,$1000-$3000,Fair,Negative,Unstable,Low Affluence
+$25k-$50k,Part-time,Consultant,Healthcare,Renter,Lower,40%+,Low,Moderate Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Fair,Negative,Frequent Changes,High Affluence
+$100k-$200k,Part-time,Other,Healthcare,Owner,Lower,40%+,Low,Low Debt,$50k-$100k,Real Estate,$1000-$3000,Poor,0-5%,Stable,High Affluence
+$25k-$50k,Unemployed,Consultant,Finance,Owner,Upper,10-20%,Medium,Moderate Debt,>$200k,None,<$1000,Poor,5-10%,Stable,High Affluence
+$25k-$50k,Unemployed,Clerk,Other,Other,Upper,40%+,High,High Debt,>$200k,Mutual Funds,>$5000,Fair,Negative,Unstable,High Affluence
+$100k-$200k,Part-time,Manager,Other,Owner,Lower-Middle,10-20%,High,No Debt,<$50k,None,$1000-$3000,Good,Negative,Stable,High Affluence
+$50k-$100k,Freelancer,Consultant,Education,Renter,Upper-Middle,20-30%,High,Low Debt,$50k-$100k,Real Estate,<$1000,Fair,Negative,Frequent Changes,Low Affluence
+$50k-$100k,Unemployed,Other,Other,Renter,Lower-Middle,30-40%,Medium,Moderate Debt,<$50k,Real Estate,$3000-$5000,Poor,10%+,Stable,Low Affluence
+>$200k,Part-time,Other,Healthcare,Renter,Lower,10-20%,High,Moderate Debt,>$200k,Cryptocurrency,$1000-$3000,Fair,10%+,Stable,High Affluence
+$50k-$100k,Freelancer,Clerk,Healthcare,Owner,Middle,10-20%,Medium,No Debt,>$200k,Mutual Funds,>$5000,Poor,5-10%,Frequent Changes,Low Affluence
+$50k-$100k,Employed,Clerk,Other,Renter,Upper,<10%,Medium,No Debt,>$200k,None,<$1000,Fair,0-5%,Stable,Low Affluence
+$25k-$50k,Part-time,Manager,Finance,Renter,Upper-Middle,20-30%,Medium,Moderate Debt,<$50k,Cryptocurrency,<$1000,Good,10%+,Unstable,High Affluence
+<$25k,Unemployed,Manager,Healthcare,Owner,Upper-Middle,30-40%,Medium,Moderate Debt,$50k-$100k,Mutual Funds,$1000-$3000,Poor,0-5%,Stable,Low Affluence
+$100k-$200k,Freelancer,Clerk,Healthcare,Other,Upper-Middle,10-20%,Medium,Low Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Poor,0-5%,Unstable,High Affluence
+<$25k,Unemployed,Other,Other,Owner,Upper-Middle,20-30%,High,High Debt,$50k-$100k,None,$1000-$3000,Poor,0-5%,Frequent Changes,Low Affluence
+$50k-$100k,Part-time,Technician,Other,Renter,Middle,40%+,Medium,No Debt,<$50k,Stocks,$1000-$3000,Good,Negative,Frequent Changes,Low Affluence
+$100k-$200k,Unemployed,Consultant,Education,Owner,Upper-Middle,40%+,Medium,No Debt,$50k-$100k,Real Estate,>$5000,Good,0-5%,Frequent Changes,High Affluence
+<$25k,Part-time,Manager,Education,Renter,Lower-Middle,10-20%,Medium,No Debt,$100k-$200k,Real Estate,$1000-$3000,Good,Negative,Frequent Changes,Low Affluence
+$50k-$100k,Employed,Manager,Healthcare,Other,Lower,<10%,Medium,High Debt,$50k-$100k,Stocks,$3000-$5000,Excellent,5-10%,Stable,Low Affluence
+$100k-$200k,Freelancer,Manager,Healthcare,Renter,Upper,30-40%,Low,No Debt,$50k-$100k,Cryptocurrency,<$1000,Poor,0-5%,Stable,High Affluence
+$25k-$50k,Part-time,Manager,Other,Renter,Upper-Middle,10-20%,Medium,Moderate Debt,<$50k,Real Estate,>$5000,Good,10%+,Unstable,High Affluence
+$100k-$200k,Employed,Manager,Finance,Renter,Lower-Middle,<10%,Medium,Moderate Debt,$100k-$200k,Mutual Funds,<$1000,Excellent,5-10%,Stable,High Affluence
+<$25k,Unemployed,Consultant,Finance,Renter,Middle,40%+,High,No Debt,$100k-$200k,None,<$1000,Poor,10%+,Unstable,Low Affluence
+$25k-$50k,Unemployed,Technician,Other,Renter,Middle,<10%,High,No Debt,<$50k,None,<$1000,Excellent,Negative,Stable,High Affluence
+$25k-$50k,Employed,Technician,Education,Renter,Upper-Middle,30-40%,Low,High Debt,$50k-$100k,Cryptocurrency,<$1000,Good,10%+,Stable,High Affluence
+$100k-$200k,Part-time,Consultant,Healthcare,Other,Lower-Middle,20-30%,High,No Debt,>$200k,Cryptocurrency,$1000-$3000,Excellent,0-5%,Frequent Changes,High Affluence
+$100k-$200k,Freelancer,Manager,Other,Other,Lower,20-30%,Medium,No Debt,$100k-$200k,Mutual Funds,$3000-$5000,Good,10%+,Unstable,High Affluence
+$50k-$100k,Unemployed,Consultant,Healthcare,Owner,Lower,20-30%,High,Low Debt,$50k-$100k,Real Estate,$1000-$3000,Good,10%+,Stable,Low Affluence
+$50k-$100k,Unemployed,Technician,Finance,Owner,Lower-Middle,20-30%,High,Moderate Debt,>$200k,Mutual Funds,>$5000,Poor,5-10%,Stable,Low Affluence
+$50k-$100k,Part-time,Manager,Education,Owner,Lower-Middle,<10%,High,Low Debt,>$200k,Stocks,$3000-$5000,Poor,10%+,Unstable,Low Affluence
+$50k-$100k,Freelancer,Other,Education,Other,Upper,<10%,High,High Debt,$50k-$100k,Real Estate,$3000-$5000,Good,Negative,Frequent Changes,Low Affluence
+<$25k,Part-time,Manager,Healthcare,Other,Upper,30-40%,Medium,No Debt,$50k-$100k,Cryptocurrency,<$1000,Poor,0-5%,Frequent Changes,Low Affluence
+$50k-$100k,Freelancer,Other,Other,Renter,Lower,30-40%,Medium,Moderate Debt,>$200k,Cryptocurrency,$3000-$5000,Good,5-10%,Stable,Low Affluence
+$100k-$200k,Freelancer,Consultant,Education,Other,Lower-Middle,40%+,Medium,Low Debt,>$200k,Real Estate,$3000-$5000,Good,Negative,Frequent Changes,High Affluence
+$100k-$200k,Employed,Consultant,Other,Owner,Lower,30-40%,High,High Debt,>$200k,None,>$5000,Poor,0-5%,Unstable,High Affluence
+>$200k,Part-time,Consultant,IT,Owner,Lower-Middle,40%+,High,No Debt,>$200k,Mutual Funds,>$5000,Good,0-5%,Stable,High Affluence
+>$200k,Unemployed,Manager,IT,Owner,Lower,20-30%,Medium,Low Debt,>$200k,Real Estate,$1000-$3000,Poor,Negative,Unstable,High Affluence
+$25k-$50k,Part-time,Consultant,IT,Owner,Lower,30-40%,Medium,Moderate Debt,$50k-$100k,None,$1000-$3000,Excellent,0-5%,Unstable,High Affluence
+$50k-$100k,Part-time,Other,Other,Renter,Middle,20-30%,Low,Low Debt,<$50k,None,<$1000,Good,5-10%,Stable,Low Affluence
+<$25k,Freelancer,Technician,Education,Owner,Lower-Middle,20-30%,Medium,High Debt,$100k-$200k,Mutual Funds,$3000-$5000,Good,0-5%,Unstable,Low Affluence
+$100k-$200k,Freelancer,Technician,IT,Owner,Lower-Middle,20-30%,Medium,Moderate Debt,<$50k,Real Estate,>$5000,Excellent,0-5%,Frequent Changes,High Affluence
+$25k-$50k,Freelancer,Clerk,Education,Renter,Middle,20-30%,Medium,High Debt,<$50k,Mutual Funds,<$1000,Excellent,5-10%,Stable,High Affluence
+$25k-$50k,Part-time,Other,IT,Renter,Upper-Middle,40%+,Low,Low Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Poor,5-10%,Frequent Changes,High Affluence
+$25k-$50k,Part-time,Other,Healthcare,Owner,Lower-Middle,<10%,Low,High Debt,$50k-$100k,Cryptocurrency,>$5000,Good,10%+,Unstable,High Affluence
+<$25k,Employed,Technician,Other,Other,Lower,<10%,Low,High Debt,>$200k,None,>$5000,Good,Negative,Frequent Changes,Low Affluence
+$100k-$200k,Freelancer,Manager,Healthcare,Other,Middle,30-40%,Medium,Low Debt,>$200k,Real Estate,<$1000,Excellent,5-10%,Stable,High Affluence
+<$25k,Freelancer,Other,Other,Other,Lower,20-30%,High,No Debt,$50k-$100k,Stocks,$3000-$5000,Excellent,0-5%,Unstable,Low Affluence
+$25k-$50k,Employed,Other,Other,Other,Upper-Middle,20-30%,High,Moderate Debt,$50k-$100k,Stocks,$1000-$3000,Poor,0-5%,Unstable,High Affluence
+>$200k,Part-time,Technician,Education,Owner,Upper,10-20%,Medium,Low Debt,<$50k,Mutual Funds,<$1000,Good,Negative,Frequent Changes,High Affluence
+>$200k,Part-time,Consultant,Education,Owner,Lower,20-30%,Medium,High Debt,$50k-$100k,Real Estate,<$1000,Excellent,5-10%,Stable,High Affluence
+$50k-$100k,Unemployed,Consultant,Healthcare,Renter,Upper,30-40%,Medium,No Debt,>$200k,Cryptocurrency,$1000-$3000,Good,5-10%,Unstable,Low Affluence
+>$200k,Part-time,Technician,Finance,Renter,Middle,<10%,Low,Low Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Poor,5-10%,Stable,High Affluence
+$25k-$50k,Part-time,Manager,IT,Other,Middle,30-40%,High,High Debt,<$50k,Cryptocurrency,<$1000,Good,0-5%,Unstable,High Affluence
+$50k-$100k,Employed,Clerk,Education,Renter,Lower,30-40%,High,High Debt,$50k-$100k,Real Estate,$1000-$3000,Excellent,0-5%,Stable,Low Affluence
+>$200k,Part-time,Manager,Education,Other,Lower,30-40%,Low,No Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Excellent,Negative,Unstable,High Affluence
+$25k-$50k,Freelancer,Clerk,IT,Renter,Upper,20-30%,High,High Debt,>$200k,Stocks,$1000-$3000,Excellent,10%+,Unstable,High Affluence
+$50k-$100k,Employed,Consultant,Finance,Owner,Lower-Middle,20-30%,Medium,Low Debt,>$200k,Real Estate,$1000-$3000,Fair,0-5%,Unstable,Low Affluence
+$25k-$50k,Unemployed,Manager,Education,Other,Upper-Middle,40%+,Low,Low Debt,<$50k,Cryptocurrency,>$5000,Good,Negative,Unstable,High Affluence
+<$25k,Unemployed,Clerk,Other,Other,Lower,10-20%,High,Moderate Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Fair,10%+,Unstable,Low Affluence
+$50k-$100k,Freelancer,Other,Other,Other,Upper,20-30%,Low,No Debt,$50k-$100k,Mutual Funds,<$1000,Fair,Negative,Unstable,Low Affluence
+$50k-$100k,Employed,Manager,Finance,Renter,Upper,<10%,Medium,Moderate Debt,$50k-$100k,Stocks,>$5000,Poor,10%+,Stable,Low Affluence
+<$25k,Part-time,Manager,Finance,Renter,Lower-Middle,<10%,Medium,Low Debt,$50k-$100k,Mutual Funds,$1000-$3000,Fair,Negative,Unstable,Low Affluence
+>$200k,Part-time,Clerk,IT,Renter,Lower,40%+,Medium,Moderate Debt,$50k-$100k,Stocks,$3000-$5000,Good,10%+,Stable,High Affluence
+<$25k,Freelancer,Other,Finance,Renter,Upper-Middle,10-20%,Low,High Debt,$50k-$100k,None,>$5000,Good,0-5%,Frequent Changes,Low Affluence
+>$200k,Unemployed,Clerk,Finance,Owner,Upper-Middle,20-30%,Low,Low Debt,$100k-$200k,Real Estate,$1000-$3000,Excellent,10%+,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Clerk,Healthcare,Other,Lower-Middle,40%+,High,No Debt,$100k-$200k,Cryptocurrency,>$5000,Fair,5-10%,Stable,Low Affluence
+$100k-$200k,Freelancer,Other,Healthcare,Owner,Middle,30-40%,Medium,Moderate Debt,>$200k,None,$1000-$3000,Fair,5-10%,Stable,High Affluence
+$25k-$50k,Unemployed,Other,Education,Owner,Upper-Middle,40%+,High,Moderate Debt,<$50k,Real Estate,$1000-$3000,Good,0-5%,Stable,High Affluence
+>$200k,Employed,Clerk,Education,Other,Lower,30-40%,High,No Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Poor,Negative,Frequent Changes,High Affluence
+$100k-$200k,Freelancer,Other,IT,Renter,Middle,40%+,Low,High Debt,>$200k,Cryptocurrency,$1000-$3000,Excellent,5-10%,Unstable,High Affluence
+>$200k,Freelancer,Manager,Healthcare,Other,Upper,<10%,Medium,High Debt,>$200k,Mutual Funds,<$1000,Good,Negative,Stable,High Affluence
+$50k-$100k,Freelancer,Consultant,Finance,Owner,Lower-Middle,10-20%,High,No Debt,<$50k,Stocks,<$1000,Excellent,10%+,Stable,Low Affluence
+>$200k,Unemployed,Consultant,IT,Owner,Lower-Middle,20-30%,High,No Debt,>$200k,Cryptocurrency,<$1000,Fair,Negative,Unstable,High Affluence
+$100k-$200k,Employed,Clerk,IT,Owner,Lower,30-40%,Low,Low Debt,$100k-$200k,None,$3000-$5000,Good,0-5%,Unstable,High Affluence
+$100k-$200k,Unemployed,Technician,Other,Owner,Lower,<10%,Low,Moderate Debt,>$200k,Real Estate,$1000-$3000,Excellent,5-10%,Frequent Changes,High Affluence
+<$25k,Freelancer,Manager,Other,Renter,Upper-Middle,30-40%,Low,No Debt,$100k-$200k,Stocks,<$1000,Good,10%+,Stable,Low Affluence
+>$200k,Freelancer,Consultant,Finance,Other,Upper,10-20%,High,Moderate Debt,<$50k,None,>$5000,Excellent,5-10%,Frequent Changes,High Affluence
+>$200k,Freelancer,Consultant,Education,Other,Upper,20-30%,High,Moderate Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Fair,0-5%,Unstable,High Affluence
+<$25k,Employed,Consultant,Other,Other,Upper,30-40%,Low,No Debt,$50k-$100k,Stocks,<$1000,Fair,0-5%,Unstable,Low Affluence
+$100k-$200k,Unemployed,Manager,Healthcare,Owner,Upper,<10%,High,High Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Poor,Negative,Unstable,High Affluence
+$25k-$50k,Part-time,Other,Education,Owner,Upper,20-30%,Medium,Moderate Debt,$50k-$100k,Stocks,$1000-$3000,Good,5-10%,Unstable,High Affluence
+$100k-$200k,Unemployed,Manager,Other,Other,Middle,40%+,High,Moderate Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Poor,5-10%,Stable,High Affluence
+$50k-$100k,Part-time,Clerk,Education,Other,Lower-Middle,10-20%,High,Low Debt,<$50k,Real Estate,$1000-$3000,Poor,0-5%,Unstable,Low Affluence
+<$25k,Freelancer,Technician,Healthcare,Renter,Upper-Middle,20-30%,High,Low Debt,>$200k,Cryptocurrency,$1000-$3000,Poor,5-10%,Frequent Changes,Low Affluence
+<$25k,Unemployed,Other,IT,Renter,Lower-Middle,40%+,Medium,High Debt,$50k-$100k,Cryptocurrency,<$1000,Fair,Negative,Frequent Changes,Low Affluence
+>$200k,Unemployed,Other,Other,Renter,Lower-Middle,10-20%,Medium,High Debt,$50k-$100k,Real Estate,$3000-$5000,Fair,5-10%,Stable,High Affluence
+$100k-$200k,Unemployed,Other,Other,Other,Middle,20-30%,High,No Debt,$50k-$100k,Cryptocurrency,>$5000,Poor,5-10%,Unstable,High Affluence
+>$200k,Freelancer,Manager,Other,Owner,Upper,40%+,Medium,No Debt,>$200k,None,$1000-$3000,Poor,10%+,Unstable,High Affluence
+$25k-$50k,Part-time,Manager,Finance,Owner,Upper,20-30%,Low,Moderate Debt,>$200k,None,$3000-$5000,Good,Negative,Stable,High Affluence
+>$200k,Part-time,Consultant,Finance,Renter,Upper,40%+,Low,High Debt,<$50k,Cryptocurrency,<$1000,Good,10%+,Unstable,High Affluence
+$25k-$50k,Unemployed,Other,Finance,Renter,Lower-Middle,<10%,High,Low Debt,<$50k,Mutual Funds,<$1000,Poor,Negative,Frequent Changes,High Affluence
+>$200k,Part-time,Consultant,Healthcare,Renter,Upper,20-30%,Medium,High Debt,>$200k,Real Estate,$1000-$3000,Poor,5-10%,Frequent Changes,High Affluence
+$25k-$50k,Freelancer,Consultant,IT,Other,Lower-Middle,40%+,High,High Debt,$100k-$200k,Stocks,>$5000,Fair,5-10%,Frequent Changes,High Affluence
+>$200k,Part-time,Clerk,Finance,Renter,Upper,10-20%,High,High Debt,$100k-$200k,Mutual Funds,>$5000,Excellent,10%+,Stable,High Affluence
+>$200k,Unemployed,Other,Finance,Renter,Middle,40%+,Medium,Low Debt,$100k-$200k,Stocks,$1000-$3000,Good,Negative,Unstable,High Affluence
+$100k-$200k,Part-time,Clerk,IT,Owner,Lower-Middle,40%+,High,High Debt,>$200k,Real Estate,>$5000,Good,0-5%,Frequent Changes,High Affluence
+$25k-$50k,Unemployed,Clerk,Healthcare,Owner,Middle,40%+,Medium,High Debt,<$50k,None,>$5000,Fair,10%+,Stable,High Affluence
+$100k-$200k,Part-time,Technician,IT,Renter,Middle,30-40%,Low,Low Debt,>$200k,Mutual Funds,>$5000,Poor,0-5%,Unstable,High Affluence
+$25k-$50k,Employed,Clerk,Finance,Renter,Middle,40%+,Low,High Debt,>$200k,Real Estate,>$5000,Poor,5-10%,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Technician,Finance,Renter,Middle,<10%,Medium,Low Debt,>$200k,Cryptocurrency,>$5000,Poor,5-10%,Stable,Low Affluence
+<$25k,Freelancer,Other,Education,Owner,Lower-Middle,30-40%,Low,High Debt,>$200k,Cryptocurrency,<$1000,Fair,10%+,Frequent Changes,Low Affluence
+$100k-$200k,Freelancer,Other,Education,Renter,Upper-Middle,<10%,High,No Debt,$50k-$100k,None,<$1000,Fair,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Employed,Clerk,IT,Other,Lower-Middle,20-30%,Medium,Moderate Debt,$100k-$200k,None,<$1000,Excellent,5-10%,Unstable,Low Affluence
+$25k-$50k,Part-time,Manager,Education,Owner,Lower,40%+,Medium,Moderate Debt,$100k-$200k,Real Estate,<$1000,Fair,0-5%,Unstable,High Affluence
+>$200k,Freelancer,Other,Healthcare,Renter,Upper,20-30%,Low,Moderate Debt,>$200k,None,$1000-$3000,Good,10%+,Stable,High Affluence
+<$25k,Part-time,Technician,IT,Owner,Middle,10-20%,Medium,Moderate Debt,>$200k,Mutual Funds,<$1000,Poor,5-10%,Stable,Low Affluence
+$50k-$100k,Part-time,Clerk,Healthcare,Renter,Lower-Middle,40%+,Medium,Moderate Debt,<$50k,Cryptocurrency,$3000-$5000,Fair,Negative,Frequent Changes,Low Affluence
+>$200k,Employed,Clerk,IT,Other,Upper,<10%,High,Low Debt,>$200k,Mutual Funds,>$5000,Poor,Negative,Stable,High Affluence
+$50k-$100k,Freelancer,Consultant,Healthcare,Other,Upper-Middle,20-30%,High,Low Debt,$100k-$200k,None,$3000-$5000,Excellent,5-10%,Frequent Changes,Low Affluence
+<$25k,Freelancer,Manager,Other,Owner,Lower-Middle,20-30%,High,Moderate Debt,>$200k,Real Estate,>$5000,Excellent,5-10%,Unstable,Low Affluence
+$50k-$100k,Freelancer,Technician,Education,Renter,Middle,<10%,Low,No Debt,>$200k,Stocks,<$1000,Poor,5-10%,Frequent Changes,Low Affluence
+<$25k,Part-time,Other,Education,Renter,Lower,30-40%,High,High Debt,$100k-$200k,Cryptocurrency,<$1000,Fair,5-10%,Unstable,Low Affluence
+>$200k,Freelancer,Manager,IT,Other,Upper,<10%,High,High Debt,>$200k,Real Estate,$3000-$5000,Fair,5-10%,Unstable,High Affluence
+$25k-$50k,Part-time,Consultant,IT,Renter,Lower,<10%,High,High Debt,>$200k,Stocks,>$5000,Excellent,Negative,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Consultant,IT,Renter,Lower-Middle,20-30%,Medium,Moderate Debt,$100k-$200k,Real Estate,$1000-$3000,Excellent,10%+,Frequent Changes,Low Affluence
+$50k-$100k,Part-time,Clerk,Other,Owner,Lower,10-20%,High,Moderate Debt,$50k-$100k,Stocks,$3000-$5000,Good,10%+,Frequent Changes,Low Affluence
+$100k-$200k,Freelancer,Clerk,IT,Owner,Lower,30-40%,High,Moderate Debt,<$50k,Mutual Funds,>$5000,Good,5-10%,Unstable,High Affluence
+$50k-$100k,Unemployed,Other,Other,Owner,Upper-Middle,30-40%,Low,High Debt,<$50k,Real Estate,$1000-$3000,Poor,Negative,Unstable,Low Affluence
+>$200k,Freelancer,Clerk,Finance,Owner,Lower,40%+,High,Moderate Debt,>$200k,Cryptocurrency,<$1000,Good,Negative,Stable,High Affluence
+$100k-$200k,Part-time,Consultant,Finance,Renter,Upper-Middle,40%+,High,High Debt,$50k-$100k,Real Estate,<$1000,Poor,Negative,Frequent Changes,High Affluence
+$100k-$200k,Unemployed,Other,Healthcare,Owner,Lower,10-20%,High,High Debt,$50k-$100k,Mutual Funds,>$5000,Fair,5-10%,Stable,High Affluence
+$50k-$100k,Freelancer,Manager,Education,Owner,Upper,30-40%,Low,Moderate Debt,>$200k,None,>$5000,Good,0-5%,Frequent Changes,Low Affluence
+$25k-$50k,Unemployed,Clerk,Other,Renter,Upper-Middle,30-40%,Medium,No Debt,<$50k,None,>$5000,Poor,Negative,Stable,High Affluence
+<$25k,Freelancer,Technician,Other,Other,Upper,<10%,Medium,Moderate Debt,$50k-$100k,Mutual Funds,$3000-$5000,Fair,10%+,Unstable,Low Affluence
+$100k-$200k,Freelancer,Manager,IT,Owner,Upper-Middle,30-40%,Medium,Moderate Debt,<$50k,None,<$1000,Excellent,5-10%,Unstable,High Affluence
+$25k-$50k,Unemployed,Manager,Finance,Renter,Upper-Middle,20-30%,Low,No Debt,<$50k,None,<$1000,Excellent,5-10%,Unstable,High Affluence
+$50k-$100k,Unemployed,Consultant,Other,Renter,Upper,20-30%,Medium,No Debt,<$50k,Real Estate,>$5000,Poor,0-5%,Frequent Changes,Low Affluence
+$50k-$100k,Freelancer,Technician,Finance,Owner,Lower-Middle,30-40%,Low,High Debt,<$50k,Stocks,<$1000,Poor,5-10%,Unstable,Low Affluence
+$25k-$50k,Part-time,Other,Other,Other,Lower-Middle,10-20%,Medium,Moderate Debt,<$50k,Mutual Funds,$1000-$3000,Poor,10%+,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Technician,Finance,Renter,Middle,<10%,High,Low Debt,$100k-$200k,Real Estate,$1000-$3000,Good,5-10%,Frequent Changes,Low Affluence
+$50k-$100k,Employed,Manager,IT,Renter,Lower,30-40%,Medium,No Debt,$50k-$100k,Real Estate,$3000-$5000,Excellent,10%+,Frequent Changes,Low Affluence
+$25k-$50k,Freelancer,Manager,Finance,Owner,Middle,10-20%,Medium,Low Debt,$100k-$200k,None,$1000-$3000,Excellent,5-10%,Frequent Changes,High Affluence
+>$200k,Employed,Technician,Healthcare,Owner,Upper-Middle,<10%,Low,No Debt,>$200k,Cryptocurrency,$3000-$5000,Good,0-5%,Unstable,High Affluence
+<$25k,Freelancer,Consultant,Other,Other,Lower-Middle,10-20%,Medium,Low Debt,>$200k,Stocks,$3000-$5000,Good,0-5%,Frequent Changes,Low Affluence
+>$200k,Part-time,Manager,Healthcare,Other,Lower,40%+,Medium,High Debt,$100k-$200k,Real Estate,$1000-$3000,Fair,0-5%,Stable,High Affluence
+<$25k,Employed,Other,Healthcare,Other,Upper,30-40%,Low,High Debt,$50k-$100k,Real Estate,$3000-$5000,Fair,5-10%,Unstable,Low Affluence
+>$200k,Employed,Technician,IT,Other,Lower,10-20%,Medium,Low Debt,<$50k,Stocks,$3000-$5000,Excellent,0-5%,Unstable,High Affluence
+$50k-$100k,Employed,Clerk,Finance,Other,Lower,20-30%,Low,Low Debt,>$200k,Real Estate,>$5000,Fair,5-10%,Unstable,Low Affluence
+$100k-$200k,Unemployed,Manager,Education,Owner,Upper,40%+,High,High Debt,$50k-$100k,Mutual Funds,$1000-$3000,Fair,10%+,Frequent Changes,High Affluence
+>$200k,Employed,Manager,Other,Other,Middle,40%+,High,Low Debt,$50k-$100k,Cryptocurrency,>$5000,Poor,Negative,Frequent Changes,High Affluence
+>$200k,Part-time,Consultant,Finance,Other,Lower-Middle,10-20%,High,High Debt,<$50k,Cryptocurrency,>$5000,Fair,10%+,Frequent Changes,High Affluence
+<$25k,Freelancer,Technician,Other,Other,Upper-Middle,<10%,Medium,Low Debt,$100k-$200k,Real Estate,>$5000,Poor,Negative,Stable,Low Affluence
+>$200k,Employed,Technician,Healthcare,Owner,Upper-Middle,<10%,High,Low Debt,>$200k,None,$1000-$3000,Fair,0-5%,Unstable,High Affluence
+$25k-$50k,Part-time,Clerk,IT,Renter,Middle,20-30%,Medium,Low Debt,$50k-$100k,Cryptocurrency,>$5000,Poor,10%+,Unstable,High Affluence
+$50k-$100k,Unemployed,Other,Healthcare,Renter,Middle,20-30%,Medium,Low Debt,$100k-$200k,Stocks,$1000-$3000,Excellent,5-10%,Stable,Low Affluence
+$50k-$100k,Employed,Other,Other,Renter,Middle,20-30%,Low,High Debt,>$200k,Mutual Funds,<$1000,Good,10%+,Stable,Low Affluence
+<$25k,Freelancer,Consultant,Other,Renter,Upper-Middle,30-40%,Medium,High Debt,$100k-$200k,None,$3000-$5000,Good,10%+,Stable,Low Affluence
+<$25k,Part-time,Clerk,Finance,Other,Upper,30-40%,High,No Debt,$50k-$100k,Real Estate,$3000-$5000,Excellent,Negative,Unstable,Low Affluence
+$100k-$200k,Employed,Clerk,Healthcare,Renter,Lower,30-40%,Medium,No Debt,$50k-$100k,Real Estate,$3000-$5000,Fair,Negative,Stable,High Affluence
+$100k-$200k,Freelancer,Technician,IT,Renter,Lower,20-30%,High,High Debt,>$200k,None,>$5000,Good,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Freelancer,Clerk,Other,Renter,Upper-Middle,10-20%,High,Moderate Debt,$50k-$100k,None,>$5000,Good,0-5%,Unstable,Low Affluence
+>$200k,Freelancer,Clerk,Education,Other,Upper-Middle,40%+,Medium,Moderate Debt,<$50k,Cryptocurrency,$1000-$3000,Excellent,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Consultant,IT,Owner,Middle,20-30%,Medium,High Debt,<$50k,None,$3000-$5000,Good,10%+,Unstable,Low Affluence
+$25k-$50k,Freelancer,Manager,Healthcare,Owner,Lower-Middle,20-30%,Low,Low Debt,>$200k,Mutual Funds,$3000-$5000,Excellent,10%+,Frequent Changes,High Affluence
+<$25k,Part-time,Other,Healthcare,Other,Upper,40%+,High,No Debt,>$200k,Stocks,$1000-$3000,Poor,0-5%,Unstable,Low Affluence
+$100k-$200k,Employed,Other,Finance,Other,Middle,30-40%,Medium,Moderate Debt,$50k-$100k,Real Estate,<$1000,Poor,10%+,Frequent Changes,High Affluence
+>$200k,Employed,Consultant,Healthcare,Other,Upper-Middle,<10%,Low,High Debt,>$200k,Cryptocurrency,>$5000,Fair,0-5%,Frequent Changes,High Affluence
+<$25k,Employed,Consultant,IT,Other,Upper-Middle,<10%,High,Moderate Debt,>$200k,Cryptocurrency,<$1000,Excellent,5-10%,Stable,Low Affluence
+>$200k,Employed,Consultant,Other,Other,Upper-Middle,30-40%,Medium,Moderate Debt,$50k-$100k,Stocks,>$5000,Fair,Negative,Stable,High Affluence
+$100k-$200k,Freelancer,Manager,Other,Renter,Middle,20-30%,Medium,No Debt,<$50k,Stocks,<$1000,Poor,Negative,Unstable,High Affluence
+$25k-$50k,Freelancer,Manager,Education,Renter,Upper,30-40%,Medium,High Debt,$50k-$100k,Mutual Funds,$1000-$3000,Poor,Negative,Stable,High Affluence
+<$25k,Part-time,Consultant,Other,Renter,Middle,20-30%,Medium,Low Debt,$50k-$100k,Cryptocurrency,>$5000,Poor,Negative,Frequent Changes,Low Affluence
+$50k-$100k,Part-time,Manager,Healthcare,Owner,Lower-Middle,<10%,Medium,High Debt,>$200k,None,$1000-$3000,Poor,10%+,Frequent Changes,Low Affluence
+>$200k,Unemployed,Consultant,Healthcare,Renter,Lower,40%+,High,No Debt,<$50k,Real Estate,$3000-$5000,Good,Negative,Unstable,High Affluence
+<$25k,Part-time,Consultant,IT,Owner,Lower-Middle,10-20%,Medium,Low Debt,$100k-$200k,Cryptocurrency,<$1000,Poor,0-5%,Unstable,Low Affluence
+>$200k,Part-time,Clerk,IT,Other,Upper-Middle,10-20%,High,Moderate Debt,>$200k,Mutual Funds,<$1000,Good,Negative,Frequent Changes,High Affluence
+$50k-$100k,Employed,Manager,Healthcare,Other,Lower,<10%,Low,High Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Good,0-5%,Frequent Changes,Low Affluence
+>$200k,Unemployed,Other,IT,Renter,Upper,10-20%,High,High Debt,$50k-$100k,Mutual Funds,>$5000,Excellent,5-10%,Unstable,High Affluence
+$25k-$50k,Unemployed,Other,IT,Renter,Upper,20-30%,Medium,High Debt,>$200k,Cryptocurrency,<$1000,Good,Negative,Unstable,High Affluence
+$50k-$100k,Freelancer,Other,IT,Renter,Lower-Middle,10-20%,High,High Debt,$100k-$200k,Real Estate,$1000-$3000,Fair,Negative,Unstable,Low Affluence
+$100k-$200k,Unemployed,Other,Other,Owner,Upper,20-30%,High,High Debt,>$200k,Cryptocurrency,>$5000,Excellent,5-10%,Unstable,High Affluence
+>$200k,Freelancer,Manager,Healthcare,Owner,Upper-Middle,40%+,High,Low Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Excellent,0-5%,Unstable,High Affluence
+>$200k,Part-time,Other,Education,Other,Upper-Middle,30-40%,Low,Moderate Debt,>$200k,Stocks,<$1000,Good,Negative,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Technician,Other,Renter,Upper-Middle,40%+,Low,No Debt,<$50k,None,<$1000,Poor,10%+,Frequent Changes,Low Affluence
+<$25k,Freelancer,Clerk,IT,Owner,Lower-Middle,10-20%,Low,High Debt,$100k-$200k,Mutual Funds,>$5000,Poor,Negative,Stable,Low Affluence
+$100k-$200k,Part-time,Technician,Finance,Owner,Upper-Middle,10-20%,Medium,High Debt,>$200k,Stocks,$3000-$5000,Poor,Negative,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Manager,Healthcare,Renter,Middle,30-40%,Low,Moderate Debt,$50k-$100k,Real Estate,<$1000,Fair,0-5%,Stable,Low Affluence
+$50k-$100k,Employed,Clerk,Other,Renter,Middle,10-20%,High,No Debt,$50k-$100k,Stocks,$1000-$3000,Poor,5-10%,Stable,Low Affluence
+>$200k,Unemployed,Other,Other,Renter,Middle,20-30%,Medium,Low Debt,$50k-$100k,Real Estate,<$1000,Poor,5-10%,Unstable,High Affluence
+$25k-$50k,Freelancer,Technician,Other,Other,Middle,<10%,High,Moderate Debt,>$200k,Mutual Funds,>$5000,Good,Negative,Stable,High Affluence
+<$25k,Part-time,Other,Healthcare,Other,Upper,<10%,High,No Debt,>$200k,Stocks,<$1000,Fair,5-10%,Stable,Low Affluence
+$25k-$50k,Part-time,Consultant,Education,Renter,Upper,<10%,High,Moderate Debt,>$200k,None,$1000-$3000,Excellent,5-10%,Frequent Changes,High Affluence
+$25k-$50k,Employed,Manager,Other,Renter,Lower,40%+,Medium,High Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Poor,5-10%,Stable,High Affluence
+$25k-$50k,Part-time,Manager,Education,Owner,Lower,10-20%,Medium,No Debt,>$200k,Cryptocurrency,<$1000,Good,Negative,Stable,High Affluence
+>$200k,Employed,Consultant,Other,Other,Lower-Middle,30-40%,Low,High Debt,$50k-$100k,Stocks,$1000-$3000,Excellent,5-10%,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Technician,Education,Other,Middle,10-20%,Medium,No Debt,<$50k,None,$3000-$5000,Good,Negative,Unstable,Low Affluence
+$50k-$100k,Employed,Technician,Education,Other,Middle,20-30%,Medium,Low Debt,<$50k,Stocks,>$5000,Fair,10%+,Unstable,Low Affluence
+<$25k,Unemployed,Consultant,Healthcare,Other,Upper-Middle,10-20%,High,High Debt,<$50k,Mutual Funds,>$5000,Fair,Negative,Stable,Low Affluence
+$100k-$200k,Employed,Other,Healthcare,Other,Middle,20-30%,High,Moderate Debt,>$200k,Cryptocurrency,>$5000,Fair,0-5%,Unstable,High Affluence
+$50k-$100k,Unemployed,Consultant,Other,Renter,Lower-Middle,40%+,High,No Debt,>$200k,Real Estate,<$1000,Poor,5-10%,Stable,Low Affluence
+$25k-$50k,Freelancer,Other,Healthcare,Owner,Upper,30-40%,High,High Debt,<$50k,Real Estate,<$1000,Excellent,10%+,Stable,High Affluence
+$100k-$200k,Freelancer,Consultant,Healthcare,Other,Upper,10-20%,Medium,Low Debt,<$50k,None,$3000-$5000,Poor,0-5%,Frequent Changes,High Affluence
+$25k-$50k,Freelancer,Clerk,IT,Renter,Upper,20-30%,Low,No Debt,$50k-$100k,Mutual Funds,>$5000,Excellent,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Technician,Healthcare,Renter,Lower,30-40%,Medium,No Debt,$100k-$200k,Stocks,$3000-$5000,Fair,10%+,Unstable,Low Affluence
+$50k-$100k,Part-time,Technician,Finance,Owner,Upper,<10%,High,No Debt,<$50k,Cryptocurrency,<$1000,Fair,10%+,Unstable,Low Affluence
+$25k-$50k,Employed,Clerk,Education,Other,Upper-Middle,10-20%,High,Moderate Debt,<$50k,Mutual Funds,>$5000,Fair,5-10%,Frequent Changes,High Affluence
+<$25k,Unemployed,Technician,Finance,Owner,Upper,<10%,Low,Low Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Fair,5-10%,Frequent Changes,Low Affluence
+>$200k,Employed,Technician,Finance,Other,Middle,30-40%,Medium,No Debt,$50k-$100k,Stocks,<$1000,Excellent,0-5%,Stable,High Affluence
+$100k-$200k,Unemployed,Technician,Healthcare,Renter,Lower,<10%,Low,No Debt,$50k-$100k,None,$3000-$5000,Poor,0-5%,Frequent Changes,High Affluence
+$100k-$200k,Part-time,Consultant,Finance,Other,Upper-Middle,30-40%,High,High Debt,<$50k,Real Estate,$1000-$3000,Poor,10%+,Unstable,High Affluence
+$100k-$200k,Part-time,Clerk,Healthcare,Other,Upper,10-20%,Medium,Moderate Debt,$100k-$200k,None,<$1000,Good,0-5%,Frequent Changes,High Affluence
+$100k-$200k,Unemployed,Manager,Education,Other,Lower-Middle,10-20%,Low,Low Debt,>$200k,Stocks,$1000-$3000,Excellent,5-10%,Stable,High Affluence
+$50k-$100k,Part-time,Other,Education,Owner,Upper-Middle,40%+,Medium,No Debt,$50k-$100k,Cryptocurrency,>$5000,Excellent,0-5%,Stable,Low Affluence
+$25k-$50k,Part-time,Consultant,Education,Other,Lower-Middle,10-20%,Medium,No Debt,>$200k,Stocks,$1000-$3000,Excellent,10%+,Frequent Changes,High Affluence
+<$25k,Unemployed,Technician,IT,Owner,Middle,30-40%,Low,High Debt,$100k-$200k,Mutual Funds,>$5000,Poor,5-10%,Unstable,Low Affluence
+<$25k,Employed,Consultant,Healthcare,Other,Lower-Middle,40%+,High,High Debt,<$50k,Real Estate,>$5000,Excellent,10%+,Frequent Changes,Low Affluence
+$25k-$50k,Unemployed,Clerk,Education,Other,Upper-Middle,40%+,Medium,High Debt,>$200k,None,<$1000,Fair,Negative,Stable,High Affluence
+$25k-$50k,Employed,Other,IT,Renter,Lower-Middle,<10%,High,Moderate Debt,$100k-$200k,Real Estate,>$5000,Poor,0-5%,Stable,High Affluence
+$25k-$50k,Employed,Manager,Other,Owner,Lower,20-30%,Low,Low Debt,>$200k,Real Estate,$3000-$5000,Fair,0-5%,Frequent Changes,High Affluence
+$100k-$200k,Part-time,Manager,Education,Renter,Upper-Middle,10-20%,Medium,High Debt,$100k-$200k,Real Estate,$3000-$5000,Good,10%+,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Consultant,Education,Renter,Lower,<10%,High,High Debt,<$50k,Mutual Funds,>$5000,Good,5-10%,Frequent Changes,Low Affluence
+>$200k,Employed,Clerk,IT,Owner,Upper-Middle,10-20%,Medium,No Debt,$50k-$100k,Stocks,$3000-$5000,Poor,Negative,Unstable,High Affluence
+>$200k,Employed,Other,Education,Owner,Lower-Middle,10-20%,High,High Debt,$50k-$100k,None,$3000-$5000,Good,0-5%,Unstable,High Affluence
+$100k-$200k,Employed,Consultant,Education,Owner,Upper-Middle,20-30%,Medium,Low Debt,>$200k,Mutual Funds,<$1000,Fair,10%+,Unstable,High Affluence
+$25k-$50k,Unemployed,Clerk,Finance,Renter,Lower,10-20%,High,Moderate Debt,$100k-$200k,Mutual Funds,>$5000,Excellent,10%+,Stable,High Affluence
+$50k-$100k,Part-time,Consultant,Education,Other,Upper-Middle,<10%,Low,Low Debt,$50k-$100k,Cryptocurrency,>$5000,Good,5-10%,Stable,Low Affluence
+>$200k,Part-time,Technician,Other,Renter,Lower,10-20%,Low,No Debt,<$50k,Real Estate,$3000-$5000,Good,Negative,Unstable,High Affluence
+$25k-$50k,Unemployed,Other,Healthcare,Owner,Upper-Middle,30-40%,High,No Debt,$100k-$200k,Mutual Funds,>$5000,Good,Negative,Stable,High Affluence
+>$200k,Freelancer,Other,IT,Owner,Upper-Middle,20-30%,High,High Debt,>$200k,Cryptocurrency,$1000-$3000,Fair,5-10%,Frequent Changes,High Affluence
+>$200k,Part-time,Clerk,IT,Owner,Lower-Middle,30-40%,High,No Debt,>$200k,None,>$5000,Excellent,10%+,Stable,High Affluence
+$25k-$50k,Freelancer,Manager,Other,Renter,Lower,30-40%,Low,High Debt,<$50k,None,<$1000,Poor,0-5%,Frequent Changes,High Affluence
+<$25k,Employed,Technician,Other,Other,Lower,10-20%,Medium,Low Debt,$100k-$200k,Mutual Funds,<$1000,Fair,5-10%,Frequent Changes,Low Affluence
+$100k-$200k,Employed,Clerk,IT,Other,Lower,10-20%,Medium,No Debt,$100k-$200k,None,$1000-$3000,Fair,Negative,Stable,High Affluence
+$100k-$200k,Unemployed,Clerk,Finance,Renter,Upper,30-40%,Low,Low Debt,$100k-$200k,Mutual Funds,<$1000,Good,10%+,Unstable,High Affluence
+>$200k,Unemployed,Clerk,Education,Other,Lower,<10%,Medium,Moderate Debt,>$200k,Real Estate,<$1000,Good,Negative,Stable,High Affluence
+$50k-$100k,Employed,Technician,Other,Owner,Upper,30-40%,Low,Low Debt,<$50k,Stocks,$1000-$3000,Fair,0-5%,Unstable,Low Affluence
+<$25k,Part-time,Other,Finance,Other,Upper-Middle,<10%,Medium,High Debt,$50k-$100k,Mutual Funds,$1000-$3000,Excellent,0-5%,Frequent Changes,Low Affluence
+$25k-$50k,Unemployed,Other,Education,Other,Upper,30-40%,High,High Debt,<$50k,Real Estate,>$5000,Poor,0-5%,Stable,High Affluence
+<$25k,Employed,Clerk,Other,Other,Middle,20-30%,Low,Moderate Debt,$100k-$200k,Real Estate,<$1000,Poor,5-10%,Unstable,Low Affluence
+<$25k,Freelancer,Consultant,Healthcare,Owner,Upper,20-30%,Low,Low Debt,$100k-$200k,Mutual Funds,$3000-$5000,Fair,Negative,Unstable,Low Affluence
+>$200k,Unemployed,Manager,IT,Renter,Lower-Middle,30-40%,Medium,Moderate Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Fair,5-10%,Unstable,High Affluence
+$50k-$100k,Unemployed,Clerk,Education,Owner,Lower,<10%,Low,No Debt,>$200k,None,$1000-$3000,Fair,10%+,Stable,Low Affluence
+$50k-$100k,Employed,Technician,Healthcare,Renter,Upper-Middle,20-30%,High,Moderate Debt,$50k-$100k,Stocks,$1000-$3000,Poor,0-5%,Stable,Low Affluence
+<$25k,Unemployed,Clerk,Education,Other,Upper-Middle,40%+,Medium,No Debt,$100k-$200k,Cryptocurrency,<$1000,Fair,5-10%,Stable,Low Affluence
+<$25k,Employed,Clerk,Finance,Owner,Upper,<10%,Medium,No Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Poor,Negative,Unstable,Low Affluence
+>$200k,Unemployed,Manager,Healthcare,Renter,Upper-Middle,<10%,Medium,No Debt,$50k-$100k,Cryptocurrency,>$5000,Poor,5-10%,Stable,High Affluence
+$50k-$100k,Part-time,Technician,Other,Owner,Upper-Middle,<10%,Medium,Low Debt,<$50k,Cryptocurrency,<$1000,Poor,Negative,Stable,Low Affluence
+<$25k,Unemployed,Consultant,Other,Owner,Upper-Middle,10-20%,Medium,No Debt,$50k-$100k,Mutual Funds,$1000-$3000,Good,0-5%,Frequent Changes,Low Affluence
+$50k-$100k,Part-time,Consultant,Finance,Renter,Upper-Middle,20-30%,High,Moderate Debt,<$50k,Mutual Funds,$1000-$3000,Poor,10%+,Stable,Low Affluence
+$100k-$200k,Freelancer,Clerk,Other,Other,Lower,10-20%,High,Low Debt,$100k-$200k,Stocks,<$1000,Good,10%+,Unstable,High Affluence
+$100k-$200k,Part-time,Manager,Other,Renter,Middle,10-20%,Medium,Moderate Debt,>$200k,Cryptocurrency,<$1000,Fair,5-10%,Stable,High Affluence
+<$25k,Part-time,Other,Education,Renter,Middle,30-40%,High,Low Debt,>$200k,None,$1000-$3000,Good,5-10%,Stable,Low Affluence
+$25k-$50k,Unemployed,Consultant,Other,Owner,Upper-Middle,10-20%,High,Low Debt,<$50k,Mutual Funds,>$5000,Fair,0-5%,Unstable,High Affluence
+<$25k,Part-time,Consultant,Healthcare,Owner,Lower,30-40%,Low,No Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Fair,Negative,Unstable,Low Affluence
+<$25k,Unemployed,Manager,Education,Other,Upper-Middle,30-40%,Medium,Low Debt,$50k-$100k,None,<$1000,Good,Negative,Frequent Changes,Low Affluence
+>$200k,Freelancer,Other,Education,Other,Upper-Middle,30-40%,High,No Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Excellent,5-10%,Stable,High Affluence
+<$25k,Part-time,Clerk,Other,Renter,Upper,20-30%,Low,No Debt,<$50k,Real Estate,$3000-$5000,Good,5-10%,Unstable,Low Affluence
+<$25k,Unemployed,Manager,Finance,Other,Lower,20-30%,High,No Debt,$100k-$200k,Real Estate,<$1000,Excellent,5-10%,Stable,Low Affluence
+$25k-$50k,Part-time,Manager,Healthcare,Owner,Middle,20-30%,High,Low Debt,>$200k,Mutual Funds,$1000-$3000,Poor,0-5%,Frequent Changes,High Affluence
+>$200k,Unemployed,Other,Other,Owner,Middle,20-30%,High,Low Debt,$50k-$100k,Real Estate,<$1000,Poor,Negative,Stable,High Affluence
+$25k-$50k,Employed,Consultant,IT,Renter,Lower,20-30%,Low,High Debt,<$50k,Real Estate,<$1000,Excellent,5-10%,Unstable,High Affluence
+<$25k,Part-time,Consultant,Finance,Owner,Upper-Middle,20-30%,Medium,No Debt,$50k-$100k,Real Estate,<$1000,Excellent,0-5%,Frequent Changes,Low Affluence
+>$200k,Part-time,Other,Finance,Owner,Upper,40%+,High,Low Debt,>$200k,Cryptocurrency,<$1000,Poor,10%+,Frequent Changes,High Affluence
+>$200k,Employed,Manager,Finance,Owner,Upper,10-20%,Low,High Debt,<$50k,Stocks,$1000-$3000,Poor,Negative,Frequent Changes,High Affluence
+$100k-$200k,Freelancer,Other,Finance,Owner,Upper-Middle,40%+,High,Moderate Debt,$100k-$200k,Stocks,>$5000,Excellent,0-5%,Frequent Changes,High Affluence
+<$25k,Part-time,Manager,IT,Renter,Middle,<10%,Medium,High Debt,$100k-$200k,None,$1000-$3000,Fair,Negative,Stable,Low Affluence
+<$25k,Employed,Clerk,IT,Renter,Middle,<10%,Medium,Low Debt,<$50k,Cryptocurrency,$3000-$5000,Poor,5-10%,Unstable,Low Affluence
+<$25k,Employed,Consultant,Healthcare,Renter,Upper-Middle,<10%,High,High Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Fair,10%+,Frequent Changes,Low Affluence
+$50k-$100k,Part-time,Manager,Healthcare,Owner,Lower,20-30%,Low,Low Debt,<$50k,None,$3000-$5000,Excellent,0-5%,Stable,Low Affluence
+$50k-$100k,Freelancer,Other,IT,Renter,Middle,30-40%,High,Low Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Poor,Negative,Frequent Changes,Low Affluence
+>$200k,Unemployed,Clerk,Other,Other,Lower-Middle,20-30%,Low,High Debt,>$200k,None,<$1000,Excellent,5-10%,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Technician,Education,Renter,Upper-Middle,30-40%,Low,High Debt,>$200k,Cryptocurrency,>$5000,Poor,5-10%,Stable,Low Affluence
+>$200k,Freelancer,Other,Other,Other,Lower-Middle,<10%,High,High Debt,$100k-$200k,Mutual Funds,$3000-$5000,Good,5-10%,Stable,High Affluence
+>$200k,Employed,Other,IT,Renter,Lower,30-40%,Low,No Debt,<$50k,Cryptocurrency,>$5000,Excellent,10%+,Unstable,High Affluence
+<$25k,Employed,Technician,Healthcare,Other,Upper,30-40%,Low,Moderate Debt,$100k-$200k,Real Estate,$3000-$5000,Excellent,Negative,Stable,Low Affluence
+$25k-$50k,Employed,Consultant,Healthcare,Renter,Upper,40%+,Low,Moderate Debt,<$50k,None,<$1000,Good,Negative,Stable,High Affluence
+>$200k,Employed,Consultant,IT,Other,Upper,10-20%,High,High Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Good,Negative,Unstable,High Affluence
+>$200k,Unemployed,Other,Education,Renter,Upper-Middle,40%+,Low,Moderate Debt,>$200k,None,>$5000,Excellent,Negative,Stable,High Affluence
+>$200k,Unemployed,Other,Education,Other,Lower-Middle,<10%,Medium,Moderate Debt,>$200k,None,$1000-$3000,Excellent,5-10%,Stable,High Affluence
+$100k-$200k,Unemployed,Manager,IT,Owner,Upper-Middle,40%+,High,No Debt,<$50k,Real Estate,$1000-$3000,Excellent,0-5%,Unstable,High Affluence
+$25k-$50k,Unemployed,Other,Healthcare,Renter,Lower-Middle,10-20%,High,Moderate Debt,<$50k,Mutual Funds,<$1000,Good,5-10%,Frequent Changes,High Affluence
+>$200k,Employed,Technician,Education,Other,Lower,30-40%,High,No Debt,$50k-$100k,Cryptocurrency,>$5000,Excellent,10%+,Frequent Changes,High Affluence
+<$25k,Employed,Technician,Education,Renter,Upper,<10%,Low,High Debt,$50k-$100k,Real Estate,$3000-$5000,Excellent,10%+,Unstable,Low Affluence
+$100k-$200k,Part-time,Other,IT,Owner,Lower-Middle,<10%,Low,Moderate Debt,>$200k,Cryptocurrency,<$1000,Poor,5-10%,Stable,High Affluence
+$100k-$200k,Unemployed,Clerk,IT,Other,Upper,40%+,Low,High Debt,$50k-$100k,Mutual Funds,$1000-$3000,Good,Negative,Unstable,High Affluence
+$25k-$50k,Employed,Manager,Education,Renter,Upper-Middle,10-20%,Low,High Debt,<$50k,Real Estate,$3000-$5000,Excellent,Negative,Unstable,High Affluence
+<$25k,Unemployed,Manager,Other,Owner,Lower-Middle,30-40%,High,No Debt,>$200k,Mutual Funds,<$1000,Excellent,10%+,Stable,Low Affluence
+$25k-$50k,Unemployed,Manager,Other,Other,Upper,40%+,Medium,High Debt,<$50k,Cryptocurrency,>$5000,Poor,10%+,Frequent Changes,High Affluence
+$100k-$200k,Unemployed,Consultant,Education,Other,Lower-Middle,20-30%,High,Moderate Debt,<$50k,Real Estate,<$1000,Good,Negative,Unstable,High Affluence
+$50k-$100k,Unemployed,Technician,Education,Renter,Upper,30-40%,High,Moderate Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Poor,0-5%,Stable,Low Affluence
+<$25k,Employed,Manager,IT,Renter,Lower,40%+,Medium,High Debt,>$200k,Cryptocurrency,$3000-$5000,Excellent,Negative,Unstable,Low Affluence
+<$25k,Employed,Consultant,Healthcare,Other,Middle,40%+,Medium,Moderate Debt,$100k-$200k,Mutual Funds,$1000-$3000,Poor,0-5%,Unstable,Low Affluence
+<$25k,Employed,Manager,IT,Other,Upper,30-40%,Low,High Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Fair,0-5%,Stable,Low Affluence
+$25k-$50k,Employed,Technician,Education,Renter,Lower,40%+,High,Moderate Debt,<$50k,Mutual Funds,$3000-$5000,Poor,10%+,Stable,High Affluence
+<$25k,Employed,Consultant,IT,Renter,Lower-Middle,30-40%,Low,Moderate Debt,$100k-$200k,None,$1000-$3000,Good,Negative,Unstable,Low Affluence
+$100k-$200k,Employed,Consultant,Other,Renter,Upper,10-20%,Low,Moderate Debt,>$200k,Stocks,<$1000,Excellent,5-10%,Stable,High Affluence
+$50k-$100k,Unemployed,Manager,IT,Other,Lower-Middle,10-20%,High,Moderate Debt,$50k-$100k,Real Estate,$1000-$3000,Fair,10%+,Stable,Low Affluence
+$100k-$200k,Freelancer,Consultant,IT,Other,Middle,20-30%,High,Low Debt,$100k-$200k,None,<$1000,Poor,5-10%,Frequent Changes,High Affluence
+$25k-$50k,Employed,Other,Healthcare,Renter,Upper,20-30%,High,No Debt,<$50k,None,<$1000,Excellent,10%+,Frequent Changes,High Affluence
+$50k-$100k,Freelancer,Technician,Other,Renter,Upper,30-40%,High,No Debt,$100k-$200k,Mutual Funds,$1000-$3000,Poor,0-5%,Stable,Low Affluence
+$100k-$200k,Unemployed,Consultant,Finance,Renter,Lower,10-20%,High,Low Debt,<$50k,Real Estate,>$5000,Good,Negative,Stable,High Affluence
+$25k-$50k,Employed,Clerk,IT,Owner,Upper,30-40%,Low,No Debt,<$50k,Mutual Funds,$1000-$3000,Excellent,10%+,Unstable,High Affluence
+<$25k,Part-time,Clerk,Healthcare,Renter,Lower,30-40%,High,Low Debt,>$200k,Real Estate,$3000-$5000,Fair,0-5%,Frequent Changes,Low Affluence
+$50k-$100k,Unemployed,Consultant,Other,Owner,Upper,40%+,Medium,Low Debt,$100k-$200k,Stocks,$1000-$3000,Good,Negative,Unstable,Low Affluence
+$50k-$100k,Employed,Clerk,Finance,Renter,Lower,<10%,Medium,Low Debt,>$200k,Mutual Funds,$1000-$3000,Fair,10%+,Frequent Changes,Low Affluence
+$100k-$200k,Part-time,Clerk,Healthcare,Renter,Lower-Middle,30-40%,High,High Debt,$100k-$200k,Real Estate,<$1000,Fair,5-10%,Stable,High Affluence
+$25k-$50k,Employed,Technician,Healthcare,Owner,Lower-Middle,10-20%,High,Moderate Debt,>$200k,Cryptocurrency,$3000-$5000,Good,5-10%,Stable,High Affluence
+$50k-$100k,Employed,Clerk,IT,Other,Middle,10-20%,High,No Debt,$50k-$100k,None,$1000-$3000,Fair,0-5%,Unstable,Low Affluence
+>$200k,Part-time,Technician,IT,Renter,Lower,40%+,Low,High Debt,$50k-$100k,Cryptocurrency,<$1000,Fair,10%+,Unstable,High Affluence
+<$25k,Part-time,Technician,Healthcare,Owner,Middle,20-30%,Medium,High Debt,$50k-$100k,None,$1000-$3000,Fair,0-5%,Frequent Changes,Low Affluence
+$25k-$50k,Part-time,Other,Other,Other,Lower-Middle,20-30%,Medium,Moderate Debt,$100k-$200k,None,<$1000,Good,0-5%,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Clerk,IT,Owner,Lower,<10%,Low,No Debt,>$200k,Mutual Funds,$3000-$5000,Fair,0-5%,Unstable,Low Affluence
+<$25k,Unemployed,Other,Education,Renter,Middle,40%+,High,High Debt,$50k-$100k,None,$1000-$3000,Good,Negative,Frequent Changes,Low Affluence
+<$25k,Part-time,Technician,IT,Renter,Upper-Middle,30-40%,Medium,No Debt,<$50k,Mutual Funds,$3000-$5000,Poor,10%+,Stable,Low Affluence
+<$25k,Part-time,Other,Finance,Owner,Upper-Middle,20-30%,High,Low Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Fair,0-5%,Frequent Changes,Low Affluence
+$25k-$50k,Part-time,Manager,Education,Other,Middle,<10%,Medium,No Debt,<$50k,None,$1000-$3000,Poor,10%+,Frequent Changes,High Affluence
+$25k-$50k,Unemployed,Consultant,Finance,Renter,Upper-Middle,<10%,Medium,Moderate Debt,$100k-$200k,None,<$1000,Poor,5-10%,Stable,High Affluence
+$50k-$100k,Freelancer,Clerk,Healthcare,Owner,Upper-Middle,10-20%,Medium,Moderate Debt,>$200k,None,<$1000,Good,0-5%,Stable,Low Affluence
+>$200k,Part-time,Technician,IT,Other,Lower-Middle,20-30%,Low,High Debt,>$200k,Cryptocurrency,$3000-$5000,Fair,5-10%,Stable,High Affluence
+$100k-$200k,Part-time,Technician,IT,Other,Upper,30-40%,Medium,Moderate Debt,>$200k,Stocks,$1000-$3000,Excellent,0-5%,Frequent Changes,High Affluence
+>$200k,Part-time,Technician,Other,Owner,Upper-Middle,40%+,High,Moderate Debt,>$200k,Cryptocurrency,$1000-$3000,Good,0-5%,Unstable,High Affluence
+$25k-$50k,Part-time,Clerk,Healthcare,Renter,Lower,20-30%,High,High Debt,$100k-$200k,None,>$5000,Poor,10%+,Stable,High Affluence
+>$200k,Unemployed,Manager,Other,Other,Middle,<10%,Medium,No Debt,$50k-$100k,None,<$1000,Excellent,10%+,Stable,High Affluence
+$100k-$200k,Freelancer,Clerk,Education,Other,Lower-Middle,30-40%,Low,Moderate Debt,<$50k,Mutual Funds,<$1000,Fair,5-10%,Unstable,High Affluence
+$50k-$100k,Unemployed,Technician,Education,Renter,Lower-Middle,10-20%,High,High Debt,$50k-$100k,Mutual Funds,<$1000,Poor,5-10%,Stable,Low Affluence
+$100k-$200k,Freelancer,Technician,IT,Other,Lower-Middle,30-40%,High,Low Debt,$50k-$100k,Mutual Funds,$3000-$5000,Excellent,10%+,Unstable,High Affluence
+<$25k,Part-time,Other,Finance,Other,Upper,40%+,Medium,No Debt,>$200k,Stocks,>$5000,Good,Negative,Stable,Low Affluence
+$100k-$200k,Employed,Consultant,Education,Other,Upper-Middle,10-20%,High,Moderate Debt,>$200k,None,$1000-$3000,Good,5-10%,Stable,High Affluence
+$50k-$100k,Unemployed,Consultant,Healthcare,Owner,Upper,<10%,Low,High Debt,$50k-$100k,Cryptocurrency,$3000-$5000,Fair,0-5%,Unstable,Low Affluence
+$25k-$50k,Part-time,Consultant,Healthcare,Renter,Middle,20-30%,Low,Moderate Debt,$50k-$100k,Real Estate,$1000-$3000,Good,5-10%,Unstable,High Affluence
+>$200k,Freelancer,Other,Education,Owner,Upper-Middle,10-20%,High,Moderate Debt,>$200k,Mutual Funds,<$1000,Good,10%+,Frequent Changes,High Affluence
+$100k-$200k,Employed,Manager,Education,Owner,Upper,20-30%,Medium,High Debt,<$50k,Real Estate,>$5000,Good,10%+,Stable,High Affluence
+$100k-$200k,Employed,Clerk,IT,Owner,Lower,40%+,Low,High Debt,$50k-$100k,Stocks,$3000-$5000,Fair,Negative,Stable,High Affluence
+$25k-$50k,Part-time,Consultant,Healthcare,Owner,Upper,20-30%,Low,Low Debt,$50k-$100k,None,>$5000,Excellent,10%+,Stable,High Affluence
+$50k-$100k,Employed,Consultant,Other,Owner,Middle,20-30%,Medium,High Debt,>$200k,Cryptocurrency,$3000-$5000,Good,5-10%,Unstable,Low Affluence
+<$25k,Employed,Consultant,Healthcare,Other,Middle,10-20%,Medium,No Debt,$100k-$200k,Stocks,$3000-$5000,Excellent,0-5%,Unstable,Low Affluence
+$50k-$100k,Unemployed,Clerk,Finance,Other,Lower,30-40%,High,Moderate Debt,<$50k,None,$1000-$3000,Fair,Negative,Unstable,Low Affluence
+$50k-$100k,Employed,Technician,Healthcare,Owner,Middle,<10%,High,No Debt,>$200k,None,$1000-$3000,Good,0-5%,Frequent Changes,Low Affluence
+$50k-$100k,Freelancer,Technician,Other,Renter,Lower,10-20%,Medium,High Debt,<$50k,Cryptocurrency,$1000-$3000,Excellent,10%+,Stable,Low Affluence
+<$25k,Freelancer,Consultant,Education,Owner,Upper-Middle,30-40%,Medium,High Debt,$50k-$100k,Real Estate,$3000-$5000,Poor,10%+,Stable,Low Affluence
+$25k-$50k,Part-time,Other,Healthcare,Owner,Upper-Middle,<10%,Medium,High Debt,<$50k,Mutual Funds,<$1000,Fair,10%+,Frequent Changes,High Affluence
+$50k-$100k,Unemployed,Consultant,Finance,Owner,Middle,<10%,High,Moderate Debt,>$200k,Mutual Funds,$3000-$5000,Good,0-5%,Frequent Changes,Low Affluence
+$100k-$200k,Unemployed,Clerk,Healthcare,Owner,Middle,<10%,Low,Moderate Debt,>$200k,Mutual Funds,<$1000,Poor,10%+,Frequent Changes,High Affluence
+$100k-$200k,Employed,Clerk,Education,Owner,Middle,10-20%,High,Low Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Good,0-5%,Frequent Changes,High Affluence
+$100k-$200k,Part-time,Consultant,Healthcare,Renter,Middle,30-40%,Low,Low Debt,$100k-$200k,Stocks,$1000-$3000,Fair,0-5%,Unstable,High Affluence
+>$200k,Part-time,Technician,Finance,Owner,Middle,40%+,Low,High Debt,$100k-$200k,None,$3000-$5000,Fair,5-10%,Frequent Changes,High Affluence
+<$25k,Unemployed,Clerk,Other,Owner,Upper,<10%,Low,High Debt,$50k-$100k,Cryptocurrency,<$1000,Poor,10%+,Unstable,Low Affluence
+$100k-$200k,Unemployed,Clerk,Healthcare,Owner,Lower-Middle,40%+,High,Low Debt,>$200k,Mutual Funds,<$1000,Good,10%+,Frequent Changes,High Affluence
+$25k-$50k,Employed,Consultant,Other,Owner,Upper-Middle,10-20%,High,No Debt,$100k-$200k,None,$1000-$3000,Fair,10%+,Unstable,High Affluence
+<$25k,Employed,Consultant,Education,Owner,Middle,20-30%,High,High Debt,$50k-$100k,Stocks,$3000-$5000,Poor,Negative,Unstable,Low Affluence
+$25k-$50k,Unemployed,Clerk,IT,Other,Lower-Middle,40%+,High,Moderate Debt,<$50k,None,>$5000,Excellent,Negative,Frequent Changes,High Affluence
+$100k-$200k,Unemployed,Consultant,Other,Other,Lower-Middle,10-20%,High,Moderate Debt,<$50k,None,<$1000,Good,Negative,Stable,High Affluence
+>$200k,Part-time,Technician,IT,Renter,Lower,40%+,Medium,Low Debt,$50k-$100k,Stocks,<$1000,Excellent,5-10%,Unstable,High Affluence
+$50k-$100k,Unemployed,Other,Healthcare,Other,Upper,40%+,Low,Moderate Debt,$50k-$100k,Cryptocurrency,<$1000,Good,5-10%,Frequent Changes,Low Affluence
+>$200k,Unemployed,Manager,Education,Owner,Lower,20-30%,Medium,No Debt,$100k-$200k,Real Estate,>$5000,Poor,0-5%,Stable,High Affluence
+$50k-$100k,Part-time,Other,Finance,Owner,Lower,<10%,Low,No Debt,>$200k,Real Estate,>$5000,Poor,5-10%,Unstable,Low Affluence
+<$25k,Employed,Clerk,IT,Other,Upper,30-40%,Medium,Low Debt,<$50k,Mutual Funds,$3000-$5000,Excellent,Negative,Unstable,Low Affluence
+$100k-$200k,Freelancer,Manager,Other,Other,Middle,<10%,High,Moderate Debt,$100k-$200k,Cryptocurrency,>$5000,Excellent,Negative,Stable,High Affluence
+$50k-$100k,Part-time,Consultant,Education,Other,Lower-Middle,10-20%,Medium,High Debt,>$200k,Cryptocurrency,$3000-$5000,Excellent,5-10%,Frequent Changes,Low Affluence
+<$25k,Part-time,Technician,Finance,Renter,Lower-Middle,20-30%,Medium,Moderate Debt,$50k-$100k,None,$3000-$5000,Poor,Negative,Unstable,Low Affluence
+$100k-$200k,Unemployed,Technician,Finance,Renter,Upper-Middle,20-30%,Medium,High Debt,>$200k,Stocks,<$1000,Poor,5-10%,Unstable,High Affluence
+$100k-$200k,Freelancer,Consultant,Education,Owner,Middle,30-40%,High,Moderate Debt,$50k-$100k,Real Estate,$1000-$3000,Excellent,0-5%,Frequent Changes,High Affluence
+$25k-$50k,Part-time,Consultant,Finance,Renter,Middle,20-30%,High,Moderate Debt,$50k-$100k,Real Estate,$3000-$5000,Poor,0-5%,Stable,High Affluence
+>$200k,Part-time,Consultant,Other,Other,Lower-Middle,<10%,Medium,No Debt,>$200k,None,$1000-$3000,Excellent,Negative,Frequent Changes,High Affluence
+$25k-$50k,Employed,Other,Healthcare,Owner,Lower,40%+,Low,High Debt,>$200k,Cryptocurrency,$3000-$5000,Poor,5-10%,Stable,High Affluence
+<$25k,Freelancer,Manager,Healthcare,Renter,Lower-Middle,<10%,Low,Low Debt,>$200k,Cryptocurrency,$3000-$5000,Excellent,10%+,Unstable,Low Affluence
+$50k-$100k,Employed,Clerk,IT,Renter,Upper,30-40%,High,No Debt,>$200k,Real Estate,$1000-$3000,Fair,5-10%,Stable,Low Affluence
+$100k-$200k,Freelancer,Other,IT,Other,Middle,20-30%,Medium,High Debt,>$200k,Mutual Funds,$1000-$3000,Fair,0-5%,Frequent Changes,High Affluence
+$25k-$50k,Part-time,Manager,Finance,Other,Lower-Middle,<10%,Low,High Debt,$100k-$200k,Mutual Funds,$1000-$3000,Excellent,Negative,Unstable,High Affluence
+$50k-$100k,Unemployed,Other,Healthcare,Owner,Lower,<10%,Medium,Low Debt,$50k-$100k,None,>$5000,Fair,10%+,Stable,Low Affluence
+>$200k,Freelancer,Consultant,Finance,Renter,Lower,40%+,High,Moderate Debt,$100k-$200k,Real Estate,>$5000,Fair,5-10%,Stable,High Affluence
+$100k-$200k,Freelancer,Consultant,Finance,Other,Lower-Middle,40%+,High,Moderate Debt,>$200k,Cryptocurrency,<$1000,Fair,0-5%,Unstable,High Affluence
+<$25k,Unemployed,Technician,Education,Renter,Middle,<10%,Low,High Debt,>$200k,Stocks,>$5000,Good,Negative,Stable,Low Affluence
+<$25k,Employed,Consultant,Finance,Owner,Lower-Middle,30-40%,Medium,Low Debt,<$50k,Real Estate,$3000-$5000,Good,10%+,Frequent Changes,Low Affluence
+>$200k,Employed,Technician,IT,Renter,Middle,10-20%,Low,Low Debt,$100k-$200k,Stocks,>$5000,Fair,10%+,Unstable,High Affluence
+<$25k,Part-time,Manager,Education,Renter,Upper,30-40%,High,No Debt,<$50k,None,>$5000,Poor,5-10%,Unstable,Low Affluence
+$100k-$200k,Freelancer,Consultant,Education,Owner,Middle,30-40%,Low,No Debt,$50k-$100k,Mutual Funds,<$1000,Good,10%+,Unstable,High Affluence
+<$25k,Freelancer,Technician,Education,Renter,Lower,10-20%,Medium,High Debt,$50k-$100k,Cryptocurrency,<$1000,Poor,Negative,Stable,Low Affluence
+$50k-$100k,Part-time,Consultant,Education,Owner,Upper,20-30%,Medium,Moderate Debt,$50k-$100k,Cryptocurrency,$1000-$3000,Poor,10%+,Frequent Changes,Low Affluence
+$25k-$50k,Employed,Consultant,Healthcare,Other,Upper-Middle,20-30%,High,Low Debt,<$50k,Cryptocurrency,>$5000,Good,10%+,Frequent Changes,High Affluence
+$50k-$100k,Freelancer,Technician,IT,Other,Lower,10-20%,Low,Moderate Debt,>$200k,Stocks,$1000-$3000,Excellent,10%+,Unstable,Low Affluence
+$100k-$200k,Part-time,Consultant,IT,Other,Upper,30-40%,High,High Debt,<$50k,None,$3000-$5000,Good,0-5%,Unstable,High Affluence
+$50k-$100k,Employed,Manager,Healthcare,Other,Lower,10-20%,High,High Debt,<$50k,Mutual Funds,<$1000,Excellent,Negative,Frequent Changes,Low Affluence
+$100k-$200k,Unemployed,Clerk,Finance,Other,Lower-Middle,10-20%,High,No Debt,<$50k,Stocks,>$5000,Excellent,0-5%,Unstable,High Affluence
+>$200k,Employed,Consultant,Other,Other,Lower-Middle,10-20%,Low,High Debt,$100k-$200k,Stocks,<$1000,Fair,5-10%,Frequent Changes,High Affluence
+$25k-$50k,Freelancer,Consultant,Other,Renter,Upper-Middle,30-40%,Low,High Debt,$100k-$200k,Stocks,<$1000,Fair,0-5%,Unstable,High Affluence
+$50k-$100k,Part-time,Clerk,IT,Owner,Middle,20-30%,Low,Low Debt,<$50k,None,>$5000,Good,0-5%,Unstable,Low Affluence
+>$200k,Part-time,Consultant,Education,Renter,Lower-Middle,30-40%,High,No Debt,>$200k,Real Estate,<$1000,Good,5-10%,Unstable,High Affluence
+$50k-$100k,Part-time,Clerk,Education,Renter,Upper,20-30%,Medium,Low Debt,<$50k,Cryptocurrency,<$1000,Fair,Negative,Unstable,Low Affluence
+$25k-$50k,Part-time,Consultant,Other,Other,Upper,20-30%,Low,No Debt,<$50k,Real Estate,$3000-$5000,Good,10%+,Stable,High Affluence
+$25k-$50k,Employed,Consultant,Other,Renter,Middle,20-30%,Low,Moderate Debt,$50k-$100k,Mutual Funds,>$5000,Good,0-5%,Stable,High Affluence
+$100k-$200k,Part-time,Other,Education,Renter,Middle,30-40%,Medium,Low Debt,$50k-$100k,Real Estate,>$5000,Poor,0-5%,Stable,High Affluence
+>$200k,Unemployed,Manager,IT,Owner,Upper,30-40%,Low,Moderate Debt,<$50k,Real Estate,$3000-$5000,Excellent,Negative,Stable,High Affluence
+>$200k,Employed,Manager,Finance,Owner,Lower-Middle,30-40%,Medium,Low Debt,>$200k,Cryptocurrency,<$1000,Poor,5-10%,Frequent Changes,High Affluence
+$100k-$200k,Freelancer,Manager,Other,Other,Upper-Middle,40%+,Low,High Debt,$50k-$100k,Real Estate,$1000-$3000,Good,5-10%,Unstable,High Affluence
+$50k-$100k,Employed,Technician,IT,Owner,Lower-Middle,20-30%,High,No Debt,$100k-$200k,Cryptocurrency,<$1000,Fair,Negative,Stable,Low Affluence
+$100k-$200k,Freelancer,Technician,Education,Other,Upper,<10%,Low,Moderate Debt,<$50k,Stocks,$1000-$3000,Excellent,5-10%,Stable,High Affluence
+>$200k,Freelancer,Manager,Healthcare,Owner,Middle,40%+,Medium,Low Debt,$100k-$200k,None,<$1000,Poor,0-5%,Stable,High Affluence
+>$200k,Employed,Technician,Education,Renter,Upper,20-30%,High,No Debt,$50k-$100k,Real Estate,$3000-$5000,Poor,5-10%,Stable,High Affluence
+<$25k,Part-time,Other,Healthcare,Other,Middle,20-30%,Low,High Debt,$100k-$200k,Real Estate,$3000-$5000,Good,10%+,Unstable,Low Affluence
+<$25k,Employed,Other,Healthcare,Other,Lower-Middle,<10%,High,Moderate Debt,$100k-$200k,Real Estate,$3000-$5000,Fair,5-10%,Stable,Low Affluence
+$100k-$200k,Unemployed,Other,Finance,Owner,Middle,40%+,Medium,Low Debt,$50k-$100k,Mutual Funds,$1000-$3000,Excellent,Negative,Frequent Changes,High Affluence
+>$200k,Part-time,Consultant,Healthcare,Renter,Upper-Middle,10-20%,High,No Debt,$100k-$200k,Stocks,$3000-$5000,Good,0-5%,Unstable,High Affluence
+$50k-$100k,Unemployed,Technician,IT,Other,Lower-Middle,20-30%,Low,High Debt,>$200k,Cryptocurrency,$3000-$5000,Fair,Negative,Stable,Low Affluence
+<$25k,Freelancer,Other,IT,Other,Lower-Middle,10-20%,High,Moderate Debt,>$200k,Stocks,<$1000,Poor,0-5%,Stable,Low Affluence
+$100k-$200k,Unemployed,Clerk,IT,Owner,Lower,30-40%,Medium,No Debt,<$50k,Real Estate,$1000-$3000,Poor,10%+,Unstable,High Affluence
+$100k-$200k,Unemployed,Consultant,IT,Renter,Lower,20-30%,Low,High Debt,$50k-$100k,Real Estate,$1000-$3000,Good,0-5%,Unstable,High Affluence
+$50k-$100k,Unemployed,Other,IT,Other,Upper,40%+,High,Low Debt,$100k-$200k,None,$1000-$3000,Good,10%+,Unstable,Low Affluence
+$100k-$200k,Unemployed,Manager,Finance,Other,Upper-Middle,30-40%,High,No Debt,$100k-$200k,Real Estate,>$5000,Fair,5-10%,Stable,High Affluence
+$50k-$100k,Part-time,Technician,Other,Owner,Upper-Middle,10-20%,Medium,Low Debt,$50k-$100k,Real Estate,<$1000,Excellent,10%+,Unstable,Low Affluence
+>$200k,Part-time,Technician,Healthcare,Owner,Lower-Middle,<10%,Low,No Debt,<$50k,None,<$1000,Good,5-10%,Stable,High Affluence
+$50k-$100k,Unemployed,Consultant,Healthcare,Owner,Upper-Middle,10-20%,Medium,Moderate Debt,>$200k,Stocks,$3000-$5000,Excellent,Negative,Stable,Low Affluence
+$100k-$200k,Unemployed,Other,Finance,Owner,Upper,40%+,High,High Debt,>$200k,Stocks,>$5000,Excellent,5-10%,Unstable,High Affluence
+$25k-$50k,Freelancer,Clerk,Healthcare,Renter,Lower,10-20%,Low,No Debt,<$50k,Cryptocurrency,$3000-$5000,Fair,5-10%,Stable,High Affluence
+$50k-$100k,Unemployed,Other,Education,Other,Upper,<10%,High,No Debt,<$50k,None,>$5000,Excellent,0-5%,Stable,Low Affluence
+$50k-$100k,Employed,Consultant,Healthcare,Owner,Lower-Middle,<10%,Low,No Debt,>$200k,Real Estate,<$1000,Good,0-5%,Unstable,Low Affluence
+<$25k,Freelancer,Manager,IT,Other,Upper-Middle,30-40%,High,Moderate Debt,<$50k,Stocks,>$5000,Fair,5-10%,Frequent Changes,Low Affluence
+$25k-$50k,Part-time,Consultant,Finance,Owner,Upper,20-30%,High,No Debt,>$200k,Real Estate,<$1000,Excellent,0-5%,Frequent Changes,High Affluence
+>$200k,Employed,Other,Other,Renter,Upper-Middle,20-30%,High,No Debt,>$200k,Mutual Funds,$1000-$3000,Excellent,Negative,Frequent Changes,High Affluence
+$50k-$100k,Employed,Consultant,IT,Renter,Upper,30-40%,Low,Moderate Debt,$50k-$100k,Real Estate,$1000-$3000,Good,5-10%,Unstable,Low Affluence
+$50k-$100k,Part-time,Consultant,Finance,Other,Upper-Middle,20-30%,Low,Moderate Debt,>$200k,Stocks,<$1000,Poor,5-10%,Unstable,Low Affluence
+<$25k,Freelancer,Manager,Education,Renter,Lower,10-20%,High,Low Debt,<$50k,Cryptocurrency,$3000-$5000,Excellent,0-5%,Unstable,Low Affluence
+$25k-$50k,Freelancer,Technician,Finance,Owner,Middle,40%+,High,No Debt,$50k-$100k,Real Estate,$3000-$5000,Poor,5-10%,Frequent Changes,High Affluence
+<$25k,Freelancer,Clerk,Education,Other,Upper,<10%,Medium,Moderate Debt,>$200k,Stocks,$1000-$3000,Poor,Negative,Unstable,Low Affluence
+$25k-$50k,Part-time,Other,Finance,Other,Lower-Middle,40%+,Medium,No Debt,>$200k,None,<$1000,Fair,0-5%,Unstable,High Affluence
+$25k-$50k,Freelancer,Manager,IT,Renter,Lower,20-30%,Low,No Debt,$100k-$200k,Mutual Funds,>$5000,Poor,10%+,Unstable,High Affluence
+$50k-$100k,Unemployed,Technician,Other,Other,Upper,40%+,High,Moderate Debt,>$200k,None,$1000-$3000,Poor,Negative,Stable,Low Affluence
+<$25k,Unemployed,Other,Healthcare,Other,Lower,10-20%,Medium,No Debt,<$50k,Mutual Funds,>$5000,Poor,0-5%,Stable,Low Affluence
+$50k-$100k,Freelancer,Technician,IT,Owner,Lower,10-20%,Medium,Low Debt,<$50k,Cryptocurrency,$3000-$5000,Excellent,0-5%,Unstable,Low Affluence
+$100k-$200k,Part-time,Technician,IT,Other,Upper,40%+,Medium,Low Debt,$50k-$100k,Mutual Funds,$1000-$3000,Poor,Negative,Frequent Changes,High Affluence
+$50k-$100k,Part-time,Technician,Other,Owner,Upper,<10%,High,Moderate Debt,$50k-$100k,Mutual Funds,$3000-$5000,Excellent,Negative,Stable,Low Affluence
+<$25k,Freelancer,Other,IT,Other,Middle,40%+,Medium,High Debt,<$50k,Real Estate,<$1000,Poor,0-5%,Unstable,Low Affluence
+$100k-$200k,Freelancer,Consultant,Finance,Renter,Middle,30-40%,Low,Low Debt,$50k-$100k,Stocks,$1000-$3000,Excellent,Negative,Unstable,High Affluence
+$50k-$100k,Unemployed,Technician,Healthcare,Owner,Upper-Middle,40%+,High,Moderate Debt,>$200k,Stocks,<$1000,Poor,10%+,Frequent Changes,Low Affluence
+$50k-$100k,Employed,Other,Other,Other,Lower-Middle,10-20%,Low,Low Debt,>$200k,Cryptocurrency,$3000-$5000,Fair,0-5%,Unstable,Low Affluence
+$50k-$100k,Part-time,Clerk,Education,Renter,Lower,10-20%,Low,High Debt,<$50k,Cryptocurrency,$3000-$5000,Poor,Negative,Frequent Changes,Low Affluence
+$25k-$50k,Freelancer,Consultant,Healthcare,Owner,Lower-Middle,30-40%,High,Low Debt,$100k-$200k,Mutual Funds,<$1000,Poor,5-10%,Frequent Changes,High Affluence
+$25k-$50k,Unemployed,Consultant,Finance,Owner,Middle,40%+,Low,No Debt,>$200k,Stocks,>$5000,Good,0-5%,Unstable,High Affluence
+$25k-$50k,Freelancer,Manager,IT,Owner,Upper,20-30%,Low,Moderate Debt,$100k-$200k,Stocks,$3000-$5000,Fair,Negative,Frequent Changes,High Affluence
+$100k-$200k,Freelancer,Other,IT,Other,Lower,30-40%,High,No Debt,$50k-$100k,Real Estate,$3000-$5000,Excellent,10%+,Stable,High Affluence
+>$200k,Freelancer,Clerk,Healthcare,Other,Middle,10-20%,Medium,No Debt,>$200k,Cryptocurrency,$1000-$3000,Excellent,5-10%,Unstable,High Affluence
+$100k-$200k,Unemployed,Other,Other,Other,Upper-Middle,<10%,High,Low Debt,>$200k,None,$1000-$3000,Fair,Negative,Unstable,High Affluence
+>$200k,Part-time,Other,Other,Other,Upper,20-30%,High,Low Debt,<$50k,None,$3000-$5000,Fair,10%+,Unstable,High Affluence
+$50k-$100k,Unemployed,Clerk,Healthcare,Owner,Middle,10-20%,High,High Debt,$100k-$200k,Stocks,$1000-$3000,Good,Negative,Frequent Changes,Low Affluence
+$25k-$50k,Employed,Other,Healthcare,Renter,Upper,10-20%,High,No Debt,$100k-$200k,Cryptocurrency,$3000-$5000,Good,10%+,Stable,High Affluence
+$50k-$100k,Part-time,Clerk,Education,Owner,Lower-Middle,40%+,High,High Debt,$100k-$200k,Mutual Funds,$3000-$5000,Good,10%+,Frequent Changes,Low Affluence
+<$25k,Part-time,Technician,Other,Other,Lower-Middle,10-20%,Low,No Debt,$50k-$100k,None,$1000-$3000,Fair,5-10%,Stable,Low Affluence
+$50k-$100k,Freelancer,Other,Education,Other,Upper-Middle,20-30%,Medium,Low Debt,<$50k,Mutual Funds,$1000-$3000,Poor,5-10%,Frequent Changes,Low Affluence
+$100k-$200k,Employed,Manager,Education,Other,Lower,40%+,Low,Moderate Debt,>$200k,Cryptocurrency,>$5000,Excellent,0-5%,Stable,High Affluence
+>$200k,Freelancer,Manager,Other,Other,Lower,10-20%,High,High Debt,$100k-$200k,Stocks,>$5000,Excellent,Negative,Frequent Changes,High Affluence
+>$200k,Employed,Other,Finance,Owner,Middle,20-30%,Medium,High Debt,$50k-$100k,Mutual Funds,$1000-$3000,Poor,0-5%,Unstable,High Affluence
+$100k-$200k,Unemployed,Consultant,IT,Owner,Middle,30-40%,High,High Debt,<$50k,Real Estate,>$5000,Good,10%+,Frequent Changes,High Affluence
+<$25k,Part-time,Other,Healthcare,Owner,Upper-Middle,<10%,Medium,No Debt,$100k-$200k,Mutual Funds,<$1000,Good,0-5%,Unstable,Low Affluence
+$25k-$50k,Employed,Manager,Healthcare,Other,Upper-Middle,30-40%,Low,Moderate Debt,$100k-$200k,Cryptocurrency,$1000-$3000,Poor,5-10%,Unstable,High Affluence
+$25k-$50k,Unemployed,Technician,Other,Other,Lower,40%+,High,Moderate Debt,<$50k,Cryptocurrency,$1000-$3000,Excellent,Negative,Frequent Changes,High Affluence
+>$200k,Unemployed,Manager,IT,Owner,Upper,10-20%,High,Moderate Debt,<$50k,Mutual Funds,<$1000,Poor,5-10%,Unstable,High Affluence
+$50k-$100k,Freelancer,Manager,Finance,Other,Upper,20-30%,Medium,Low Debt,>$200k,Real Estate,$1000-$3000,Excellent,0-5%,Frequent Changes,Low Affluence
+>$200k,Employed,Consultant,Education,Renter,Upper-Middle,30-40%,High,Low Debt,>$200k,Cryptocurrency,$1000-$3000,Fair,5-10%,Unstable,High Affluence
+<$25k,Freelancer,Consultant,Education,Owner,Upper-Middle,20-30%,High,No Debt,$100k-$200k,Real Estate,>$5000,Good,10%+,Stable,Low Affluence
+$100k-$200k,Employed,Technician,IT,Other,Lower,10-20%,Medium,Moderate Debt,>$200k,None,$1000-$3000,Fair,10%+,Stable,High Affluence
+$25k-$50k,Unemployed,Consultant,Education,Owner,Upper-Middle,<10%,Low,No Debt,>$200k,Stocks,$1000-$3000,Fair,5-10%,Unstable,High Affluence
+$25k-$50k,Unemployed,Clerk,Finance,Owner,Lower-Middle,30-40%,High,No Debt,<$50k,Stocks,<$1000,Fair,Negative,Frequent Changes,High Affluence
+<$25k,Unemployed,Clerk,Other,Renter,Lower-Middle,30-40%,High,No Debt,>$200k,Real Estate,<$1000,Fair,10%+,Frequent Changes,Low Affluence
+<$25k,Employed,Technician,Education,Other,Lower-Middle,20-30%,Medium,High Debt,$100k-$200k,Mutual Funds,<$1000,Poor,Negative,Stable,Low Affluence
+>$200k,Employed,Other,Other,Owner,Upper,40%+,Medium,High Debt,$100k-$200k,Real Estate,>$5000,Excellent,Negative,Frequent Changes,High Affluence
+>$200k,Freelancer,Consultant,Healthcare,Owner,Lower,30-40%,Medium,Moderate Debt,$50k-$100k,Cryptocurrency,<$1000,Excellent,10%+,Unstable,High Affluence
+$100k-$200k,Part-time,Manager,Other,Renter,Middle,20-30%,Medium,Moderate Debt,$100k-$200k,Mutual Funds,$3000-$5000,Fair,10%+,Unstable,High Affluence
+>$200k,Employed,Consultant,IT,Renter,Upper-Middle,40%+,High,High Debt,$100k-$200k,Stocks,>$5000,Good,Negative,Stable,High Affluence
+>$200k,Unemployed,Technician,IT,Renter,Lower,<10%,Low,Low Debt,$100k-$200k,None,$3000-$5000,Good,5-10%,Frequent Changes,High Affluence
