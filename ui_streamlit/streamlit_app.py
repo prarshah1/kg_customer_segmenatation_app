@@ -8,6 +8,10 @@ import base64
 import streamlit as st
 from streamlit_agraph import agraph, Config
 from segment_graph import generate_segment_graph
+
+if "segment_descriptions" not in st.session_state:
+    st.session_state.segment_descriptions = None
+
 if "fig" not in st.session_state:
     st.session_state.fig = generate_segment_graph()
 
@@ -25,6 +29,8 @@ if "id_label_mapping" not in st.session_state:
 
 if "selected_segment" not in st.session_state:
     st.session_state.selected_segment = None
+
+
 
 def get_image_b64(image_path):
     if image_path:

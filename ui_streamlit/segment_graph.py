@@ -12,7 +12,30 @@ load_dotenv()
 graph_generator_obj = GraphGenerator()
 import streamlit as st
 
-if "segment_descriptions" not in st.session_state:
+
+def get_color_lifestyle(lifestyle_index):
+    # lifestyle_index is between 1 to 6
+    colors = {
+        '1': '#ADD8E6',  # lightblue
+        '2': '#90EE90',  # lightgreen
+        '3': '#FFFFE0',  # lightyellow
+        '4': '#AFEEEE',  # lightturquoise
+        '5': '#FFB6C1',  # lightpink
+        '6': '#E0FFFF'  # lightcyan
+    }
+    return colors.get(lifestyle_index, 'lightblue')  # Default to 'lightblue' if index is out of range
+
+
+def get_size_digital(digital):
+    # values are between 1 and 3
+    size_mapping = {
+        '1': 45,
+        '2': 55,
+        '3': 65
+    }
+    return size_mapping.get(digital, 60)  # Default to 40 if digital is out of range
+
+def generate_segment_graph():
     st.session_state.segment_descriptions = {"L1A1D1": {"desc": "Lifestyle: Young (Single individuals without children, aged between <18 and 44) | Age: <18 | Digital: Daily"},
                         "L1A1D2": {
                             "desc": "Lifestyle: Young (Single individuals without children, aged between <18 and 44) | Age: <18 | Digital: Weekly"},
@@ -122,32 +145,6 @@ if "segment_descriptions" not in st.session_state:
                             "desc": "Lifestyle: Retirees (Individuals aged 65+ without children) | Age: 65+ | Digital: Occasionally"},
                         }
 
-
-def get_color_lifestyle(lifestyle_index):
-    # lifestyle_index is between 1 to 6
-    colors = {
-        '1': '#ADD8E6',  # lightblue
-        '2': '#90EE90',  # lightgreen
-        '3': '#FFFFE0',  # lightyellow
-        '4': '#AFEEEE',  # lightturquoise
-        '5': '#FFB6C1',  # lightpink
-        '6': '#E0FFFF'  # lightcyan
-    }
-    return colors.get(lifestyle_index, 'lightblue')  # Default to 'lightblue' if index is out of range
-
-
-def get_size_digital(digital):
-    # values are between 1 and 3
-    size_mapping = {
-        '1': 45,
-        '2': 55,
-        '3': 65
-    }
-    return size_mapping.get(digital, 60)  # Default to 40 if digital is out of range
-
-
-@st.cache_data()
-def generate_segment_graph():
     NEO4J_URI = os.getenv("NEO4J_URI")
     NEO4J_USER = os.getenv("NEO4J_USER")
     NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
@@ -263,6 +260,7 @@ def display_segments():
                 for key in st.session_state.segment_descriptions.keys():
                     if st.session_state.segment_descriptions[key]["x,y"] == f"{x, y}":
                         segment_id = key
+                        st.session_state.selected_segment = key
                         break
                 st.markdown(
                     f"<h5 style='color: #4A90E2;'>Segment Description:</h5><p style='font-size: 16px;'><b>   - {st.session_state.segment_descriptions[segment_id]['desc'].replace('|', '<br>   -')}</b></p>",

@@ -1,501 +1,501 @@
 technology_purchase_history,device_usage_patterns,tech-savvy_level,online_security_measures,software_use_preferences,smart_home_devices_adopted,diy_vs._professional_tech_use,tech_support_utilization,interest_in_emerging_tech,e-government_participation,digital_literacy_assessment,open_source_vs._proprietary_preferences,cloud_service_usage,online_subscription_services,tech_event_attendance
-Rare,Laptop,Low,None,Open Source,Yes,DIY,Occasional,Moderate,Yes,High,Proprietary,Frequent,No,Frequent
-Occasional,Tablet,High,Weak,Proprietary,Yes,Mixed,Occasional,High,Yes,Low,Proprietary,Occasional,No,None
-None,Tablet,Low,Strong,Open Source,No,DIY,Occasional,Moderate,Yes,Moderate,Open Source,Occasional,No,None
-None,Laptop,Low,Moderate,Open Source,Yes,Mixed,Frequent,High,No,High,Proprietary,None,No,Occasional
-None,Laptop,Low,Strong,Mixed,No,DIY,None,Low,Yes,High,Mixed,Frequent,Yes,Occasional
-Rare,Desktop,Low,None,Mixed,No,Mixed,None,Low,Yes,Low,Proprietary,Occasional,No,None
-Rare,Desktop,Moderate,Weak,Mixed,No,Professional,None,Moderate,No,Low,Proprietary,Frequent,Yes,None
-Occasional,Smartphone,High,Strong,Open Source,Yes,DIY,Frequent,Low,No,Low,Open Source,Frequent,No,Frequent
-Rare,Tablet,High,Moderate,Mixed,Yes,DIY,Frequent,High,Yes,Low,Mixed,None,Yes,Occasional
-Rare,Smartphone,Moderate,Weak,Mixed,No,Professional,Occasional,Low,Yes,Low,Mixed,None,Yes,Frequent
-Occasional,Smartphone,Low,Weak,Open Source,No,Professional,Frequent,High,Yes,Moderate,Proprietary,Frequent,Yes,None
-Frequent,Tablet,Low,None,Proprietary,No,Mixed,Frequent,Moderate,No,Moderate,Open Source,Frequent,Yes,None
-Occasional,Laptop,High,Weak,Open Source,Yes,DIY,Frequent,High,No,Low,Mixed,Frequent,Yes,None
-Occasional,Tablet,Moderate,Weak,Proprietary,No,Professional,Frequent,High,No,Low,Open Source,Frequent,No,None
-Occasional,Laptop,High,Moderate,Mixed,Yes,Professional,Frequent,Moderate,No,High,Mixed,Frequent,No,Occasional
-None,Smartphone,High,Weak,Open Source,Yes,DIY,Frequent,Moderate,Yes,High,Open Source,None,No,Occasional
-None,Smartphone,Moderate,Strong,Open Source,Yes,DIY,None,High,Yes,High,Proprietary,Occasional,No,Frequent
-None,Tablet,Moderate,Weak,Open Source,No,Mixed,Occasional,Low,Yes,High,Mixed,Occasional,Yes,Frequent
-Frequent,Smartphone,Low,Strong,Open Source,No,Mixed,Occasional,High,No,High,Open Source,Frequent,No,Occasional
-Occasional,Desktop,Low,Moderate,Open Source,No,Professional,None,Moderate,Yes,Moderate,Mixed,Frequent,No,Frequent
-Frequent,Tablet,Moderate,None,Proprietary,No,Mixed,None,Moderate,No,Low,Open Source,Frequent,Yes,None
-Frequent,Desktop,High,None,Open Source,Yes,Mixed,Frequent,Moderate,Yes,Moderate,Mixed,Occasional,Yes,Occasional
-Rare,Smartphone,High,Strong,Open Source,Yes,DIY,Frequent,Low,No,Moderate,Open Source,None,Yes,Frequent
-Frequent,Tablet,Moderate,Weak,Mixed,Yes,Mixed,None,Moderate,No,Low,Open Source,Frequent,Yes,Frequent
-Occasional,Laptop,High,Weak,Proprietary,Yes,Mixed,None,Moderate,Yes,Moderate,Proprietary,None,Yes,None
-Rare,Desktop,Low,Weak,Open Source,No,Professional,None,High,No,Low,Mixed,None,No,Occasional
-Frequent,Laptop,Low,Moderate,Open Source,No,Professional,Frequent,Low,No,Moderate,Open Source,Occasional,Yes,Occasional
-Rare,Smartphone,Moderate,None,Mixed,No,DIY,Frequent,High,Yes,Moderate,Open Source,Occasional,No,None
-Frequent,Smartphone,Moderate,Moderate,Proprietary,Yes,DIY,None,High,Yes,High,Mixed,Frequent,Yes,Occasional
-None,Smartphone,High,Weak,Proprietary,No,Professional,Frequent,High,Yes,Low,Proprietary,Frequent,No,Occasional
-None,Tablet,Low,Weak,Proprietary,No,Professional,None,Moderate,Yes,Moderate,Mixed,Occasional,Yes,Occasional
-Frequent,Desktop,High,Weak,Proprietary,No,Mixed,None,High,No,Moderate,Open Source,Occasional,No,None
-Occasional,Smartphone,Moderate,Weak,Proprietary,Yes,Professional,Frequent,Low,Yes,Moderate,Proprietary,Occasional,Yes,None
-Occasional,Desktop,Low,Strong,Mixed,Yes,Mixed,Frequent,Low,No,Moderate,Proprietary,None,Yes,Frequent
-Frequent,Laptop,Low,None,Mixed,No,Professional,None,Moderate,No,High,Mixed,Occasional,No,Frequent
-Rare,Desktop,Low,None,Mixed,Yes,Mixed,None,Moderate,Yes,High,Mixed,None,No,Frequent
-Rare,Laptop,High,Weak,Mixed,No,DIY,Occasional,Moderate,Yes,High,Open Source,None,Yes,Occasional
-Frequent,Desktop,High,Weak,Mixed,Yes,Professional,Frequent,Low,No,Low,Open Source,None,No,None
-None,Tablet,High,Moderate,Mixed,No,Professional,Frequent,Low,No,High,Mixed,Frequent,Yes,Occasional
-None,Tablet,Moderate,Weak,Mixed,No,Professional,Frequent,High,Yes,Low,Mixed,None,No,Frequent
-Rare,Tablet,High,Weak,Proprietary,No,Mixed,Occasional,Low,No,Moderate,Mixed,None,Yes,Occasional
-None,Laptop,High,Moderate,Proprietary,No,Professional,Frequent,Moderate,No,Moderate,Mixed,Frequent,Yes,Frequent
-Occasional,Desktop,Low,Moderate,Proprietary,Yes,Mixed,Occasional,Moderate,No,Low,Proprietary,Frequent,Yes,None
-Occasional,Desktop,Low,Weak,Proprietary,Yes,Mixed,None,High,Yes,High,Proprietary,Occasional,Yes,None
-None,Desktop,Moderate,None,Proprietary,No,Professional,Occasional,High,No,Low,Proprietary,Occasional,Yes,Occasional
-Frequent,Smartphone,Moderate,Moderate,Mixed,Yes,DIY,Occasional,Low,No,Low,Mixed,Frequent,Yes,Occasional
-None,Tablet,Moderate,Strong,Open Source,Yes,Professional,Frequent,High,No,Low,Proprietary,Frequent,No,Frequent
-Rare,Laptop,Low,Weak,Open Source,No,Professional,Frequent,Low,Yes,High,Mixed,None,Yes,Occasional
-Frequent,Smartphone,High,Weak,Open Source,No,Professional,Occasional,Moderate,No,High,Open Source,Frequent,No,None
-Occasional,Desktop,High,None,Mixed,No,Mixed,None,Moderate,Yes,Moderate,Mixed,None,No,None
-None,Tablet,Low,None,Open Source,Yes,Professional,None,Low,No,Low,Open Source,Frequent,No,None
-None,Desktop,High,Strong,Mixed,No,Mixed,Occasional,Moderate,Yes,High,Proprietary,Frequent,Yes,Occasional
-Frequent,Desktop,Low,Strong,Mixed,No,DIY,Frequent,Low,No,High,Open Source,Occasional,No,None
-Occasional,Laptop,High,None,Mixed,Yes,DIY,Occasional,Moderate,Yes,Moderate,Proprietary,Frequent,No,None
-None,Smartphone,Low,Weak,Mixed,No,DIY,Occasional,Moderate,Yes,Low,Proprietary,None,Yes,Occasional
-Rare,Tablet,Moderate,Weak,Proprietary,Yes,Mixed,Occasional,Low,Yes,High,Mixed,Occasional,No,Frequent
-Frequent,Laptop,Low,Weak,Proprietary,No,Mixed,Occasional,Moderate,No,High,Open Source,None,Yes,Frequent
-None,Laptop,Low,Strong,Mixed,Yes,Professional,Occasional,High,No,Low,Proprietary,None,Yes,Frequent
-Rare,Desktop,Low,Weak,Proprietary,Yes,Professional,Frequent,High,Yes,High,Open Source,None,No,None
-Occasional,Laptop,High,Weak,Proprietary,No,DIY,Frequent,Moderate,No,High,Proprietary,Frequent,No,Frequent
-Rare,Smartphone,Low,None,Open Source,No,Mixed,None,Low,No,Low,Mixed,Frequent,Yes,Frequent
-None,Laptop,High,Weak,Open Source,No,Mixed,None,Low,Yes,Moderate,Open Source,Frequent,No,None
-None,Tablet,Low,None,Proprietary,No,Professional,None,High,Yes,Low,Open Source,Frequent,Yes,Occasional
-Rare,Smartphone,Low,Moderate,Mixed,No,Professional,Frequent,Low,Yes,Moderate,Mixed,Occasional,No,Frequent
-Rare,Tablet,Moderate,Strong,Mixed,No,Professional,Frequent,Low,Yes,Moderate,Mixed,Frequent,Yes,Occasional
-None,Desktop,Moderate,None,Open Source,No,Mixed,None,Moderate,No,Low,Mixed,Occasional,Yes,Frequent
-Occasional,Tablet,Low,Moderate,Proprietary,Yes,Professional,None,Moderate,No,Low,Proprietary,Occasional,No,None
-Occasional,Laptop,High,Weak,Mixed,No,Mixed,None,Moderate,Yes,High,Open Source,Occasional,No,Frequent
-Occasional,Desktop,High,Strong,Open Source,Yes,Professional,None,Moderate,Yes,High,Proprietary,Frequent,Yes,Occasional
-Frequent,Laptop,Moderate,Strong,Proprietary,Yes,Professional,Frequent,Low,Yes,Moderate,Open Source,Frequent,Yes,Frequent
-Rare,Tablet,Low,None,Proprietary,No,Professional,Occasional,Low,No,High,Open Source,Frequent,Yes,Frequent
-None,Smartphone,High,None,Open Source,No,DIY,Frequent,Low,Yes,Low,Proprietary,None,Yes,Occasional
-Rare,Tablet,High,None,Proprietary,Yes,Professional,Occasional,High,No,High,Mixed,Occasional,Yes,Frequent
-Occasional,Smartphone,Low,Weak,Open Source,No,Mixed,None,Moderate,No,Low,Proprietary,Occasional,No,Occasional
-Occasional,Laptop,Low,Moderate,Mixed,Yes,DIY,Occasional,High,No,Low,Mixed,Occasional,No,Occasional
-Frequent,Laptop,Low,Moderate,Proprietary,No,DIY,Frequent,Low,No,Moderate,Proprietary,Frequent,No,Frequent
-Frequent,Desktop,Moderate,Moderate,Mixed,Yes,Mixed,Occasional,High,No,Moderate,Proprietary,None,Yes,Occasional
-Rare,Desktop,Low,None,Mixed,Yes,Mixed,Occasional,Moderate,Yes,Low,Open Source,Occasional,Yes,Frequent
-Rare,Desktop,Moderate,Weak,Proprietary,No,Professional,Frequent,High,No,Low,Proprietary,None,No,Frequent
-Rare,Laptop,High,Moderate,Proprietary,Yes,DIY,None,Moderate,No,High,Proprietary,Occasional,No,Frequent
-Rare,Tablet,Moderate,Strong,Open Source,Yes,Professional,None,Moderate,Yes,Low,Mixed,Frequent,No,Frequent
-Occasional,Laptop,Moderate,Weak,Mixed,Yes,Professional,Frequent,Moderate,Yes,High,Open Source,None,Yes,Occasional
-Frequent,Tablet,Moderate,Weak,Open Source,Yes,Mixed,None,High,Yes,Low,Mixed,Occasional,No,Occasional
-Frequent,Smartphone,Low,Weak,Mixed,No,Mixed,Occasional,Low,Yes,Moderate,Mixed,Frequent,No,Frequent
-Rare,Tablet,Moderate,None,Proprietary,No,Mixed,Occasional,High,No,Moderate,Open Source,Occasional,Yes,None
-None,Smartphone,High,None,Open Source,Yes,Professional,Occasional,Low,No,High,Open Source,Occasional,No,Occasional
-Occasional,Smartphone,Moderate,Weak,Proprietary,No,DIY,Frequent,Low,Yes,High,Open Source,Frequent,No,None
-Frequent,Desktop,High,Moderate,Open Source,Yes,Professional,Frequent,Moderate,Yes,High,Mixed,Frequent,No,Occasional
-Occasional,Desktop,High,Weak,Proprietary,Yes,Mixed,None,High,No,Low,Mixed,Frequent,No,Occasional
-Occasional,Tablet,High,Weak,Proprietary,Yes,DIY,Frequent,Low,Yes,Low,Mixed,None,No,Frequent
-Frequent,Smartphone,High,None,Open Source,Yes,Professional,None,High,Yes,Moderate,Mixed,Occasional,Yes,Occasional
-Rare,Smartphone,Moderate,Moderate,Open Source,Yes,Professional,None,High,Yes,High,Mixed,Occasional,No,Occasional
-None,Laptop,High,Weak,Open Source,Yes,Mixed,Occasional,High,Yes,High,Mixed,Occasional,No,Frequent
-Rare,Laptop,High,Moderate,Mixed,Yes,DIY,Frequent,High,Yes,Moderate,Proprietary,Frequent,No,None
-Rare,Smartphone,Low,Moderate,Proprietary,No,Professional,None,Moderate,Yes,Low,Proprietary,Occasional,Yes,Occasional
-Occasional,Smartphone,Moderate,Moderate,Mixed,No,Mixed,None,Low,No,High,Open Source,None,Yes,None
-Rare,Desktop,Moderate,Strong,Mixed,Yes,Mixed,Frequent,Low,Yes,High,Mixed,None,Yes,None
-Frequent,Desktop,Moderate,Strong,Open Source,Yes,Mixed,Occasional,High,No,Low,Open Source,Occasional,No,Frequent
-Occasional,Laptop,High,Strong,Proprietary,No,Mixed,Frequent,Moderate,Yes,Low,Open Source,Occasional,No,Occasional
-None,Smartphone,Low,Weak,Open Source,Yes,Mixed,None,Low,No,Moderate,Proprietary,Frequent,No,Frequent
-Rare,Tablet,Low,Moderate,Open Source,Yes,DIY,None,High,No,Moderate,Mixed,Frequent,Yes,None
-Frequent,Desktop,High,Weak,Mixed,Yes,Professional,None,High,Yes,Low,Proprietary,None,Yes,Occasional
-Occasional,Desktop,Moderate,Weak,Open Source,No,Professional,Frequent,Moderate,No,High,Proprietary,Occasional,Yes,Frequent
-None,Smartphone,Low,Strong,Mixed,Yes,DIY,None,Moderate,No,High,Mixed,None,No,Frequent
-None,Tablet,Low,Moderate,Proprietary,No,Professional,None,Moderate,No,High,Proprietary,None,Yes,None
-Occasional,Laptop,Low,Weak,Proprietary,No,Mixed,Frequent,Moderate,Yes,High,Mixed,Frequent,No,Occasional
-Rare,Smartphone,Moderate,Strong,Mixed,No,DIY,Frequent,High,No,Low,Mixed,Frequent,Yes,None
-Rare,Laptop,Moderate,Moderate,Mixed,Yes,Professional,Frequent,High,Yes,Moderate,Proprietary,Frequent,Yes,Occasional
-None,Tablet,Moderate,Weak,Open Source,No,DIY,Frequent,High,No,High,Proprietary,Occasional,No,Frequent
-Rare,Laptop,Moderate,Moderate,Proprietary,No,Professional,None,Low,Yes,Moderate,Mixed,Frequent,No,Occasional
-Occasional,Desktop,Low,None,Open Source,No,Mixed,Occasional,High,No,Low,Mixed,Occasional,Yes,None
-Frequent,Tablet,Moderate,Weak,Open Source,Yes,Mixed,Occasional,Low,Yes,Low,Proprietary,Occasional,No,Occasional
-None,Desktop,Low,Strong,Open Source,No,DIY,Occasional,Low,Yes,Low,Proprietary,None,No,Frequent
-Frequent,Smartphone,High,Weak,Mixed,Yes,Professional,Frequent,Moderate,Yes,High,Proprietary,None,No,Occasional
-None,Desktop,High,Moderate,Mixed,No,Professional,Occasional,Moderate,Yes,Moderate,Open Source,None,Yes,Frequent
-Rare,Smartphone,High,Weak,Proprietary,Yes,DIY,Frequent,High,No,Moderate,Open Source,Occasional,Yes,Occasional
-Frequent,Laptop,Moderate,Weak,Proprietary,Yes,Professional,None,High,No,High,Mixed,Occasional,Yes,None
-None,Desktop,High,None,Mixed,Yes,Professional,Occasional,High,No,Moderate,Proprietary,Occasional,Yes,None
-None,Tablet,High,None,Open Source,Yes,DIY,Occasional,Low,Yes,Moderate,Mixed,Occasional,Yes,Frequent
-Occasional,Tablet,High,Moderate,Mixed,Yes,DIY,Frequent,High,No,Moderate,Mixed,None,No,None
-None,Laptop,Low,Weak,Open Source,No,Mixed,Occasional,Moderate,No,Moderate,Open Source,Frequent,Yes,Occasional
-Occasional,Tablet,High,None,Open Source,Yes,DIY,Frequent,High,No,High,Open Source,Frequent,Yes,None
-None,Desktop,High,Strong,Open Source,Yes,Professional,Occasional,Low,Yes,High,Proprietary,Frequent,No,None
-Frequent,Laptop,Moderate,None,Open Source,Yes,Professional,Occasional,High,No,Moderate,Proprietary,None,No,None
-Occasional,Tablet,High,Moderate,Open Source,Yes,Mixed,None,Moderate,Yes,High,Mixed,Frequent,Yes,Frequent
-Occasional,Tablet,High,Strong,Mixed,Yes,Mixed,None,High,Yes,Moderate,Open Source,None,Yes,Frequent
-Occasional,Laptop,High,None,Mixed,Yes,Mixed,Frequent,High,No,Low,Proprietary,Occasional,No,Frequent
-Occasional,Smartphone,Moderate,Moderate,Mixed,No,DIY,Frequent,Moderate,No,Moderate,Mixed,None,Yes,Occasional
-Rare,Laptop,Low,Strong,Proprietary,Yes,Mixed,Frequent,High,Yes,High,Mixed,None,No,None
-Occasional,Desktop,Low,Weak,Mixed,Yes,Professional,Occasional,Moderate,No,High,Open Source,Frequent,Yes,Frequent
-None,Smartphone,High,Moderate,Proprietary,Yes,Mixed,Frequent,Low,No,Low,Proprietary,Occasional,No,Frequent
-Frequent,Tablet,Low,Strong,Mixed,No,Professional,Occasional,High,No,Moderate,Proprietary,Occasional,Yes,None
-Rare,Laptop,Moderate,Strong,Proprietary,Yes,Mixed,Occasional,Moderate,No,High,Mixed,Frequent,No,None
-Rare,Smartphone,Low,Moderate,Proprietary,No,Mixed,Frequent,High,Yes,Moderate,Open Source,Occasional,Yes,Frequent
-None,Laptop,Low,Weak,Mixed,No,Mixed,None,High,No,Moderate,Proprietary,Occasional,No,None
-Rare,Laptop,Low,Strong,Mixed,No,DIY,Occasional,Moderate,Yes,High,Proprietary,None,No,Frequent
-None,Tablet,Low,Weak,Proprietary,No,Mixed,Frequent,Low,Yes,Low,Open Source,Frequent,No,Occasional
-Occasional,Desktop,Moderate,Strong,Open Source,No,DIY,Occasional,Low,No,Moderate,Open Source,Occasional,No,Frequent
-Frequent,Desktop,Moderate,None,Proprietary,No,Mixed,None,Low,No,Low,Open Source,Occasional,Yes,Occasional
-Occasional,Smartphone,Moderate,Moderate,Mixed,Yes,DIY,Frequent,High,Yes,High,Open Source,Occasional,Yes,Frequent
-Rare,Smartphone,Moderate,Weak,Proprietary,Yes,DIY,Frequent,Low,No,Moderate,Open Source,Frequent,Yes,None
-Frequent,Desktop,High,None,Proprietary,Yes,Professional,Frequent,Moderate,Yes,High,Mixed,None,Yes,Frequent
-Rare,Smartphone,Moderate,Weak,Proprietary,Yes,Professional,Frequent,High,No,Low,Proprietary,None,Yes,None
-None,Smartphone,Moderate,Weak,Proprietary,Yes,DIY,None,Moderate,No,Moderate,Mixed,Frequent,No,Occasional
-Occasional,Laptop,High,Weak,Mixed,No,Mixed,Frequent,High,No,High,Proprietary,Occasional,Yes,Occasional
-Frequent,Desktop,Low,Weak,Open Source,Yes,Professional,Occasional,Low,No,Low,Open Source,Frequent,No,Frequent
-Rare,Smartphone,Moderate,Weak,Mixed,Yes,Professional,Occasional,High,No,Moderate,Proprietary,Frequent,No,None
-None,Tablet,High,None,Open Source,No,DIY,None,Low,Yes,High,Open Source,Occasional,No,Occasional
-Rare,Desktop,High,Strong,Proprietary,No,DIY,None,Low,No,High,Mixed,Frequent,Yes,Occasional
-Rare,Laptop,High,Strong,Open Source,No,Professional,Frequent,Moderate,Yes,Low,Proprietary,Frequent,No,Occasional
-Occasional,Desktop,High,Weak,Open Source,No,DIY,None,Low,No,High,Mixed,Occasional,No,None
-Rare,Desktop,Low,Weak,Open Source,Yes,Mixed,None,Low,Yes,Low,Open Source,None,Yes,Occasional
-Rare,Tablet,High,Weak,Mixed,Yes,DIY,None,High,No,High,Proprietary,Frequent,No,Occasional
-Frequent,Desktop,High,Weak,Open Source,Yes,Professional,None,Low,Yes,High,Proprietary,None,No,Frequent
-Rare,Tablet,Moderate,Weak,Mixed,No,Professional,Occasional,High,No,Moderate,Proprietary,Occasional,Yes,None
-None,Desktop,Low,Weak,Proprietary,Yes,DIY,Occasional,Moderate,No,High,Mixed,Frequent,Yes,Frequent
-None,Laptop,Low,Strong,Mixed,No,Professional,None,Low,No,Low,Proprietary,None,No,Frequent
-Frequent,Tablet,High,Weak,Mixed,No,Professional,None,Low,Yes,Low,Open Source,Occasional,Yes,None
-Occasional,Tablet,Low,None,Mixed,No,DIY,Occasional,Low,No,Moderate,Mixed,None,No,None
-None,Desktop,Low,Weak,Open Source,Yes,Professional,None,Moderate,No,Moderate,Proprietary,Frequent,Yes,Frequent
-Frequent,Smartphone,Moderate,Weak,Proprietary,No,Mixed,Frequent,Moderate,No,Low,Open Source,Frequent,Yes,Occasional
-Rare,Smartphone,Low,None,Open Source,No,Professional,Frequent,Low,Yes,High,Mixed,Occasional,No,Frequent
-Frequent,Tablet,High,None,Proprietary,No,Professional,None,Moderate,No,Moderate,Mixed,None,No,None
-Frequent,Laptop,Moderate,Strong,Open Source,No,DIY,Frequent,Low,Yes,Low,Open Source,Frequent,No,Frequent
-Occasional,Laptop,Moderate,Weak,Mixed,No,Mixed,Frequent,Low,Yes,Low,Proprietary,Occasional,No,None
-Frequent,Laptop,Low,None,Mixed,Yes,DIY,Occasional,Moderate,No,Moderate,Mixed,Occasional,No,None
-Rare,Desktop,Low,Strong,Proprietary,No,Mixed,Frequent,Moderate,No,Moderate,Open Source,Frequent,Yes,None
-Frequent,Laptop,Low,Weak,Mixed,No,Professional,Occasional,Moderate,No,Low,Proprietary,Occasional,No,None
-Rare,Laptop,Moderate,Moderate,Open Source,Yes,DIY,Frequent,High,No,Moderate,Proprietary,None,Yes,Frequent
-Rare,Laptop,High,Moderate,Mixed,No,Professional,Occasional,Moderate,Yes,Moderate,Open Source,Frequent,No,None
-Frequent,Desktop,High,Moderate,Proprietary,No,Mixed,Occasional,Moderate,No,Moderate,Proprietary,Occasional,Yes,Frequent
-None,Desktop,Low,Weak,Mixed,Yes,Mixed,Frequent,Low,No,Moderate,Mixed,Frequent,No,Occasional
-Frequent,Laptop,Moderate,Weak,Open Source,No,DIY,None,Low,No,Moderate,Mixed,Occasional,Yes,Occasional
-None,Desktop,High,None,Proprietary,Yes,Professional,Frequent,High,No,Moderate,Mixed,Occasional,No,Frequent
-Rare,Laptop,High,Moderate,Proprietary,No,DIY,Occasional,High,No,Moderate,Proprietary,Occasional,No,Occasional
-Frequent,Smartphone,Moderate,None,Open Source,No,DIY,None,Low,No,Low,Mixed,Occasional,Yes,Frequent
-None,Desktop,High,None,Mixed,Yes,Mixed,Occasional,High,No,Low,Proprietary,None,Yes,Occasional
-None,Desktop,High,Weak,Open Source,No,DIY,Frequent,Low,No,High,Open Source,Occasional,Yes,Frequent
-Rare,Smartphone,High,None,Proprietary,Yes,Professional,None,High,No,Low,Open Source,None,Yes,Frequent
-None,Smartphone,Low,None,Proprietary,No,Professional,Occasional,High,No,Low,Mixed,Frequent,No,None
-Frequent,Tablet,Moderate,Moderate,Proprietary,No,Professional,None,High,No,Low,Mixed,None,No,None
-None,Laptop,Moderate,None,Open Source,No,Professional,Occasional,High,No,High,Open Source,Frequent,No,Frequent
-Frequent,Laptop,Low,Moderate,Proprietary,Yes,Professional,Occasional,Moderate,No,Moderate,Mixed,None,Yes,Frequent
-Frequent,Tablet,Low,None,Proprietary,Yes,DIY,None,Low,Yes,Low,Mixed,Frequent,Yes,None
-Rare,Desktop,Low,Weak,Mixed,Yes,Mixed,None,Low,No,High,Mixed,Frequent,Yes,None
-Occasional,Laptop,Low,Strong,Proprietary,Yes,Mixed,None,Moderate,No,High,Mixed,Frequent,Yes,None
-Frequent,Laptop,Moderate,Strong,Open Source,No,Professional,Frequent,Moderate,No,High,Open Source,Frequent,No,Occasional
-Rare,Desktop,Moderate,Moderate,Proprietary,Yes,DIY,Occasional,Low,No,Moderate,Mixed,Occasional,No,None
-None,Smartphone,High,Strong,Mixed,Yes,DIY,Occasional,Moderate,No,Moderate,Mixed,Frequent,No,None
-None,Tablet,Moderate,Moderate,Mixed,No,Professional,None,High,No,Moderate,Open Source,None,Yes,Occasional
-Rare,Laptop,Moderate,Weak,Open Source,No,Mixed,Frequent,High,No,High,Proprietary,Frequent,Yes,None
-Frequent,Laptop,Moderate,Weak,Open Source,No,Mixed,Occasional,Moderate,Yes,Moderate,Open Source,Occasional,No,None
-None,Laptop,Moderate,None,Open Source,Yes,Mixed,Occasional,High,No,Moderate,Mixed,Occasional,Yes,None
-Frequent,Smartphone,Low,Weak,Mixed,No,DIY,Frequent,Low,Yes,Moderate,Open Source,Occasional,No,Occasional
-Occasional,Desktop,Moderate,Weak,Mixed,No,DIY,None,High,Yes,High,Proprietary,None,Yes,Frequent
-Frequent,Laptop,Low,Moderate,Proprietary,Yes,DIY,None,Moderate,Yes,Moderate,Open Source,None,No,Occasional
-Occasional,Smartphone,High,Strong,Mixed,Yes,Professional,None,High,Yes,Low,Mixed,None,Yes,Frequent
-None,Laptop,Moderate,None,Open Source,No,Professional,Frequent,High,No,High,Open Source,None,No,Occasional
-Rare,Tablet,Low,Weak,Mixed,No,Mixed,None,High,No,High,Open Source,Frequent,No,Frequent
-Frequent,Laptop,High,Weak,Open Source,No,DIY,Frequent,High,Yes,Moderate,Open Source,Frequent,No,None
-None,Laptop,High,Moderate,Proprietary,Yes,Professional,Occasional,Moderate,Yes,Low,Mixed,Occasional,Yes,None
-Rare,Smartphone,High,Strong,Mixed,No,Professional,None,High,No,Low,Proprietary,Frequent,No,Frequent
-Frequent,Smartphone,Low,None,Open Source,No,DIY,Frequent,Moderate,No,Moderate,Proprietary,None,Yes,None
-Frequent,Smartphone,High,Strong,Mixed,No,DIY,Frequent,Low,No,Low,Proprietary,Occasional,No,None
-Frequent,Smartphone,Low,None,Proprietary,No,Professional,Frequent,High,No,High,Mixed,None,No,Occasional
-Rare,Tablet,Low,Moderate,Proprietary,Yes,Mixed,None,Low,No,Low,Proprietary,Occasional,Yes,Occasional
-Rare,Laptop,Low,None,Mixed,No,Professional,Frequent,High,Yes,High,Mixed,Frequent,Yes,Frequent
-Occasional,Smartphone,Moderate,None,Proprietary,Yes,Professional,None,Moderate,Yes,High,Mixed,None,Yes,None
-Frequent,Tablet,Low,Moderate,Open Source,Yes,DIY,Frequent,Moderate,Yes,High,Mixed,Frequent,No,Frequent
-Frequent,Smartphone,Low,Strong,Mixed,No,Mixed,Frequent,Low,No,High,Proprietary,Frequent,No,Occasional
-None,Tablet,High,Strong,Mixed,Yes,Mixed,None,High,No,Moderate,Open Source,None,Yes,Occasional
-None,Smartphone,High,Strong,Mixed,Yes,Professional,Occasional,High,No,High,Proprietary,None,No,Frequent
-Frequent,Tablet,Low,Weak,Proprietary,No,DIY,Frequent,Moderate,No,Moderate,Open Source,Occasional,Yes,None
-None,Tablet,Low,None,Proprietary,Yes,Mixed,Occasional,High,No,Low,Mixed,Occasional,No,Occasional
-Frequent,Desktop,Low,Weak,Open Source,Yes,Professional,Frequent,Moderate,No,Moderate,Open Source,Frequent,Yes,None
-Occasional,Tablet,Moderate,Moderate,Mixed,Yes,Mixed,None,High,No,High,Mixed,Occasional,Yes,None
-None,Smartphone,Low,Weak,Open Source,Yes,DIY,Occasional,Low,No,Low,Open Source,None,No,Frequent
-Occasional,Desktop,Low,Weak,Mixed,Yes,Professional,None,Moderate,No,Moderate,Mixed,Frequent,No,None
-None,Smartphone,Moderate,Strong,Proprietary,No,Professional,None,High,Yes,High,Open Source,Occasional,Yes,Frequent
-Frequent,Smartphone,High,Strong,Mixed,Yes,Professional,Frequent,Low,No,Low,Proprietary,Frequent,No,Frequent
-Occasional,Smartphone,High,None,Open Source,Yes,Mixed,Occasional,High,No,Low,Mixed,Frequent,Yes,Frequent
-Frequent,Smartphone,Low,Strong,Open Source,Yes,Mixed,None,Low,Yes,High,Open Source,Occasional,Yes,Frequent
-Frequent,Laptop,Moderate,None,Proprietary,No,Professional,None,Moderate,No,High,Proprietary,None,Yes,None
-None,Desktop,Low,Weak,Mixed,No,Mixed,Occasional,High,Yes,Moderate,Mixed,Frequent,Yes,None
-Rare,Tablet,Moderate,Strong,Open Source,Yes,Professional,Frequent,High,Yes,High,Open Source,Occasional,Yes,Occasional
-None,Tablet,Low,Strong,Mixed,No,Professional,Occasional,Low,Yes,Moderate,Proprietary,None,No,None
-Rare,Desktop,Moderate,Strong,Open Source,No,Professional,Frequent,High,Yes,High,Proprietary,Frequent,No,Frequent
-Occasional,Tablet,High,Weak,Proprietary,No,Mixed,Frequent,Moderate,No,Low,Open Source,None,No,Occasional
-None,Tablet,High,Weak,Proprietary,No,Professional,None,Low,Yes,Moderate,Mixed,None,Yes,Occasional
-Frequent,Laptop,Low,Strong,Open Source,No,DIY,Occasional,High,No,Moderate,Proprietary,None,Yes,Frequent
-Rare,Tablet,Low,Moderate,Proprietary,No,Mixed,None,Low,No,Moderate,Mixed,Occasional,Yes,None
-Frequent,Tablet,Low,Strong,Open Source,No,Mixed,Frequent,Moderate,No,High,Proprietary,Occasional,No,None
-Occasional,Tablet,Moderate,Strong,Proprietary,No,Professional,Occasional,Moderate,Yes,Moderate,Open Source,Frequent,No,Frequent
-Rare,Desktop,High,Moderate,Open Source,Yes,DIY,Frequent,High,Yes,Moderate,Proprietary,None,No,Frequent
-Rare,Smartphone,High,Strong,Proprietary,Yes,Professional,Occasional,Low,No,Moderate,Open Source,Frequent,Yes,None
-Frequent,Desktop,Moderate,Moderate,Open Source,No,Professional,None,Low,Yes,High,Proprietary,None,No,Frequent
-Frequent,Desktop,Low,None,Proprietary,Yes,Professional,None,Low,Yes,Low,Mixed,Occasional,No,Occasional
-Frequent,Tablet,Low,None,Proprietary,No,DIY,Occasional,Moderate,No,High,Proprietary,Occasional,Yes,Occasional
-Rare,Tablet,High,None,Proprietary,Yes,Mixed,Frequent,Moderate,Yes,Moderate,Mixed,None,Yes,Occasional
-Rare,Smartphone,Moderate,None,Proprietary,No,DIY,Occasional,Moderate,No,Moderate,Mixed,Occasional,No,Frequent
-Rare,Laptop,High,Moderate,Proprietary,No,Professional,Frequent,High,Yes,Moderate,Mixed,None,No,Frequent
-Rare,Laptop,Low,Strong,Open Source,No,Mixed,None,Moderate,No,High,Mixed,Frequent,No,Occasional
-Occasional,Desktop,Low,None,Open Source,No,DIY,None,Moderate,No,High,Open Source,Occasional,No,Occasional
-None,Tablet,High,Weak,Mixed,Yes,Mixed,Frequent,High,Yes,Low,Mixed,None,No,Occasional
-Rare,Laptop,Low,None,Proprietary,No,DIY,Frequent,High,Yes,Low,Mixed,Occasional,No,None
-Rare,Desktop,Moderate,Weak,Open Source,No,DIY,Frequent,High,No,Low,Proprietary,Occasional,No,None
-None,Laptop,High,Strong,Open Source,No,DIY,Frequent,Moderate,No,Moderate,Mixed,None,Yes,Frequent
-Occasional,Desktop,Low,None,Open Source,Yes,DIY,Frequent,Moderate,No,Low,Mixed,None,Yes,Frequent
-Rare,Laptop,High,Moderate,Mixed,Yes,DIY,Frequent,Low,Yes,High,Mixed,Occasional,Yes,Frequent
-Frequent,Laptop,Low,Strong,Proprietary,Yes,DIY,Frequent,High,Yes,Low,Open Source,Frequent,Yes,None
-None,Tablet,High,Moderate,Open Source,Yes,Mixed,None,High,No,High,Mixed,Frequent,No,None
-Occasional,Desktop,High,Weak,Open Source,No,DIY,None,Moderate,Yes,Moderate,Mixed,Frequent,No,Frequent
-Occasional,Desktop,High,Strong,Proprietary,No,Professional,Frequent,Moderate,No,Low,Mixed,Frequent,No,Frequent
-None,Tablet,High,Weak,Proprietary,No,Professional,Frequent,High,Yes,Low,Open Source,Occasional,Yes,Frequent
-Rare,Laptop,High,Strong,Open Source,Yes,DIY,Occasional,Moderate,No,High,Proprietary,Frequent,No,None
-None,Laptop,High,Weak,Mixed,No,Professional,Occasional,High,No,Moderate,Proprietary,Frequent,Yes,None
-None,Smartphone,High,Strong,Mixed,No,DIY,None,High,No,High,Proprietary,Occasional,Yes,Occasional
-Rare,Desktop,Low,Strong,Open Source,No,Professional,Occasional,High,No,Low,Open Source,None,No,Frequent
-None,Desktop,Low,Weak,Mixed,No,Mixed,Occasional,Moderate,No,High,Mixed,Frequent,No,Frequent
-Frequent,Smartphone,Low,Strong,Proprietary,Yes,DIY,None,Low,No,Low,Proprietary,Occasional,No,Occasional
-Frequent,Tablet,High,Strong,Open Source,No,Mixed,Frequent,Moderate,Yes,Moderate,Mixed,Frequent,Yes,Occasional
-None,Desktop,Low,Strong,Open Source,No,Professional,None,Moderate,Yes,High,Open Source,None,Yes,Occasional
-Occasional,Smartphone,Low,Moderate,Open Source,No,Professional,Occasional,Low,No,Low,Proprietary,Frequent,No,None
-Frequent,Tablet,High,Weak,Proprietary,No,DIY,Frequent,High,No,Low,Open Source,None,Yes,Occasional
-Rare,Tablet,Moderate,Weak,Proprietary,No,DIY,Occasional,Moderate,No,Low,Proprietary,Occasional,No,None
-Rare,Tablet,High,Strong,Proprietary,Yes,DIY,Frequent,Low,No,Low,Open Source,Frequent,Yes,Frequent
-Occasional,Desktop,High,Weak,Proprietary,No,Mixed,Frequent,Moderate,No,Low,Mixed,None,Yes,Frequent
-Rare,Smartphone,Moderate,Weak,Proprietary,No,DIY,Frequent,Low,No,High,Open Source,Occasional,No,Frequent
-None,Laptop,Low,None,Proprietary,No,DIY,Frequent,High,Yes,Low,Open Source,Occasional,No,None
-Frequent,Desktop,Low,None,Mixed,Yes,DIY,None,High,No,Low,Open Source,Occasional,No,None
-Rare,Smartphone,High,None,Open Source,No,Professional,None,Moderate,No,High,Proprietary,Frequent,No,None
-Occasional,Desktop,Low,Strong,Proprietary,Yes,DIY,None,Low,Yes,High,Mixed,Occasional,Yes,Occasional
-Rare,Desktop,Low,Strong,Proprietary,No,Mixed,Frequent,Low,Yes,High,Proprietary,Frequent,Yes,Frequent
-Rare,Tablet,Low,Weak,Mixed,Yes,DIY,Frequent,High,Yes,Moderate,Open Source,None,Yes,Frequent
-None,Tablet,High,Strong,Proprietary,Yes,Professional,Frequent,Moderate,Yes,Moderate,Open Source,Frequent,Yes,Occasional
-None,Tablet,High,None,Proprietary,No,DIY,None,High,No,High,Proprietary,None,Yes,Occasional
-None,Desktop,Moderate,Moderate,Open Source,Yes,Mixed,Occasional,Low,Yes,Low,Open Source,None,Yes,Frequent
-Frequent,Smartphone,Low,None,Proprietary,Yes,Mixed,Frequent,Moderate,No,Low,Open Source,None,No,None
-Rare,Tablet,Moderate,Weak,Mixed,Yes,Professional,None,Moderate,No,Moderate,Mixed,None,No,Occasional
-None,Laptop,High,Weak,Proprietary,No,DIY,Occasional,Low,No,High,Proprietary,None,Yes,Occasional
-Occasional,Laptop,Moderate,Moderate,Mixed,No,DIY,Occasional,High,Yes,Moderate,Open Source,Frequent,Yes,None
-None,Tablet,High,Strong,Open Source,No,DIY,None,Low,No,Low,Open Source,Occasional,No,None
-Rare,Tablet,Low,Strong,Mixed,Yes,Professional,Occasional,Low,Yes,Low,Mixed,Occasional,No,Occasional
-Rare,Desktop,Moderate,None,Mixed,No,Professional,None,High,Yes,Low,Mixed,Occasional,No,None
-None,Desktop,Moderate,Weak,Mixed,Yes,Professional,Frequent,High,No,High,Mixed,None,Yes,Frequent
-Occasional,Laptop,High,Moderate,Proprietary,Yes,Professional,Occasional,High,No,High,Open Source,Occasional,No,Occasional
-Rare,Smartphone,Moderate,Strong,Proprietary,No,DIY,Frequent,Moderate,No,Low,Mixed,None,No,None
-Rare,Desktop,Moderate,Strong,Open Source,No,DIY,Frequent,High,Yes,Moderate,Proprietary,None,Yes,Occasional
-None,Smartphone,High,Strong,Open Source,No,Mixed,Frequent,High,No,Low,Open Source,Frequent,Yes,None
-None,Tablet,Low,Weak,Open Source,Yes,DIY,Frequent,Low,No,Low,Mixed,Occasional,No,Occasional
-Occasional,Tablet,High,Strong,Proprietary,No,Professional,Frequent,High,Yes,Moderate,Mixed,Frequent,No,None
-Rare,Laptop,Low,None,Proprietary,Yes,DIY,None,Moderate,Yes,High,Proprietary,Occasional,No,Frequent
-Occasional,Desktop,High,Moderate,Mixed,No,DIY,None,Moderate,Yes,High,Mixed,None,No,Occasional
-Rare,Laptop,Low,Weak,Open Source,No,Mixed,None,Moderate,No,Low,Open Source,None,No,None
-Occasional,Desktop,Moderate,None,Mixed,Yes,DIY,None,Moderate,Yes,Moderate,Mixed,Occasional,No,Occasional
-None,Smartphone,Low,None,Open Source,Yes,Mixed,Occasional,High,No,Low,Open Source,None,No,Occasional
-Rare,Desktop,Moderate,None,Open Source,No,DIY,Frequent,Moderate,Yes,High,Mixed,Occasional,Yes,Occasional
-None,Laptop,High,Moderate,Proprietary,Yes,DIY,Frequent,Low,No,Moderate,Mixed,Occasional,Yes,Occasional
-Rare,Tablet,High,Strong,Proprietary,Yes,DIY,Frequent,Low,Yes,High,Proprietary,Frequent,No,Occasional
-Rare,Desktop,High,Weak,Open Source,Yes,Mixed,Frequent,High,No,Low,Mixed,Frequent,Yes,Occasional
-Rare,Desktop,Low,None,Open Source,Yes,Mixed,Frequent,Moderate,Yes,Moderate,Proprietary,None,Yes,Frequent
-None,Tablet,High,Weak,Proprietary,Yes,Mixed,None,Moderate,Yes,Low,Mixed,None,Yes,Frequent
-None,Smartphone,Low,Weak,Open Source,No,Professional,Frequent,Low,No,Low,Open Source,Occasional,Yes,Occasional
-Rare,Tablet,Low,Weak,Open Source,Yes,Professional,None,Low,Yes,Moderate,Open Source,Frequent,No,Frequent
-None,Tablet,Low,Moderate,Mixed,No,Mixed,None,Low,Yes,Low,Open Source,None,No,None
-Frequent,Laptop,Moderate,Strong,Proprietary,Yes,Professional,Occasional,Moderate,No,High,Open Source,Frequent,Yes,Frequent
-Frequent,Smartphone,Low,None,Mixed,Yes,Mixed,Frequent,Low,No,Low,Mixed,None,Yes,None
-None,Desktop,Low,Moderate,Open Source,No,Mixed,None,Moderate,No,Low,Proprietary,Frequent,Yes,Occasional
-Rare,Tablet,Low,Strong,Mixed,Yes,DIY,Occasional,Low,Yes,Low,Mixed,None,No,None
-Frequent,Desktop,Moderate,Weak,Proprietary,Yes,DIY,Frequent,Low,No,Low,Mixed,None,No,None
-Occasional,Tablet,Moderate,Weak,Mixed,Yes,Professional,Occasional,Moderate,Yes,Low,Mixed,Frequent,Yes,None
-Rare,Laptop,Low,Strong,Mixed,No,Professional,Occasional,Low,Yes,Moderate,Open Source,Frequent,Yes,None
-Occasional,Laptop,High,Strong,Mixed,Yes,DIY,Frequent,Low,Yes,Low,Proprietary,None,Yes,Frequent
-None,Desktop,High,Weak,Proprietary,No,DIY,Occasional,Low,Yes,Low,Proprietary,None,Yes,None
-Frequent,Desktop,High,None,Proprietary,No,Professional,None,Low,No,Moderate,Proprietary,Occasional,Yes,None
-Frequent,Smartphone,High,Moderate,Open Source,No,DIY,Frequent,High,No,High,Mixed,Frequent,Yes,None
-None,Smartphone,Moderate,Moderate,Open Source,Yes,Mixed,Occasional,High,Yes,High,Mixed,Occasional,Yes,Occasional
-None,Laptop,Moderate,None,Open Source,No,DIY,Occasional,High,No,Low,Mixed,Frequent,Yes,Occasional
-Frequent,Smartphone,Low,Strong,Open Source,No,Mixed,None,Moderate,No,Moderate,Open Source,None,Yes,None
-Rare,Tablet,High,Strong,Mixed,No,DIY,Frequent,High,No,Low,Proprietary,Occasional,No,None
-None,Laptop,High,Moderate,Mixed,No,Mixed,Frequent,High,No,Moderate,Open Source,None,Yes,None
-Frequent,Laptop,High,None,Open Source,No,DIY,None,High,Yes,Low,Open Source,None,Yes,None
-Frequent,Desktop,Low,Weak,Open Source,No,Professional,None,Low,No,Moderate,Proprietary,Occasional,Yes,Frequent
-Rare,Tablet,Low,Moderate,Proprietary,No,Mixed,None,High,No,High,Open Source,Frequent,No,Occasional
-Rare,Desktop,Moderate,None,Proprietary,Yes,Mixed,Occasional,High,No,Moderate,Open Source,Occasional,No,None
-Occasional,Desktop,High,Moderate,Mixed,No,Mixed,None,High,No,Low,Open Source,Occasional,No,Frequent
-Frequent,Smartphone,Moderate,Strong,Proprietary,No,DIY,Occasional,High,Yes,High,Mixed,None,Yes,None
-Occasional,Tablet,Moderate,Strong,Open Source,Yes,Mixed,Frequent,High,Yes,Moderate,Proprietary,None,No,Frequent
-Frequent,Desktop,Moderate,Moderate,Proprietary,Yes,Professional,Frequent,Moderate,Yes,Moderate,Open Source,Occasional,No,Frequent
-Occasional,Smartphone,Moderate,None,Proprietary,Yes,Mixed,Occasional,High,No,Low,Proprietary,Occasional,No,Frequent
-Rare,Laptop,High,Strong,Open Source,Yes,Mixed,None,Moderate,Yes,Low,Open Source,Occasional,No,None
-Frequent,Tablet,High,Weak,Proprietary,Yes,DIY,Frequent,Moderate,Yes,Low,Mixed,Occasional,Yes,Occasional
-Occasional,Desktop,Low,Weak,Proprietary,No,DIY,Occasional,Moderate,No,High,Mixed,None,Yes,None
-Rare,Smartphone,Moderate,Strong,Open Source,No,Mixed,None,High,No,High,Proprietary,Frequent,No,Occasional
-Occasional,Desktop,High,Weak,Open Source,Yes,Mixed,None,High,No,Moderate,Mixed,None,Yes,Occasional
-Frequent,Desktop,High,Weak,Proprietary,Yes,Mixed,None,High,No,Low,Mixed,Frequent,Yes,Occasional
-None,Laptop,Low,Moderate,Proprietary,No,Mixed,Frequent,Low,Yes,Low,Mixed,Frequent,No,Occasional
-None,Smartphone,High,Moderate,Open Source,No,DIY,Frequent,High,No,High,Mixed,Frequent,Yes,Occasional
-Frequent,Tablet,High,None,Proprietary,No,Professional,Occasional,High,Yes,Moderate,Proprietary,Frequent,No,Occasional
-Frequent,Desktop,Low,Moderate,Open Source,Yes,Professional,Frequent,Low,Yes,Moderate,Mixed,Occasional,Yes,Frequent
-None,Laptop,Moderate,Moderate,Proprietary,Yes,Mixed,None,Low,No,High,Mixed,Occasional,No,None
-None,Tablet,Moderate,None,Open Source,Yes,Mixed,Frequent,Low,Yes,High,Open Source,None,Yes,Frequent
-Rare,Tablet,High,Moderate,Proprietary,Yes,Mixed,Frequent,High,No,Moderate,Mixed,Occasional,Yes,None
-Frequent,Laptop,Moderate,Strong,Proprietary,No,Professional,Frequent,Low,No,Moderate,Mixed,None,No,Frequent
-Frequent,Smartphone,Low,Weak,Proprietary,No,Professional,None,High,No,Low,Open Source,Frequent,Yes,Occasional
-Rare,Smartphone,Moderate,None,Proprietary,Yes,DIY,Occasional,Moderate,No,Moderate,Open Source,Occasional,Yes,Occasional
-Frequent,Tablet,High,Weak,Open Source,Yes,Mixed,None,Low,Yes,Moderate,Open Source,Occasional,No,Occasional
-Occasional,Laptop,Moderate,Weak,Mixed,Yes,Professional,Occasional,Low,No,High,Mixed,None,Yes,Occasional
-Frequent,Smartphone,Moderate,Strong,Mixed,Yes,Professional,Occasional,Moderate,No,Low,Proprietary,None,Yes,Frequent
-None,Laptop,High,Moderate,Mixed,Yes,Mixed,Frequent,Moderate,No,Moderate,Proprietary,Frequent,Yes,None
-Frequent,Laptop,High,None,Mixed,Yes,Professional,Occasional,Low,No,High,Mixed,None,No,None
-Rare,Laptop,Low,None,Open Source,Yes,DIY,None,Low,No,Moderate,Proprietary,Frequent,Yes,None
-Occasional,Desktop,High,None,Mixed,Yes,DIY,Occasional,High,No,Moderate,Mixed,Occasional,No,Frequent
-Occasional,Tablet,Moderate,Strong,Mixed,No,Mixed,None,Moderate,No,Low,Open Source,Occasional,No,Occasional
-Rare,Laptop,Low,Strong,Proprietary,No,Mixed,Occasional,Moderate,No,Low,Mixed,None,No,Occasional
-Occasional,Laptop,Low,Moderate,Mixed,Yes,Mixed,Occasional,High,Yes,High,Mixed,Occasional,No,Occasional
-Frequent,Laptop,Moderate,Moderate,Proprietary,Yes,Professional,None,Low,No,High,Open Source,Occasional,Yes,Occasional
-Frequent,Desktop,Moderate,Moderate,Mixed,No,DIY,Occasional,High,Yes,High,Mixed,Occasional,Yes,Occasional
-Frequent,Tablet,High,Moderate,Mixed,No,Mixed,Frequent,Moderate,Yes,Moderate,Open Source,Occasional,Yes,None
-None,Desktop,High,None,Mixed,No,DIY,Frequent,Low,Yes,Low,Open Source,None,No,None
-Occasional,Tablet,Low,None,Proprietary,No,Mixed,Occasional,Low,Yes,Low,Proprietary,None,Yes,Frequent
-Rare,Smartphone,Moderate,Strong,Proprietary,No,Mixed,Frequent,Low,No,Moderate,Mixed,Occasional,Yes,None
-None,Laptop,High,Moderate,Proprietary,No,Mixed,Occasional,High,No,High,Open Source,Occasional,No,Frequent
-Occasional,Tablet,Moderate,Strong,Proprietary,Yes,Mixed,Frequent,Low,No,Low,Open Source,None,No,Occasional
-Rare,Laptop,Moderate,Moderate,Mixed,Yes,DIY,None,Moderate,No,High,Mixed,None,Yes,None
-Frequent,Smartphone,Moderate,None,Mixed,Yes,DIY,Frequent,Low,Yes,Low,Mixed,Frequent,Yes,None
-Occasional,Smartphone,Low,None,Open Source,Yes,Professional,None,Moderate,Yes,Moderate,Proprietary,None,No,None
-None,Desktop,Low,Moderate,Mixed,No,Professional,None,High,No,Low,Mixed,Occasional,Yes,Frequent
-Rare,Smartphone,Moderate,None,Mixed,Yes,Professional,Occasional,Moderate,Yes,Moderate,Open Source,Frequent,No,None
-Occasional,Smartphone,Low,Moderate,Mixed,Yes,Professional,Occasional,Low,Yes,Low,Open Source,None,No,None
-Rare,Laptop,Low,None,Mixed,No,Professional,Occasional,Moderate,No,Moderate,Mixed,None,No,Occasional
-Occasional,Laptop,Moderate,Moderate,Mixed,No,Professional,Frequent,High,Yes,Low,Open Source,Occasional,Yes,None
-None,Tablet,Low,None,Proprietary,Yes,Mixed,Occasional,High,Yes,High,Open Source,Frequent,No,None
-Occasional,Laptop,Moderate,Weak,Open Source,Yes,DIY,None,Moderate,No,Low,Open Source,Occasional,No,Frequent
-Frequent,Desktop,High,Weak,Proprietary,No,Mixed,Frequent,Low,Yes,Low,Open Source,Occasional,No,None
-Frequent,Tablet,Moderate,Moderate,Mixed,No,Professional,Occasional,Low,No,Moderate,Proprietary,Occasional,Yes,Frequent
-Occasional,Laptop,High,None,Open Source,No,Professional,None,High,Yes,Low,Open Source,None,Yes,Occasional
-Rare,Laptop,Low,Moderate,Proprietary,No,Mixed,Frequent,High,No,Moderate,Proprietary,Frequent,Yes,None
-None,Smartphone,Moderate,Moderate,Open Source,Yes,DIY,Frequent,High,Yes,Moderate,Proprietary,Frequent,Yes,None
-Rare,Desktop,Low,Strong,Open Source,Yes,DIY,Occasional,Moderate,No,Low,Open Source,None,No,Frequent
-None,Tablet,Low,Strong,Proprietary,Yes,DIY,Occasional,Low,Yes,High,Mixed,Frequent,No,Frequent
-Rare,Desktop,High,Moderate,Open Source,No,Professional,None,High,Yes,Low,Open Source,None,Yes,Occasional
-None,Desktop,High,Moderate,Mixed,Yes,DIY,None,Moderate,Yes,Low,Mixed,Occasional,No,Frequent
-Occasional,Desktop,Low,Strong,Open Source,No,DIY,Occasional,High,Yes,Low,Open Source,Occasional,Yes,None
-Rare,Laptop,High,Weak,Proprietary,No,Professional,Occasional,Low,No,Moderate,Open Source,Frequent,No,Occasional
-Rare,Desktop,High,Strong,Open Source,No,Professional,Frequent,Moderate,No,Moderate,Mixed,Frequent,Yes,None
-Frequent,Desktop,Moderate,Strong,Proprietary,Yes,Mixed,Frequent,High,No,High,Mixed,None,Yes,Occasional
-Frequent,Tablet,Moderate,Weak,Proprietary,Yes,Mixed,Occasional,High,Yes,Low,Proprietary,None,No,Frequent
-Frequent,Smartphone,High,Moderate,Open Source,No,Mixed,Frequent,High,Yes,High,Mixed,Occasional,Yes,None
-None,Smartphone,Low,Strong,Open Source,No,DIY,None,Moderate,Yes,Moderate,Open Source,Frequent,Yes,Frequent
-None,Laptop,High,Moderate,Proprietary,Yes,DIY,None,Moderate,Yes,Moderate,Proprietary,Frequent,No,Frequent
-Rare,Laptop,High,Weak,Proprietary,No,DIY,Occasional,Low,Yes,Moderate,Mixed,Frequent,Yes,Occasional
-Occasional,Desktop,Moderate,None,Mixed,Yes,Professional,Frequent,Moderate,Yes,Low,Mixed,Occasional,Yes,Occasional
-Rare,Tablet,Moderate,Strong,Open Source,Yes,Mixed,None,High,No,Low,Mixed,Occasional,No,Occasional
-Rare,Laptop,High,None,Mixed,Yes,Professional,Occasional,High,Yes,Low,Open Source,None,No,None
-Occasional,Desktop,Moderate,Moderate,Open Source,No,DIY,None,Moderate,Yes,High,Mixed,Occasional,Yes,None
-Occasional,Desktop,Moderate,Weak,Open Source,No,DIY,None,Moderate,No,High,Mixed,Occasional,No,Frequent
-Rare,Smartphone,High,Strong,Open Source,No,Professional,Frequent,High,No,Low,Proprietary,None,Yes,Occasional
-Occasional,Laptop,High,Strong,Mixed,Yes,Professional,Frequent,Moderate,Yes,Moderate,Open Source,None,No,Frequent
-Frequent,Desktop,High,Moderate,Open Source,No,Mixed,None,Low,No,Moderate,Mixed,Occasional,Yes,Occasional
-Frequent,Smartphone,High,None,Mixed,No,Mixed,None,Low,Yes,Moderate,Open Source,None,No,Occasional
-Rare,Desktop,Moderate,Moderate,Open Source,No,DIY,None,High,Yes,High,Proprietary,Occasional,No,Frequent
-Frequent,Desktop,Low,None,Open Source,Yes,Mixed,None,High,Yes,High,Proprietary,Frequent,Yes,Frequent
-Rare,Tablet,Moderate,Strong,Mixed,Yes,DIY,Frequent,High,No,High,Open Source,None,No,None
-Frequent,Smartphone,Low,Strong,Mixed,Yes,Professional,Frequent,Moderate,Yes,High,Mixed,Occasional,Yes,Occasional
-None,Laptop,Low,Strong,Proprietary,Yes,Mixed,Occasional,Low,No,Low,Mixed,Frequent,Yes,Frequent
-Frequent,Laptop,Moderate,Moderate,Proprietary,No,Mixed,Occasional,Moderate,Yes,High,Mixed,Occasional,Yes,Occasional
-Rare,Laptop,High,Weak,Proprietary,No,Professional,None,Moderate,Yes,Low,Mixed,Occasional,No,Occasional
-Frequent,Laptop,Moderate,None,Proprietary,No,Mixed,None,Low,Yes,Moderate,Mixed,None,No,Frequent
-None,Tablet,Moderate,Moderate,Mixed,Yes,DIY,None,Low,Yes,Moderate,Proprietary,Occasional,Yes,Occasional
-Occasional,Desktop,Low,None,Open Source,Yes,DIY,Occasional,Low,No,High,Proprietary,None,No,Frequent
-Occasional,Desktop,Low,Weak,Open Source,No,Professional,Occasional,Moderate,No,Low,Mixed,Occasional,Yes,None
-Frequent,Smartphone,High,None,Proprietary,No,DIY,Occasional,Moderate,Yes,Moderate,Mixed,Frequent,Yes,Frequent
-Occasional,Smartphone,High,Strong,Mixed,No,DIY,None,Moderate,No,Low,Proprietary,Frequent,Yes,Occasional
-Frequent,Smartphone,Low,Strong,Proprietary,No,Mixed,Frequent,High,No,Low,Open Source,None,No,None
-None,Laptop,Low,Strong,Mixed,No,Mixed,Occasional,Low,No,Moderate,Proprietary,None,Yes,Occasional
-None,Tablet,Low,Strong,Mixed,Yes,Professional,Occasional,High,No,Low,Mixed,Occasional,Yes,Occasional
-None,Laptop,Low,Moderate,Proprietary,No,DIY,Occasional,Moderate,Yes,Moderate,Open Source,Frequent,No,Frequent
-Frequent,Tablet,Moderate,Strong,Proprietary,No,Professional,None,High,Yes,Low,Proprietary,Frequent,Yes,Frequent
-Frequent,Tablet,Low,Moderate,Mixed,Yes,Professional,None,High,No,Moderate,Proprietary,None,Yes,Frequent
-Frequent,Desktop,Moderate,None,Open Source,Yes,Mixed,Occasional,Low,Yes,Moderate,Open Source,None,Yes,None
-Rare,Desktop,Low,Weak,Proprietary,No,Professional,None,Moderate,No,High,Open Source,Frequent,No,Occasional
-None,Laptop,Low,None,Proprietary,No,Professional,Occasional,Low,Yes,Moderate,Proprietary,None,No,Frequent
-None,Desktop,Moderate,Moderate,Proprietary,No,DIY,Occasional,Low,No,High,Proprietary,Occasional,No,Frequent
-Rare,Desktop,Moderate,Moderate,Open Source,Yes,Mixed,Frequent,Moderate,Yes,Moderate,Open Source,Frequent,Yes,Frequent
-None,Desktop,High,Moderate,Proprietary,No,Mixed,Occasional,Low,Yes,High,Open Source,Occasional,No,None
-Occasional,Desktop,Low,None,Mixed,No,Mixed,Occasional,Moderate,No,Moderate,Mixed,Occasional,Yes,Frequent
-Rare,Tablet,Moderate,Strong,Open Source,No,Mixed,None,Low,Yes,Moderate,Mixed,Frequent,Yes,Occasional
-None,Desktop,High,Moderate,Proprietary,Yes,DIY,None,Low,No,Moderate,Proprietary,None,No,Occasional
-Occasional,Tablet,Moderate,Weak,Mixed,Yes,Professional,Frequent,Moderate,No,Moderate,Proprietary,None,Yes,None
-None,Smartphone,Moderate,Strong,Mixed,No,Mixed,None,High,Yes,Moderate,Proprietary,Occasional,Yes,None
-None,Tablet,Low,None,Mixed,No,Professional,Frequent,Low,No,High,Open Source,Frequent,No,Frequent
-Frequent,Tablet,Low,Moderate,Proprietary,No,DIY,Occasional,High,Yes,Moderate,Mixed,None,No,Frequent
-None,Laptop,High,Weak,Mixed,No,Professional,None,High,Yes,Moderate,Proprietary,None,No,None
-Frequent,Laptop,Moderate,None,Mixed,Yes,Professional,None,Moderate,Yes,Moderate,Proprietary,None,No,None
-Frequent,Desktop,High,Strong,Proprietary,No,Professional,None,Low,Yes,Moderate,Mixed,Frequent,Yes,Frequent
-None,Tablet,High,Moderate,Mixed,No,Mixed,Frequent,High,Yes,High,Proprietary,None,No,Frequent
-Rare,Desktop,High,Moderate,Mixed,Yes,Professional,Frequent,Low,Yes,Low,Proprietary,Occasional,No,None
-None,Laptop,High,None,Open Source,Yes,DIY,None,Low,No,High,Mixed,None,No,Occasional
-Rare,Smartphone,Low,None,Open Source,Yes,Mixed,None,Moderate,No,Moderate,Mixed,Frequent,Yes,None
-Rare,Laptop,Low,Moderate,Proprietary,Yes,DIY,Occasional,Low,No,Moderate,Open Source,Frequent,No,Frequent
-Frequent,Tablet,Moderate,Strong,Open Source,No,DIY,Occasional,High,No,Low,Mixed,Frequent,No,Frequent
-Occasional,Desktop,Low,Strong,Mixed,No,DIY,None,Low,Yes,Moderate,Open Source,None,No,None
-Occasional,Tablet,Moderate,None,Open Source,No,Professional,Frequent,Low,No,Low,Open Source,None,Yes,Occasional
-Occasional,Laptop,High,Strong,Proprietary,Yes,Mixed,None,High,Yes,High,Proprietary,Frequent,Yes,None
-Frequent,Laptop,Moderate,Weak,Proprietary,No,Professional,Frequent,Moderate,No,High,Open Source,Occasional,No,None
-Frequent,Tablet,High,Weak,Open Source,No,Mixed,None,High,No,Low,Open Source,Occasional,Yes,None
-None,Desktop,High,Moderate,Mixed,Yes,Mixed,Frequent,High,No,High,Open Source,Occasional,Yes,None
-Rare,Laptop,Moderate,Weak,Proprietary,No,DIY,Occasional,Low,No,High,Proprietary,None,Yes,Frequent
-Rare,Smartphone,High,None,Open Source,Yes,DIY,Frequent,High,Yes,Moderate,Open Source,Frequent,No,Occasional
-Occasional,Smartphone,Low,Strong,Open Source,Yes,Mixed,Frequent,Moderate,Yes,Low,Mixed,Frequent,Yes,None
-None,Laptop,Low,Strong,Open Source,Yes,Mixed,Frequent,High,Yes,Low,Proprietary,Occasional,No,Occasional
-None,Desktop,High,Moderate,Mixed,Yes,Mixed,None,Low,Yes,Moderate,Open Source,None,No,None
-Occasional,Smartphone,Low,Moderate,Mixed,Yes,Mixed,Frequent,High,Yes,Low,Proprietary,Occasional,Yes,None
-Rare,Desktop,Moderate,Strong,Mixed,Yes,Professional,None,Low,Yes,Moderate,Mixed,Frequent,Yes,Occasional
-None,Laptop,Moderate,Moderate,Proprietary,Yes,Mixed,Occasional,Low,Yes,Low,Mixed,Frequent,Yes,None
-Rare,Tablet,Moderate,None,Proprietary,No,Professional,Occasional,Low,No,Moderate,Open Source,Frequent,No,None
-None,Smartphone,Moderate,Weak,Open Source,Yes,Professional,Frequent,Low,No,Low,Open Source,None,Yes,None
-Rare,Desktop,Low,None,Open Source,Yes,DIY,Frequent,Moderate,Yes,High,Proprietary,Occasional,No,Occasional
-None,Laptop,Moderate,Weak,Open Source,Yes,Mixed,Occasional,Moderate,Yes,Moderate,Mixed,None,Yes,Frequent
-Frequent,Tablet,Moderate,None,Proprietary,Yes,DIY,None,High,No,High,Proprietary,Occasional,Yes,Occasional
-None,Tablet,High,Weak,Mixed,No,DIY,Frequent,High,No,High,Mixed,Occasional,No,Frequent
-Frequent,Desktop,High,Strong,Open Source,Yes,Professional,None,High,No,Low,Open Source,Occasional,Yes,Occasional
-Rare,Desktop,Moderate,None,Open Source,Yes,Mixed,Occasional,Low,Yes,Moderate,Proprietary,Occasional,No,Frequent
-Occasional,Desktop,Low,Weak,Open Source,Yes,Mixed,Frequent,Moderate,No,High,Open Source,Frequent,No,None
-None,Smartphone,Moderate,Weak,Open Source,Yes,DIY,None,Low,Yes,Low,Mixed,Occasional,No,Occasional
-Frequent,Tablet,Low,None,Mixed,No,Professional,Frequent,Low,No,Low,Open Source,Occasional,Yes,Frequent
-Rare,Tablet,Low,Strong,Mixed,Yes,Professional,Occasional,Low,No,High,Mixed,None,Yes,Occasional
-Frequent,Laptop,Low,Moderate,Open Source,No,Professional,Frequent,Low,No,Low,Open Source,Frequent,Yes,Frequent
-Frequent,Desktop,High,Strong,Mixed,Yes,DIY,Frequent,Low,No,Low,Mixed,Occasional,No,Frequent
-Occasional,Desktop,High,None,Mixed,No,Mixed,None,Low,No,Moderate,Mixed,None,No,Frequent
-Rare,Desktop,Moderate,Moderate,Open Source,Yes,DIY,Occasional,Moderate,No,High,Proprietary,Frequent,Yes,Occasional
-None,Desktop,Moderate,Strong,Open Source,Yes,Professional,None,Moderate,No,High,Proprietary,None,Yes,Occasional
-Rare,Desktop,Moderate,Strong,Mixed,Yes,Mixed,Frequent,High,No,Moderate,Proprietary,Occasional,No,Occasional
-None,Tablet,High,Strong,Proprietary,No,Professional,None,High,No,Low,Open Source,None,No,Occasional
-Rare,Laptop,Moderate,Strong,Proprietary,Yes,Professional,Frequent,Low,No,High,Mixed,Occasional,No,None
-Frequent,Tablet,Low,Strong,Proprietary,Yes,DIY,Frequent,Moderate,No,Moderate,Mixed,Occasional,No,Occasional
-Frequent,Laptop,Moderate,Weak,Mixed,Yes,Professional,Occasional,High,Yes,Low,Open Source,Occasional,Yes,Occasional
-None,Desktop,High,Moderate,Mixed,No,DIY,Occasional,Moderate,Yes,Low,Proprietary,Occasional,No,None
-Frequent,Desktop,Low,Strong,Open Source,Yes,Mixed,None,High,No,Low,Mixed,Occasional,Yes,Frequent
-None,Tablet,Moderate,None,Proprietary,No,Mixed,Frequent,High,No,High,Open Source,None,No,Frequent
-None,Tablet,Low,Weak,Mixed,No,Professional,Occasional,Low,Yes,Moderate,Proprietary,None,No,Occasional
-None,Desktop,Low,Strong,Open Source,Yes,DIY,Frequent,Low,Yes,High,Open Source,Occasional,No,None
-None,Desktop,High,None,Mixed,Yes,Professional,Occasional,High,No,Moderate,Proprietary,None,No,Occasional
-Rare,Smartphone,Moderate,Weak,Mixed,Yes,Mixed,None,High,Yes,Moderate,Proprietary,None,No,Occasional
-Rare,Laptop,Moderate,None,Mixed,No,Mixed,Occasional,Low,Yes,Moderate,Open Source,Frequent,No,Frequent
-Occasional,Smartphone,Low,Moderate,Open Source,Yes,Professional,Frequent,High,No,Moderate,Open Source,None,Yes,None
-Rare,Tablet,Moderate,Moderate,Open Source,No,DIY,Frequent,High,Yes,Moderate,Open Source,None,Yes,None
-Rare,Smartphone,High,None,Open Source,Yes,Mixed,Frequent,Low,Yes,Moderate,Proprietary,Frequent,Yes,Occasional
-None,Desktop,Low,Strong,Proprietary,Yes,DIY,Frequent,Low,Yes,Low,Mixed,Frequent,Yes,None
-Rare,Tablet,Moderate,Strong,Open Source,Yes,Professional,Occasional,High,No,Moderate,Mixed,Frequent,No,None
-Occasional,Laptop,Low,Moderate,Open Source,No,Professional,Occasional,High,Yes,Low,Open Source,Frequent,Yes,None
-Frequent,Smartphone,Moderate,Strong,Mixed,No,DIY,None,High,Yes,Low,Proprietary,None,No,Occasional
-Rare,Smartphone,Low,Strong,Open Source,Yes,Professional,Frequent,Moderate,Yes,Moderate,Proprietary,None,No,None
-Occasional,Tablet,Moderate,None,Proprietary,No,Mixed,Frequent,Moderate,No,High,Mixed,Occasional,Yes,Frequent
-None,Tablet,High,Moderate,Open Source,No,Mixed,Frequent,High,Yes,Low,Mixed,Frequent,Yes,Occasional
-Rare,Desktop,Low,Weak,Proprietary,Yes,Mixed,Occasional,Moderate,Yes,High,Proprietary,Frequent,Yes,Frequent
-Occasional,Tablet,Low,Weak,Proprietary,No,Mixed,Occasional,Moderate,No,High,Mixed,Occasional,Yes,None
-Occasional,Laptop,High,Moderate,Open Source,No,DIY,None,High,No,High,Proprietary,Frequent,Yes,Occasional
-Frequent,Desktop,Low,None,Open Source,No,Professional,Occasional,High,Yes,Moderate,Mixed,None,Yes,Frequent
+Rare,Laptop,Moderate,Weak,Open Source,Yes,DIY,Frequent,Low,No,High,Proprietary,Frequent,Yes,None
+Rare,Tablet,Moderate,None,Open Source,Yes,Professional,Frequent,High,No,Low,Mixed,None,Yes,Occasional
+Occasional,Tablet,Low,Strong,Open Source,Yes,DIY,None,Moderate,No,High,Mixed,Frequent,Yes,Occasional
+Frequent,Laptop,Low,None,Open Source,Yes,DIY,None,Low,No,High,Proprietary,Occasional,No,Frequent
+None,Tablet,Moderate,Strong,Proprietary,No,Mixed,None,Moderate,No,High,Mixed,Frequent,No,None
+None,Smartphone,Low,Strong,Mixed,No,Mixed,Frequent,High,Yes,High,Proprietary,None,No,Frequent
+Frequent,Laptop,Low,Strong,Mixed,Yes,DIY,Frequent,Low,Yes,Moderate,Proprietary,Frequent,Yes,Frequent
+Frequent,Laptop,Moderate,Moderate,Open Source,No,Professional,None,Moderate,Yes,Low,Proprietary,None,Yes,Frequent
+Frequent,Smartphone,Moderate,Weak,Open Source,Yes,Mixed,None,Moderate,Yes,Low,Proprietary,Frequent,Yes,Frequent
+Rare,Laptop,High,Moderate,Open Source,No,Professional,Frequent,Moderate,Yes,Low,Proprietary,None,Yes,Frequent
+Frequent,Laptop,Moderate,None,Proprietary,Yes,DIY,Frequent,Moderate,No,Low,Mixed,Frequent,Yes,Occasional
+Rare,Smartphone,High,Moderate,Mixed,No,DIY,Frequent,Moderate,Yes,Low,Open Source,Occasional,Yes,Frequent
+Frequent,Smartphone,Moderate,Strong,Proprietary,No,Professional,Frequent,Moderate,Yes,High,Open Source,None,No,Occasional
+Rare,Desktop,Low,None,Mixed,Yes,Mixed,None,High,Yes,Moderate,Proprietary,Frequent,No,Occasional
+Rare,Desktop,Low,None,Mixed,No,Professional,None,Moderate,No,Low,Proprietary,Frequent,No,Frequent
+Rare,Smartphone,High,None,Mixed,Yes,Professional,Frequent,Moderate,No,Moderate,Mixed,Occasional,No,Occasional
+None,Laptop,Moderate,None,Proprietary,Yes,Mixed,Occasional,Moderate,No,Low,Open Source,Frequent,Yes,Frequent
+Rare,Smartphone,Low,None,Mixed,Yes,DIY,Occasional,High,Yes,High,Open Source,None,No,Occasional
+Rare,Tablet,Low,None,Proprietary,No,Professional,None,High,No,Moderate,Mixed,Occasional,Yes,Frequent
+Frequent,Desktop,Low,Weak,Proprietary,Yes,DIY,Frequent,High,Yes,High,Proprietary,None,Yes,Frequent
+Frequent,Desktop,Low,Weak,Mixed,Yes,DIY,None,Low,Yes,Low,Open Source,Frequent,Yes,None
+Frequent,Laptop,Moderate,Moderate,Mixed,No,DIY,Occasional,High,Yes,Moderate,Proprietary,Frequent,No,Occasional
+Rare,Tablet,Low,None,Open Source,No,Professional,Frequent,Low,No,Moderate,Open Source,None,No,Frequent
+None,Smartphone,Low,None,Proprietary,Yes,DIY,None,High,Yes,Moderate,Mixed,None,No,None
+Rare,Smartphone,Low,Weak,Proprietary,Yes,Professional,Occasional,High,No,High,Proprietary,Occasional,No,None
+None,Desktop,Moderate,Weak,Proprietary,No,Professional,Frequent,Low,Yes,High,Open Source,Occasional,Yes,Occasional
+None,Laptop,High,None,Open Source,Yes,Professional,None,Moderate,Yes,High,Proprietary,Frequent,No,Occasional
+Occasional,Tablet,Moderate,Strong,Mixed,Yes,Mixed,None,Moderate,No,Moderate,Open Source,Frequent,Yes,Occasional
+Frequent,Desktop,Moderate,Weak,Open Source,No,Professional,None,Moderate,Yes,Low,Open Source,None,Yes,Frequent
+None,Tablet,High,Strong,Open Source,No,Mixed,Occasional,Moderate,No,High,Mixed,None,No,Frequent
+Rare,Desktop,High,Weak,Mixed,Yes,DIY,Frequent,Moderate,No,High,Open Source,Frequent,No,Occasional
+Rare,Desktop,Low,Strong,Mixed,Yes,Professional,Frequent,Moderate,No,Low,Open Source,Frequent,Yes,Frequent
+Rare,Tablet,Moderate,None,Mixed,Yes,DIY,Occasional,High,No,High,Proprietary,Frequent,Yes,Frequent
+Frequent,Laptop,Moderate,Moderate,Open Source,Yes,Professional,Frequent,High,Yes,Low,Mixed,Frequent,No,Frequent
+None,Laptop,High,Moderate,Proprietary,Yes,Mixed,Occasional,High,No,High,Mixed,None,Yes,Occasional
+None,Desktop,Low,Strong,Mixed,No,DIY,Frequent,Low,Yes,High,Proprietary,Occasional,Yes,Frequent
+Rare,Desktop,Low,Weak,Proprietary,No,Professional,Frequent,Low,Yes,Low,Open Source,Occasional,No,None
+Rare,Desktop,Low,Weak,Mixed,Yes,Professional,Frequent,Low,No,Moderate,Open Source,None,No,Occasional
+Rare,Tablet,Low,None,Mixed,No,Professional,None,Moderate,No,Moderate,Proprietary,None,No,Occasional
+Rare,Tablet,Low,Moderate,Mixed,No,Mixed,Frequent,High,No,High,Mixed,Occasional,No,Occasional
+Frequent,Tablet,High,Strong,Open Source,No,Mixed,Frequent,High,Yes,Moderate,Open Source,Occasional,Yes,None
+None,Smartphone,Moderate,Moderate,Mixed,Yes,Mixed,None,High,No,High,Mixed,Frequent,Yes,Frequent
+Frequent,Smartphone,Moderate,None,Open Source,No,DIY,None,High,Yes,High,Mixed,Occasional,Yes,None
+Rare,Tablet,Low,None,Open Source,No,DIY,Occasional,Low,Yes,Low,Mixed,Frequent,Yes,Occasional
+Rare,Smartphone,Moderate,Moderate,Open Source,No,Mixed,Occasional,Low,Yes,High,Open Source,Frequent,Yes,Occasional
+Rare,Desktop,Low,Weak,Open Source,Yes,Mixed,Occasional,High,Yes,Moderate,Mixed,None,Yes,Occasional
+Rare,Desktop,High,Strong,Mixed,Yes,DIY,Frequent,Moderate,No,Moderate,Open Source,Occasional,No,Frequent
+None,Smartphone,Low,Weak,Open Source,Yes,Mixed,Occasional,High,Yes,Moderate,Mixed,Frequent,No,None
+Rare,Tablet,Low,Moderate,Proprietary,Yes,Professional,Occasional,High,No,Moderate,Open Source,Occasional,No,None
+Frequent,Smartphone,Low,Weak,Proprietary,No,Professional,Occasional,Low,No,Low,Proprietary,Occasional,Yes,Frequent
+Occasional,Tablet,Low,None,Open Source,No,Professional,None,Low,No,Low,Proprietary,Frequent,Yes,Occasional
+None,Laptop,Low,Moderate,Mixed,Yes,DIY,Frequent,Moderate,No,High,Proprietary,Frequent,Yes,None
+Frequent,Tablet,High,Strong,Open Source,No,DIY,None,Moderate,No,High,Mixed,None,No,Frequent
+Occasional,Desktop,High,Moderate,Open Source,Yes,DIY,Frequent,Low,Yes,Low,Open Source,None,No,Frequent
+None,Desktop,Low,Strong,Open Source,Yes,DIY,Frequent,Low,Yes,High,Proprietary,Occasional,No,None
+None,Laptop,Low,Moderate,Open Source,Yes,Mixed,None,Moderate,No,Moderate,Mixed,None,Yes,Occasional
+Frequent,Desktop,Moderate,Weak,Mixed,Yes,Professional,Frequent,Moderate,No,Moderate,Proprietary,Frequent,No,Occasional
+Frequent,Desktop,Low,Moderate,Open Source,No,Professional,Occasional,Low,No,High,Open Source,None,Yes,None
+Occasional,Smartphone,High,Moderate,Mixed,Yes,Professional,Frequent,Low,No,Moderate,Open Source,Frequent,Yes,Occasional
+None,Tablet,Low,Strong,Mixed,No,Mixed,Occasional,Moderate,No,Moderate,Proprietary,Occasional,Yes,None
+Frequent,Tablet,Low,Strong,Proprietary,Yes,Professional,None,Low,Yes,Moderate,Proprietary,Frequent,Yes,Frequent
+None,Desktop,Low,Strong,Proprietary,No,Mixed,Frequent,High,No,High,Proprietary,Frequent,No,None
+None,Desktop,Low,None,Open Source,Yes,Mixed,Occasional,Low,No,Low,Proprietary,Frequent,Yes,Occasional
+Rare,Desktop,Moderate,Weak,Open Source,Yes,DIY,Frequent,Moderate,Yes,Moderate,Proprietary,None,Yes,Frequent
+None,Desktop,Moderate,Weak,Open Source,No,DIY,None,Low,No,Moderate,Open Source,Occasional,Yes,Frequent
+None,Desktop,Moderate,Strong,Open Source,No,Professional,Frequent,High,Yes,High,Open Source,Frequent,Yes,None
+Rare,Laptop,High,None,Open Source,Yes,DIY,None,High,Yes,High,Mixed,None,No,None
+Occasional,Desktop,High,Weak,Mixed,No,DIY,Occasional,Low,No,Low,Open Source,Occasional,Yes,Occasional
+Occasional,Smartphone,Low,Weak,Mixed,No,Mixed,Occasional,Moderate,Yes,High,Proprietary,Frequent,Yes,None
+Frequent,Desktop,Moderate,Strong,Proprietary,No,DIY,Occasional,Low,No,High,Proprietary,Occasional,Yes,None
+None,Tablet,Moderate,Strong,Proprietary,Yes,Professional,None,Low,No,Moderate,Open Source,None,No,Frequent
+None,Tablet,Low,Weak,Mixed,Yes,Professional,Occasional,Low,No,Low,Mixed,Occasional,Yes,Occasional
+Frequent,Laptop,Moderate,Moderate,Proprietary,No,Professional,None,Moderate,No,Moderate,Open Source,None,Yes,Frequent
+Frequent,Tablet,Moderate,Moderate,Mixed,Yes,Professional,Occasional,Moderate,No,Low,Proprietary,Frequent,No,Occasional
+Rare,Desktop,Moderate,Strong,Mixed,No,DIY,Frequent,Moderate,Yes,High,Mixed,Frequent,Yes,Frequent
+Frequent,Laptop,Moderate,None,Open Source,No,Professional,None,Moderate,Yes,Moderate,Open Source,Occasional,No,None
+Occasional,Smartphone,Low,Strong,Mixed,Yes,Professional,Frequent,Low,Yes,High,Proprietary,Occasional,Yes,Occasional
+Frequent,Laptop,Moderate,Strong,Mixed,No,Mixed,Occasional,High,No,High,Proprietary,None,No,Frequent
+Occasional,Desktop,Low,Strong,Open Source,No,DIY,Frequent,Low,Yes,Low,Mixed,None,Yes,None
+Frequent,Tablet,Low,Weak,Mixed,No,Mixed,None,Moderate,No,Moderate,Open Source,Frequent,No,Frequent
+None,Laptop,Low,Weak,Open Source,No,DIY,None,Moderate,No,Low,Open Source,Frequent,Yes,Frequent
+Occasional,Tablet,Low,Moderate,Open Source,No,DIY,Occasional,Moderate,No,High,Proprietary,Frequent,No,Occasional
+None,Tablet,Low,Weak,Mixed,Yes,Mixed,Frequent,High,No,Moderate,Mixed,Occasional,No,None
+None,Tablet,High,Weak,Proprietary,Yes,Mixed,Frequent,Moderate,Yes,High,Proprietary,Frequent,No,Occasional
+None,Tablet,Moderate,Moderate,Proprietary,Yes,Mixed,Occasional,High,Yes,High,Mixed,Frequent,Yes,Frequent
+None,Smartphone,Moderate,None,Open Source,Yes,Professional,None,High,Yes,Moderate,Mixed,Frequent,No,None
+None,Laptop,High,None,Proprietary,Yes,Mixed,Occasional,Moderate,Yes,High,Open Source,Occasional,No,Occasional
+Frequent,Tablet,Low,Strong,Proprietary,Yes,DIY,None,High,Yes,Low,Mixed,Frequent,Yes,Frequent
+Rare,Laptop,Moderate,Weak,Open Source,Yes,DIY,None,Low,Yes,Moderate,Open Source,None,No,Frequent
+Rare,Smartphone,Moderate,Moderate,Proprietary,No,Professional,Frequent,Moderate,No,Low,Mixed,Occasional,No,Frequent
+Rare,Laptop,High,None,Open Source,No,Professional,Occasional,Low,No,Low,Mixed,Occasional,No,None
+Rare,Tablet,High,Strong,Mixed,Yes,Mixed,Occasional,High,Yes,Low,Proprietary,Occasional,No,Frequent
+None,Tablet,Moderate,Moderate,Mixed,No,Mixed,Frequent,High,Yes,High,Mixed,Occasional,No,Frequent
+Occasional,Laptop,Moderate,None,Open Source,No,DIY,None,Low,Yes,Low,Proprietary,None,No,Frequent
+Frequent,Laptop,Low,Moderate,Open Source,No,Mixed,Frequent,Moderate,Yes,Moderate,Open Source,Frequent,No,Occasional
+Rare,Smartphone,Low,Moderate,Open Source,Yes,Mixed,Occasional,High,Yes,Moderate,Open Source,Frequent,No,None
+Frequent,Laptop,Low,Moderate,Proprietary,No,Professional,None,Low,No,High,Proprietary,Occasional,No,Occasional
+Rare,Tablet,High,Weak,Proprietary,No,DIY,None,Moderate,Yes,Moderate,Proprietary,None,No,None
+Frequent,Desktop,Moderate,Strong,Open Source,Yes,Professional,None,High,Yes,High,Open Source,Occasional,Yes,None
+Occasional,Smartphone,High,Moderate,Proprietary,No,Mixed,None,Low,Yes,High,Open Source,Occasional,No,None
+Frequent,Smartphone,High,Strong,Proprietary,No,Mixed,None,High,Yes,Low,Mixed,Occasional,Yes,Occasional
+Frequent,Tablet,High,Strong,Proprietary,No,Mixed,Frequent,High,Yes,High,Proprietary,Occasional,No,None
+Rare,Laptop,Low,Moderate,Mixed,Yes,Professional,None,Moderate,Yes,Moderate,Proprietary,Frequent,No,None
+None,Laptop,High,None,Proprietary,No,DIY,Frequent,High,Yes,Low,Open Source,Occasional,Yes,None
+Frequent,Smartphone,Low,Weak,Mixed,Yes,Mixed,Occasional,Low,No,High,Open Source,None,No,Occasional
+Occasional,Smartphone,Low,None,Proprietary,No,DIY,Occasional,Low,Yes,Moderate,Proprietary,Frequent,No,Frequent
+Frequent,Smartphone,High,None,Proprietary,No,Mixed,Frequent,Low,No,Low,Open Source,Occasional,No,None
+Frequent,Smartphone,Low,None,Mixed,Yes,Professional,Frequent,Moderate,Yes,Low,Proprietary,Frequent,No,None
+None,Smartphone,Moderate,Moderate,Mixed,No,Mixed,Occasional,High,No,Moderate,Mixed,Frequent,No,Frequent
+Frequent,Laptop,High,Strong,Proprietary,Yes,DIY,None,Moderate,No,Moderate,Open Source,Frequent,Yes,Occasional
+None,Desktop,High,Strong,Mixed,No,Professional,Occasional,Low,Yes,Moderate,Mixed,Frequent,Yes,Frequent
+Frequent,Desktop,Low,Weak,Open Source,Yes,Professional,None,Low,Yes,Moderate,Mixed,Frequent,No,None
+Frequent,Laptop,Low,None,Proprietary,Yes,DIY,Occasional,High,No,Moderate,Open Source,Occasional,Yes,Frequent
+None,Laptop,Moderate,None,Proprietary,No,DIY,Occasional,High,No,Low,Proprietary,None,No,Frequent
+None,Smartphone,High,Moderate,Proprietary,No,Mixed,Occasional,Low,No,Low,Open Source,Frequent,Yes,Frequent
+Rare,Tablet,Low,Weak,Open Source,Yes,DIY,Occasional,High,No,Low,Mixed,Frequent,Yes,Frequent
+None,Desktop,High,Weak,Proprietary,Yes,Mixed,Occasional,High,Yes,Moderate,Proprietary,None,No,None
+Occasional,Desktop,Low,Strong,Open Source,Yes,DIY,Frequent,High,Yes,Moderate,Mixed,Occasional,No,Occasional
+None,Smartphone,High,Weak,Open Source,Yes,Mixed,None,Moderate,Yes,Low,Proprietary,None,No,None
+None,Laptop,Moderate,Weak,Mixed,No,Mixed,Frequent,Low,Yes,Moderate,Mixed,None,No,None
+None,Smartphone,Low,None,Proprietary,Yes,Mixed,None,Moderate,Yes,Moderate,Mixed,None,No,Occasional
+Rare,Desktop,High,Weak,Mixed,No,DIY,Frequent,Moderate,No,Low,Proprietary,Occasional,Yes,Frequent
+Occasional,Tablet,Low,Weak,Proprietary,Yes,DIY,Frequent,High,No,Moderate,Proprietary,Occasional,No,Occasional
+Rare,Laptop,High,Moderate,Mixed,Yes,Professional,Frequent,Moderate,Yes,Moderate,Mixed,Frequent,No,Frequent
+Frequent,Smartphone,Low,Moderate,Open Source,Yes,Mixed,Frequent,Moderate,Yes,Moderate,Mixed,None,No,Occasional
+Occasional,Desktop,Low,Weak,Mixed,Yes,Mixed,Occasional,Moderate,No,Moderate,Proprietary,Occasional,Yes,Frequent
+Occasional,Tablet,Low,None,Open Source,Yes,Professional,Frequent,High,No,Moderate,Mixed,Occasional,No,Frequent
+Rare,Desktop,High,Moderate,Proprietary,Yes,Professional,None,Moderate,No,Low,Mixed,Frequent,Yes,Occasional
+Occasional,Laptop,Low,None,Proprietary,No,Professional,None,Moderate,No,High,Proprietary,None,No,None
+Occasional,Smartphone,Moderate,Strong,Mixed,No,DIY,None,Moderate,No,High,Open Source,Occasional,No,None
+Occasional,Laptop,Moderate,Weak,Proprietary,No,DIY,None,High,No,Moderate,Open Source,None,No,Occasional
+Frequent,Laptop,Low,Strong,Open Source,No,Professional,Occasional,Moderate,No,High,Proprietary,Frequent,Yes,Occasional
+Rare,Smartphone,Low,None,Open Source,Yes,Mixed,None,Moderate,Yes,Low,Open Source,Frequent,No,None
+None,Smartphone,Moderate,Weak,Mixed,Yes,DIY,Frequent,Moderate,Yes,Low,Proprietary,None,Yes,Occasional
+Rare,Desktop,High,Moderate,Open Source,No,DIY,None,Moderate,No,Moderate,Proprietary,Occasional,No,Occasional
+Rare,Desktop,High,Strong,Proprietary,Yes,Mixed,None,Low,Yes,High,Open Source,Frequent,Yes,None
+Rare,Smartphone,Low,Weak,Open Source,Yes,Mixed,Frequent,High,Yes,Low,Open Source,Frequent,No,Frequent
+Frequent,Smartphone,Moderate,Strong,Open Source,Yes,DIY,Frequent,Low,Yes,High,Open Source,None,No,Occasional
+None,Desktop,Moderate,Strong,Open Source,Yes,Mixed,Occasional,High,No,High,Proprietary,None,No,None
+Occasional,Smartphone,High,Strong,Proprietary,Yes,DIY,None,Moderate,Yes,Low,Proprietary,Frequent,Yes,Frequent
+None,Desktop,Moderate,Weak,Mixed,Yes,Professional,None,Low,Yes,Low,Mixed,Frequent,No,None
+Frequent,Desktop,High,Weak,Mixed,No,Professional,None,Low,Yes,Low,Proprietary,Frequent,No,Frequent
+Frequent,Laptop,Moderate,None,Proprietary,Yes,DIY,None,Moderate,No,Low,Open Source,Frequent,No,Occasional
+Frequent,Desktop,Moderate,Weak,Open Source,Yes,Professional,Frequent,Moderate,No,Low,Proprietary,Frequent,Yes,Occasional
+None,Laptop,Moderate,Weak,Mixed,No,Mixed,None,High,No,High,Mixed,None,Yes,Occasional
+Frequent,Desktop,Moderate,Moderate,Open Source,No,DIY,Frequent,Moderate,Yes,Moderate,Proprietary,None,No,Occasional
+Occasional,Desktop,Low,None,Open Source,No,DIY,None,High,Yes,Low,Mixed,Occasional,No,Frequent
+None,Smartphone,Moderate,Weak,Proprietary,Yes,Mixed,Occasional,Moderate,Yes,Low,Open Source,Frequent,Yes,Frequent
+Occasional,Laptop,High,Moderate,Open Source,Yes,Mixed,Frequent,Low,Yes,Low,Proprietary,Occasional,No,Occasional
+None,Tablet,Low,Moderate,Mixed,Yes,Professional,None,Moderate,No,Moderate,Proprietary,Occasional,No,Frequent
+Occasional,Desktop,High,None,Open Source,No,DIY,Occasional,High,Yes,High,Mixed,Occasional,Yes,Occasional
+None,Tablet,Moderate,None,Mixed,Yes,Mixed,Frequent,High,Yes,Low,Mixed,Occasional,No,None
+Occasional,Desktop,Moderate,Moderate,Open Source,No,Mixed,None,Low,No,High,Mixed,None,Yes,None
+Occasional,Desktop,Moderate,None,Proprietary,Yes,Mixed,None,Moderate,Yes,Low,Mixed,None,Yes,None
+Frequent,Laptop,High,Strong,Proprietary,Yes,DIY,Occasional,High,Yes,Moderate,Mixed,Occasional,Yes,Occasional
+None,Laptop,Moderate,None,Mixed,Yes,Mixed,Frequent,Moderate,No,High,Proprietary,Frequent,Yes,None
+Occasional,Smartphone,Moderate,Strong,Proprietary,No,Professional,None,High,No,High,Open Source,Frequent,Yes,None
+Frequent,Tablet,Moderate,Moderate,Open Source,No,Professional,Occasional,Low,No,High,Open Source,None,Yes,None
+Frequent,Laptop,Low,Weak,Open Source,Yes,Mixed,None,Low,No,High,Mixed,Occasional,Yes,Occasional
+None,Tablet,Moderate,Weak,Open Source,No,Professional,Frequent,High,No,Low,Open Source,Occasional,Yes,Frequent
+Occasional,Tablet,Low,None,Proprietary,No,DIY,None,High,Yes,High,Mixed,Occasional,Yes,Frequent
+Occasional,Laptop,Moderate,Moderate,Proprietary,Yes,DIY,None,High,No,High,Mixed,None,Yes,Occasional
+None,Smartphone,High,Weak,Proprietary,Yes,Professional,None,Moderate,Yes,High,Mixed,None,No,Frequent
+None,Smartphone,Low,Strong,Mixed,No,Professional,Frequent,Moderate,No,Moderate,Proprietary,Occasional,No,Frequent
+None,Desktop,High,None,Open Source,No,Professional,Occasional,Low,No,High,Mixed,None,Yes,None
+Rare,Smartphone,Low,Strong,Proprietary,No,DIY,Occasional,Low,No,High,Open Source,None,Yes,None
+None,Smartphone,Low,Strong,Proprietary,No,Professional,Frequent,Moderate,Yes,High,Mixed,None,No,Occasional
+None,Tablet,Low,Weak,Mixed,Yes,Mixed,None,Moderate,No,Moderate,Mixed,Occasional,Yes,None
+None,Tablet,Moderate,Moderate,Proprietary,Yes,DIY,None,Low,No,Moderate,Mixed,None,No,Frequent
+None,Smartphone,High,Strong,Proprietary,Yes,DIY,Occasional,Moderate,Yes,High,Open Source,Occasional,Yes,Occasional
+Rare,Smartphone,Low,None,Proprietary,No,DIY,Frequent,Moderate,Yes,High,Open Source,Occasional,Yes,Frequent
+Frequent,Laptop,Moderate,Strong,Open Source,Yes,DIY,Occasional,Low,Yes,Low,Open Source,Frequent,No,None
+Occasional,Smartphone,High,Weak,Open Source,Yes,Mixed,Frequent,High,Yes,High,Mixed,Occasional,No,Occasional
+Occasional,Tablet,Moderate,Strong,Proprietary,Yes,Professional,Occasional,Moderate,Yes,High,Mixed,Occasional,No,None
+Occasional,Smartphone,High,None,Open Source,No,Mixed,Occasional,High,No,Low,Mixed,Occasional,Yes,Occasional
+Rare,Smartphone,Moderate,Strong,Proprietary,Yes,Professional,Occasional,High,Yes,High,Open Source,None,No,None
+None,Tablet,Low,Weak,Open Source,No,Mixed,None,Moderate,Yes,Low,Open Source,Occasional,Yes,Occasional
+Rare,Tablet,Low,None,Proprietary,Yes,Professional,None,Moderate,Yes,Low,Mixed,Frequent,No,None
+Occasional,Laptop,High,Strong,Mixed,Yes,Professional,Occasional,Moderate,No,High,Mixed,Occasional,Yes,Occasional
+Frequent,Desktop,Moderate,Strong,Open Source,No,Professional,None,High,No,High,Open Source,Occasional,Yes,Occasional
+None,Laptop,High,None,Open Source,No,Professional,None,High,Yes,Moderate,Mixed,None,No,Occasional
+Rare,Tablet,Low,Weak,Mixed,No,Professional,Occasional,Moderate,Yes,Low,Mixed,None,Yes,Frequent
+None,Desktop,High,None,Proprietary,Yes,Professional,None,High,No,Moderate,Open Source,None,No,None
+Occasional,Smartphone,High,Strong,Open Source,Yes,Mixed,Frequent,High,Yes,High,Mixed,Frequent,Yes,None
+Rare,Laptop,High,Weak,Proprietary,Yes,Professional,Occasional,Low,Yes,Moderate,Proprietary,Frequent,No,None
+Occasional,Desktop,High,None,Proprietary,No,Professional,Frequent,High,No,Low,Open Source,Frequent,No,Occasional
+None,Tablet,Low,Weak,Proprietary,No,DIY,None,Moderate,No,Low,Proprietary,Occasional,Yes,None
+Frequent,Smartphone,High,Weak,Mixed,No,Professional,Occasional,Low,No,Moderate,Mixed,None,No,Occasional
+None,Laptop,Low,Moderate,Mixed,No,DIY,Occasional,High,Yes,Moderate,Proprietary,Frequent,Yes,None
+Occasional,Laptop,Moderate,Weak,Mixed,Yes,Mixed,Occasional,High,Yes,Moderate,Open Source,None,No,Frequent
+Rare,Laptop,Moderate,Strong,Open Source,Yes,DIY,Occasional,Moderate,Yes,Moderate,Proprietary,None,No,Occasional
+Occasional,Desktop,Low,None,Mixed,Yes,Professional,Frequent,Moderate,Yes,Moderate,Open Source,Frequent,No,None
+Frequent,Tablet,Low,Strong,Proprietary,No,DIY,None,Low,Yes,Low,Mixed,Frequent,No,Occasional
+Rare,Tablet,Low,None,Open Source,No,DIY,Frequent,Moderate,Yes,Low,Open Source,None,Yes,Frequent
+None,Tablet,High,Strong,Open Source,Yes,Professional,Occasional,Low,No,Low,Proprietary,None,Yes,None
+Occasional,Laptop,High,None,Open Source,No,Mixed,Occasional,Moderate,No,High,Open Source,Occasional,No,Occasional
+Rare,Tablet,High,Weak,Open Source,Yes,Professional,Occasional,Moderate,Yes,Moderate,Open Source,Frequent,No,Frequent
+None,Smartphone,Low,Moderate,Mixed,Yes,Mixed,None,Low,No,High,Open Source,Frequent,No,Occasional
+Occasional,Smartphone,Low,Moderate,Mixed,Yes,Mixed,Occasional,High,Yes,Moderate,Proprietary,Frequent,Yes,None
+None,Desktop,Moderate,None,Proprietary,No,Professional,Occasional,High,No,High,Open Source,None,Yes,Frequent
+None,Desktop,Moderate,None,Open Source,Yes,Mixed,Occasional,Moderate,No,Low,Proprietary,None,Yes,None
+Frequent,Laptop,High,None,Mixed,Yes,Professional,Occasional,Moderate,No,Moderate,Mixed,Occasional,Yes,Occasional
+Frequent,Smartphone,Low,Strong,Mixed,Yes,Mixed,Frequent,Moderate,Yes,High,Proprietary,Frequent,No,None
+Frequent,Laptop,High,Weak,Mixed,No,Professional,Frequent,Low,No,Moderate,Proprietary,Frequent,Yes,None
+Rare,Desktop,Moderate,Weak,Open Source,Yes,Mixed,Occasional,Low,No,Low,Proprietary,None,Yes,None
+Frequent,Tablet,Moderate,Strong,Open Source,No,Mixed,Occasional,Moderate,Yes,Low,Proprietary,Occasional,Yes,Frequent
+None,Tablet,Low,None,Open Source,Yes,Mixed,Frequent,Low,No,Moderate,Proprietary,None,Yes,Occasional
+None,Smartphone,Low,Moderate,Mixed,No,Mixed,Frequent,Moderate,Yes,Low,Mixed,Occasional,No,None
+None,Desktop,Low,Strong,Open Source,No,Mixed,Occasional,High,No,High,Open Source,Frequent,Yes,Occasional
+Rare,Laptop,Low,Strong,Open Source,Yes,Professional,None,High,Yes,High,Proprietary,Frequent,Yes,Occasional
+None,Desktop,Low,Strong,Open Source,No,Mixed,Frequent,Moderate,No,Moderate,Proprietary,Occasional,No,Occasional
+Frequent,Smartphone,Low,None,Mixed,Yes,Professional,None,Low,Yes,High,Mixed,Occasional,No,Frequent
+Frequent,Smartphone,High,None,Mixed,Yes,Mixed,Occasional,Moderate,No,High,Mixed,None,Yes,Occasional
+Occasional,Laptop,High,Moderate,Open Source,Yes,Professional,Frequent,Low,Yes,High,Proprietary,Occasional,Yes,Frequent
+Frequent,Laptop,Low,Moderate,Open Source,Yes,DIY,None,High,Yes,Moderate,Proprietary,Frequent,Yes,Occasional
+Frequent,Tablet,Moderate,None,Proprietary,Yes,Mixed,Frequent,High,Yes,Low,Mixed,None,No,None
+Occasional,Tablet,Moderate,Strong,Mixed,No,Mixed,None,Low,No,Moderate,Open Source,Occasional,No,None
+Occasional,Tablet,High,None,Mixed,Yes,DIY,None,Low,No,Moderate,Open Source,Frequent,No,None
+Frequent,Tablet,High,None,Proprietary,No,Professional,Frequent,Low,Yes,Moderate,Mixed,None,No,Occasional
+Frequent,Desktop,Moderate,None,Proprietary,No,Mixed,Occasional,Moderate,No,Moderate,Open Source,Occasional,No,None
+Rare,Smartphone,Moderate,None,Proprietary,Yes,DIY,Frequent,High,Yes,High,Mixed,Occasional,No,None
+Occasional,Smartphone,High,Strong,Mixed,Yes,Professional,None,Moderate,No,Moderate,Proprietary,Occasional,No,Frequent
+Rare,Desktop,Moderate,Moderate,Proprietary,Yes,Professional,Frequent,High,No,Moderate,Mixed,Occasional,No,Frequent
+None,Smartphone,Low,Weak,Mixed,Yes,DIY,Frequent,Moderate,No,Moderate,Proprietary,Frequent,No,Occasional
+Rare,Laptop,High,Weak,Proprietary,No,Mixed,Occasional,High,Yes,High,Open Source,Frequent,No,Frequent
+Occasional,Desktop,Low,Strong,Proprietary,No,Professional,Occasional,Low,No,Low,Proprietary,Frequent,No,Frequent
+Occasional,Desktop,High,Moderate,Open Source,No,DIY,Frequent,Low,No,Low,Proprietary,None,No,Occasional
+Frequent,Tablet,Moderate,Moderate,Mixed,No,Mixed,Frequent,High,Yes,Moderate,Open Source,None,No,Frequent
+Rare,Desktop,High,None,Proprietary,No,DIY,Occasional,Low,No,High,Open Source,None,Yes,Frequent
+Frequent,Desktop,Low,Strong,Mixed,Yes,DIY,Occasional,High,No,High,Open Source,None,No,None
+Rare,Desktop,Low,Weak,Mixed,No,Mixed,None,Moderate,Yes,High,Proprietary,Frequent,No,None
+Rare,Tablet,High,Strong,Open Source,Yes,Mixed,Occasional,Low,No,Low,Mixed,Frequent,No,None
+Occasional,Laptop,High,Moderate,Mixed,Yes,Professional,None,High,Yes,Low,Proprietary,None,No,Occasional
+Frequent,Smartphone,Low,Weak,Mixed,No,DIY,Frequent,High,No,High,Proprietary,Occasional,No,Occasional
+Frequent,Desktop,High,None,Proprietary,Yes,DIY,Occasional,Moderate,Yes,Low,Proprietary,Frequent,No,None
+Occasional,Smartphone,Low,Strong,Mixed,No,DIY,Occasional,High,Yes,Low,Mixed,Frequent,Yes,None
+None,Tablet,High,Moderate,Proprietary,No,Professional,Frequent,Low,No,Moderate,Mixed,Frequent,No,Frequent
+Frequent,Desktop,Moderate,Moderate,Proprietary,No,DIY,None,Low,No,Moderate,Open Source,None,Yes,None
+None,Laptop,Moderate,Strong,Mixed,No,DIY,None,Moderate,Yes,Moderate,Mixed,Frequent,No,Frequent
+Frequent,Laptop,High,Moderate,Open Source,Yes,DIY,Occasional,Low,Yes,High,Open Source,Occasional,Yes,Frequent
+Frequent,Laptop,Moderate,Weak,Mixed,No,Professional,Frequent,Moderate,Yes,Low,Mixed,Occasional,No,None
+Rare,Tablet,Moderate,Moderate,Proprietary,No,DIY,Frequent,Low,No,Low,Proprietary,Occasional,No,Frequent
+Rare,Smartphone,Low,None,Proprietary,No,DIY,None,Low,No,High,Open Source,Occasional,No,None
+Occasional,Tablet,Moderate,Moderate,Open Source,No,DIY,Frequent,Moderate,No,Low,Open Source,None,Yes,None
+Rare,Desktop,Low,Weak,Proprietary,Yes,DIY,None,High,No,High,Open Source,None,Yes,Frequent
+Occasional,Smartphone,Moderate,Strong,Mixed,Yes,DIY,Occasional,Moderate,Yes,Moderate,Mixed,Occasional,No,Occasional
+Frequent,Desktop,Moderate,Weak,Proprietary,Yes,Professional,Occasional,High,Yes,High,Proprietary,Occasional,Yes,Frequent
+None,Tablet,Low,Weak,Open Source,No,DIY,None,High,Yes,High,Open Source,Frequent,Yes,None
+Rare,Desktop,Moderate,Moderate,Open Source,No,DIY,Frequent,Moderate,No,Moderate,Mixed,Occasional,No,Occasional
+Rare,Smartphone,High,Moderate,Open Source,No,Mixed,None,Low,No,Moderate,Mixed,Frequent,Yes,Occasional
+Occasional,Tablet,Low,None,Open Source,Yes,Professional,Frequent,Moderate,Yes,Moderate,Mixed,Frequent,Yes,None
+Occasional,Smartphone,High,None,Open Source,No,Mixed,Occasional,Moderate,No,Low,Mixed,Occasional,Yes,Frequent
+Frequent,Tablet,High,None,Mixed,Yes,Professional,Frequent,Low,Yes,High,Open Source,None,Yes,Frequent
+Occasional,Laptop,High,Moderate,Mixed,No,Mixed,Frequent,Moderate,No,Moderate,Mixed,Occasional,No,Frequent
+None,Desktop,Low,Strong,Mixed,No,Mixed,Occasional,Low,No,High,Proprietary,Frequent,Yes,Frequent
+Frequent,Smartphone,High,Strong,Mixed,Yes,Mixed,Frequent,Moderate,Yes,Moderate,Mixed,Frequent,Yes,None
+Occasional,Tablet,High,Moderate,Mixed,No,Professional,Frequent,Low,Yes,High,Open Source,Occasional,Yes,None
+Rare,Laptop,Low,Strong,Mixed,Yes,DIY,Occasional,Moderate,No,Low,Proprietary,Occasional,Yes,Occasional
+None,Tablet,High,None,Proprietary,No,Mixed,Frequent,Low,Yes,High,Mixed,Occasional,No,None
+Occasional,Smartphone,High,Strong,Open Source,No,Mixed,None,Low,No,High,Proprietary,Frequent,No,Frequent
+Occasional,Desktop,High,Weak,Open Source,Yes,Mixed,Occasional,Moderate,No,Moderate,Mixed,Frequent,Yes,Frequent
+Rare,Tablet,Moderate,Strong,Open Source,No,Mixed,None,Moderate,No,High,Mixed,Occasional,No,Occasional
+Rare,Smartphone,Moderate,Moderate,Mixed,No,Professional,Frequent,Low,Yes,Low,Proprietary,Frequent,No,None
+Frequent,Tablet,Low,None,Open Source,No,Mixed,Occasional,High,No,Low,Mixed,None,Yes,Occasional
+Rare,Smartphone,High,Moderate,Mixed,No,Professional,Occasional,High,Yes,Moderate,Proprietary,Occasional,Yes,None
+None,Laptop,Moderate,Moderate,Mixed,Yes,Mixed,Occasional,High,Yes,Moderate,Mixed,Frequent,No,Occasional
+None,Smartphone,Moderate,Weak,Open Source,Yes,Mixed,Occasional,Low,No,Moderate,Open Source,Frequent,No,None
+Occasional,Desktop,Low,Moderate,Open Source,No,Mixed,None,High,No,Low,Mixed,Occasional,No,Occasional
+Occasional,Desktop,Low,None,Proprietary,Yes,Mixed,Frequent,Low,Yes,High,Open Source,Occasional,No,None
+Frequent,Tablet,Low,Strong,Mixed,Yes,Mixed,Frequent,High,No,Low,Proprietary,None,No,Frequent
+Occasional,Desktop,Low,Strong,Open Source,No,Mixed,Occasional,Moderate,No,Low,Open Source,Occasional,Yes,None
+Rare,Smartphone,Moderate,Weak,Open Source,No,Mixed,Frequent,Low,No,Moderate,Proprietary,Occasional,No,None
+None,Smartphone,Low,Moderate,Mixed,No,Mixed,None,Moderate,No,High,Proprietary,None,No,None
+Rare,Desktop,Moderate,Moderate,Open Source,No,DIY,None,Moderate,No,Low,Proprietary,Occasional,Yes,None
+None,Smartphone,Low,Strong,Open Source,No,Professional,Frequent,High,Yes,High,Open Source,None,Yes,None
+Occasional,Desktop,Low,None,Proprietary,No,Mixed,Occasional,Low,Yes,Low,Proprietary,Frequent,Yes,Occasional
+Occasional,Smartphone,Moderate,Strong,Proprietary,No,Professional,None,Moderate,Yes,Moderate,Open Source,None,Yes,None
+Rare,Smartphone,Low,Moderate,Proprietary,No,DIY,Occasional,Moderate,No,High,Open Source,Occasional,Yes,None
+None,Laptop,High,None,Mixed,No,Mixed,Occasional,Moderate,No,Low,Mixed,Occasional,Yes,None
+Rare,Desktop,Low,None,Open Source,Yes,Professional,Occasional,Low,Yes,Low,Mixed,Frequent,Yes,None
+Rare,Desktop,Moderate,Weak,Proprietary,No,Professional,Frequent,Low,Yes,High,Open Source,None,Yes,Occasional
+Rare,Smartphone,Low,Weak,Proprietary,No,DIY,Frequent,High,No,Moderate,Mixed,Frequent,Yes,Frequent
+Occasional,Tablet,High,None,Mixed,Yes,DIY,None,High,No,Moderate,Proprietary,Occasional,Yes,Frequent
+Rare,Tablet,Low,Strong,Mixed,No,Mixed,None,Low,No,High,Proprietary,None,No,Frequent
+Occasional,Smartphone,High,Strong,Mixed,No,DIY,Frequent,High,No,Moderate,Mixed,None,No,None
+Frequent,Desktop,High,None,Mixed,Yes,Mixed,Occasional,Moderate,No,High,Proprietary,Occasional,No,None
+Occasional,Tablet,Low,Strong,Open Source,No,Mixed,Occasional,High,Yes,Low,Open Source,None,Yes,None
+Frequent,Tablet,Moderate,Strong,Mixed,Yes,Mixed,Occasional,Low,No,Moderate,Proprietary,Frequent,No,None
+Occasional,Desktop,Moderate,Moderate,Mixed,Yes,Mixed,None,Moderate,No,Moderate,Proprietary,Occasional,Yes,Frequent
+Frequent,Tablet,Moderate,Strong,Mixed,Yes,Mixed,Frequent,Low,No,Low,Open Source,Occasional,Yes,Occasional
+Frequent,Desktop,Low,Moderate,Open Source,No,Mixed,None,Low,Yes,Low,Proprietary,None,No,Occasional
+None,Laptop,High,Moderate,Open Source,No,Mixed,Frequent,Low,Yes,High,Proprietary,Frequent,No,Frequent
+None,Desktop,High,Moderate,Proprietary,Yes,Mixed,Frequent,Moderate,No,Moderate,Proprietary,None,Yes,Occasional
+Frequent,Tablet,Low,None,Proprietary,No,DIY,Occasional,Moderate,Yes,Moderate,Mixed,Occasional,Yes,Frequent
+Occasional,Laptop,Low,None,Proprietary,No,DIY,None,High,No,Low,Mixed,Occasional,No,None
+Occasional,Smartphone,Low,Weak,Proprietary,Yes,Professional,None,Moderate,No,Low,Mixed,Frequent,Yes,None
+Frequent,Smartphone,High,Strong,Open Source,Yes,DIY,Occasional,Moderate,No,High,Proprietary,Occasional,No,Occasional
+Occasional,Laptop,High,Weak,Mixed,Yes,Professional,Frequent,Moderate,Yes,Moderate,Open Source,Frequent,Yes,Frequent
+Occasional,Smartphone,High,Strong,Mixed,No,Professional,Occasional,High,No,Low,Proprietary,None,Yes,Occasional
+None,Smartphone,Moderate,Strong,Open Source,No,Professional,None,Low,No,Moderate,Proprietary,Occasional,Yes,Frequent
+Frequent,Laptop,High,None,Open Source,Yes,DIY,Occasional,Moderate,Yes,Low,Open Source,Frequent,Yes,None
+Occasional,Smartphone,Moderate,None,Open Source,Yes,DIY,Frequent,Low,Yes,Low,Open Source,Occasional,No,None
+Frequent,Smartphone,High,Moderate,Proprietary,No,DIY,Frequent,High,No,High,Proprietary,Frequent,Yes,None
+Frequent,Tablet,High,Weak,Proprietary,No,Professional,Occasional,High,Yes,Low,Open Source,Frequent,No,Frequent
+Frequent,Smartphone,High,Weak,Proprietary,No,Mixed,Occasional,Low,No,Low,Mixed,Frequent,No,Frequent
+Frequent,Laptop,Moderate,Weak,Open Source,No,DIY,None,High,No,Moderate,Proprietary,Frequent,Yes,Frequent
+None,Laptop,High,Moderate,Open Source,No,Mixed,Frequent,High,No,Moderate,Mixed,Occasional,No,None
+None,Desktop,Moderate,Strong,Open Source,No,Professional,None,Moderate,No,High,Proprietary,None,Yes,Frequent
+None,Desktop,Moderate,Moderate,Open Source,Yes,DIY,Frequent,Low,No,Low,Mixed,None,No,Frequent
+Rare,Desktop,High,Weak,Open Source,No,DIY,None,High,No,Low,Open Source,Occasional,No,None
+Occasional,Smartphone,Low,Weak,Mixed,No,DIY,Frequent,High,Yes,Moderate,Open Source,None,No,Frequent
+Occasional,Smartphone,Low,Weak,Open Source,Yes,Professional,None,High,Yes,High,Proprietary,None,No,Frequent
+None,Smartphone,Moderate,None,Mixed,Yes,Mixed,Occasional,Low,Yes,Moderate,Mixed,None,Yes,None
+Rare,Smartphone,High,Weak,Proprietary,No,DIY,Frequent,High,No,Low,Proprietary,Frequent,No,None
+Occasional,Laptop,Moderate,None,Proprietary,Yes,DIY,None,High,No,Low,Mixed,None,Yes,Occasional
+Frequent,Laptop,Moderate,Weak,Open Source,Yes,DIY,Frequent,Moderate,Yes,Moderate,Proprietary,None,No,Occasional
+None,Smartphone,Moderate,Strong,Mixed,No,Mixed,Frequent,Moderate,Yes,Low,Open Source,Occasional,No,Occasional
+Frequent,Desktop,High,Weak,Open Source,No,Professional,None,Low,No,High,Mixed,None,Yes,None
+None,Laptop,High,Moderate,Proprietary,Yes,Professional,None,High,Yes,Low,Mixed,None,Yes,Frequent
+Occasional,Smartphone,Low,Strong,Proprietary,Yes,Mixed,Frequent,Moderate,No,Low,Proprietary,Occasional,No,Frequent
+Occasional,Smartphone,Moderate,Strong,Proprietary,Yes,DIY,Frequent,Moderate,No,High,Proprietary,Occasional,Yes,None
+None,Laptop,Low,Weak,Mixed,No,Mixed,Frequent,Moderate,No,Low,Proprietary,None,No,Frequent
+Frequent,Laptop,Moderate,None,Mixed,Yes,Professional,None,Moderate,No,High,Open Source,Occasional,Yes,Occasional
+Frequent,Smartphone,High,Weak,Mixed,No,DIY,Frequent,High,No,High,Open Source,Occasional,Yes,Frequent
+Frequent,Tablet,High,None,Mixed,Yes,DIY,Occasional,Moderate,No,Low,Mixed,None,No,Occasional
+Occasional,Laptop,Low,Strong,Open Source,No,Mixed,None,Low,Yes,Moderate,Open Source,Occasional,No,Frequent
+Occasional,Smartphone,Moderate,Weak,Proprietary,Yes,Professional,None,Low,Yes,Moderate,Open Source,Occasional,No,Occasional
+None,Desktop,High,Weak,Open Source,Yes,Professional,Frequent,Low,Yes,High,Mixed,Occasional,No,Occasional
+Frequent,Desktop,High,Moderate,Mixed,Yes,Mixed,Occasional,Moderate,Yes,Moderate,Open Source,None,No,None
+Occasional,Smartphone,High,Moderate,Open Source,No,Professional,None,High,No,Moderate,Proprietary,None,No,None
+Rare,Smartphone,Low,Strong,Mixed,No,Mixed,None,High,Yes,Moderate,Open Source,Frequent,Yes,Occasional
+Frequent,Smartphone,Moderate,None,Mixed,No,Professional,None,Moderate,No,Moderate,Open Source,None,No,None
+Occasional,Smartphone,Low,Weak,Proprietary,Yes,DIY,Frequent,Low,No,Moderate,Open Source,Occasional,No,None
+Rare,Laptop,Low,Weak,Proprietary,No,Professional,Frequent,Moderate,Yes,Low,Mixed,Frequent,Yes,Frequent
+None,Tablet,Low,None,Proprietary,Yes,DIY,Frequent,High,Yes,Moderate,Proprietary,Frequent,Yes,Frequent
+Frequent,Desktop,Moderate,Strong,Open Source,Yes,Professional,Frequent,High,No,Moderate,Mixed,Frequent,No,Occasional
+Frequent,Laptop,Low,None,Proprietary,No,Mixed,Occasional,Moderate,No,Moderate,Mixed,Occasional,No,Frequent
+Occasional,Desktop,High,Strong,Proprietary,No,Professional,None,Low,Yes,High,Proprietary,Frequent,Yes,Frequent
+Rare,Laptop,Low,Strong,Mixed,No,Mixed,Frequent,High,Yes,Low,Proprietary,Frequent,No,Frequent
+Frequent,Desktop,Moderate,Weak,Mixed,No,DIY,Occasional,Moderate,Yes,High,Open Source,Occasional,Yes,Occasional
+None,Smartphone,High,Moderate,Open Source,Yes,Professional,Frequent,High,No,Moderate,Proprietary,None,No,None
+Occasional,Laptop,Moderate,Strong,Mixed,No,Mixed,Frequent,Moderate,No,Moderate,Open Source,None,Yes,Occasional
+Rare,Smartphone,High,Strong,Open Source,Yes,DIY,Occasional,High,No,High,Open Source,None,Yes,Occasional
+Frequent,Desktop,Moderate,Weak,Open Source,Yes,Mixed,Frequent,Moderate,Yes,Low,Proprietary,Occasional,Yes,Frequent
+Frequent,Smartphone,Low,Moderate,Mixed,No,Mixed,Occasional,Low,Yes,Low,Mixed,Occasional,No,Frequent
+Occasional,Tablet,High,Moderate,Proprietary,Yes,DIY,None,Moderate,Yes,High,Mixed,None,No,Occasional
+Rare,Laptop,Low,Weak,Open Source,No,Professional,Frequent,Moderate,Yes,Moderate,Open Source,Frequent,Yes,None
+Rare,Desktop,Low,Weak,Open Source,Yes,DIY,Frequent,High,Yes,Low,Proprietary,None,Yes,Occasional
+Frequent,Tablet,Low,None,Proprietary,No,DIY,Frequent,Low,Yes,Low,Proprietary,None,No,Frequent
+Occasional,Laptop,Moderate,Moderate,Open Source,Yes,Professional,None,Low,Yes,Moderate,Proprietary,None,Yes,None
+Frequent,Tablet,Moderate,Moderate,Open Source,Yes,Professional,None,Low,No,Moderate,Open Source,Occasional,No,None
+Rare,Smartphone,Low,Strong,Mixed,Yes,Mixed,Frequent,High,Yes,Low,Open Source,None,Yes,Occasional
+Frequent,Laptop,Low,Moderate,Open Source,No,DIY,Occasional,High,Yes,Low,Open Source,Frequent,Yes,Frequent
+Frequent,Desktop,Moderate,Weak,Proprietary,Yes,Professional,Frequent,High,No,Moderate,Mixed,Occasional,No,None
+None,Smartphone,Moderate,Weak,Proprietary,No,DIY,Occasional,Low,Yes,Moderate,Open Source,Occasional,Yes,None
+Occasional,Laptop,Low,Moderate,Proprietary,Yes,DIY,Occasional,Moderate,Yes,High,Open Source,Frequent,Yes,Occasional
+Occasional,Smartphone,Moderate,None,Proprietary,Yes,DIY,Occasional,High,No,High,Open Source,Frequent,Yes,None
+Rare,Desktop,Moderate,Strong,Mixed,Yes,Professional,None,High,No,High,Open Source,Frequent,No,Frequent
+Rare,Desktop,High,Weak,Proprietary,Yes,Mixed,Occasional,Low,Yes,Moderate,Open Source,None,Yes,None
+Occasional,Tablet,Low,Strong,Proprietary,Yes,Mixed,Occasional,Low,Yes,Moderate,Mixed,Occasional,No,Frequent
+Frequent,Laptop,High,Strong,Open Source,No,Professional,Frequent,Low,No,Moderate,Proprietary,Occasional,Yes,Frequent
+Frequent,Laptop,High,Moderate,Mixed,No,Mixed,Frequent,Moderate,No,Moderate,Proprietary,Frequent,Yes,Occasional
+Frequent,Desktop,Low,Moderate,Open Source,No,Professional,Frequent,Moderate,Yes,Moderate,Open Source,None,No,None
+None,Desktop,Moderate,Weak,Proprietary,No,Professional,Occasional,Low,Yes,High,Mixed,None,Yes,None
+None,Smartphone,Moderate,Weak,Open Source,No,Mixed,Frequent,Moderate,No,High,Proprietary,None,Yes,Frequent
+None,Laptop,High,None,Open Source,Yes,DIY,Occasional,High,Yes,Moderate,Mixed,Frequent,No,None
+Rare,Tablet,Moderate,Weak,Mixed,Yes,Mixed,None,Moderate,Yes,High,Mixed,Occasional,No,None
+Frequent,Tablet,Moderate,None,Mixed,No,DIY,Frequent,High,Yes,Moderate,Open Source,Occasional,Yes,Occasional
+None,Smartphone,High,Weak,Proprietary,No,Professional,None,High,Yes,Low,Open Source,Occasional,No,Frequent
+None,Smartphone,High,Weak,Open Source,Yes,Mixed,Occasional,Low,No,High,Mixed,None,Yes,Occasional
+Occasional,Laptop,High,Moderate,Mixed,No,DIY,Occasional,Moderate,No,High,Proprietary,None,Yes,Occasional
+Frequent,Smartphone,High,None,Open Source,Yes,DIY,Frequent,Moderate,Yes,Low,Proprietary,None,Yes,Occasional
+Occasional,Smartphone,Moderate,Moderate,Mixed,Yes,DIY,Frequent,Low,Yes,Moderate,Open Source,Frequent,No,Frequent
+Occasional,Laptop,Low,Weak,Open Source,Yes,DIY,Frequent,High,No,High,Mixed,Occasional,No,Occasional
+Frequent,Laptop,High,Weak,Mixed,Yes,DIY,Occasional,High,Yes,Moderate,Mixed,None,No,Occasional
+Frequent,Tablet,Moderate,None,Mixed,No,Professional,None,Low,No,High,Open Source,None,No,Occasional
+Rare,Tablet,Low,Moderate,Mixed,No,Mixed,Frequent,High,No,High,Proprietary,Occasional,No,Occasional
+None,Desktop,Moderate,None,Proprietary,No,Professional,Frequent,High,No,Low,Proprietary,Frequent,No,Frequent
+Frequent,Laptop,Low,Weak,Mixed,No,Professional,Frequent,Moderate,No,Moderate,Open Source,Frequent,Yes,Occasional
+Occasional,Smartphone,Low,None,Open Source,Yes,DIY,None,Low,No,Low,Mixed,None,Yes,Occasional
+Frequent,Tablet,Low,Moderate,Proprietary,Yes,DIY,Occasional,High,No,High,Mixed,Occasional,Yes,None
+Rare,Tablet,Low,Strong,Proprietary,No,DIY,Frequent,High,No,Moderate,Open Source,Occasional,No,None
+None,Desktop,Moderate,None,Mixed,Yes,DIY,Frequent,High,Yes,Moderate,Mixed,Frequent,No,None
+Rare,Tablet,High,Moderate,Open Source,Yes,Mixed,None,High,No,High,Open Source,Frequent,No,Frequent
+Rare,Laptop,Low,None,Mixed,No,Professional,Frequent,High,Yes,High,Mixed,Occasional,No,None
+None,Tablet,Moderate,Weak,Mixed,Yes,Professional,None,Moderate,No,High,Mixed,None,Yes,Frequent
+Frequent,Laptop,High,Strong,Proprietary,Yes,DIY,Occasional,Low,No,Low,Proprietary,None,Yes,Frequent
+None,Tablet,High,Weak,Mixed,No,DIY,Occasional,Moderate,Yes,High,Proprietary,Frequent,Yes,Frequent
+None,Desktop,High,Moderate,Proprietary,Yes,DIY,Occasional,Moderate,No,Low,Mixed,Frequent,Yes,Frequent
+Occasional,Smartphone,Low,Weak,Proprietary,No,Mixed,Frequent,High,Yes,Low,Open Source,Frequent,Yes,Frequent
+Occasional,Smartphone,High,None,Mixed,Yes,DIY,None,High,No,Low,Open Source,Frequent,Yes,None
+Occasional,Laptop,Moderate,None,Proprietary,No,DIY,None,Moderate,No,High,Mixed,Occasional,Yes,Occasional
+Rare,Laptop,Low,Weak,Mixed,No,Mixed,None,High,No,High,Mixed,Frequent,No,Frequent
+Rare,Desktop,Low,Moderate,Mixed,No,DIY,Occasional,High,Yes,Moderate,Open Source,Occasional,Yes,Frequent
+None,Smartphone,High,Moderate,Open Source,Yes,Professional,Frequent,Low,No,High,Proprietary,None,Yes,None
+Rare,Desktop,Low,Strong,Open Source,No,Mixed,None,High,Yes,Moderate,Open Source,Frequent,Yes,Frequent
+Rare,Desktop,Low,Weak,Mixed,Yes,Mixed,None,Low,No,High,Proprietary,None,No,Frequent
+Occasional,Smartphone,High,Moderate,Open Source,No,DIY,Frequent,High,No,Low,Open Source,None,Yes,Frequent
+Occasional,Desktop,High,Strong,Proprietary,No,Mixed,None,Low,Yes,Low,Open Source,None,No,None
+None,Smartphone,High,Moderate,Open Source,No,DIY,None,High,No,High,Proprietary,Frequent,No,Frequent
+None,Desktop,High,Moderate,Mixed,No,Mixed,Occasional,Low,No,High,Open Source,Frequent,Yes,Frequent
+Occasional,Desktop,Moderate,Moderate,Proprietary,Yes,DIY,None,Moderate,Yes,Low,Proprietary,Frequent,Yes,Frequent
+Occasional,Desktop,Low,None,Proprietary,Yes,Professional,None,Low,Yes,Low,Proprietary,None,Yes,Occasional
+Occasional,Desktop,Moderate,Strong,Mixed,No,Mixed,None,Moderate,Yes,Moderate,Proprietary,Occasional,Yes,Frequent
+Occasional,Tablet,Low,Weak,Open Source,No,Professional,Frequent,High,No,Low,Mixed,None,No,Frequent
+None,Smartphone,Moderate,Moderate,Open Source,Yes,DIY,Occasional,Moderate,No,High,Open Source,None,Yes,None
+None,Smartphone,High,None,Mixed,No,Mixed,Frequent,Low,No,High,Proprietary,Occasional,Yes,None
+None,Tablet,Low,Strong,Open Source,Yes,Mixed,None,High,Yes,Low,Proprietary,None,Yes,None
+Rare,Desktop,Moderate,None,Proprietary,No,Mixed,None,High,No,Moderate,Mixed,None,Yes,None
+Occasional,Desktop,Low,Weak,Open Source,No,DIY,None,High,No,Low,Mixed,None,Yes,Frequent
+Occasional,Tablet,High,Weak,Open Source,Yes,Professional,None,Moderate,No,Moderate,Mixed,Frequent,No,None
+None,Tablet,High,Weak,Mixed,Yes,DIY,Occasional,High,No,Moderate,Mixed,Frequent,No,Frequent
+Occasional,Tablet,Moderate,Moderate,Mixed,Yes,Mixed,None,Low,No,Moderate,Mixed,None,Yes,Frequent
+None,Desktop,High,Moderate,Proprietary,Yes,DIY,None,High,Yes,Low,Mixed,Frequent,No,Occasional
+Occasional,Tablet,High,None,Open Source,Yes,Mixed,Occasional,Moderate,Yes,Moderate,Proprietary,None,No,Frequent
+Occasional,Laptop,Low,Weak,Mixed,Yes,Professional,None,Moderate,Yes,Low,Mixed,None,Yes,Frequent
+None,Tablet,High,Moderate,Proprietary,No,Professional,None,High,No,High,Mixed,Occasional,Yes,Frequent
+Rare,Smartphone,Moderate,None,Open Source,No,DIY,Occasional,High,Yes,Moderate,Proprietary,Frequent,Yes,None
+Frequent,Laptop,High,Moderate,Open Source,Yes,DIY,Occasional,Low,No,Low,Proprietary,None,No,Frequent
+Occasional,Tablet,High,None,Proprietary,No,Mixed,None,High,No,Moderate,Mixed,None,Yes,Frequent
+Occasional,Desktop,High,None,Proprietary,No,DIY,Occasional,Moderate,Yes,Low,Proprietary,Frequent,Yes,Occasional
+Frequent,Smartphone,Low,None,Open Source,Yes,Professional,None,Low,No,Moderate,Mixed,Frequent,No,Frequent
+Occasional,Smartphone,Low,None,Mixed,No,DIY,None,High,Yes,Low,Mixed,Frequent,Yes,Occasional
+Occasional,Tablet,High,Moderate,Mixed,No,DIY,Occasional,High,Yes,High,Mixed,Occasional,Yes,Occasional
+Rare,Desktop,Low,None,Open Source,No,Mixed,Occasional,Moderate,No,Low,Open Source,Occasional,No,Frequent
+None,Tablet,Low,None,Proprietary,Yes,DIY,Frequent,Low,Yes,Low,Open Source,Occasional,Yes,Occasional
+Frequent,Desktop,Moderate,None,Proprietary,No,Professional,Frequent,Low,No,High,Proprietary,Frequent,No,None
+Frequent,Tablet,High,Strong,Open Source,No,Professional,Occasional,High,Yes,High,Mixed,None,Yes,Frequent
+Frequent,Smartphone,High,None,Mixed,Yes,Professional,Occasional,Moderate,No,High,Mixed,Frequent,Yes,Frequent
+Rare,Desktop,Moderate,Weak,Open Source,No,Professional,Frequent,Low,Yes,High,Open Source,Occasional,No,Occasional
+None,Desktop,Moderate,Strong,Mixed,No,DIY,Frequent,High,Yes,Moderate,Proprietary,Occasional,Yes,Occasional
+Rare,Desktop,Low,Weak,Proprietary,Yes,DIY,Occasional,Moderate,No,Moderate,Proprietary,Frequent,Yes,Frequent
+Rare,Laptop,Moderate,Strong,Proprietary,No,DIY,None,High,No,Moderate,Mixed,Occasional,Yes,None
+Frequent,Laptop,Moderate,Strong,Open Source,No,Professional,Occasional,High,No,Low,Mixed,Occasional,No,Occasional
+None,Tablet,High,Strong,Open Source,Yes,DIY,Occasional,High,No,High,Mixed,None,Yes,Occasional
+None,Desktop,Low,Moderate,Proprietary,Yes,DIY,None,High,Yes,High,Open Source,Frequent,No,Frequent
+Occasional,Desktop,Low,Strong,Open Source,No,DIY,None,High,No,Moderate,Open Source,Frequent,No,None
+Rare,Tablet,Low,Moderate,Open Source,No,Mixed,None,Low,No,Moderate,Mixed,Frequent,No,Frequent
+Rare,Desktop,High,Weak,Mixed,No,DIY,None,Moderate,No,High,Open Source,Frequent,No,Frequent
+Rare,Desktop,High,Strong,Open Source,No,Professional,None,Moderate,Yes,Low,Proprietary,None,No,Occasional
+None,Laptop,Moderate,Moderate,Mixed,Yes,DIY,None,High,No,Low,Mixed,Occasional,Yes,None
+Rare,Desktop,Low,None,Proprietary,No,DIY,Frequent,High,No,High,Open Source,Frequent,Yes,Frequent
+Frequent,Tablet,Moderate,None,Mixed,Yes,Professional,None,Low,Yes,High,Open Source,None,Yes,Frequent
+Frequent,Smartphone,Moderate,Moderate,Mixed,Yes,Mixed,Frequent,Low,No,High,Open Source,Frequent,No,Occasional
+None,Smartphone,Moderate,Weak,Open Source,No,DIY,Occasional,Moderate,No,High,Mixed,None,Yes,None
+Frequent,Tablet,High,None,Proprietary,No,DIY,None,Low,No,Moderate,Open Source,Frequent,No,Frequent
+Occasional,Desktop,High,Moderate,Proprietary,No,Mixed,Occasional,Low,No,High,Open Source,None,No,Occasional
+Rare,Desktop,Low,None,Proprietary,No,Mixed,Frequent,High,No,Moderate,Open Source,None,No,Frequent
+Rare,Smartphone,Moderate,Strong,Proprietary,No,Mixed,Occasional,High,Yes,Low,Proprietary,None,Yes,Frequent
+Frequent,Smartphone,Moderate,Moderate,Proprietary,Yes,Mixed,Occasional,High,Yes,Moderate,Proprietary,None,Yes,None
+None,Tablet,Moderate,Weak,Open Source,No,Professional,Frequent,High,No,Moderate,Open Source,None,No,Frequent
+Frequent,Laptop,Low,Moderate,Proprietary,Yes,Mixed,None,High,Yes,Low,Mixed,Occasional,No,Occasional
+None,Tablet,Moderate,Weak,Proprietary,Yes,Mixed,Frequent,Moderate,Yes,High,Mixed,None,Yes,Frequent
+Occasional,Laptop,Moderate,Strong,Open Source,No,Mixed,Occasional,Moderate,No,High,Proprietary,Frequent,No,Frequent
+None,Laptop,High,Weak,Open Source,No,Mixed,Occasional,High,Yes,Moderate,Mixed,Occasional,Yes,Frequent
+Rare,Smartphone,High,Moderate,Open Source,No,Mixed,Frequent,Low,Yes,Low,Mixed,Frequent,No,None
+None,Laptop,Low,None,Mixed,Yes,DIY,Frequent,High,Yes,High,Proprietary,Occasional,No,Frequent
+None,Smartphone,High,None,Open Source,No,Mixed,None,High,Yes,Low,Open Source,Frequent,Yes,Frequent
+Rare,Tablet,Low,Moderate,Open Source,No,Mixed,Occasional,Low,No,High,Proprietary,None,Yes,Frequent
+Rare,Desktop,High,Strong,Open Source,No,DIY,None,High,Yes,Low,Proprietary,Occasional,No,Occasional
+Occasional,Desktop,High,None,Mixed,No,DIY,Occasional,Low,Yes,Moderate,Proprietary,Occasional,Yes,Occasional
+None,Desktop,Moderate,Moderate,Mixed,No,Mixed,Frequent,High,No,Moderate,Open Source,Occasional,No,Occasional
+None,Smartphone,Low,Weak,Open Source,Yes,Professional,None,High,No,Moderate,Proprietary,None,Yes,Occasional
+Frequent,Laptop,Moderate,Strong,Open Source,Yes,Mixed,Occasional,Low,No,Moderate,Open Source,None,Yes,Frequent
+Rare,Desktop,Low,Moderate,Proprietary,No,Professional,Frequent,High,Yes,Moderate,Proprietary,Frequent,No,None
+Occasional,Tablet,Moderate,Weak,Open Source,No,Mixed,Occasional,High,Yes,High,Mixed,Occasional,Yes,Frequent
+Rare,Desktop,Moderate,None,Proprietary,Yes,Mixed,Frequent,Low,Yes,Low,Mixed,Occasional,Yes,Frequent
+Occasional,Tablet,High,Moderate,Mixed,No,Mixed,None,Low,Yes,Moderate,Open Source,Frequent,No,Frequent
+None,Tablet,Low,None,Open Source,Yes,DIY,Frequent,Moderate,Yes,Moderate,Mixed,Occasional,No,Occasional
+Occasional,Smartphone,Moderate,Weak,Open Source,No,Professional,None,Moderate,Yes,High,Mixed,None,No,None
+Occasional,Desktop,High,Weak,Mixed,No,Mixed,Occasional,High,No,Low,Open Source,None,No,Frequent
+Frequent,Smartphone,Low,Moderate,Proprietary,No,DIY,Frequent,High,Yes,Low,Proprietary,Frequent,No,Occasional
+Occasional,Desktop,High,None,Mixed,No,Professional,None,Low,Yes,High,Mixed,Frequent,Yes,Frequent
+Frequent,Laptop,Moderate,Moderate,Mixed,No,Mixed,Frequent,High,No,Moderate,Open Source,Occasional,No,Frequent
+None,Laptop,Moderate,Moderate,Mixed,No,Mixed,Occasional,Low,No,High,Proprietary,None,No,Frequent
+None,Desktop,Moderate,Weak,Proprietary,No,DIY,None,High,No,High,Proprietary,Frequent,No,Frequent
+Occasional,Smartphone,Low,Strong,Mixed,No,Professional,Occasional,Moderate,No,Moderate,Mixed,Frequent,No,Occasional
+None,Smartphone,High,Moderate,Mixed,Yes,Professional,Frequent,High,No,Moderate,Mixed,Frequent,Yes,Frequent
+None,Desktop,Low,Strong,Proprietary,Yes,DIY,Occasional,Moderate,Yes,Low,Open Source,Frequent,Yes,Frequent
+None,Tablet,Moderate,Weak,Mixed,Yes,DIY,Occasional,Moderate,No,Moderate,Open Source,Occasional,Yes,Frequent
+None,Desktop,Low,Strong,Mixed,No,Mixed,Frequent,Moderate,No,High,Mixed,None,Yes,Occasional
+None,Tablet,High,Weak,Open Source,No,Professional,Occasional,Low,No,Low,Open Source,Occasional,No,None
+Frequent,Desktop,Moderate,Moderate,Proprietary,No,DIY,Frequent,High,Yes,High,Proprietary,Frequent,Yes,Frequent
+Occasional,Smartphone,Moderate,Moderate,Proprietary,No,DIY,Occasional,Moderate,Yes,Low,Proprietary,None,Yes,Occasional
+Occasional,Laptop,Moderate,Moderate,Mixed,No,Mixed,Frequent,High,Yes,High,Proprietary,None,Yes,Occasional
+None,Desktop,Moderate,Strong,Mixed,No,Mixed,Occasional,Moderate,Yes,Low,Mixed,Occasional,Yes,Frequent
+Rare,Smartphone,Moderate,None,Open Source,Yes,Professional,Frequent,Low,No,High,Mixed,None,No,Frequent
+Occasional,Tablet,Low,Strong,Proprietary,No,Mixed,Frequent,Moderate,No,Low,Proprietary,None,No,Occasional
+None,Smartphone,High,Weak,Mixed,No,Mixed,Occasional,Moderate,No,Moderate,Open Source,None,No,None
+Rare,Desktop,High,Moderate,Open Source,Yes,Professional,None,High,Yes,Low,Mixed,Frequent,No,Occasional
+Occasional,Laptop,High,Strong,Open Source,Yes,Professional,Frequent,Moderate,Yes,Moderate,Open Source,None,No,None
+Rare,Desktop,High,None,Proprietary,Yes,DIY,Occasional,High,No,High,Open Source,Frequent,Yes,None
+Frequent,Smartphone,Low,Weak,Open Source,Yes,Professional,Frequent,High,Yes,Moderate,Proprietary,Occasional,No,None
+Frequent,Tablet,High,Moderate,Mixed,No,Professional,None,Low,No,High,Proprietary,None,Yes,None
+Occasional,Laptop,Low,None,Open Source,No,Professional,Frequent,High,Yes,Moderate,Mixed,Frequent,Yes,None
+Rare,Laptop,Moderate,None,Open Source,Yes,DIY,Frequent,High,No,High,Open Source,Frequent,Yes,None
+Occasional,Smartphone,Moderate,Strong,Mixed,No,DIY,Frequent,Moderate,No,Low,Proprietary,Frequent,No,None
+Frequent,Tablet,High,Weak,Mixed,No,Mixed,Occasional,Low,No,High,Open Source,None,Yes,Occasional
+Rare,Tablet,Moderate,Weak,Mixed,Yes,DIY,None,Low,No,Moderate,Open Source,Occasional,No,Occasional
+None,Tablet,Low,Weak,Open Source,No,DIY,Frequent,Low,Yes,High,Open Source,None,Yes,Occasional

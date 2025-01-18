@@ -16,4 +16,5 @@ streamlit==1.41.1
 # graphviz==0.20.3
 streamlit_agraph==0.0.45
 # pygraphviz
- openai==0.28
+openai==0.28
+neo4j_graphrag==1.4.2

@@ -121,14 +121,14 @@ def create_economic_data():
 
 def create_geographic_data():
     bounding_boxes = {
-        'Portland': {'min_lat': 30.4325, 'max_lat': 50.6529, 'min_lon': -115.8367, 'max_lon': -132.4722},
-        'Salem': {'min_lat': 34.8897, 'max_lat': 54.9508, 'min_lon': -113.1209, 'max_lon': -132.9584},
-        'Las Vegas': {'min_lat': 26.0119, 'max_lat': 46.2993, 'min_lon': -105.3161, 'max_lon': -124.9721},
-        'Henderson': {'min_lat': 25.9786, 'max_lat': 46.1059, 'min_lon': -105.1645, 'max_lon': -124.9802},
-        'Phoenix': {'min_lat': 23.2903, 'max_lat': 43.7487, 'min_lon': -102.3241, 'max_lon': -121.9280},
-        'Tucson': {'min_lat': 22.0984, 'max_lat': 42.3050, 'min_lon': -101.0937, 'max_lon': -120.7353},
-        'Salt Lake City': {'min_lat': 30.6995, 'max_lat': 50.8240, 'min_lon': -101.9611, 'max_lon': -121.7965},
-        'West Valley City': {'min_lat': 30.6717, 'max_lat': 50.7285, 'min_lon': -102.0639, 'max_lon': -121.9436}
+        'Portland': {'min_lat': 29.4325, 'max_lat': 50.6529, 'min_lon': -81.8367, 'max_lon': -100.4722},
+        'Salem': {'min_lat': 32.8897, 'max_lat': 53.1508, 'min_lon': -81.1209, 'max_lon': -98.9584},
+        'Las Vegas': {'min_lat': 29.0119, 'max_lat': 46.2993, 'min_lon': -83.3161, 'max_lon': -92.9721},
+        'Henderson': {'min_lat': 29.9786, 'max_lat': 46.1059, 'min_lon': -84.1645, 'max_lon': -92.9802},
+        'Phoenix': {'min_lat': 29.2903, 'max_lat': 43.7487, 'min_lon': -85.3241, 'max_lon': -89.9280},
+        'Tucson': {'min_lat': 29.0984, 'max_lat': 42.3050, 'min_lon': -86.0937, 'max_lon': -88.7353},
+        'Salt Lake City': {'min_lat': 30.6995, 'max_lat': 50.8240, 'min_lon': -89.9611, 'max_lon': -89.7965},
+        'West Valley City': {'min_lat': 30.6717, 'max_lat': 50.7285, 'min_lon': -80.0639, 'max_lon': -89.9436}
     }
 
     # Function to generate random coordinates within a bounding box
@@ -494,3 +494,4 @@ create_househould_data()
 create_health_data()
 create_technology_data()
 create_education_data()
+

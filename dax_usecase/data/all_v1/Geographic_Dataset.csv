@@ -1,501 +1,501 @@
 country,state,city,zip/postal_code,neighborhood_type,distance_to_urban_centers,climate_zone,proximity_to_public_transport,local_amenities_access,home_density,local_crime_rates,school_district_quality,real_estate_values,environmental_hazards,local_employment_opportunities,latitude,longitude
-USA,Nevada,West Valley City,358,Rural,5-10 km,Tropical,High,Low,Low,High,Poor,$300k-$500k,Moderate,Poor,46.709830406567846,-116.28322872646683
-USA,Nevada,Salt Lake City,303,Suburban,10-20 km,Temperate,High,High,High,High,Excellent,>$500k,High,Excellent,50.683880709078636,-105.85415645761601
-USA,Nevada,Phoenix,877,Suburban,5-10 km,Polar,High,Moderate,Low,High,Poor,$300k-$500k,None,Poor,24.86802713239414,-112.33558184832103
-USA,Nevada,Salt Lake City,461,Urban,20+ km,Tropical,Moderate,Moderate,Low,Low,Good,>$500k,Low,Good,33.172863458159995,-111.73784545147272
-USA,Arizona,West Valley City,342,Suburban,5-10 km,Tropical,High,Low,High,Low,Good,>$500k,High,Good,47.34655828618302,-119.52109173745774
-USA,Utah,Salt Lake City,864,Urban,5-10 km,Arid,Moderate,Moderate,High,High,Good,>$500k,Low,Excellent,33.57251062437981,-121.26166060585432
-USA,Nevada,Portland,203,Urban,10-20 km,Arid,Moderate,Moderate,Medium,High,Average,>$500k,Low,Excellent,41.271683354045734,-119.32804327027053
-USA,Arizona,Phoenix,891,Suburban,10-20 km,Polar,High,Low,High,Moderate,Excellent,$100k-$300k,Moderate,Fair,30.765639085111,-108.38329899329511
-USA,Oregon,Henderson,391,Suburban,<5 km,Arid,Moderate,High,Low,Moderate,Excellent,$300k-$500k,High,Fair,43.380793651579566,-119.19415486046213
-USA,Utah,Portland,364,Suburban,5-10 km,Arid,Moderate,Moderate,High,Low,Average,$100k-$300k,None,Excellent,49.383445009199676,-127.93767495841288
-USA,Utah,Salt Lake City,147,Rural,<5 km,Temperate,High,Moderate,Low,Moderate,Excellent,>$500k,Low,Excellent,34.19797159767825,-106.50800319410303
-USA,Utah,Tucson,311,Rural,20+ km,Arid,Moderate,Low,Medium,Low,Average,$300k-$500k,None,Fair,23.8239285488647,-120.58500472174461
-USA,Arizona,Las Vegas,132,Suburban,10-20 km,Tropical,Low,High,Low,Moderate,Poor,$300k-$500k,None,Fair,41.3801349729183,-111.84502621714309
-USA,Nevada,Tucson,510,Urban,10-20 km,Arid,Low,Low,Low,Low,Poor,>$500k,Low,Poor,40.74899068449237,-117.74624851183516
-USA,Nevada,Salem,430,Rural,20+ km,Polar,Low,Low,High,High,Good,<$100k,High,Excellent,39.812595493431246,-116.99210959172079
-USA,Arizona,Phoenix,564,Rural,10-20 km,Polar,Low,High,High,High,Average,$100k-$300k,Moderate,Excellent,37.70669185090598,-104.88351883398143
-USA,Oregon,West Valley City,129,Urban,5-10 km,Arid,Low,High,Low,High,Average,<$100k,None,Poor,34.83149910160997,-121.48757841144237
-USA,Arizona,Las Vegas,851,Suburban,10-20 km,Tropical,Low,High,Medium,High,Excellent,$300k-$500k,None,Fair,26.482640958906256,-115.61342072670934
-USA,Oregon,Las Vegas,720,Urban,<5 km,Polar,Low,High,Low,High,Good,$100k-$300k,None,Excellent,43.33808624329224,-117.2283021283403
-USA,Nevada,Tucson,240,Urban,10-20 km,Polar,Moderate,High,Medium,Moderate,Poor,<$100k,Moderate,Good,32.804942268907794,-112.26682235247762
-USA,Nevada,Salt Lake City,432,Suburban,10-20 km,Arid,Low,High,Low,Low,Excellent,$100k-$300k,Low,Fair,44.39019220567602,-116.91540153132492
-USA,Oregon,West Valley City,428,Urban,10-20 km,Temperate,Moderate,High,High,High,Poor,>$500k,None,Good,38.80196889432943,-103.59173838140315
-USA,Arizona,Salt Lake City,104,Rural,20+ km,Temperate,Low,High,Low,Low,Average,>$500k,None,Excellent,49.56076972811618,-115.44542434318468
-USA,Nevada,Las Vegas,826,Urban,20+ km,Temperate,High,Low,High,Moderate,Average,$300k-$500k,None,Fair,35.665310697060185,-116.29388890228763
-USA,Oregon,Henderson,901,Urban,10-20 km,Polar,Low,Low,Low,Low,Poor,<$100k,None,Good,35.79946491197304,-122.55938080577988
-USA,Utah,Portland,892,Rural,20+ km,Temperate,High,Low,Low,High,Average,$100k-$300k,Low,Poor,50.601003032034384,-131.50533226170526
-USA,Arizona,Las Vegas,102,Suburban,<5 km,Arid,Moderate,Moderate,High,High,Poor,>$500k,Low,Fair,42.26960632377083,-109.30486903831975
-USA,Utah,Phoenix,931,Suburban,5-10 km,Arid,Low,Low,Low,Low,Average,$300k-$500k,None,Good,35.20786294066906,-119.61465635523014
-USA,Arizona,Phoenix,158,Suburban,10-20 km,Tropical,High,Moderate,Low,Moderate,Average,>$500k,None,Good,30.718060546230006,-119.15298231326302
-USA,Utah,Henderson,323,Urban,5-10 km,Temperate,High,Low,Medium,High,Poor,$100k-$300k,Low,Excellent,29.767340193624836,-105.8657550205668
-USA,Arizona,Henderson,832,Urban,<5 km,Arid,Low,High,Low,High,Excellent,<$100k,None,Excellent,37.288215737409445,-114.00956092061728
-USA,Arizona,Las Vegas,298,Rural,<5 km,Temperate,Low,Moderate,Medium,High,Poor,>$500k,None,Good,29.106773384011685,-106.07674065372774
-USA,Arizona,Portland,261,Urban,<5 km,Temperate,High,Low,High,High,Excellent,<$100k,High,Poor,49.96262820070285,-130.4514393437576
-USA,Nevada,Salem,107,Rural,<5 km,Polar,Low,High,Medium,Low,Excellent,$300k-$500k,High,Poor,41.33537438099752,-131.93915269637085
-USA,Arizona,West Valley City,832,Suburban,20+ km,Tropical,Low,Low,Low,High,Average,<$100k,Moderate,Fair,45.495222710492826,-109.1247629556325
-USA,Utah,Tucson,266,Suburban,<5 km,Polar,High,Low,Low,High,Good,<$100k,None,Fair,30.264539893765154,-113.16884547282136
-USA,Nevada,Las Vegas,891,Rural,5-10 km,Polar,Moderate,High,Medium,Low,Good,$300k-$500k,High,Good,38.961063262506805,-120.58720098557893
-USA,Nevada,Salt Lake City,220,Rural,10-20 km,Temperate,Low,High,Medium,Low,Average,>$500k,High,Fair,46.83227171918909,-120.95747733361274
-USA,Nevada,Las Vegas,613,Suburban,20+ km,Polar,High,High,Medium,High,Poor,>$500k,Low,Poor,44.69359771951531,-115.7737136063434
-USA,Utah,Phoenix,748,Suburban,20+ km,Polar,Moderate,High,Medium,Moderate,Average,$100k-$300k,High,Fair,33.503824056014125,-112.33336564294326
-USA,Arizona,Tucson,427,Urban,20+ km,Arid,Low,Moderate,Low,Low,Average,$100k-$300k,Low,Poor,42.064613667747125,-116.10419921627454
-USA,Nevada,Las Vegas,554,Urban,20+ km,Arid,High,Low,Medium,High,Excellent,<$100k,None,Poor,41.555229566118115,-118.10807217593383
-USA,Oregon,Henderson,702,Urban,5-10 km,Tropical,Moderate,Moderate,Low,High,Good,>$500k,Low,Poor,42.36298656240487,-108.76643697880287
-USA,Utah,Las Vegas,262,Urban,5-10 km,Temperate,Moderate,High,Low,High,Poor,>$500k,High,Poor,44.90600840276986,-115.63941388206543
-USA,Arizona,Salem,135,Urban,<5 km,Polar,High,Moderate,Medium,Low,Poor,$100k-$300k,Low,Excellent,44.10765276047531,-126.84091922251649
-USA,Oregon,Henderson,982,Suburban,20+ km,Tropical,Low,Low,Medium,High,Poor,>$500k,None,Excellent,27.233610800521664,-118.8135685805739
-USA,Utah,Las Vegas,633,Rural,10-20 km,Tropical,Moderate,High,Low,Low,Excellent,$100k-$300k,High,Fair,26.10898960978158,-124.46969561194352
-USA,Arizona,Tucson,429,Rural,<5 km,Tropical,Moderate,Moderate,High,Low,Average,>$500k,Moderate,Fair,28.873457884194675,-119.53673160078702
-USA,Utah,Portland,583,Urban,10-20 km,Temperate,High,Low,High,High,Excellent,<$100k,Low,Good,38.82978458985285,-125.84195635080141
-USA,Oregon,Las Vegas,640,Suburban,5-10 km,Arid,Low,Low,Medium,Moderate,Poor,$100k-$300k,Moderate,Excellent,40.995841106576904,-106.22951869861954
-USA,Nevada,Las Vegas,628,Rural,5-10 km,Temperate,Low,High,Medium,Low,Average,$300k-$500k,Low,Good,26.282032093287235,-107.08064997484118
-USA,Nevada,West Valley City,648,Suburban,20+ km,Polar,Low,Low,Low,High,Excellent,$100k-$300k,High,Good,39.11561731722323,-104.08911805097999
-USA,Nevada,Salem,527,Suburban,<5 km,Temperate,Low,High,Medium,Moderate,Average,>$500k,Moderate,Good,52.802190158150516,-113.43244119744581
-USA,Oregon,Tucson,370,Urban,<5 km,Tropical,Low,Moderate,Low,Low,Poor,<$100k,High,Poor,25.620568407193844,-103.02040295827518
-USA,Oregon,Henderson,556,Rural,10-20 km,Temperate,Moderate,Moderate,High,High,Excellent,$300k-$500k,Moderate,Fair,40.625891096050914,-118.60147824555166
-USA,Utah,Phoenix,958,Urban,10-20 km,Temperate,Low,Low,Medium,Moderate,Average,>$500k,Low,Poor,42.620002491011746,-115.01209043141229
-USA,Nevada,Las Vegas,507,Rural,5-10 km,Arid,Low,Moderate,High,Low,Excellent,$300k-$500k,Moderate,Fair,32.804024136600255,-107.84879542791771
-USA,Oregon,Portland,117,Rural,10-20 km,Arid,Moderate,High,Medium,Moderate,Average,<$100k,Moderate,Poor,38.52080907510703,-123.4896501395387
-USA,Utah,Salem,108,Urban,10-20 km,Polar,Low,High,Low,High,Average,$300k-$500k,High,Poor,39.28427176144045,-124.44651174508354
-USA,Arizona,Tucson,621,Suburban,20+ km,Tropical,Moderate,Low,Medium,Moderate,Poor,$100k-$300k,High,Fair,38.03280854587761,-110.14178692757562
-USA,Oregon,Tucson,699,Urban,10-20 km,Arid,Moderate,Moderate,Medium,Low,Good,<$100k,High,Poor,40.051474924443866,-120.01967719612476
-USA,Oregon,Salem,346,Rural,10-20 km,Temperate,High,High,High,High,Poor,$300k-$500k,None,Poor,41.41981898743755,-131.31525635201078
-USA,Arizona,Henderson,850,Suburban,20+ km,Temperate,Moderate,Low,Medium,Low,Poor,<$100k,High,Good,42.30373012194873,-117.92573187733841
-USA,Arizona,Salem,315,Rural,<5 km,Polar,Moderate,Moderate,High,Low,Good,$100k-$300k,None,Fair,41.79528332848,-131.26325315763432
-USA,Oregon,Phoenix,942,Urban,5-10 km,Temperate,High,High,High,Low,Good,$100k-$300k,None,Poor,27.51861259182699,-103.02307812334917
-USA,Oregon,Salem,682,Urban,20+ km,Arid,High,Low,Low,Low,Good,<$100k,High,Fair,54.585819239270975,-122.21090472739655
-USA,Arizona,West Valley City,757,Rural,5-10 km,Tropical,Moderate,High,High,Low,Good,<$100k,High,Excellent,35.821911454569296,-106.1292017754005
-USA,Utah,Phoenix,316,Urban,5-10 km,Temperate,Low,Moderate,Low,High,Good,<$100k,Low,Excellent,41.89360267127547,-113.38011392209724
-USA,Oregon,Henderson,981,Rural,20+ km,Tropical,Moderate,High,Medium,High,Excellent,$100k-$300k,Low,Good,34.70914487830399,-121.7068299456536
-USA,Utah,Salt Lake City,569,Suburban,5-10 km,Polar,Moderate,Low,Medium,Moderate,Average,$100k-$300k,High,Fair,34.879199269948316,-108.16452331700995
-USA,Arizona,Henderson,857,Rural,20+ km,Tropical,High,Low,High,Low,Excellent,>$500k,Low,Poor,37.25244307566,-113.56749165904836
-USA,Utah,Salem,236,Urban,<5 km,Arid,Moderate,Moderate,Medium,Moderate,Good,$300k-$500k,Low,Good,38.71117035510193,-113.30219150422897
-USA,Oregon,West Valley City,528,Rural,<5 km,Tropical,Moderate,Moderate,Low,High,Average,<$100k,Moderate,Poor,49.51367359013627,-114.39753327621914
-USA,Nevada,Phoenix,931,Rural,<5 km,Tropical,Low,Low,High,Low,Good,>$500k,Moderate,Fair,37.025646169557184,-111.67064137814182
-USA,Nevada,Las Vegas,286,Rural,<5 km,Temperate,Low,Low,Medium,Moderate,Poor,<$100k,High,Good,45.15797278678922,-105.84872132809208
-USA,Arizona,West Valley City,234,Rural,<5 km,Tropical,Moderate,Moderate,Low,Low,Average,$300k-$500k,Low,Fair,49.471071320848836,-119.80012534222229
-USA,Nevada,Salt Lake City,199,Suburban,10-20 km,Temperate,Low,Moderate,Low,High,Poor,$100k-$300k,None,Good,37.78525703309195,-121.69281171115136
-USA,Utah,Portland,230,Suburban,<5 km,Arid,Moderate,Moderate,High,High,Excellent,$100k-$300k,Low,Excellent,36.13223173808155,-125.23361765894697
-USA,Oregon,Phoenix,269,Urban,5-10 km,Polar,High,High,High,Moderate,Excellent,<$100k,Low,Good,32.84321647597894,-117.33801787674608
-USA,Nevada,Salem,399,Suburban,20+ km,Polar,Low,Moderate,Low,Low,Excellent,<$100k,None,Poor,46.90857163281383,-113.98461162620876
-USA,Oregon,Tucson,148,Suburban,20+ km,Temperate,High,High,Low,High,Good,$300k-$500k,Moderate,Excellent,40.877770266512414,-104.61383830214632
-USA,Arizona,Tucson,662,Suburban,5-10 km,Tropical,Moderate,Low,High,Moderate,Poor,<$100k,Moderate,Poor,30.14838048182873,-104.26525404325233
-USA,Nevada,Salt Lake City,356,Rural,<5 km,Temperate,High,High,High,Moderate,Excellent,$100k-$300k,None,Fair,44.33708719946969,-114.8861381103811
-USA,Nevada,Portland,244,Rural,20+ km,Temperate,Moderate,Moderate,Medium,Low,Excellent,$100k-$300k,None,Good,41.70920988235907,-132.2668453194609
-USA,Nevada,Phoenix,857,Rural,20+ km,Polar,High,High,Low,Moderate,Good,$100k-$300k,High,Good,41.11222907766819,-114.0400820723886
-USA,Nevada,West Valley City,154,Urban,20+ km,Tropical,Low,High,Low,Moderate,Poor,<$100k,Low,Fair,44.276398044153005,-113.5883817639649
-USA,Arizona,Phoenix,454,Urban,20+ km,Temperate,Low,High,Medium,Low,Excellent,$300k-$500k,High,Fair,37.4099813754971,-119.95194400984428
-USA,Utah,Henderson,889,Rural,<5 km,Tropical,High,Low,High,High,Poor,<$100k,Low,Fair,44.867331442917504,-116.55305152023121
-USA,Oregon,West Valley City,797,Urban,<5 km,Arid,High,Moderate,Medium,Moderate,Excellent,>$500k,Low,Fair,31.15184571006846,-112.79309564119546
-USA,Oregon,Henderson,512,Suburban,5-10 km,Temperate,High,Moderate,Low,High,Poor,$100k-$300k,None,Excellent,27.26816987758545,-118.45857505444295
-USA,Oregon,West Valley City,953,Rural,5-10 km,Tropical,Low,Moderate,Low,Moderate,Excellent,$300k-$500k,Low,Good,47.04981972195472,-118.17495355548675
-USA,Arizona,Henderson,396,Rural,5-10 km,Temperate,Low,Moderate,Medium,Low,Excellent,<$100k,Moderate,Excellent,35.673279721338446,-123.35311339609507
-USA,Nevada,West Valley City,274,Suburban,20+ km,Tropical,Low,Low,High,High,Excellent,$300k-$500k,High,Excellent,39.096958541827654,-115.00955883005028
-USA,Arizona,West Valley City,539,Suburban,<5 km,Tropical,High,High,Low,Low,Average,<$100k,Low,Fair,32.541406178484465,-116.83215551035445
-USA,Oregon,Henderson,988,Rural,5-10 km,Arid,Moderate,High,Low,High,Excellent,>$500k,None,Poor,38.76895117132819,-106.44485395791985
-USA,Oregon,Salem,136,Rural,5-10 km,Tropical,Moderate,High,Medium,High,Average,$300k-$500k,High,Excellent,37.852396667304895,-116.59406249639441
-USA,Oregon,Salem,726,Rural,5-10 km,Temperate,Low,Moderate,Low,Moderate,Excellent,$100k-$300k,Moderate,Excellent,46.797117068083104,-132.20292368849826
-USA,Arizona,Phoenix,637,Rural,10-20 km,Temperate,High,High,Medium,Moderate,Good,>$500k,Low,Good,39.996876507854836,-112.95065525239646
-USA,Arizona,Henderson,324,Suburban,<5 km,Arid,High,Moderate,Medium,High,Poor,>$500k,None,Fair,45.628110923732216,-116.2254129332848
-USA,Arizona,Salt Lake City,282,Rural,5-10 km,Tropical,Moderate,Moderate,Medium,High,Average,$100k-$300k,None,Excellent,32.0053104811792,-105.89203624029082
-USA,Oregon,Tucson,781,Suburban,5-10 km,Arid,Low,High,Low,Moderate,Good,$100k-$300k,Moderate,Fair,36.50404207093786,-112.00539532258674
-USA,Nevada,Las Vegas,186,Rural,<5 km,Arid,Moderate,Moderate,High,High,Excellent,<$100k,Low,Fair,43.621529721437874,-115.99044667220164
-USA,Arizona,Las Vegas,585,Suburban,<5 km,Temperate,High,High,Low,Moderate,Good,$100k-$300k,Moderate,Poor,38.19118144784069,-107.84136962795844
-USA,Arizona,Las Vegas,730,Rural,20+ km,Tropical,High,Low,High,Moderate,Poor,$100k-$300k,High,Fair,36.53959299155605,-106.36052940295029
-USA,Nevada,Las Vegas,506,Suburban,5-10 km,Polar,Moderate,Moderate,Medium,High,Poor,<$100k,None,Poor,44.47963616817562,-114.36985653824426
-USA,Utah,Salt Lake City,487,Rural,<5 km,Polar,High,High,Medium,Moderate,Poor,$100k-$300k,Low,Good,35.168728250042435,-120.79931943749035
-USA,Utah,Salem,518,Rural,5-10 km,Tropical,Low,High,High,High,Excellent,$300k-$500k,High,Good,47.708616978979705,-117.4553530830027
-USA,Nevada,Salt Lake City,552,Suburban,20+ km,Tropical,High,High,Medium,High,Excellent,$100k-$300k,High,Fair,50.21921504904567,-108.5052149670695
-USA,Oregon,Salem,309,Urban,20+ km,Temperate,High,High,Medium,Low,Average,>$500k,Low,Poor,53.938891943050976,-117.89151266715879
-USA,Oregon,Phoenix,799,Rural,10-20 km,Temperate,Low,Low,Medium,High,Good,$100k-$300k,Moderate,Excellent,27.70618589974298,-106.67187658229572
-USA,Oregon,West Valley City,719,Rural,5-10 km,Polar,High,High,Medium,High,Average,$100k-$300k,Low,Good,36.32236321690647,-103.98402142772083
-USA,Utah,West Valley City,328,Suburban,<5 km,Arid,High,Low,Medium,Low,Poor,>$500k,High,Excellent,39.32477506211558,-119.32080437832624
-USA,Oregon,Las Vegas,596,Rural,10-20 km,Arid,Moderate,Low,Medium,Low,Excellent,$100k-$300k,Moderate,Poor,45.75180629696256,-117.35488487284249
-USA,Utah,West Valley City,587,Urban,20+ km,Tropical,Moderate,Moderate,High,High,Excellent,$100k-$300k,High,Excellent,35.177651081508884,-111.72498634780834
-USA,Utah,Salt Lake City,414,Suburban,10-20 km,Temperate,Moderate,Moderate,Low,Moderate,Poor,$300k-$500k,Moderate,Excellent,43.41242177929772,-121.42683606108464
-USA,Nevada,Salt Lake City,524,Urban,<5 km,Polar,Low,Low,Medium,High,Poor,>$500k,Low,Fair,46.855313293301464,-114.17955598696686
-USA,Nevada,West Valley City,902,Suburban,<5 km,Polar,High,Low,High,High,Good,$300k-$500k,Low,Fair,39.470187460147415,-121.80053008356666
-USA,Oregon,Portland,619,Suburban,20+ km,Polar,Moderate,High,High,Low,Poor,$100k-$300k,None,Fair,49.160542102298265,-125.32810808196542
-USA,Oregon,Las Vegas,337,Urban,5-10 km,Tropical,Low,High,High,Moderate,Good,$300k-$500k,High,Fair,46.05708037410821,-110.45587021907285
-USA,Oregon,Portland,119,Urban,20+ km,Arid,Low,Low,Medium,Low,Good,$300k-$500k,None,Fair,33.47341814331235,-119.39508813690715
-USA,Utah,West Valley City,429,Urban,5-10 km,Tropical,Moderate,High,Low,High,Poor,<$100k,High,Good,33.37118540298221,-105.01761409076785
-USA,Utah,West Valley City,192,Rural,<5 km,Tropical,Moderate,Low,Medium,Moderate,Poor,<$100k,Low,Poor,33.915805110900656,-110.85974496662864
-USA,Arizona,Tucson,509,Suburban,<5 km,Temperate,Moderate,Moderate,Medium,High,Poor,$100k-$300k,Low,Excellent,39.710366270421325,-120.58719595720957
-USA,Oregon,West Valley City,391,Suburban,10-20 km,Polar,Low,High,High,High,Excellent,$300k-$500k,None,Poor,50.438034274534175,-116.8033421205616
-USA,Arizona,Las Vegas,265,Rural,10-20 km,Arid,High,Moderate,Low,High,Excellent,$300k-$500k,High,Fair,41.54388357040132,-123.0405239080671
-USA,Arizona,Las Vegas,546,Rural,10-20 km,Tropical,Low,High,Low,Low,Excellent,<$100k,Low,Good,26.489706788107878,-112.60244206707988
-USA,Nevada,Las Vegas,171,Rural,<5 km,Arid,High,High,Low,Moderate,Average,>$500k,Moderate,Good,34.59413708866013,-117.65703858441437
-USA,Oregon,Portland,136,Suburban,5-10 km,Temperate,High,Low,Low,High,Good,>$500k,Moderate,Fair,42.094534016197045,-127.38653107867884
-USA,Nevada,Salem,150,Urban,20+ km,Tropical,High,High,High,High,Good,>$500k,High,Fair,50.337187680691585,-121.99025816267601
-USA,Oregon,Salt Lake City,777,Rural,5-10 km,Arid,High,Moderate,High,High,Excellent,$300k-$500k,None,Poor,49.00192093609844,-118.11949560397312
-USA,Arizona,Henderson,688,Rural,<5 km,Arid,High,Moderate,Medium,Moderate,Average,>$500k,High,Good,38.253503228108656,-107.4353143457304
-USA,Nevada,West Valley City,685,Urban,20+ km,Arid,High,Low,Low,Moderate,Average,$300k-$500k,High,Good,39.67511677279677,-107.14425815701009
-USA,Utah,Salt Lake City,922,Rural,10-20 km,Polar,Moderate,High,Medium,High,Average,<$100k,Moderate,Poor,36.20282187130007,-102.98982659020129
-USA,Nevada,Salt Lake City,996,Rural,20+ km,Arid,Moderate,Moderate,Medium,Low,Good,$100k-$300k,High,Excellent,41.28161968860468,-119.32926033647705
-USA,Utah,Phoenix,390,Rural,10-20 km,Temperate,High,Low,Low,Low,Average,$300k-$500k,Low,Fair,43.69851567827655,-110.90818443264101
-USA,Arizona,West Valley City,345,Rural,5-10 km,Tropical,Moderate,Low,Medium,Moderate,Good,>$500k,Moderate,Poor,31.793488471216754,-103.73727894858186
-USA,Oregon,Salt Lake City,634,Rural,5-10 km,Polar,Moderate,Moderate,Medium,High,Good,$300k-$500k,Moderate,Poor,44.34471532504654,-107.76392792221944
-USA,Oregon,Las Vegas,887,Rural,10-20 km,Temperate,Moderate,Low,High,High,Average,$300k-$500k,Low,Fair,28.039586805942037,-119.90069072589026
-USA,Arizona,West Valley City,409,Suburban,10-20 km,Temperate,Moderate,Moderate,High,Low,Average,$300k-$500k,Low,Fair,46.01920755692191,-112.10346130402093
-USA,Nevada,Salt Lake City,210,Suburban,20+ km,Tropical,High,High,High,High,Poor,$100k-$300k,None,Good,37.72179142550532,-118.74536522775188
-USA,Oregon,Tucson,264,Urban,10-20 km,Polar,Low,Low,High,Low,Poor,<$100k,Moderate,Fair,39.80969167852274,-117.08276550050479
-USA,Arizona,Tucson,850,Urban,20+ km,Temperate,High,Moderate,Low,Moderate,Good,$100k-$300k,Moderate,Excellent,34.46569908902146,-101.6279074131998
-USA,Arizona,Phoenix,805,Urban,20+ km,Polar,Low,High,High,High,Excellent,>$500k,Low,Good,33.03445922387106,-119.64028331331212
-USA,Oregon,Portland,656,Urban,<5 km,Polar,High,Low,Low,High,Average,$100k-$300k,High,Poor,42.72033850508842,-122.65649635358156
-USA,Arizona,West Valley City,638,Urban,20+ km,Tropical,High,High,Low,Low,Poor,$100k-$300k,Moderate,Poor,37.75167803019663,-106.90319506426403
-USA,Nevada,Tucson,289,Urban,20+ km,Arid,Moderate,Low,Medium,High,Excellent,>$500k,Low,Poor,27.99533517416142,-118.02437849789835
-USA,Utah,Tucson,489,Rural,20+ km,Arid,High,Moderate,High,High,Good,$100k-$300k,Moderate,Poor,22.958213476613547,-113.85975079425056
-USA,Oregon,West Valley City,957,Suburban,20+ km,Temperate,High,Moderate,High,Moderate,Average,$100k-$300k,Moderate,Poor,46.448234560928825,-108.12628148779177
-USA,Nevada,Salem,935,Rural,20+ km,Temperate,Moderate,High,High,Low,Excellent,>$500k,Low,Excellent,44.77314117325924,-129.54977990627256
-USA,Arizona,West Valley City,192,Urban,10-20 km,Temperate,Low,High,Low,High,Average,<$100k,High,Fair,45.4017614532799,-117.27207678351014
-USA,Oregon,Tucson,765,Suburban,10-20 km,Temperate,High,Low,Medium,High,Average,$300k-$500k,None,Fair,22.5240130952183,-117.85789972419634
-USA,Oregon,West Valley City,772,Urban,5-10 km,Arid,Moderate,Low,High,High,Good,<$100k,Moderate,Excellent,32.693465015266085,-119.84665094939962
-USA,Oregon,Tucson,912,Rural,20+ km,Arid,High,Moderate,Medium,Low,Good,$300k-$500k,Moderate,Good,29.958821535885882,-118.01599777097405
-USA,Oregon,Salem,831,Rural,20+ km,Temperate,Moderate,High,Low,Moderate,Excellent,$100k-$300k,None,Excellent,35.936171800629616,-122.49829059801297
-USA,Arizona,Las Vegas,340,Urban,10-20 km,Polar,High,Low,High,Moderate,Good,$100k-$300k,High,Fair,27.31171014326946,-106.8737613398117
-USA,Utah,Henderson,167,Suburban,20+ km,Polar,Moderate,High,High,High,Good,<$100k,Moderate,Good,34.44930262900314,-122.09966884463375
-USA,Utah,Las Vegas,247,Rural,5-10 km,Tropical,Low,Moderate,Medium,Low,Average,$100k-$300k,High,Good,34.54661515845669,-107.46390178719548
-USA,Utah,Henderson,111,Urban,10-20 km,Arid,Moderate,High,Medium,Moderate,Average,>$500k,High,Poor,29.27428960701472,-117.73254400361176
-USA,Oregon,Las Vegas,334,Rural,5-10 km,Temperate,Moderate,Moderate,Low,High,Poor,<$100k,High,Excellent,34.99222158314197,-105.75397519094065
-USA,Oregon,West Valley City,740,Rural,20+ km,Arid,High,Moderate,Medium,Moderate,Poor,<$100k,Moderate,Excellent,37.84805619431889,-110.46939197910272
-USA,Arizona,Portland,804,Suburban,<5 km,Arid,Moderate,Moderate,High,High,Excellent,$300k-$500k,None,Poor,46.21985887738774,-116.2350201747133
-USA,Arizona,Henderson,105,Urban,20+ km,Polar,High,High,Medium,Low,Excellent,$100k-$300k,Moderate,Poor,39.47824120244112,-110.11460720070903
-USA,Arizona,Salem,593,Rural,10-20 km,Temperate,High,Moderate,Medium,Moderate,Excellent,>$500k,Low,Poor,44.49885230408037,-130.47116384050335
-USA,Oregon,Phoenix,846,Rural,10-20 km,Arid,High,High,Medium,High,Poor,<$100k,Low,Fair,28.223252632689423,-113.97628717489175
-USA,Arizona,Salt Lake City,231,Rural,<5 km,Polar,Moderate,Moderate,Low,Low,Good,>$500k,High,Fair,37.797868322016846,-120.70709232418707
-USA,Arizona,Phoenix,310,Urban,10-20 km,Tropical,Low,Low,Low,Moderate,Poor,$100k-$300k,Low,Good,35.83641676541497,-121.90642560630306
-USA,Nevada,Tucson,305,Suburban,20+ km,Arid,Low,Moderate,Low,Low,Good,$300k-$500k,High,Fair,23.698309483954496,-108.13995050549507
-USA,Oregon,Portland,839,Suburban,<5 km,Tropical,Low,Moderate,High,Moderate,Poor,$300k-$500k,High,Good,40.68212855220616,-116.27358267762801
-USA,Oregon,Phoenix,839,Suburban,<5 km,Arid,Low,Low,Low,High,Excellent,$100k-$300k,High,Good,32.10562181238225,-113.16080239030468
-USA,Utah,Salt Lake City,103,Rural,<5 km,Arid,Low,High,Low,Low,Good,<$100k,Moderate,Excellent,42.112316118610316,-118.43467311629456
-USA,Nevada,Henderson,109,Rural,<5 km,Polar,High,High,High,Moderate,Excellent,$100k-$300k,None,Fair,28.61883886178468,-114.88354591208248
-USA,Oregon,Salem,822,Rural,<5 km,Temperate,Low,Low,High,High,Average,$100k-$300k,None,Poor,37.642112068162604,-132.40414039246465
-USA,Utah,Portland,370,Urban,20+ km,Tropical,High,Moderate,Medium,High,Good,<$100k,Moderate,Excellent,48.735096197182045,-130.47470587116277
-USA,Arizona,West Valley City,480,Urban,10-20 km,Arid,High,Low,High,Moderate,Excellent,$100k-$300k,High,Excellent,37.01477126095522,-102.89180361393973
-USA,Oregon,Salem,350,Urban,10-20 km,Polar,High,Moderate,Medium,Moderate,Excellent,$100k-$300k,High,Fair,39.72345706401747,-123.07950325804025
-USA,Nevada,Salem,652,Urban,20+ km,Arid,Low,High,Medium,High,Poor,>$500k,Low,Fair,44.100912854690236,-116.19070874952507
-USA,Utah,Tucson,682,Urban,10-20 km,Tropical,Moderate,Low,High,Moderate,Good,$300k-$500k,Low,Fair,36.97774096895981,-108.18376565912469
-USA,Utah,Tucson,794,Suburban,20+ km,Tropical,High,Moderate,Medium,High,Excellent,$300k-$500k,None,Good,30.428621013158935,-108.33965663100594
-USA,Oregon,West Valley City,275,Urban,20+ km,Tropical,Moderate,High,Low,Low,Good,$300k-$500k,High,Poor,32.605897133379834,-104.63089446790732
-USA,Utah,Las Vegas,829,Suburban,5-10 km,Tropical,Low,Moderate,Low,Low,Excellent,>$500k,Moderate,Good,39.445587456304935,-113.13422067166061
-USA,Arizona,Las Vegas,247,Rural,<5 km,Arid,Low,High,High,High,Average,<$100k,Moderate,Excellent,30.437248816355297,-114.79120944279506
-USA,Oregon,Las Vegas,829,Urban,5-10 km,Tropical,Low,High,High,Low,Good,$300k-$500k,None,Good,35.302995158729736,-123.94155777906205
-USA,Nevada,West Valley City,679,Suburban,<5 km,Polar,High,High,Low,High,Excellent,<$100k,Low,Excellent,42.30378142702544,-120.68128315226072
-USA,Arizona,Salt Lake City,818,Rural,<5 km,Polar,High,Low,Low,Low,Poor,$300k-$500k,Low,Fair,32.20980387294474,-114.85132639945132
-USA,Nevada,Tucson,672,Rural,10-20 km,Temperate,High,High,Medium,High,Excellent,$300k-$500k,None,Poor,31.444616059146057,-112.06640184504725
-USA,Arizona,Las Vegas,625,Suburban,<5 km,Arid,Moderate,Low,Medium,Moderate,Average,<$100k,High,Excellent,29.245927732752847,-114.31699674855818
-USA,Utah,Portland,971,Suburban,20+ km,Polar,High,Moderate,High,Moderate,Excellent,$300k-$500k,High,Fair,49.035352644993985,-119.72119754906602
-USA,Nevada,Salem,183,Rural,5-10 km,Polar,High,Moderate,High,High,Poor,$300k-$500k,None,Poor,36.57136603255311,-131.40984435527628
-USA,Arizona,Tucson,736,Urban,5-10 km,Tropical,High,High,Medium,High,Poor,>$500k,High,Poor,39.69346687633265,-113.12668686858446
-USA,Utah,Tucson,294,Suburban,10-20 km,Tropical,High,Moderate,High,Moderate,Good,<$100k,None,Poor,29.47448706019835,-104.80616079925501
-USA,Oregon,West Valley City,567,Urban,10-20 km,Tropical,Moderate,High,High,Moderate,Excellent,$300k-$500k,None,Fair,40.66972128221111,-115.04008531000645
-USA,Nevada,Henderson,995,Suburban,5-10 km,Tropical,Moderate,Moderate,Low,High,Good,>$500k,Low,Poor,31.91842765590511,-123.48013735164899
-USA,Nevada,Salem,309,Rural,10-20 km,Polar,Low,Moderate,High,High,Average,$300k-$500k,None,Fair,38.07424875292135,-125.44356817625246
-USA,Utah,Salem,548,Rural,20+ km,Tropical,High,High,High,Low,Good,<$100k,Low,Good,39.54716449556419,-113.90649363785892
-USA,Arizona,Phoenix,247,Rural,<5 km,Temperate,High,Moderate,Low,High,Excellent,<$100k,Moderate,Poor,43.32401063883427,-104.0781295320833
-USA,Utah,Las Vegas,483,Suburban,5-10 km,Polar,Low,Low,Medium,Low,Excellent,<$100k,None,Good,38.013498870849986,-121.38112545373481
-USA,Arizona,Portland,325,Urban,10-20 km,Tropical,High,Moderate,Medium,Moderate,Average,<$100k,Low,Poor,46.297811859878536,-129.37658409792266
-USA,Nevada,Henderson,373,Rural,10-20 km,Temperate,Moderate,Low,Medium,High,Average,<$100k,High,Excellent,33.31184834761506,-123.08058855279873
-USA,Arizona,Henderson,333,Urban,10-20 km,Tropical,Low,Moderate,Medium,Low,Average,$300k-$500k,High,Fair,41.35152770822543,-114.9653683450075
-USA,Utah,Salt Lake City,159,Urban,20+ km,Tropical,High,Low,Low,High,Average,$300k-$500k,High,Good,38.43346277976465,-116.49364077629001
-USA,Utah,Henderson,936,Urban,10-20 km,Tropical,Low,High,Low,Low,Average,$100k-$300k,Low,Excellent,38.45110783412007,-113.84646652386475
-USA,Oregon,Las Vegas,725,Suburban,<5 km,Arid,High,High,Low,Low,Poor,$100k-$300k,High,Fair,34.66969013877616,-120.95825026008777
-USA,Utah,Portland,977,Suburban,20+ km,Temperate,Low,High,High,Moderate,Poor,>$500k,High,Good,33.249098683328725,-127.6411687028882
-USA,Utah,West Valley City,862,Suburban,20+ km,Polar,High,High,High,Low,Good,>$500k,Moderate,Poor,36.06958210570604,-111.49554416063216
-USA,Nevada,Phoenix,190,Rural,<5 km,Polar,Low,Low,High,Moderate,Excellent,>$500k,High,Good,43.269361463206465,-107.98844822581239
-USA,Arizona,Phoenix,210,Rural,20+ km,Polar,Low,Moderate,Medium,High,Excellent,$100k-$300k,Moderate,Excellent,41.940271038544324,-112.06191426599364
-USA,Arizona,West Valley City,598,Rural,20+ km,Polar,Low,High,High,Low,Excellent,>$500k,Low,Fair,48.669401366173105,-117.01165793285132
-USA,Nevada,Portland,581,Urban,20+ km,Polar,Low,Moderate,Medium,High,Good,>$500k,Low,Excellent,37.75462284756025,-123.68519752958223
-USA,Arizona,Salt Lake City,625,Rural,5-10 km,Tropical,Moderate,High,Medium,High,Good,$100k-$300k,None,Poor,37.186346133001955,-114.18476968949068
-USA,Nevada,Tucson,372,Rural,<5 km,Tropical,Moderate,Low,High,Moderate,Excellent,>$500k,High,Good,23.893211701594396,-107.46814192375919
-USA,Arizona,Salem,436,Rural,20+ km,Polar,High,Low,Low,High,Average,<$100k,Low,Poor,51.08265781898699,-122.80763569074995
-USA,Utah,Henderson,980,Urban,10-20 km,Arid,Low,Moderate,Medium,High,Excellent,$300k-$500k,Moderate,Excellent,41.23956982267748,-113.67029057255671
-USA,Utah,Salt Lake City,115,Rural,20+ km,Tropical,Low,Low,Low,Low,Average,>$500k,Moderate,Good,41.26799262674052,-117.9725071537258
-USA,Oregon,Salem,846,Suburban,10-20 km,Polar,Low,High,Medium,High,Average,$300k-$500k,High,Fair,41.82293231095794,-114.09584844461135
-USA,Arizona,Phoenix,593,Urban,<5 km,Tropical,Low,Moderate,Medium,Low,Good,<$100k,Low,Excellent,26.40350730042315,-118.91720811545106
-USA,Arizona,Salem,962,Urban,5-10 km,Arid,High,High,High,High,Good,>$500k,Moderate,Poor,39.05759639815698,-129.48689501954317
-USA,Utah,Portland,539,Rural,<5 km,Arid,Low,Low,Medium,Low,Good,<$100k,Low,Good,42.29853483579442,-121.85530879460649
-USA,Oregon,West Valley City,386,Suburban,20+ km,Tropical,Low,High,High,Moderate,Excellent,$100k-$300k,Low,Poor,32.0262923649049,-103.53350650272647
-USA,Arizona,Salem,465,Rural,20+ km,Temperate,Moderate,High,Low,Low,Poor,>$500k,High,Fair,52.99992054947554,-114.7895959522628
-USA,Oregon,Tucson,283,Suburban,20+ km,Temperate,Low,Moderate,Low,High,Good,$100k-$300k,None,Excellent,29.932054382380322,-110.07161117938531
-USA,Utah,Tucson,432,Rural,5-10 km,Temperate,High,High,Low,High,Poor,$100k-$300k,Low,Good,24.960809940078736,-116.67288129995084
-USA,Arizona,West Valley City,653,Urban,20+ km,Tropical,Low,Moderate,Medium,Low,Good,>$500k,Moderate,Excellent,44.18303634000306,-109.83950179611617
-USA,Oregon,Salt Lake City,794,Urban,<5 km,Tropical,Moderate,High,Low,Moderate,Good,<$100k,High,Good,39.754259517044545,-105.02933173082234
-USA,Utah,Tucson,427,Rural,<5 km,Temperate,Low,High,Medium,Moderate,Excellent,>$500k,None,Poor,42.050373353616635,-117.64664308199956
-USA,Utah,Phoenix,224,Urban,10-20 km,Polar,High,Low,Low,Moderate,Average,$300k-$500k,Moderate,Poor,25.377659138316485,-115.97116532615007
-USA,Oregon,Henderson,949,Rural,20+ km,Arid,Low,High,High,Low,Excellent,$100k-$300k,Moderate,Poor,34.667712904848834,-108.19556076746741
-USA,Nevada,Phoenix,609,Rural,20+ km,Polar,High,Low,Medium,Low,Excellent,$300k-$500k,High,Poor,26.018140135418157,-104.27100355136142
-USA,Oregon,Henderson,360,Suburban,20+ km,Arid,High,Moderate,High,Low,Excellent,<$100k,None,Fair,30.197681855248668,-107.7331034917537
-USA,Arizona,Salem,902,Urban,20+ km,Tropical,Low,Moderate,High,Low,Average,<$100k,Moderate,Excellent,44.14744519451769,-116.08211809724376
-USA,Arizona,Henderson,940,Urban,10-20 km,Tropical,Moderate,High,Medium,Moderate,Average,$300k-$500k,Moderate,Fair,45.69171714178626,-119.6352390264014
-USA,Oregon,Salt Lake City,672,Urban,<5 km,Arid,Low,Moderate,Low,High,Poor,<$100k,High,Good,43.26501476375866,-105.31628619693258
-USA,Nevada,Phoenix,877,Suburban,5-10 km,Arid,Moderate,Moderate,Low,High,Poor,$100k-$300k,Low,Excellent,39.321830922384805,-114.32569770754834
-USA,Arizona,Henderson,904,Urban,20+ km,Arid,High,High,Low,Low,Average,$100k-$300k,High,Excellent,36.0971306150056,-110.63115498160924
-USA,Utah,Tucson,692,Suburban,5-10 km,Temperate,Low,Moderate,High,High,Poor,$100k-$300k,Moderate,Excellent,23.089730608976065,-103.57193783982866
-USA,Utah,Salt Lake City,923,Urban,5-10 km,Polar,Low,Low,High,Low,Good,>$500k,Moderate,Good,38.38368992626529,-105.52003759712737
-USA,Arizona,Henderson,400,Rural,10-20 km,Temperate,High,High,Low,Low,Excellent,$100k-$300k,Moderate,Fair,33.25118068698237,-105.29343958714097
-USA,Arizona,Portland,149,Rural,20+ km,Arid,Moderate,Low,High,Moderate,Excellent,$300k-$500k,Low,Poor,44.523457258687216,-131.5866083625357
-USA,Oregon,Henderson,872,Suburban,5-10 km,Arid,Moderate,Moderate,Low,Low,Poor,<$100k,Low,Excellent,33.48653661906954,-123.75002402918618
-USA,Nevada,Henderson,181,Urban,5-10 km,Temperate,High,Low,Low,High,Poor,<$100k,Moderate,Fair,36.338108364984535,-111.35706461137447
-USA,Utah,Las Vegas,965,Suburban,20+ km,Temperate,High,Low,Medium,High,Average,<$100k,High,Excellent,46.0722408326984,-111.09364296598224
-USA,Utah,West Valley City,819,Suburban,10-20 km,Tropical,Moderate,Low,High,Moderate,Average,>$500k,Moderate,Poor,30.72566051621246,-116.0506158236682
-USA,Nevada,Salt Lake City,927,Suburban,<5 km,Tropical,Moderate,Low,Medium,High,Poor,>$500k,Low,Poor,31.57306718404835,-103.15250172213408
-USA,Utah,Henderson,601,Suburban,10-20 km,Arid,Low,High,Low,High,Average,$300k-$500k,Moderate,Poor,32.55833367504571,-114.01886501085751
-USA,Nevada,Tucson,132,Suburban,10-20 km,Tropical,Moderate,Low,Low,High,Average,$100k-$300k,Low,Good,26.854955972192872,-115.8697326990442
-USA,Nevada,Salem,218,Urban,10-20 km,Polar,High,Low,Medium,Moderate,Excellent,$100k-$300k,Moderate,Excellent,48.56304519322192,-127.7629789151684
-USA,Nevada,Salem,663,Rural,10-20 km,Temperate,High,High,Low,Low,Average,<$100k,High,Poor,40.09703372368398,-127.62994948221005
-USA,Oregon,Las Vegas,958,Rural,10-20 km,Polar,High,Low,High,Low,Good,<$100k,Moderate,Poor,31.05314939044901,-124.52082811549197
-USA,Nevada,Salem,687,Suburban,10-20 km,Temperate,Low,Low,Medium,High,Excellent,$300k-$500k,None,Fair,54.37416049549728,-130.7658962752809
-USA,Arizona,Tucson,938,Suburban,5-10 km,Tropical,High,High,Low,Moderate,Excellent,<$100k,Moderate,Good,25.164109056799322,-109.64866596941833
-USA,Arizona,Phoenix,373,Suburban,10-20 km,Arid,Moderate,Moderate,Medium,Moderate,Average,$100k-$300k,Low,Poor,30.459222724727073,-112.75689447913787
-USA,Oregon,Salem,544,Rural,10-20 km,Temperate,Low,High,High,Moderate,Excellent,$300k-$500k,None,Excellent,41.40952909095132,-122.9480208016873
-USA,Oregon,Phoenix,265,Urban,10-20 km,Tropical,Low,Low,Medium,High,Good,>$500k,High,Fair,29.16944760093034,-119.644016546079
-USA,Nevada,Portland,291,Rural,20+ km,Temperate,High,Low,High,High,Excellent,>$500k,Low,Excellent,47.78270952270134,-131.05393198658308
-USA,Oregon,West Valley City,306,Rural,<5 km,Polar,Low,Low,High,Moderate,Good,$300k-$500k,Moderate,Fair,31.170871506990206,-108.08868274199291
-USA,Nevada,Tucson,669,Rural,5-10 km,Tropical,Low,Moderate,Medium,High,Poor,$100k-$300k,Low,Poor,33.64624428153799,-114.9511405537582
-USA,Oregon,Las Vegas,859,Urban,10-20 km,Arid,High,Moderate,Medium,Low,Excellent,$300k-$500k,Moderate,Poor,30.930406257842026,-112.52115254528916
-USA,Oregon,Las Vegas,222,Suburban,<5 km,Temperate,High,Moderate,Low,High,Excellent,>$500k,High,Poor,45.64631902498478,-122.71179191987335
-USA,Utah,Salt Lake City,627,Urban,5-10 km,Arid,Moderate,Low,Medium,High,Good,>$500k,Low,Excellent,43.31897000942899,-104.9858982999283
-USA,Arizona,Salem,493,Urban,<5 km,Arid,Moderate,High,Low,Moderate,Excellent,$100k-$300k,High,Poor,52.52620789992615,-117.29639828520537
-USA,Arizona,West Valley City,338,Rural,5-10 km,Temperate,Low,High,Medium,Low,Good,>$500k,Moderate,Good,36.517323256849025,-108.70891695039427
-USA,Oregon,Henderson,455,Suburban,5-10 km,Polar,High,Moderate,Medium,Low,Good,>$500k,None,Poor,33.459358828851244,-119.5794237157659
-USA,Nevada,Salem,852,Suburban,<5 km,Polar,Moderate,Low,Medium,Low,Excellent,<$100k,High,Excellent,41.10854343291615,-126.24707922985274
-USA,Arizona,Henderson,465,Suburban,5-10 km,Temperate,High,Low,High,Moderate,Excellent,>$500k,Moderate,Poor,31.552315181734865,-118.29693716396632
-USA,Nevada,Portland,277,Suburban,<5 km,Tropical,Moderate,Low,High,Low,Average,$300k-$500k,Low,Fair,42.13134825424323,-119.95240829642795
-USA,Arizona,Las Vegas,965,Suburban,5-10 km,Tropical,High,Moderate,Low,Low,Poor,$300k-$500k,Low,Poor,35.337522332595924,-122.41639504612597
-USA,Nevada,Tucson,108,Rural,<5 km,Tropical,Low,High,Medium,Low,Good,$300k-$500k,High,Poor,38.854948464528626,-103.86189360810582
-USA,Nevada,Salem,734,Rural,<5 km,Arid,High,High,Medium,Low,Excellent,$100k-$300k,Moderate,Poor,51.43178099100405,-128.03513914297326
-USA,Nevada,Henderson,834,Suburban,10-20 km,Tropical,Moderate,Moderate,High,High,Average,>$500k,High,Good,31.786398933970695,-122.47525586543931
-USA,Nevada,Portland,851,Rural,<5 km,Polar,High,High,High,High,Excellent,<$100k,High,Excellent,50.19598916242379,-118.96020188125445
-USA,Utah,Salt Lake City,187,Rural,5-10 km,Tropical,Low,Low,High,High,Average,$100k-$300k,Low,Good,33.24027366110487,-117.83582431780347
-USA,Arizona,Las Vegas,811,Suburban,5-10 km,Arid,Low,Low,Medium,Low,Average,$100k-$300k,Moderate,Poor,36.91648180500216,-121.14729123506592
-USA,Utah,Portland,561,Rural,20+ km,Arid,Moderate,Low,Low,Low,Average,>$500k,High,Poor,42.96371484275778,-123.33764865686265
-USA,Oregon,Las Vegas,392,Suburban,<5 km,Tropical,High,High,Low,Moderate,Excellent,$100k-$300k,High,Excellent,31.508682954938934,-124.71685871106192
-USA,Oregon,Tucson,520,Suburban,20+ km,Temperate,High,Low,Medium,Low,Good,<$100k,High,Fair,24.413481408900104,-104.31308432245781
-USA,Utah,Las Vegas,276,Suburban,10-20 km,Temperate,High,Low,High,High,Good,$300k-$500k,High,Poor,37.51789862848217,-112.6356876070114
-USA,Arizona,Tucson,605,Rural,20+ km,Temperate,Moderate,High,Low,High,Good,$100k-$300k,None,Poor,38.40642452851933,-111.98545491062144
-USA,Oregon,West Valley City,518,Suburban,5-10 km,Temperate,Low,Low,Medium,High,Poor,$100k-$300k,Low,Poor,30.679768165878013,-106.25296086155063
-USA,Arizona,Las Vegas,672,Urban,5-10 km,Polar,Moderate,Low,High,Low,Excellent,$300k-$500k,High,Fair,39.39722465719461,-121.00770332555585
-USA,Nevada,West Valley City,879,Suburban,10-20 km,Arid,Moderate,Moderate,High,Moderate,Average,$300k-$500k,None,Good,33.83736170204,-114.95629522484967
-USA,Arizona,Tucson,390,Rural,10-20 km,Temperate,Moderate,Moderate,Medium,Moderate,Poor,$100k-$300k,Low,Poor,36.23481894598028,-102.64826888910613
-USA,Oregon,West Valley City,480,Urban,5-10 km,Temperate,Low,Low,Medium,Low,Average,$300k-$500k,Low,Good,36.1378311005268,-105.58703762047315
-USA,Nevada,Phoenix,916,Rural,10-20 km,Temperate,Moderate,Low,Medium,High,Good,<$100k,None,Good,41.67176155739218,-116.16190889808976
-USA,Oregon,Portland,951,Urban,5-10 km,Polar,Low,Low,High,High,Good,>$500k,None,Good,43.57758793941419,-132.4132357091616
-USA,Arizona,Phoenix,270,Rural,5-10 km,Tropical,Moderate,Moderate,High,Moderate,Excellent,>$500k,Low,Excellent,34.52161112076159,-111.49686940179804
-USA,Oregon,Portland,439,Rural,<5 km,Polar,Low,Low,High,Low,Excellent,>$500k,None,Fair,40.37157054428591,-121.00524449502176
-USA,Nevada,Portland,742,Rural,5-10 km,Temperate,Moderate,Low,Low,High,Good,$100k-$300k,None,Poor,47.36126298112635,-129.58765186612382
-USA,Oregon,Henderson,139,Suburban,10-20 km,Polar,Low,Moderate,Low,Low,Poor,<$100k,High,Poor,26.76060943032918,-119.29863162234234
-USA,Oregon,Portland,916,Urban,10-20 km,Polar,High,High,Medium,High,Excellent,>$500k,Low,Good,50.084096364632174,-122.5248367081018
-USA,Utah,Tucson,399,Urban,20+ km,Tropical,High,Low,Medium,High,Poor,$100k-$300k,None,Good,24.126644114848805,-117.59888270723113
-USA,Arizona,Salem,870,Rural,<5 km,Tropical,High,Low,Medium,Moderate,Excellent,>$500k,Moderate,Good,52.487413606500226,-125.09958941654754
-USA,Arizona,Portland,628,Suburban,<5 km,Temperate,Low,High,High,Low,Excellent,>$500k,Moderate,Fair,34.70194279325211,-129.6761394398067
-USA,Nevada,Tucson,806,Rural,<5 km,Tropical,Low,High,High,Low,Poor,$300k-$500k,Moderate,Poor,25.291125274153323,-120.24168845294784
-USA,Arizona,West Valley City,959,Rural,20+ km,Polar,Moderate,Low,High,Moderate,Poor,$300k-$500k,Moderate,Fair,30.89985952536462,-120.55680078364654
-USA,Arizona,Tucson,924,Suburban,10-20 km,Temperate,High,High,Low,High,Average,>$500k,High,Fair,27.4326922066886,-102.15016638120032
-USA,Oregon,Portland,557,Urban,5-10 km,Arid,Moderate,Low,Medium,High,Average,>$500k,Moderate,Fair,46.24169020142282,-120.06292372104616
-USA,Nevada,Portland,601,Rural,<5 km,Polar,Moderate,Low,Low,Low,Poor,$100k-$300k,High,Fair,39.5277116335456,-125.93798606568356
-USA,Arizona,Tucson,601,Suburban,5-10 km,Arid,High,Moderate,High,High,Poor,$100k-$300k,Low,Good,29.633330695428423,-105.40612087038011
-USA,Oregon,Tucson,871,Suburban,20+ km,Tropical,Low,Low,Medium,High,Poor,$100k-$300k,None,Fair,39.443059335264216,-111.04761940933189
-USA,Oregon,Henderson,501,Rural,5-10 km,Temperate,Moderate,Moderate,High,Moderate,Average,<$100k,Low,Excellent,26.94696960636858,-113.43665549197716
-USA,Nevada,Las Vegas,251,Rural,<5 km,Arid,High,High,Medium,High,Good,$100k-$300k,High,Fair,28.788590406989314,-109.55509255378509
-USA,Utah,Tucson,141,Suburban,<5 km,Tropical,Moderate,Moderate,High,High,Average,$100k-$300k,Moderate,Excellent,39.85912309273276,-117.0045611337389
-USA,Oregon,Phoenix,201,Suburban,<5 km,Temperate,High,High,Medium,Moderate,Poor,$300k-$500k,High,Fair,24.10101611796533,-120.71790312303781
-USA,Nevada,Portland,284,Rural,<5 km,Polar,Moderate,High,Medium,High,Poor,$300k-$500k,Moderate,Excellent,50.53762171591454,-128.5480405397279
-USA,Nevada,Portland,221,Urban,10-20 km,Arid,Moderate,Low,Low,Low,Average,<$100k,High,Fair,37.325185212122065,-116.83629663423278
-USA,Nevada,Salt Lake City,805,Rural,5-10 km,Polar,Low,Moderate,Medium,Low,Poor,$100k-$300k,Moderate,Good,37.340657288210494,-119.07620260728517
-USA,Oregon,Las Vegas,637,Suburban,<5 km,Polar,Low,Moderate,Medium,Moderate,Average,$100k-$300k,High,Fair,33.88320496212055,-108.64976729609457
-USA,Oregon,Salem,246,Urban,20+ km,Temperate,Low,Moderate,Low,Low,Poor,$100k-$300k,Low,Poor,54.265260001194044,-130.6409290203321
-USA,Oregon,Phoenix,410,Suburban,20+ km,Arid,Moderate,High,Low,Low,Good,>$500k,Moderate,Fair,23.76722690450102,-111.45437924897081
-USA,Nevada,Portland,741,Suburban,20+ km,Arid,High,Moderate,Medium,Moderate,Average,$300k-$500k,Moderate,Poor,46.58093213917457,-131.42454616602203
-USA,Nevada,Phoenix,956,Urban,5-10 km,Tropical,High,Low,Medium,Moderate,Average,$300k-$500k,Low,Excellent,30.62883169000493,-113.70429935369332
-USA,Nevada,Salem,850,Rural,5-10 km,Arid,Moderate,Low,Medium,Moderate,Average,<$100k,Moderate,Good,42.0778335982426,-126.1839084321319
-USA,Nevada,West Valley City,910,Urban,<5 km,Tropical,Low,High,High,Moderate,Good,<$100k,High,Excellent,45.77201493277478,-121.23770144452669
-USA,Utah,West Valley City,315,Urban,20+ km,Arid,High,Low,Medium,Moderate,Poor,$300k-$500k,High,Excellent,43.11314631113692,-102.29333802362666
-USA,Utah,Salem,809,Suburban,10-20 km,Temperate,Low,Low,Medium,Low,Poor,$300k-$500k,High,Poor,44.77350513903465,-122.76062073372574
-USA,Arizona,Salt Lake City,939,Urban,10-20 km,Polar,Low,High,High,High,Excellent,$300k-$500k,High,Excellent,41.34642141587605,-118.09454673180888
-USA,Oregon,Salem,666,Suburban,5-10 km,Temperate,Low,Low,Medium,Moderate,Good,>$500k,None,Good,44.253619161931326,-125.90860627609943
-USA,Nevada,Phoenix,987,Rural,<5 km,Polar,Moderate,Low,Medium,Moderate,Good,<$100k,None,Excellent,27.81336185250295,-108.78551622291452
-USA,Arizona,West Valley City,852,Urban,5-10 km,Polar,High,High,Medium,Low,Poor,$100k-$300k,Low,Poor,44.27570052409972,-106.24564079110384
-USA,Oregon,Salem,648,Urban,20+ km,Arid,Low,Low,High,High,Poor,$100k-$300k,None,Poor,49.558939682063425,-114.39170225952812
-USA,Nevada,Salt Lake City,429,Urban,5-10 km,Arid,Moderate,Moderate,Low,Low,Average,<$100k,Moderate,Fair,36.25626721692263,-112.96788631479153
-USA,Oregon,Salem,293,Suburban,5-10 km,Tropical,High,Moderate,Medium,Moderate,Average,<$100k,High,Poor,45.00667442833037,-128.24791054186386
-USA,Utah,Salt Lake City,776,Urban,<5 km,Temperate,Low,Low,Medium,Low,Average,<$100k,Moderate,Fair,44.010947337366275,-120.05374858698916
-USA,Oregon,Salt Lake City,839,Suburban,5-10 km,Temperate,Low,Low,Low,Low,Excellent,$300k-$500k,High,Fair,35.95852788016484,-103.22567601289377
-USA,Arizona,Phoenix,531,Urban,5-10 km,Polar,Low,Moderate,High,High,Excellent,<$100k,None,Excellent,37.19560879122659,-108.96664154722164
-USA,Oregon,Portland,258,Urban,10-20 km,Temperate,Moderate,High,Low,Low,Average,$300k-$500k,None,Fair,33.825703681667896,-118.67969634982532
-USA,Utah,Phoenix,703,Rural,5-10 km,Temperate,Low,Low,High,Low,Excellent,<$100k,None,Poor,37.42294659505916,-113.98046119296777
-USA,Arizona,West Valley City,207,Suburban,5-10 km,Arid,High,Moderate,Medium,Moderate,Excellent,$100k-$300k,None,Excellent,38.63524299440475,-113.86947187149093
-USA,Utah,Salem,615,Rural,5-10 km,Arid,Low,Moderate,Low,Low,Excellent,$300k-$500k,None,Excellent,37.290646991279914,-123.83638892123781
-USA,Utah,Phoenix,351,Rural,<5 km,Tropical,High,Moderate,High,High,Excellent,<$100k,Low,Good,30.80870831358702,-113.41998629208001
-USA,Arizona,Henderson,298,Suburban,<5 km,Arid,High,Moderate,Low,Moderate,Average,>$500k,High,Excellent,43.14933393184313,-120.52539189370417
-USA,Nevada,Salt Lake City,941,Urban,20+ km,Arid,Low,High,High,Moderate,Average,$100k-$300k,None,Fair,44.19301447385264,-103.8848777681449
-USA,Arizona,Henderson,836,Suburban,5-10 km,Arid,Low,Moderate,High,Low,Poor,>$500k,Low,Good,31.450573274452125,-105.83299008256914
-USA,Arizona,West Valley City,943,Suburban,<5 km,Arid,Moderate,High,Low,Low,Excellent,$100k-$300k,None,Fair,31.196543237164402,-115.42924911895278
-USA,Oregon,Portland,784,Urban,5-10 km,Tropical,Low,Low,Low,Low,Poor,<$100k,Moderate,Fair,34.133000710507716,-116.4990560253566
-USA,Utah,Portland,523,Rural,20+ km,Arid,High,High,High,Moderate,Good,<$100k,None,Fair,46.982655366868144,-116.11594359054885
-USA,Oregon,Tucson,671,Urban,<5 km,Polar,Low,High,High,High,Excellent,>$500k,High,Poor,35.8680481971845,-120.72628736181403
-USA,Utah,Henderson,779,Rural,<5 km,Tropical,Moderate,Moderate,Low,Moderate,Good,$300k-$500k,Low,Fair,31.927565989326922,-123.71778145146008
-USA,Oregon,West Valley City,242,Urban,20+ km,Arid,High,Low,High,Moderate,Good,$100k-$300k,Low,Good,49.38591185261109,-115.03720614312175
-USA,Arizona,Las Vegas,799,Rural,10-20 km,Polar,High,High,High,High,Excellent,<$100k,None,Fair,41.18207409808755,-116.97494871681788
-USA,Oregon,Phoenix,898,Rural,5-10 km,Polar,Low,Low,Medium,Moderate,Average,$100k-$300k,Moderate,Excellent,31.74886460906518,-106.32485336631152
-USA,Arizona,Portland,511,Urban,<5 km,Polar,Moderate,High,Medium,Moderate,Good,$300k-$500k,None,Fair,48.06405616325358,-121.37151368889683
-USA,Oregon,Henderson,857,Urban,10-20 km,Tropical,Moderate,Moderate,Medium,High,Excellent,$300k-$500k,Low,Good,31.416478244382212,-111.4818417525311
-USA,Oregon,Las Vegas,438,Rural,5-10 km,Tropical,Low,Moderate,High,Moderate,Average,$100k-$300k,Moderate,Good,32.772732178840016,-117.80440551574117
-USA,Arizona,West Valley City,238,Urban,5-10 km,Temperate,Low,Low,High,Moderate,Average,>$500k,High,Excellent,46.530066198706166,-103.51019203725805
-USA,Oregon,Tucson,398,Suburban,10-20 km,Temperate,Moderate,Moderate,High,Low,Excellent,<$100k,Low,Good,28.549052371152317,-106.42650799280923
-USA,Nevada,Portland,644,Suburban,5-10 km,Temperate,Moderate,Low,Medium,Moderate,Excellent,<$100k,None,Good,35.784194089263394,-128.29701431447705
-USA,Arizona,West Valley City,228,Suburban,<5 km,Tropical,High,Low,Medium,Low,Average,<$100k,High,Excellent,45.87356576756857,-113.62295655506742
-USA,Oregon,Tucson,377,Urban,<5 km,Polar,Moderate,Moderate,High,Moderate,Excellent,>$500k,Moderate,Poor,33.982309125970815,-108.00488636536745
-USA,Oregon,Portland,350,Suburban,20+ km,Polar,Moderate,Moderate,High,Low,Average,<$100k,None,Good,49.38899213095906,-126.4145850497068
-USA,Nevada,Portland,868,Rural,<5 km,Polar,Moderate,High,Low,Moderate,Excellent,<$100k,Moderate,Fair,44.04414206354732,-129.16958815176423
-USA,Nevada,Tucson,836,Rural,20+ km,Polar,Moderate,High,Low,High,Good,<$100k,High,Poor,42.21824031649142,-108.64601219180047
-USA,Oregon,Henderson,742,Rural,10-20 km,Tropical,Moderate,Low,Low,Moderate,Average,>$500k,None,Fair,26.697075723440605,-120.21394443449277
-USA,Oregon,Tucson,362,Urban,5-10 km,Temperate,Moderate,Moderate,Medium,High,Excellent,$300k-$500k,Moderate,Excellent,35.707489895674684,-117.88078825571202
-USA,Utah,Portland,566,Urban,<5 km,Tropical,Moderate,High,High,Low,Average,$100k-$300k,None,Poor,50.38978596549639,-124.96919602808143
-USA,Utah,Salem,538,Rural,20+ km,Tropical,Moderate,High,High,High,Excellent,<$100k,High,Excellent,51.06206386864812,-115.53368259116058
-USA,Oregon,Portland,388,Urban,5-10 km,Arid,Low,Low,High,Moderate,Poor,$300k-$500k,None,Good,37.93042937308131,-120.52209430035387
-USA,Utah,Portland,576,Urban,20+ km,Temperate,High,Moderate,Low,High,Good,$100k-$300k,Moderate,Poor,33.13806798625056,-117.75154511706815
-USA,Oregon,Portland,265,Urban,<5 km,Polar,Low,Low,High,High,Excellent,>$500k,Moderate,Good,37.44902748763933,-121.55826398216372
-USA,Arizona,Salem,562,Urban,<5 km,Arid,High,Moderate,Medium,Low,Excellent,>$500k,High,Fair,45.16212731616829,-130.27367250760867
-USA,Utah,Las Vegas,887,Rural,5-10 km,Tropical,High,Moderate,High,High,Excellent,>$500k,Moderate,Poor,35.80168743369348,-107.31296705464476
-USA,Arizona,Las Vegas,927,Suburban,<5 km,Polar,High,High,High,Moderate,Poor,<$100k,Moderate,Excellent,30.21863823388228,-117.04587991522808
-USA,Utah,West Valley City,726,Suburban,5-10 km,Temperate,Moderate,Low,Low,Low,Excellent,$300k-$500k,High,Excellent,49.40861678110805,-110.59074638539222
-USA,Utah,West Valley City,733,Rural,5-10 km,Temperate,Moderate,Moderate,High,Moderate,Poor,<$100k,High,Excellent,42.52043181748035,-118.31801783712841
-USA,Oregon,Salem,623,Suburban,<5 km,Polar,Low,Low,Low,High,Poor,$300k-$500k,High,Poor,35.623902613854554,-120.5713751993754
-USA,Nevada,West Valley City,540,Suburban,5-10 km,Temperate,Low,Moderate,Medium,Low,Average,$100k-$300k,High,Fair,45.06747102760226,-112.71207001838812
-USA,Utah,Tucson,556,Rural,20+ km,Arid,High,Moderate,High,High,Excellent,$100k-$300k,Moderate,Good,37.94401483898916,-107.34233958207571
-USA,Arizona,West Valley City,390,Urban,20+ km,Polar,Moderate,High,High,Moderate,Average,$100k-$300k,Moderate,Good,42.085272284613225,-107.48367862913145
-USA,Oregon,Henderson,271,Rural,<5 km,Temperate,Low,Moderate,Medium,Low,Good,$100k-$300k,High,Fair,30.025753319014143,-110.10286723656634
-USA,Arizona,Las Vegas,193,Suburban,10-20 km,Tropical,Moderate,High,Medium,High,Average,<$100k,High,Good,32.40865628052311,-113.08933932330403
-USA,Nevada,Phoenix,927,Rural,10-20 km,Temperate,High,Moderate,Medium,Moderate,Average,<$100k,Low,Good,30.285289108829275,-117.55042624448326
-USA,Oregon,Henderson,192,Urban,5-10 km,Arid,High,High,Medium,Moderate,Excellent,>$500k,Low,Poor,31.89781693292268,-124.23919766250903
-USA,Arizona,Las Vegas,951,Suburban,<5 km,Polar,High,Low,Low,Moderate,Poor,<$100k,High,Fair,34.59063145336731,-105.63294721788715
-USA,Arizona,Salem,616,Rural,10-20 km,Arid,Moderate,Moderate,Low,Moderate,Average,>$500k,None,Poor,41.36088364409309,-121.6557272861389
-USA,Nevada,Tucson,846,Urban,10-20 km,Polar,Moderate,Low,Low,Moderate,Excellent,$100k-$300k,Low,Poor,36.95835625201133,-110.66374835737778
-USA,Utah,Henderson,874,Rural,10-20 km,Temperate,Low,Low,Low,High,Excellent,<$100k,Moderate,Excellent,40.274375538813224,-110.3315749021261
-USA,Arizona,Salem,644,Rural,5-10 km,Arid,High,Low,High,Low,Average,$300k-$500k,High,Excellent,49.29031094360662,-128.67942572504677
-USA,Utah,Tucson,656,Suburban,5-10 km,Polar,Moderate,Low,High,High,Excellent,>$500k,None,Fair,24.426062250906718,-114.08015500353153
-USA,Utah,Las Vegas,710,Rural,5-10 km,Tropical,Moderate,Low,Low,Low,Good,$300k-$500k,None,Good,30.713511617907862,-124.15037083629682
-USA,Oregon,Phoenix,346,Suburban,10-20 km,Tropical,Low,High,Low,Low,Average,$300k-$500k,None,Poor,23.68666842139185,-109.74382645720019
-USA,Oregon,Salt Lake City,166,Rural,<5 km,Tropical,Low,High,Low,Low,Excellent,>$500k,Moderate,Good,42.029014563127866,-102.37513151500256
-USA,Nevada,West Valley City,371,Suburban,20+ km,Polar,High,High,Low,Low,Good,>$500k,Moderate,Good,46.23702440516921,-114.78709575097875
-USA,Arizona,Phoenix,793,Rural,<5 km,Temperate,Low,High,Low,High,Excellent,$100k-$300k,None,Poor,29.60130464370068,-120.36481706273719
-USA,Oregon,Portland,927,Suburban,20+ km,Arid,High,Moderate,High,High,Good,$300k-$500k,Moderate,Fair,39.162987161193094,-124.99286605752195
-USA,Arizona,Phoenix,846,Urban,5-10 km,Temperate,Moderate,Low,Low,Moderate,Poor,$100k-$300k,High,Good,38.01512225339476,-110.57080267770934
-USA,Arizona,Tucson,931,Urban,10-20 km,Temperate,High,Moderate,High,High,Average,>$500k,High,Excellent,28.623352051667368,-116.91451775784459
-USA,Nevada,Salem,287,Rural,10-20 km,Tropical,Low,High,High,Moderate,Average,$300k-$500k,High,Poor,38.516008928122204,-128.04963607648824
-USA,Arizona,West Valley City,984,Rural,10-20 km,Temperate,High,Moderate,High,Moderate,Poor,<$100k,Moderate,Good,50.32000673595788,-102.06558762890033
-USA,Utah,Las Vegas,375,Suburban,5-10 km,Tropical,Low,Low,Medium,High,Excellent,$100k-$300k,None,Fair,29.907416444977116,-110.89266768817907
-USA,Arizona,Salem,992,Rural,5-10 km,Tropical,High,Low,Low,High,Good,<$100k,None,Fair,41.29178229636361,-122.78664367505428
-USA,Arizona,Portland,510,Urban,5-10 km,Tropical,Low,High,High,Moderate,Excellent,<$100k,Moderate,Excellent,46.19035273770481,-120.15055748242015
-USA,Oregon,Las Vegas,953,Suburban,20+ km,Temperate,Low,Moderate,High,Low,Average,$300k-$500k,High,Fair,27.840580647955605,-109.81467124229565
-USA,Utah,Las Vegas,573,Rural,5-10 km,Temperate,Moderate,Moderate,High,High,Poor,<$100k,Moderate,Poor,46.06666971888323,-119.44359883421207
-USA,Utah,West Valley City,543,Suburban,5-10 km,Temperate,High,Low,High,Low,Poor,$300k-$500k,Moderate,Poor,37.495038373308276,-109.2819889774929
-USA,Arizona,Salem,651,Suburban,20+ km,Arid,Moderate,High,Medium,Moderate,Average,>$500k,None,Excellent,54.10938433820915,-123.19202068672898
-USA,Oregon,Las Vegas,183,Suburban,<5 km,Polar,Moderate,Low,High,Low,Good,$100k-$300k,Moderate,Good,33.63373679042903,-109.78553380842366
-USA,Arizona,Salt Lake City,943,Urban,10-20 km,Temperate,Moderate,High,Low,High,Excellent,$300k-$500k,High,Excellent,37.388951049757075,-102.41514766210304
-USA,Arizona,Salem,431,Urban,<5 km,Polar,Moderate,Moderate,Low,Low,Good,<$100k,High,Excellent,43.61645017849651,-130.93667727342103
-USA,Arizona,Las Vegas,930,Urban,5-10 km,Temperate,High,Low,Medium,Low,Average,<$100k,Moderate,Poor,42.164734750887575,-115.34529791589881
-USA,Utah,Salt Lake City,754,Suburban,<5 km,Temperate,Moderate,Moderate,High,Moderate,Good,$300k-$500k,High,Fair,46.08052466335979,-107.86615989680362
-USA,Arizona,Portland,780,Urban,10-20 km,Tropical,Low,Low,Low,High,Poor,$100k-$300k,None,Good,37.029217283323305,-128.9917822396678
-USA,Utah,Portland,219,Urban,<5 km,Polar,Low,Low,Low,High,Poor,$100k-$300k,Moderate,Fair,46.3142159215189,-128.20660474882897
-USA,Nevada,Las Vegas,123,Urban,5-10 km,Temperate,High,High,Medium,Moderate,Poor,>$500k,Moderate,Poor,40.0420706280495,-119.7290985863357
-USA,Nevada,Henderson,314,Urban,10-20 km,Arid,Low,Low,Medium,High,Average,$100k-$300k,Low,Poor,43.761411987549785,-109.33606593362978
-USA,Oregon,West Valley City,676,Rural,5-10 km,Arid,High,Moderate,Medium,Moderate,Good,$300k-$500k,Low,Poor,32.85121147247919,-116.18118101127412
-USA,Utah,Salem,982,Rural,10-20 km,Tropical,Low,Low,Medium,Moderate,Excellent,<$100k,High,Excellent,44.229668608821626,-120.32578919684988
-USA,Nevada,Las Vegas,193,Rural,5-10 km,Tropical,Low,Low,Medium,Moderate,Average,$100k-$300k,Low,Good,34.277271648632194,-124.41356219501714
-USA,Nevada,Tucson,294,Suburban,10-20 km,Temperate,High,Moderate,Medium,Moderate,Average,$300k-$500k,Low,Fair,26.804753088113742,-103.57690436975243
-USA,Nevada,Phoenix,161,Suburban,20+ km,Tropical,High,Low,High,High,Excellent,$300k-$500k,High,Excellent,32.59531625101697,-117.01585091775488
-USA,Nevada,Henderson,577,Suburban,20+ km,Arid,Low,Moderate,High,Moderate,Good,$100k-$300k,High,Poor,45.41828857809031,-108.31685574313443
-USA,Oregon,Salem,741,Suburban,5-10 km,Tropical,High,Low,Medium,Low,Poor,$100k-$300k,Moderate,Poor,46.48241541368968,-132.19553300849407
-USA,Utah,West Valley City,702,Rural,5-10 km,Arid,Moderate,High,Medium,High,Poor,$300k-$500k,High,Poor,38.39330184120557,-114.7726366834114
-USA,Utah,Las Vegas,421,Rural,<5 km,Temperate,Moderate,Low,High,High,Excellent,>$500k,High,Good,33.52996564581196,-108.25641348120541
-USA,Oregon,Salt Lake City,339,Suburban,20+ km,Polar,High,Low,Low,Moderate,Poor,<$100k,Moderate,Good,45.939527398017646,-120.12103896996332
-USA,Oregon,Henderson,128,Rural,10-20 km,Polar,Low,Low,High,High,Average,$100k-$300k,High,Excellent,30.662740051110248,-117.16282915597745
-USA,Nevada,Tucson,462,Urban,<5 km,Polar,Low,Low,Low,Moderate,Average,<$100k,None,Fair,38.08866480163686,-114.97142077999983
-USA,Arizona,Salem,743,Rural,20+ km,Arid,High,High,Low,High,Good,$300k-$500k,None,Poor,53.78922624160034,-132.19662351752302
-USA,Oregon,Salem,843,Rural,10-20 km,Polar,High,Low,High,Moderate,Good,<$100k,High,Excellent,48.31916390625427,-114.25756492532388
-USA,Nevada,Las Vegas,995,Rural,<5 km,Temperate,Moderate,Low,Medium,Low,Excellent,>$500k,High,Excellent,36.88869659221966,-120.56907126109225
-USA,Arizona,West Valley City,912,Suburban,10-20 km,Tropical,Moderate,Low,Low,Low,Excellent,<$100k,None,Poor,32.18862918302895,-108.3018953604739
-USA,Utah,Phoenix,270,Suburban,5-10 km,Polar,Moderate,High,High,Moderate,Excellent,$100k-$300k,Moderate,Fair,27.114530221397192,-113.2276454541541
-USA,Oregon,Las Vegas,543,Suburban,<5 km,Arid,Moderate,High,Low,High,Average,<$100k,Moderate,Fair,36.55810244181342,-123.48821469473664
-USA,Nevada,Phoenix,645,Rural,<5 km,Polar,Low,Low,Low,Moderate,Excellent,>$500k,High,Poor,37.20348110490262,-116.80060895539742
-USA,Arizona,Las Vegas,586,Suburban,10-20 km,Tropical,Low,Moderate,Low,High,Good,$300k-$500k,Moderate,Good,30.587861886368582,-119.17290533597584
-USA,Utah,Phoenix,589,Urban,10-20 km,Polar,Low,Moderate,High,High,Average,$300k-$500k,None,Fair,35.239731675869294,-117.56945978428354
-USA,Oregon,Portland,827,Suburban,10-20 km,Polar,Low,Low,High,Moderate,Excellent,<$100k,High,Fair,35.77174167810501,-122.61557917072882
-USA,Arizona,West Valley City,263,Rural,<5 km,Temperate,Low,Low,High,Moderate,Poor,>$500k,None,Good,48.17060826005661,-104.88720953047795
-USA,Utah,Las Vegas,365,Urban,10-20 km,Temperate,Moderate,High,High,High,Good,<$100k,Low,Good,31.802888498720044,-112.390723751438
-USA,Arizona,Henderson,963,Rural,10-20 km,Arid,High,Low,High,High,Excellent,$300k-$500k,Low,Good,34.74045330548749,-111.39411447982937
-USA,Oregon,Tucson,746,Urban,20+ km,Polar,High,Moderate,High,Moderate,Excellent,>$500k,Moderate,Good,39.53341059267586,-111.87910591469722
-USA,Oregon,Salem,625,Urban,20+ km,Tropical,Moderate,Low,Medium,Moderate,Poor,>$500k,High,Excellent,45.50044258675452,-114.23167449631711
-USA,Utah,Salt Lake City,554,Rural,20+ km,Tropical,High,High,Medium,Moderate,Good,<$100k,Low,Excellent,42.342919610407165,-116.44999433513908
-USA,Oregon,Las Vegas,615,Rural,10-20 km,Arid,Low,Moderate,Medium,High,Poor,>$500k,Moderate,Poor,38.12125878588358,-111.53036931120795
-USA,Nevada,Las Vegas,407,Suburban,5-10 km,Polar,Moderate,Moderate,Low,Low,Excellent,$100k-$300k,None,Good,41.71162899558077,-116.23063442036104
-USA,Arizona,Las Vegas,513,Urban,<5 km,Polar,Moderate,High,High,High,Excellent,>$500k,None,Poor,45.64803660560108,-124.69724511739497
-USA,Utah,West Valley City,394,Rural,20+ km,Tropical,Moderate,Moderate,Low,High,Poor,$300k-$500k,High,Good,34.27346757605012,-109.77418378549007
-USA,Utah,Tucson,914,Rural,20+ km,Tropical,Low,Moderate,Low,Low,Excellent,>$500k,Low,Good,36.28498080149414,-112.41316510744896
-USA,Nevada,Salem,793,Rural,10-20 km,Temperate,Moderate,High,Medium,Moderate,Good,$300k-$500k,High,Fair,49.85535245703246,-132.49151814807774
-USA,Utah,Portland,819,Rural,<5 km,Arid,High,High,Low,Moderate,Average,<$100k,High,Poor,42.71810426220115,-123.3180079791739
-USA,Oregon,Portland,675,Suburban,10-20 km,Temperate,Low,Low,Medium,Low,Poor,<$100k,Moderate,Poor,41.81792124992904,-116.02584861364156
-USA,Oregon,Phoenix,956,Suburban,5-10 km,Arid,Moderate,Moderate,High,Moderate,Poor,>$500k,None,Excellent,34.9940571290002,-109.90501093307326
-USA,Nevada,West Valley City,944,Suburban,5-10 km,Temperate,High,Low,High,Moderate,Average,>$500k,High,Good,44.62397037455192,-105.7857080028735
-USA,Arizona,Henderson,991,Rural,<5 km,Arid,Moderate,Low,Low,Low,Good,$300k-$500k,None,Good,27.592664739278597,-110.2829758585742
-USA,Utah,Henderson,926,Suburban,5-10 km,Arid,Low,Moderate,High,Moderate,Average,$100k-$300k,Moderate,Excellent,36.645101130188365,-119.70216362340669
-USA,Arizona,Henderson,348,Rural,<5 km,Arid,High,High,Low,High,Average,$100k-$300k,Low,Good,40.342470288870985,-114.0072532028124
-USA,Nevada,Henderson,474,Rural,5-10 km,Arid,High,Low,High,High,Excellent,$300k-$500k,None,Excellent,26.97298080932905,-123.91744366990181
-USA,Utah,Phoenix,242,Rural,<5 km,Temperate,High,High,High,Low,Poor,$100k-$300k,Moderate,Fair,30.18683417296689,-112.11751954797553
-USA,Oregon,Phoenix,567,Suburban,<5 km,Polar,High,Low,Medium,Moderate,Excellent,<$100k,None,Poor,38.14061708630015,-103.00883791309005
-USA,Utah,Salt Lake City,353,Rural,10-20 km,Arid,Moderate,High,Medium,High,Good,$100k-$300k,Low,Poor,39.11651418805617,-120.39776817223847
-USA,Utah,Las Vegas,219,Suburban,20+ km,Temperate,High,Moderate,Medium,Low,Excellent,<$100k,High,Poor,28.657098696938426,-112.14904543208209
-USA,Nevada,West Valley City,908,Urban,20+ km,Polar,Moderate,Low,High,High,Excellent,$100k-$300k,High,Good,48.361211634951516,-114.2159072821194
-USA,Utah,West Valley City,570,Rural,10-20 km,Arid,Moderate,Moderate,Medium,Low,Poor,$300k-$500k,None,Poor,42.95652740470861,-121.61916217245108
-USA,Oregon,Henderson,430,Urban,10-20 km,Temperate,Low,Low,Medium,High,Excellent,$300k-$500k,Moderate,Excellent,41.74747194740575,-108.35166924861795
-USA,Oregon,Henderson,636,Rural,10-20 km,Temperate,Moderate,Moderate,High,High,Excellent,$100k-$300k,High,Excellent,29.819998554458138,-117.80414543128958
-USA,Arizona,Las Vegas,120,Urban,5-10 km,Tropical,Low,High,Medium,High,Excellent,$100k-$300k,None,Poor,26.58465038915385,-114.91531463840855
-USA,Nevada,Portland,210,Rural,5-10 km,Temperate,Moderate,High,Medium,Moderate,Poor,$300k-$500k,High,Good,41.83091061935046,-120.71187121328846
-USA,Utah,Portland,414,Rural,<5 km,Tropical,Low,Low,High,High,Excellent,<$100k,Moderate,Excellent,38.94229028032615,-118.86884575142798
-USA,Utah,Portland,482,Urban,<5 km,Tropical,High,High,Medium,Low,Excellent,<$100k,High,Excellent,47.692872479621016,-119.96488496777249
-USA,Utah,Salt Lake City,103,Rural,10-20 km,Temperate,High,Moderate,Low,Moderate,Good,>$500k,Low,Poor,39.326563120750166,-117.13583484901338
-USA,Utah,Salt Lake City,668,Suburban,5-10 km,Temperate,Moderate,Low,Medium,Moderate,Excellent,$100k-$300k,Low,Excellent,32.20925632777973,-114.61672058569391
-USA,Nevada,Phoenix,292,Rural,<5 km,Arid,Moderate,Moderate,Medium,Moderate,Average,<$100k,Moderate,Fair,37.08311768522543,-108.36704453285851
-USA,Nevada,Salem,878,Rural,10-20 km,Temperate,Moderate,Low,Medium,Low,Good,$100k-$300k,None,Excellent,54.196678063953925,-126.96864915259431
-USA,Oregon,Salt Lake City,254,Rural,10-20 km,Tropical,Moderate,Moderate,Low,High,Average,>$500k,Moderate,Excellent,49.00875456107906,-119.943578375366
-USA,Nevada,Tucson,364,Urban,5-10 km,Arid,Low,High,Low,High,Poor,$100k-$300k,None,Poor,28.14417585363862,-117.35087910312434
-USA,Oregon,Salem,671,Suburban,10-20 km,Tropical,Low,High,High,High,Excellent,<$100k,High,Good,44.34732184176415,-126.96594112068615
-USA,Oregon,Salt Lake City,944,Rural,10-20 km,Tropical,High,Moderate,High,Moderate,Excellent,>$500k,Low,Excellent,45.68124162601101,-113.81235658302361
-USA,Utah,Henderson,611,Rural,<5 km,Polar,High,Low,High,Low,Average,$100k-$300k,None,Fair,44.15440876228794,-118.0748738386126
-USA,Utah,Las Vegas,362,Urban,<5 km,Polar,High,Low,Medium,Low,Poor,$100k-$300k,High,Fair,28.347507440374045,-119.70922089761221
-USA,Arizona,Salem,384,Suburban,20+ km,Temperate,Low,Moderate,High,Moderate,Excellent,>$500k,Moderate,Good,41.60527754335217,-123.59108920013892
-USA,Oregon,Henderson,891,Rural,10-20 km,Tropical,Moderate,Low,High,High,Poor,>$500k,Moderate,Poor,42.33687769003227,-117.78697627065218
-USA,Arizona,Salt Lake City,277,Rural,<5 km,Temperate,Moderate,Low,Low,Low,Excellent,$300k-$500k,High,Good,43.90190826676935,-102.05565969468638
-USA,Arizona,Salt Lake City,142,Rural,<5 km,Polar,High,High,High,Moderate,Average,$300k-$500k,Moderate,Fair,37.24232082461766,-104.74922195038305
-USA,Utah,Las Vegas,352,Rural,5-10 km,Temperate,High,Moderate,High,Low,Average,$300k-$500k,High,Good,27.970392870985204,-122.47763772467486
-USA,Arizona,Tucson,810,Rural,<5 km,Polar,Low,High,Low,High,Good,$100k-$300k,High,Good,24.000326716829626,-110.1725663545339
-USA,Nevada,Las Vegas,794,Urban,<5 km,Temperate,Moderate,Low,Medium,Low,Excellent,$300k-$500k,Moderate,Excellent,29.952952191205938,-115.37071130578104
-USA,Utah,Phoenix,682,Suburban,10-20 km,Tropical,Moderate,Low,Low,Moderate,Good,<$100k,Low,Good,42.18361617678761,-110.56988092350633
-USA,Utah,Henderson,366,Urban,20+ km,Tropical,Low,High,Medium,Low,Good,>$500k,Low,Poor,39.89508359709852,-120.73126843007941
-USA,Arizona,Salem,931,Urban,10-20 km,Polar,Moderate,Low,Low,Moderate,Excellent,>$500k,High,Fair,48.395957971774195,-116.21318362385992
-USA,Utah,Las Vegas,577,Urban,5-10 km,Arid,Low,Low,High,Low,Good,>$500k,Low,Poor,35.89062123845594,-115.34332861433542
-USA,Utah,Portland,349,Suburban,10-20 km,Temperate,Moderate,Moderate,High,High,Excellent,$300k-$500k,Moderate,Fair,33.975160568377774,-126.08262493390573
-USA,Nevada,Las Vegas,792,Urban,20+ km,Temperate,Moderate,High,High,High,Excellent,$100k-$300k,None,Good,28.160656043041673,-122.52800174443072
-USA,Nevada,West Valley City,358,Rural,10-20 km,Arid,Low,High,High,Low,Excellent,>$500k,Moderate,Excellent,39.48440094529879,-118.00662759934222
-USA,Oregon,Phoenix,323,Suburban,<5 km,Tropical,High,Moderate,High,Low,Good,$300k-$500k,None,Fair,27.602788097077138,-120.31088241991739
-USA,Nevada,Henderson,441,Rural,5-10 km,Polar,Moderate,Moderate,Low,Moderate,Excellent,<$100k,Low,Fair,41.82432826640239,-122.99085650126099
-USA,Utah,West Valley City,133,Suburban,10-20 km,Tropical,Low,High,High,Low,Poor,$300k-$500k,High,Excellent,40.36930703239745,-104.0969902682319
-USA,Nevada,West Valley City,664,Rural,20+ km,Tropical,Low,High,High,Moderate,Poor,<$100k,Low,Good,40.31526846411678,-114.2320125643843
-USA,Utah,Phoenix,450,Urban,20+ km,Arid,Low,Moderate,Medium,High,Good,>$500k,High,Poor,26.393335238856743,-106.8069113497788
-USA,Oregon,Henderson,843,Rural,10-20 km,Temperate,Low,Low,Medium,Low,Poor,<$100k,Low,Excellent,33.53500758326948,-119.16975240222955
-USA,Utah,Phoenix,248,Rural,5-10 km,Temperate,Low,Moderate,Low,High,Good,$100k-$300k,None,Good,42.47816905223422,-112.23590200142823
-USA,Nevada,Phoenix,465,Rural,10-20 km,Temperate,Moderate,Moderate,High,Low,Good,$100k-$300k,High,Excellent,23.803771526153977,-117.32054331989762
-USA,Nevada,Tucson,331,Rural,<5 km,Tropical,High,High,Low,High,Excellent,$300k-$500k,Low,Poor,40.77893803943778,-115.75659265828368
-USA,Nevada,Salem,255,Suburban,10-20 km,Polar,Low,Moderate,Low,High,Poor,$300k-$500k,None,Poor,52.149280058888806,-126.84292945519049
-USA,Utah,Salem,431,Urban,5-10 km,Temperate,Moderate,High,Low,Low,Average,$100k-$300k,None,Poor,48.4208023222037,-130.35493807830463
-USA,Oregon,Las Vegas,772,Urban,<5 km,Temperate,Low,Moderate,Medium,Low,Excellent,>$500k,High,Fair,34.93696578312772,-116.39996257371004
-USA,Nevada,Salt Lake City,442,Rural,<5 km,Polar,Low,Low,Low,Moderate,Average,>$500k,High,Poor,33.2854053706182,-115.92431323562363
-USA,Nevada,Salt Lake City,760,Rural,5-10 km,Arid,High,Low,Low,High,Poor,$100k-$300k,High,Good,35.29387879546985,-105.9290273719476
-USA,Utah,Portland,248,Rural,5-10 km,Arid,Moderate,Moderate,High,High,Average,>$500k,Low,Poor,42.44795697627468,-119.53198478596963
-USA,Arizona,Portland,839,Rural,5-10 km,Temperate,Moderate,High,Low,High,Average,<$100k,Moderate,Good,48.24991262736225,-132.2249205892793
-USA,Arizona,Portland,862,Rural,5-10 km,Tropical,Low,Low,High,Moderate,Poor,$300k-$500k,Moderate,Good,38.69073679738247,-131.22716832609683
-USA,Utah,Salem,527,Urban,20+ km,Temperate,Low,Low,Medium,High,Average,$100k-$300k,Low,Good,41.822791127068484,-123.29236838446657
-USA,Nevada,Las Vegas,553,Suburban,20+ km,Arid,Low,Moderate,High,High,Average,$100k-$300k,High,Good,33.34504283785537,-114.9270531223898
+USA,Utah,Phoenix,214,Suburban,5-10 km,Temperate,Moderate,Moderate,Low,Low,Good,$100k-$300k,High,Excellent,32.21119813919534,-85.51742628414418
+USA,Utah,Tucson,249,Suburban,20+ km,Arid,High,Low,Low,High,Excellent,$300k-$500k,High,Poor,36.950794654276244,-87.82967412421164
+USA,Arizona,Salt Lake City,846,Urban,<5 km,Arid,Low,Low,Low,Low,Excellent,$100k-$300k,Low,Excellent,48.397818252452375,-89.91708571006312
+USA,Utah,Salt Lake City,234,Suburban,<5 km,Arid,High,Low,Low,Moderate,Good,$300k-$500k,High,Excellent,34.56265586371859,-89.81544824963214
+USA,Nevada,Salt Lake City,595,Rural,10-20 km,Polar,Moderate,Low,High,High,Average,$300k-$500k,High,Poor,32.33119005663292,-89.87770683421516
+USA,Oregon,Salt Lake City,979,Suburban,20+ km,Temperate,High,High,Low,Low,Excellent,<$100k,None,Fair,32.26511782509865,-89.84050609078079
+USA,Nevada,Salt Lake City,627,Suburban,10-20 km,Arid,Moderate,High,Low,High,Poor,$300k-$500k,None,Good,37.345115083442735,-89.81236191387416
+USA,Nevada,Henderson,968,Rural,10-20 km,Temperate,Low,High,Medium,Low,Average,$100k-$300k,Low,Poor,32.52546263600723,-84.91180024623256
+USA,Nevada,Portland,418,Rural,10-20 km,Polar,Low,High,Low,Moderate,Excellent,$100k-$300k,Low,Poor,32.641251818308376,-97.5201615639798
+USA,Nevada,Portland,685,Suburban,<5 km,Arid,High,Moderate,High,High,Average,$100k-$300k,Low,Good,48.54526916129494,-97.65149693276743
+USA,Utah,West Valley City,936,Urban,20+ km,Polar,High,Low,Medium,Low,Excellent,<$100k,None,Fair,47.75919437641613,-88.58491258538425
+USA,Nevada,Salt Lake City,704,Rural,20+ km,Arid,Moderate,Moderate,Medium,Low,Good,$100k-$300k,None,Fair,48.29650673829305,-89.9608314979301
+USA,Arizona,Salt Lake City,110,Urban,<5 km,Temperate,High,Moderate,Medium,Moderate,Average,$100k-$300k,None,Fair,40.526386059054396,-89.81616520345474
+USA,Arizona,Henderson,774,Suburban,20+ km,Arid,High,High,Low,Low,Poor,>$500k,Moderate,Excellent,32.46495557743049,-92.88533635247737
+USA,Oregon,Tucson,400,Urban,<5 km,Temperate,High,Low,Medium,Moderate,Excellent,$300k-$500k,Low,Poor,31.728395443311634,-87.57464298347035
+USA,Utah,Salt Lake City,621,Urban,5-10 km,Arid,High,High,High,High,Poor,<$100k,High,Good,32.46329308627636,-89.8697950489806
+USA,Utah,West Valley City,143,Urban,<5 km,Temperate,Moderate,Low,Low,Low,Poor,$100k-$300k,High,Fair,32.40448340402919,-85.73937361577057
+USA,Arizona,Salem,459,Rural,<5 km,Polar,High,High,Low,High,Excellent,>$500k,None,Fair,50.96960693872541,-94.11416132528903
+USA,Utah,Las Vegas,492,Rural,10-20 km,Tropical,Moderate,High,Medium,High,Poor,<$100k,High,Good,36.34793839647445,-87.88856106108607
+USA,Utah,West Valley City,582,Urban,<5 km,Arid,High,Low,High,Low,Average,>$500k,Moderate,Fair,35.593860695381274,-88.63738491023753
+USA,Utah,Henderson,723,Suburban,<5 km,Tropical,Moderate,Moderate,Medium,High,Excellent,$300k-$500k,Moderate,Poor,33.836877685793404,-89.77593704446393
+USA,Arizona,Salt Lake City,735,Urban,20+ km,Temperate,Moderate,Moderate,High,Low,Good,<$100k,Moderate,Fair,38.62060115160489,-89.80455796016196
+USA,Arizona,Phoenix,626,Suburban,5-10 km,Tropical,Moderate,Low,Low,High,Average,<$100k,None,Fair,38.16034937627019,-86.05658067223136
+USA,Utah,Salem,682,Urban,5-10 km,Temperate,Moderate,High,High,Moderate,Good,$100k-$300k,High,Excellent,40.03740010283528,-85.8777380174194
+USA,Arizona,Tucson,287,Suburban,20+ km,Arid,Low,Low,Medium,Moderate,Excellent,$300k-$500k,High,Good,38.3848118690104,-87.01383966799497
+USA,Nevada,Tucson,823,Rural,5-10 km,Tropical,Moderate,High,High,High,Excellent,>$500k,Low,Fair,41.007361739084466,-88.45595268786231
+USA,Oregon,Henderson,529,Urban,<5 km,Polar,Moderate,Moderate,High,High,Poor,$100k-$300k,Moderate,Good,41.32768366570736,-85.78180469014235
+USA,Arizona,Salem,111,Suburban,<5 km,Polar,Low,High,Medium,Low,Poor,$300k-$500k,High,Fair,47.74073322027608,-90.72527035227208
+USA,Utah,Salt Lake City,199,Rural,20+ km,Tropical,Low,High,High,High,Good,>$500k,High,Good,46.08727050604921,-89.8319581750668
+USA,Nevada,Tucson,153,Suburban,20+ km,Arid,Low,Low,High,Moderate,Good,<$100k,Moderate,Poor,37.64925003719282,-86.60797897247191
+USA,Oregon,West Valley City,975,Rural,10-20 km,Tropical,Low,Low,Medium,Low,Average,>$500k,Moderate,Good,49.921118558392365,-82.87141839452256
+USA,Nevada,Salt Lake City,651,Suburban,5-10 km,Tropical,Low,High,Medium,Low,Excellent,$300k-$500k,Moderate,Excellent,41.90390442194197,-89.93176982995963
+USA,Oregon,Henderson,195,Rural,5-10 km,Arid,Moderate,Moderate,Medium,Low,Excellent,>$500k,Low,Fair,41.910558326268955,-90.43129367768745
+USA,Arizona,Phoenix,870,Urban,5-10 km,Tropical,Moderate,High,High,High,Excellent,$100k-$300k,None,Good,29.76190713902747,-88.64709145220151
+USA,Utah,Salem,134,Urban,10-20 km,Arid,High,High,High,Low,Good,>$500k,None,Good,39.53582781267607,-95.46654566223684
+USA,Arizona,Phoenix,137,Urban,<5 km,Arid,High,Moderate,High,Low,Excellent,$100k-$300k,None,Good,38.818922355667,-86.13761337870578
+USA,Arizona,West Valley City,984,Rural,10-20 km,Temperate,Low,Low,Low,Low,Excellent,>$500k,High,Poor,50.57827080725534,-86.13040456626896
+USA,Nevada,Las Vegas,619,Suburban,5-10 km,Arid,Low,Moderate,Medium,Moderate,Excellent,$300k-$500k,Moderate,Fair,33.08920152465046,-83.87925924263578
+USA,Oregon,Tucson,965,Suburban,5-10 km,Temperate,Moderate,Moderate,Medium,Low,Good,$100k-$300k,High,Fair,40.57923012694572,-86.9984050121095
+USA,Arizona,Salt Lake City,747,Rural,10-20 km,Polar,Low,Moderate,Low,Low,Good,$100k-$300k,High,Excellent,45.757411808239695,-89.80008089664909
+USA,Utah,Henderson,387,Suburban,5-10 km,Polar,Moderate,High,Low,High,Excellent,$100k-$300k,Low,Poor,44.270364633536396,-88.68056910304374
+USA,Utah,Phoenix,272,Suburban,10-20 km,Temperate,Low,High,Medium,High,Excellent,$300k-$500k,Moderate,Good,36.89043005529092,-88.8562040838453
+USA,Nevada,Henderson,969,Suburban,10-20 km,Arid,Low,High,High,Moderate,Poor,<$100k,Low,Fair,32.93018981743957,-92.30542350798082
+USA,Arizona,Salt Lake City,520,Rural,5-10 km,Temperate,High,High,Medium,High,Average,$300k-$500k,None,Excellent,47.003436791681494,-89.92928116901085
+USA,Oregon,Salem,243,Suburban,5-10 km,Polar,Moderate,Low,High,Low,Good,<$100k,High,Excellent,50.2557456657526,-95.38930438417675
+USA,Arizona,Tucson,162,Rural,5-10 km,Polar,Moderate,Low,Medium,Moderate,Average,$300k-$500k,Moderate,Fair,31.0030675237586,-88.70877134480958
+USA,Oregon,Portland,585,Urban,20+ km,Arid,Low,Low,High,Moderate,Poor,$300k-$500k,Moderate,Poor,44.56533385142044,-96.20744335099918
+USA,Utah,West Valley City,714,Urban,10-20 km,Polar,High,High,Medium,Moderate,Excellent,<$100k,Low,Good,46.98536795910038,-84.51757157641553
+USA,Arizona,Las Vegas,884,Rural,5-10 km,Temperate,High,Low,High,Low,Good,>$500k,Low,Good,44.67102186628559,-86.43367843081313
+USA,Oregon,Phoenix,971,Suburban,10-20 km,Arid,High,Low,High,High,Excellent,>$500k,Low,Fair,36.47808470952024,-87.1902176858313
+USA,Arizona,Henderson,663,Suburban,10-20 km,Polar,Low,Moderate,Medium,Low,Excellent,$100k-$300k,Moderate,Fair,33.53628908095745,-89.04735358103622
+USA,Utah,West Valley City,826,Suburban,10-20 km,Arid,Low,Low,Medium,Low,Excellent,>$500k,Moderate,Fair,50.67846779247087,-89.20009094512766
+USA,Nevada,Tucson,223,Urban,<5 km,Temperate,High,High,Low,High,Excellent,$300k-$500k,High,Excellent,31.12989839181716,-88.46241777528179
+USA,Oregon,Henderson,822,Suburban,10-20 km,Temperate,High,High,Medium,High,Good,<$100k,Moderate,Excellent,40.65503493065477,-91.76275496554246
+USA,Oregon,West Valley City,158,Urban,10-20 km,Temperate,High,Moderate,Low,Low,Poor,<$100k,Low,Excellent,38.41667220357215,-84.61609442872705
+USA,Oregon,West Valley City,242,Rural,<5 km,Polar,Moderate,Low,Low,Low,Good,>$500k,Moderate,Excellent,32.25798442791582,-83.83284417101645
+USA,Utah,Phoenix,842,Urban,<5 km,Temperate,Moderate,Moderate,Low,Moderate,Good,>$500k,None,Fair,42.38048831396949,-89.3983422603662
+USA,Nevada,Tucson,133,Suburban,10-20 km,Temperate,Low,Low,Medium,High,Average,<$100k,Moderate,Fair,38.392866091394446,-87.2197257993088
+USA,Utah,Las Vegas,828,Suburban,<5 km,Arid,Low,Moderate,Low,High,Average,$300k-$500k,High,Good,38.83655495201559,-89.58329208828707
+USA,Arizona,Las Vegas,298,Suburban,<5 km,Arid,High,Low,Low,Moderate,Good,$100k-$300k,None,Poor,42.20100005308956,-83.61823069805429
+USA,Arizona,West Valley City,718,Suburban,<5 km,Tropical,High,Moderate,Low,Low,Good,$300k-$500k,None,Fair,42.61694845683935,-87.02064257421904
+USA,Utah,Phoenix,311,Suburban,<5 km,Arid,Moderate,Moderate,Low,Low,Poor,$100k-$300k,Low,Good,42.685792897590716,-86.60889113002564
+USA,Utah,Salt Lake City,987,Rural,20+ km,Temperate,High,Low,Low,Moderate,Good,<$100k,None,Poor,39.13462192145441,-89.8823177003139
+USA,Oregon,Tucson,594,Suburban,<5 km,Tropical,Low,High,Low,Low,Average,$300k-$500k,High,Poor,37.92030665354273,-87.88560024422655
+USA,Nevada,West Valley City,319,Rural,10-20 km,Polar,High,Low,Low,Moderate,Good,<$100k,None,Good,33.64922453023818,-83.6127839876564
+USA,Utah,West Valley City,794,Rural,20+ km,Temperate,Low,High,High,Low,Good,>$500k,Low,Excellent,35.705695040602,-89.56360562402632
+USA,Oregon,Salem,290,Urban,10-20 km,Arid,Low,Low,High,High,Good,$100k-$300k,Low,Excellent,46.365230068526,-82.73392968462494
+USA,Oregon,Phoenix,248,Rural,10-20 km,Polar,High,Low,Low,Low,Poor,$100k-$300k,Low,Poor,31.526345371279227,-85.44493963405587
+USA,Nevada,Salt Lake City,931,Rural,<5 km,Arid,High,Low,High,Low,Good,<$100k,Low,Good,48.76569001165693,-89.86212653286435
+USA,Nevada,Phoenix,893,Urban,<5 km,Polar,High,Low,Medium,Low,Poor,$300k-$500k,Low,Fair,35.51898837110267,-87.14128196528706
+USA,Utah,Salem,913,Rural,20+ km,Polar,Low,Low,Medium,High,Poor,>$500k,None,Good,36.498658424074826,-95.13571602680972
+USA,Oregon,Portland,657,Rural,5-10 km,Temperate,Low,Low,Low,Low,Good,$300k-$500k,Moderate,Fair,36.04217260612623,-83.88465804485948
+USA,Oregon,Portland,658,Rural,<5 km,Arid,Moderate,Low,Medium,Moderate,Average,$300k-$500k,Moderate,Good,29.656755635889624,-94.90106903155335
+USA,Utah,Salem,502,Urban,<5 km,Arid,High,High,High,High,Average,$300k-$500k,Low,Fair,46.38353526202418,-83.66248982519033
+USA,Arizona,Henderson,295,Urban,20+ km,Temperate,High,High,Medium,High,Good,$100k-$300k,Moderate,Poor,30.767625525526945,-91.72698724121646
+USA,Arizona,Salt Lake City,541,Suburban,20+ km,Temperate,Moderate,Low,Medium,High,Poor,<$100k,Low,Good,37.36663393224494,-89.89693728345355
+USA,Arizona,Portland,997,Rural,10-20 km,Arid,High,Low,Low,Low,Good,$300k-$500k,Moderate,Good,33.04270065894443,-88.83393988021203
+USA,Oregon,Tucson,130,Rural,10-20 km,Polar,High,Moderate,High,Low,Average,<$100k,Low,Excellent,42.2708272999528,-86.63935761277095
+USA,Utah,Portland,460,Urban,5-10 km,Tropical,Low,Moderate,High,Low,Good,<$100k,Low,Good,31.354544799508066,-98.04934647081942
+USA,Utah,Salt Lake City,851,Rural,5-10 km,Temperate,Low,Low,Medium,Moderate,Poor,>$500k,Low,Excellent,35.700626227631,-89.95282357895319
+USA,Utah,Portland,275,Suburban,20+ km,Polar,Low,High,High,Moderate,Average,>$500k,Low,Good,44.63773177848997,-82.29338435291842
+USA,Oregon,Tucson,341,Suburban,5-10 km,Tropical,Low,Low,Low,Moderate,Excellent,$100k-$300k,Moderate,Good,38.21960653628514,-86.72959133573288
+USA,Utah,Salem,520,Urban,20+ km,Arid,Low,High,Low,Low,Good,<$100k,High,Poor,49.180915998875385,-98.83454622971769
+USA,Arizona,Salt Lake City,466,Suburban,<5 km,Temperate,High,Low,High,Low,Average,$100k-$300k,None,Excellent,45.37963287620363,-89.812703573526
+USA,Utah,Tucson,329,Suburban,20+ km,Tropical,High,Low,Low,High,Good,<$100k,High,Fair,32.402445867234206,-87.86566884285479
+USA,Arizona,Salt Lake City,550,Urban,10-20 km,Temperate,High,High,Medium,Moderate,Good,$100k-$300k,Low,Fair,44.256241769607215,-89.89904155298194
+USA,Arizona,Portland,270,Urban,10-20 km,Polar,High,Moderate,Medium,Low,Excellent,$100k-$300k,Moderate,Good,45.030220412808355,-93.94281098405041
+USA,Utah,Salem,257,Rural,5-10 km,Tropical,High,Low,Medium,High,Poor,<$100k,High,Poor,45.743767249765135,-98.93632378787768
+USA,Oregon,Salem,462,Suburban,10-20 km,Arid,Moderate,High,Low,Moderate,Good,$100k-$300k,Moderate,Fair,35.45657953986632,-89.95910825495056
+USA,Arizona,Las Vegas,860,Urban,20+ km,Tropical,Low,Moderate,High,Moderate,Average,>$500k,Moderate,Fair,38.52906656599779,-87.16271145909964
+USA,Arizona,Portland,875,Suburban,20+ km,Tropical,Moderate,High,High,Low,Good,$300k-$500k,None,Good,33.70478492963156,-83.35338512071777
+USA,Nevada,Portland,495,Suburban,20+ km,Tropical,High,Low,Low,High,Average,>$500k,High,Poor,46.09955868748965,-85.95359083966775
+USA,Arizona,West Valley City,138,Rural,<5 km,Temperate,Moderate,Moderate,Low,Low,Excellent,<$100k,Low,Good,42.07189976374306,-82.9401522290032
+USA,Utah,West Valley City,944,Rural,<5 km,Polar,High,Low,Medium,High,Average,<$100k,Moderate,Fair,44.204548234502596,-88.63852176730536
+USA,Oregon,Phoenix,937,Rural,10-20 km,Arid,High,Moderate,High,Low,Excellent,$300k-$500k,None,Fair,34.861591246408395,-88.55362099299063
+USA,Arizona,Phoenix,391,Rural,10-20 km,Tropical,Moderate,High,High,Low,Average,$300k-$500k,None,Excellent,33.3591690099185,-88.83275996467349
+USA,Oregon,Salt Lake City,392,Urban,10-20 km,Temperate,High,Low,Low,High,Excellent,>$500k,None,Fair,34.17362924296471,-89.93466052024633
+USA,Utah,Salem,437,Urban,<5 km,Tropical,Low,Moderate,Low,Moderate,Good,>$500k,High,Excellent,40.71508240577931,-82.7812455539286
+USA,Nevada,Portland,639,Rural,10-20 km,Tropical,Moderate,Low,High,Low,Average,<$100k,None,Good,30.781194570344425,-99.73045338701475
+USA,Nevada,Tucson,277,Urban,<5 km,Tropical,High,Low,High,Low,Average,<$100k,None,Fair,35.836929132203146,-87.01977456431422
+USA,Arizona,Henderson,464,Urban,10-20 km,Arid,High,Moderate,High,Low,Poor,$100k-$300k,Moderate,Fair,40.450210659782286,-91.40772123309732
+USA,Oregon,Salem,508,Suburban,<5 km,Arid,Moderate,Low,High,Moderate,Excellent,>$500k,None,Excellent,43.43461062297531,-90.54742233326473
+USA,Arizona,Phoenix,154,Suburban,<5 km,Tropical,High,High,Medium,Moderate,Good,$300k-$500k,Low,Excellent,38.18650492334211,-89.28783393528722
+USA,Nevada,Henderson,896,Urban,10-20 km,Arid,High,High,Medium,Moderate,Excellent,>$500k,Low,Excellent,43.99691679828425,-91.48102930515127
+USA,Utah,Tucson,339,Rural,<5 km,Polar,High,Moderate,High,High,Poor,<$100k,None,Excellent,33.81528771519714,-86.44232361158824
+USA,Nevada,Henderson,966,Urban,20+ km,Temperate,Low,Moderate,Low,High,Good,>$500k,High,Excellent,40.785020533335214,-85.95769673953501
+USA,Utah,Salt Lake City,132,Suburban,20+ km,Arid,Moderate,High,Medium,Low,Poor,$300k-$500k,None,Good,39.438472231145454,-89.89462659046599
+USA,Nevada,Tucson,554,Urban,10-20 km,Temperate,Low,Low,Medium,Low,Poor,$300k-$500k,Moderate,Excellent,38.50188016794258,-86.8743089974787
+USA,Utah,Henderson,847,Suburban,10-20 km,Tropical,Low,High,Low,Low,Good,>$500k,Low,Fair,36.53999270845239,-86.6700468218519
+USA,Utah,Salt Lake City,588,Rural,10-20 km,Temperate,High,High,High,High,Average,$300k-$500k,High,Good,35.7467932649298,-89.94558591182022
+USA,Arizona,Portland,580,Urban,10-20 km,Arid,Moderate,High,Low,Moderate,Good,>$500k,High,Good,31.63894403928809,-94.05118301444588
+USA,Utah,Salem,864,Suburban,5-10 km,Polar,Moderate,Low,Medium,High,Poor,>$500k,High,Excellent,46.97564443460081,-96.3439154131171
+USA,Oregon,West Valley City,945,Suburban,20+ km,Arid,Low,High,Medium,High,Average,>$500k,Moderate,Good,38.3363567991067,-84.54168750315432
+USA,Utah,Phoenix,804,Suburban,20+ km,Tropical,Low,Low,High,Low,Average,>$500k,Low,Good,33.866183630202876,-86.07840151728684
+USA,Nevada,Tucson,644,Rural,20+ km,Temperate,High,Moderate,Medium,Moderate,Good,$100k-$300k,Low,Excellent,36.633518643548776,-88.71086022706709
+USA,Arizona,Phoenix,117,Urban,5-10 km,Tropical,Moderate,Low,High,Low,Good,$300k-$500k,Moderate,Good,41.05307487810826,-87.53245972123202
+USA,Oregon,West Valley City,287,Suburban,<5 km,Arid,Low,Low,Low,Moderate,Average,>$500k,None,Excellent,32.80760572558918,-83.21398244786208
+USA,Utah,Portland,927,Suburban,10-20 km,Arid,Moderate,High,High,High,Excellent,$100k-$300k,Low,Excellent,50.06994986250197,-92.59898637843035
+USA,Arizona,Portland,470,Suburban,5-10 km,Arid,Low,Low,High,Low,Excellent,$300k-$500k,Low,Fair,48.5401826595312,-94.73073259748344
+USA,Nevada,Tucson,343,Urban,5-10 km,Polar,High,Low,Low,High,Poor,<$100k,None,Poor,40.84448380545551,-88.53523368815445
+USA,Nevada,Salt Lake City,669,Rural,<5 km,Temperate,Low,Moderate,Medium,Moderate,Poor,$100k-$300k,Moderate,Fair,36.61122841299046,-89.92623509729766
+USA,Utah,Salt Lake City,697,Suburban,<5 km,Arid,High,Low,High,Moderate,Good,<$100k,None,Fair,36.524184937194015,-89.95750750684664
+USA,Arizona,Salem,184,Suburban,<5 km,Polar,Low,High,Low,Low,Good,$100k-$300k,Moderate,Poor,49.22079254429339,-89.08052668652022
+USA,Oregon,Portland,895,Urban,5-10 km,Temperate,Moderate,High,Low,High,Poor,<$100k,None,Poor,31.749941889350893,-88.46725065827383
+USA,Utah,West Valley City,682,Urban,5-10 km,Tropical,Moderate,High,Medium,High,Average,>$500k,High,Fair,34.85660374509931,-83.6984041492709
+USA,Oregon,Phoenix,966,Urban,5-10 km,Arid,High,High,High,Low,Good,<$100k,High,Excellent,37.6069665483898,-88.49983210932798
+USA,Arizona,Phoenix,584,Rural,20+ km,Polar,High,Moderate,High,Low,Poor,<$100k,Moderate,Fair,43.31981955888902,-88.07254446335503
+USA,Arizona,Tucson,519,Rural,5-10 km,Arid,Low,Low,Medium,Low,Poor,$300k-$500k,Moderate,Fair,37.703852668718035,-87.86786091538245
+USA,Utah,Phoenix,879,Rural,5-10 km,Tropical,Low,Low,High,Moderate,Poor,<$100k,High,Poor,41.57573838943239,-89.8901577176282
+USA,Arizona,Salem,703,Urban,20+ km,Temperate,Moderate,High,High,Low,Good,$100k-$300k,Low,Good,42.12710082472268,-92.25363384628155
+USA,Arizona,Phoenix,941,Rural,<5 km,Temperate,Moderate,High,Medium,Moderate,Average,$300k-$500k,Moderate,Poor,30.505621983143303,-89.04192826654199
+USA,Utah,Salem,737,Suburban,<5 km,Polar,Low,High,High,Moderate,Average,$300k-$500k,Low,Poor,50.718663915137874,-83.13174999886655
+USA,Oregon,Las Vegas,968,Rural,5-10 km,Polar,Moderate,Moderate,High,Low,Poor,>$500k,None,Excellent,41.30434249824263,-90.82090227399655
+USA,Arizona,Phoenix,945,Urban,20+ km,Polar,Low,Low,Medium,High,Good,<$100k,High,Poor,40.401484232837625,-86.93130076338502
+USA,Arizona,Las Vegas,975,Rural,20+ km,Arid,High,Moderate,Low,Low,Poor,<$100k,Low,Fair,45.6561879253851,-88.09279244159394
+USA,Arizona,Las Vegas,717,Rural,20+ km,Polar,High,Moderate,High,High,Excellent,>$500k,High,Poor,37.72271118963585,-84.64273528929253
+USA,Utah,West Valley City,970,Suburban,5-10 km,Arid,Moderate,Moderate,Medium,High,Poor,>$500k,Low,Poor,33.63402505093646,-87.90067620750979
+USA,Oregon,Phoenix,622,Suburban,10-20 km,Polar,Low,High,Low,Low,Excellent,>$500k,High,Fair,31.904382244052663,-88.16141100012199
+USA,Oregon,Portland,491,Rural,5-10 km,Tropical,Moderate,Low,High,Moderate,Good,$100k-$300k,Low,Good,40.11783435479308,-93.61564742803947
+USA,Arizona,Phoenix,958,Urban,20+ km,Temperate,Moderate,Moderate,Low,High,Poor,>$500k,None,Fair,37.32990494872513,-87.9512635621908
+USA,Oregon,Salt Lake City,323,Suburban,10-20 km,Tropical,High,Low,Low,Low,Average,>$500k,Moderate,Poor,32.790557135597965,-89.8935485137493
+USA,Arizona,Phoenix,718,Rural,20+ km,Polar,High,High,Medium,Moderate,Good,$300k-$500k,High,Excellent,42.202412887787595,-85.76078570426503
+USA,Nevada,Salem,243,Suburban,<5 km,Temperate,Moderate,Moderate,Medium,Moderate,Poor,<$100k,Low,Excellent,48.856204870073654,-98.87131341045315
+USA,Utah,West Valley City,371,Rural,10-20 km,Tropical,Low,Moderate,High,Moderate,Good,$300k-$500k,None,Fair,32.951146509591744,-87.654959984303
+USA,Oregon,Salem,623,Urban,5-10 km,Tropical,Moderate,High,Medium,Moderate,Poor,>$500k,High,Fair,39.850080123865354,-81.17248617032439
+USA,Nevada,Henderson,881,Urban,20+ km,Temperate,High,Moderate,Low,High,Average,$300k-$500k,Low,Fair,36.14404640590962,-89.1691938632575
+USA,Oregon,Phoenix,463,Suburban,10-20 km,Arid,High,Low,Low,High,Average,<$100k,None,Excellent,31.185854714409153,-85.8636599257673
+USA,Oregon,Tucson,170,Urban,10-20 km,Polar,High,Moderate,High,Low,Excellent,<$100k,None,Good,33.73082442758437,-86.22319744446247
+USA,Utah,Salem,414,Suburban,20+ km,Temperate,Low,High,Medium,Moderate,Good,$300k-$500k,Low,Fair,47.74030499453538,-94.61492476793052
+USA,Nevada,Salt Lake City,547,Urban,20+ km,Arid,Moderate,High,Low,Low,Excellent,$100k-$300k,Low,Fair,47.191919937665475,-89.93582587833889
+USA,Nevada,West Valley City,689,Urban,<5 km,Tropical,Low,Low,High,High,Poor,>$500k,Moderate,Good,40.13497102533411,-88.38277170333927
+USA,Arizona,Tucson,876,Suburban,5-10 km,Polar,Moderate,Low,Low,Low,Good,<$100k,High,Poor,42.24439016095211,-88.52796418104774
+USA,Nevada,Las Vegas,798,Urban,10-20 km,Tropical,High,Moderate,High,Low,Average,>$500k,High,Good,45.336075500160554,-86.12772255932927
+USA,Utah,Phoenix,670,Rural,<5 km,Arid,High,Low,Medium,High,Poor,$100k-$300k,Moderate,Fair,29.676132901881253,-89.87449502832993
+USA,Nevada,Salt Lake City,544,Rural,5-10 km,Arid,Moderate,Moderate,Low,Moderate,Poor,<$100k,High,Fair,35.76877009615415,-89.89341678286898
+USA,Oregon,Salem,823,Urban,<5 km,Tropical,Moderate,Low,High,High,Average,$100k-$300k,High,Fair,45.00747837987809,-92.50139297034187
+USA,Arizona,Salt Lake City,310,Rural,5-10 km,Arid,Low,Moderate,High,High,Excellent,>$500k,None,Excellent,41.98070979001544,-89.82811039416362
+USA,Oregon,Portland,766,Rural,20+ km,Polar,Moderate,Moderate,Medium,Moderate,Excellent,$300k-$500k,Low,Poor,46.14924041824749,-96.95824194791341
+USA,Arizona,West Valley City,850,Suburban,20+ km,Temperate,Low,Moderate,Medium,Low,Good,>$500k,None,Poor,36.12110199243682,-88.51186185313318
+USA,Utah,Salem,574,Rural,20+ km,Temperate,Low,High,High,Moderate,Average,>$500k,None,Excellent,33.04309087664166,-83.43668925314878
+USA,Arizona,Henderson,553,Urban,<5 km,Polar,Moderate,Low,Low,Low,Poor,$300k-$500k,None,Excellent,32.698811899361566,-92.69130656063955
+USA,Nevada,Portland,960,Urban,5-10 km,Temperate,Moderate,High,High,Moderate,Excellent,$100k-$300k,Moderate,Good,39.96160183946036,-92.63350824765926
+USA,Utah,Salem,856,Urban,20+ km,Arid,High,Moderate,Low,High,Good,$100k-$300k,None,Poor,34.91348695921266,-82.0839484471695
+USA,Arizona,Tucson,414,Suburban,5-10 km,Polar,Moderate,Moderate,Low,Low,Average,>$500k,Low,Good,34.21210905309993,-88.21425500867849
+USA,Nevada,Las Vegas,480,Rural,5-10 km,Arid,High,Low,High,High,Poor,$300k-$500k,High,Good,43.28472990017904,-92.50176151299075
+USA,Oregon,Las Vegas,253,Suburban,20+ km,Temperate,Low,Low,High,High,Average,$300k-$500k,Moderate,Poor,43.780162933959815,-90.50322403786149
+USA,Oregon,West Valley City,631,Rural,20+ km,Polar,High,Low,Low,Moderate,Average,$300k-$500k,High,Excellent,31.492494623998653,-85.67766279301992
+USA,Nevada,Phoenix,199,Urban,10-20 km,Tropical,Moderate,Low,Low,Moderate,Poor,$100k-$300k,Low,Good,35.404811400486864,-86.70510589663486
+USA,Utah,Portland,837,Urban,10-20 km,Polar,High,High,Low,High,Excellent,<$100k,Low,Fair,49.608755104635165,-95.38152607907605
+USA,Nevada,Las Vegas,797,Suburban,20+ km,Arid,Low,Moderate,High,Moderate,Poor,$300k-$500k,High,Poor,34.1391865146173,-86.21335129921302
+USA,Utah,Henderson,940,Urban,10-20 km,Polar,Low,Moderate,Low,Low,Poor,>$500k,Moderate,Good,35.714188539560475,-88.77628271797805
+USA,Utah,Tucson,902,Rural,20+ km,Tropical,High,Moderate,Low,Moderate,Average,<$100k,Low,Excellent,32.547699629020265,-87.18159969583527
+USA,Arizona,Las Vegas,613,Suburban,20+ km,Tropical,Low,Moderate,Low,Low,Average,<$100k,Low,Good,33.677848939292254,-91.34543673020853
+USA,Oregon,Phoenix,625,Suburban,<5 km,Polar,High,High,Low,Moderate,Excellent,$100k-$300k,Moderate,Excellent,38.974212346102334,-86.76319372457158
+USA,Utah,Las Vegas,930,Rural,20+ km,Tropical,High,Low,Medium,Moderate,Average,$300k-$500k,High,Good,38.15486979214118,-86.89065999875413
+USA,Oregon,Salem,405,Urban,5-10 km,Tropical,Low,Moderate,Low,Low,Excellent,$300k-$500k,None,Poor,52.94867434205918,-85.27385373587359
+USA,Oregon,Portland,160,Urban,<5 km,Arid,Moderate,Low,High,Low,Average,$300k-$500k,None,Poor,46.19505919455132,-98.61605165034238
+USA,Utah,Salt Lake City,267,Rural,5-10 km,Arid,High,Low,High,Moderate,Average,$300k-$500k,Low,Poor,45.27990713373288,-89.84465942106276
+USA,Nevada,Salt Lake City,151,Urban,<5 km,Temperate,Low,High,High,Moderate,Average,>$500k,Moderate,Fair,47.85488708954566,-89.82898161469876
+USA,Nevada,Salt Lake City,570,Suburban,5-10 km,Arid,Moderate,Low,Medium,Low,Poor,<$100k,Low,Excellent,37.8361823204356,-89.94491415219608
+USA,Nevada,Phoenix,304,Rural,10-20 km,Polar,High,High,Low,Low,Poor,>$500k,None,Excellent,43.129923184663205,-86.78723890062281
+USA,Nevada,Las Vegas,164,Rural,<5 km,Polar,Moderate,Moderate,Medium,High,Poor,$100k-$300k,None,Excellent,34.548935123513346,-85.30365919162854
+USA,Nevada,Salt Lake City,142,Suburban,20+ km,Arid,Moderate,Moderate,Medium,Moderate,Average,$300k-$500k,Low,Fair,45.001259270623066,-89.93699375682695
+USA,Utah,Portland,218,Rural,10-20 km,Temperate,Moderate,Low,High,Low,Excellent,<$100k,High,Poor,41.58315570782982,-83.75936782257178
+USA,Oregon,Salem,964,Rural,<5 km,Temperate,High,Moderate,Medium,Low,Average,$300k-$500k,High,Poor,49.067877950389175,-96.98998411685497
+USA,Nevada,Tucson,514,Rural,5-10 km,Temperate,Low,Low,Medium,Moderate,Excellent,<$100k,High,Good,30.26334927866523,-86.49837688264587
+USA,Nevada,Salem,201,Urban,<5 km,Tropical,Moderate,High,Medium,High,Excellent,$100k-$300k,High,Fair,49.20059568707802,-91.5899959059425
+USA,Nevada,Tucson,138,Urban,20+ km,Polar,High,Moderate,Medium,Low,Poor,$100k-$300k,Moderate,Excellent,31.430630650691196,-86.4725996755635
+USA,Utah,Salem,132,Suburban,5-10 km,Polar,Moderate,High,Low,High,Average,$300k-$500k,Moderate,Poor,33.26244588310849,-88.1705400313189
+USA,Oregon,Las Vegas,954,Rural,10-20 km,Temperate,Low,High,Low,Moderate,Poor,$100k-$300k,High,Fair,46.2374621325101,-91.70364036454721
+USA,Oregon,Salem,419,Suburban,10-20 km,Polar,Low,Low,Low,Moderate,Excellent,$100k-$300k,None,Good,33.07576823284398,-83.69139044340764
+USA,Utah,Salt Lake City,151,Rural,10-20 km,Arid,Moderate,Low,Low,High,Excellent,<$100k,Low,Good,50.53747700626313,-89.90954068260756
+USA,Oregon,Salem,249,Urban,5-10 km,Arid,Low,Low,Medium,High,Poor,<$100k,Low,Fair,42.83325402413513,-96.79845772357096
+USA,Utah,Salt Lake City,239,Rural,<5 km,Temperate,Moderate,High,Low,Moderate,Excellent,<$100k,None,Excellent,33.38480430496989,-89.94812668779642
+USA,Nevada,Portland,334,Urban,<5 km,Polar,High,Moderate,Low,High,Excellent,$100k-$300k,High,Excellent,32.55750540300299,-83.19957044115148
+USA,Utah,Phoenix,391,Rural,<5 km,Temperate,High,High,High,High,Average,$300k-$500k,High,Poor,38.81497167890497,-87.70399668893235
+USA,Nevada,Tucson,101,Suburban,5-10 km,Tropical,High,High,Medium,High,Average,$100k-$300k,Moderate,Excellent,37.35457260364889,-88.04790817993987
+USA,Arizona,Portland,164,Urban,5-10 km,Arid,High,High,Low,Moderate,Good,$300k-$500k,Low,Good,44.51062644842494,-95.31438384013657
+USA,Nevada,Phoenix,350,Rural,10-20 km,Arid,High,Low,Low,Low,Poor,<$100k,Moderate,Excellent,41.3619746630358,-86.74891518614908
+USA,Utah,West Valley City,253,Urban,5-10 km,Arid,Moderate,Low,High,Low,Average,<$100k,Low,Fair,41.89516384833969,-81.25086385021164
+USA,Utah,Las Vegas,362,Suburban,<5 km,Temperate,Moderate,Low,High,High,Good,$100k-$300k,Moderate,Fair,37.07590974875647,-91.70999504975131
+USA,Oregon,West Valley City,550,Rural,<5 km,Temperate,Low,High,Low,High,Average,>$500k,High,Fair,39.21276192716245,-82.92047786022849
+USA,Nevada,West Valley City,162,Rural,5-10 km,Arid,High,Low,Medium,High,Poor,$300k-$500k,Low,Fair,45.85480826365645,-81.42766187350475
+USA,Oregon,Las Vegas,727,Suburban,10-20 km,Polar,Low,High,High,Low,Excellent,>$500k,Moderate,Fair,29.766852974654746,-89.5441797513961
+USA,Oregon,Salem,109,Rural,10-20 km,Polar,High,High,High,Moderate,Good,$100k-$300k,Low,Poor,38.994071708585466,-85.07392614310567
+USA,Utah,Phoenix,351,Rural,<5 km,Arid,Moderate,Low,Low,High,Average,$100k-$300k,Moderate,Poor,42.03754513709194,-86.85289234220575
+USA,Nevada,Phoenix,667,Rural,20+ km,Arid,Low,High,High,High,Average,$300k-$500k,Low,Fair,32.99819033070969,-89.48396080609278
+USA,Nevada,Tucson,124,Suburban,5-10 km,Temperate,High,Low,High,Moderate,Poor,>$500k,High,Good,29.38624560368916,-88.48616027151915
+USA,Oregon,Salem,357,Rural,5-10 km,Arid,Low,High,Low,High,Poor,$100k-$300k,Low,Excellent,52.39917641191532,-87.63943448002348
+USA,Utah,Las Vegas,388,Suburban,20+ km,Temperate,High,Moderate,High,Low,Poor,$100k-$300k,None,Good,38.74842800577186,-92.7538907484272
+USA,Utah,Las Vegas,998,Rural,20+ km,Temperate,Moderate,High,High,Moderate,Excellent,>$500k,High,Good,31.08226290374317,-85.12237872508696
+USA,Arizona,Salem,440,Urban,5-10 km,Tropical,High,Moderate,Low,High,Good,>$500k,None,Fair,32.99492878086336,-91.7423750851796
+USA,Utah,Portland,236,Suburban,10-20 km,Polar,Moderate,Low,Medium,Low,Poor,<$100k,Low,Excellent,42.3262555261127,-83.2282870256302
+USA,Arizona,Phoenix,413,Suburban,10-20 km,Temperate,High,Low,High,Moderate,Excellent,$100k-$300k,Low,Good,43.11091329157723,-85.53607431663706
+USA,Utah,Salem,936,Urban,<5 km,Arid,High,Moderate,High,High,Poor,<$100k,High,Fair,34.575729618479926,-96.29500050751568
+USA,Utah,Tucson,912,Urban,<5 km,Temperate,High,Moderate,Medium,High,Poor,$100k-$300k,Low,Fair,39.077549106488654,-88.73454733965914
+USA,Nevada,Portland,680,Rural,20+ km,Temperate,Moderate,High,Medium,Low,Poor,$300k-$500k,Low,Fair,33.6465216736744,-86.15650106409979
+USA,Oregon,Phoenix,126,Suburban,<5 km,Arid,Moderate,Moderate,Low,High,Good,<$100k,None,Fair,42.168526275443114,-88.19118957282708
+USA,Nevada,Portland,822,Urban,<5 km,Tropical,High,Moderate,Medium,Low,Excellent,$100k-$300k,Low,Fair,31.388209187970098,-92.46088244794078
+USA,Nevada,Salem,970,Rural,5-10 km,Arid,Low,Moderate,High,High,Average,$100k-$300k,None,Good,52.0037024853448,-85.4426445882508
+USA,Oregon,Salt Lake City,435,Rural,<5 km,Tropical,High,High,Medium,Moderate,Excellent,>$500k,None,Fair,37.15689543017872,-89.89162344994077
+USA,Nevada,Las Vegas,899,Urban,20+ km,Polar,High,Low,High,Moderate,Excellent,$300k-$500k,Low,Poor,42.808977677726865,-89.60602178481174
+USA,Nevada,Phoenix,741,Rural,20+ km,Temperate,High,High,High,High,Poor,<$100k,Low,Fair,33.072971186873914,-85.65115682917836
+USA,Arizona,Tucson,716,Suburban,5-10 km,Arid,Moderate,High,Medium,High,Excellent,>$500k,Moderate,Poor,33.78745621458337,-86.56098216822504
+USA,Oregon,West Valley City,985,Suburban,5-10 km,Arid,Moderate,Low,Low,Moderate,Average,$300k-$500k,High,Good,47.379734389910496,-82.64771785201772
+USA,Arizona,West Valley City,564,Suburban,20+ km,Polar,High,Low,High,High,Poor,<$100k,None,Fair,40.55575860638425,-82.04506720263612
+USA,Arizona,Salem,270,Rural,20+ km,Tropical,Low,Moderate,Low,Low,Average,$100k-$300k,High,Poor,41.667681217989056,-96.00516680758878
+USA,Arizona,Tucson,432,Urban,<5 km,Tropical,Moderate,Low,Medium,High,Good,$100k-$300k,Moderate,Fair,35.26319765052902,-88.30236602238078
+USA,Nevada,Salem,694,Suburban,5-10 km,Temperate,High,Moderate,Low,Low,Poor,$100k-$300k,Moderate,Poor,36.98947607201566,-81.97817193419606
+USA,Utah,Phoenix,738,Suburban,5-10 km,Polar,Moderate,Moderate,Low,Low,Poor,<$100k,High,Excellent,42.09249911562166,-89.47866184644914
+USA,Utah,Tucson,433,Suburban,5-10 km,Temperate,Low,Moderate,Medium,Low,Good,$300k-$500k,Moderate,Poor,40.89969774853012,-88.51620725751141
+USA,Utah,Las Vegas,486,Suburban,<5 km,Polar,Moderate,Moderate,High,Low,Average,>$500k,Moderate,Poor,35.0394723529253,-88.29525526411813
+USA,Arizona,Tucson,574,Rural,<5 km,Arid,Moderate,High,High,Low,Good,>$500k,Moderate,Good,29.83086698686028,-88.69638458600699
+USA,Nevada,Portland,633,Rural,5-10 km,Polar,Low,Moderate,Medium,Low,Excellent,$100k-$300k,High,Excellent,39.86436215984267,-92.15083888216405
+USA,Arizona,Tucson,541,Rural,20+ km,Polar,Moderate,High,Low,High,Poor,$300k-$500k,High,Excellent,41.956195144376906,-87.18224467950377
+USA,Oregon,Salem,663,Rural,<5 km,Polar,High,Low,Low,Moderate,Poor,>$500k,High,Good,50.74001887349599,-85.47917744086207
+USA,Utah,Portland,958,Suburban,20+ km,Temperate,High,Moderate,High,Moderate,Poor,<$100k,Low,Good,44.81845370956061,-94.6546158953984
+USA,Nevada,Las Vegas,926,Suburban,5-10 km,Polar,Low,Low,Medium,Moderate,Good,>$500k,Moderate,Fair,45.91749791718018,-88.92316347503248
+USA,Oregon,Tucson,133,Rural,10-20 km,Arid,Low,High,High,Moderate,Excellent,$100k-$300k,Low,Fair,37.37806941173404,-87.00927764819043
+USA,Utah,Salem,256,Urban,5-10 km,Arid,Low,Low,High,Moderate,Poor,<$100k,Moderate,Excellent,41.920507587089666,-96.30358691103748
+USA,Nevada,Salem,786,Rural,10-20 km,Temperate,High,Moderate,High,High,Average,<$100k,High,Poor,45.49222083289334,-98.03324981303497
+USA,Oregon,Salem,813,Suburban,10-20 km,Arid,Low,Low,Low,High,Poor,$100k-$300k,Low,Fair,38.91091403361527,-83.67216394915393
+USA,Arizona,Salem,378,Urban,10-20 km,Temperate,Moderate,Moderate,High,Moderate,Poor,$300k-$500k,High,Poor,34.75523895511476,-86.56816325637116
+USA,Nevada,Salem,880,Rural,5-10 km,Tropical,Moderate,Moderate,Low,Low,Poor,$100k-$300k,High,Excellent,39.7674258143506,-87.1403752093807
+USA,Nevada,Portland,987,Urban,20+ km,Tropical,Low,Moderate,High,Low,Average,$300k-$500k,None,Fair,33.11533250923513,-82.67218798295283
+USA,Utah,Henderson,963,Rural,<5 km,Temperate,Low,Moderate,Low,Moderate,Good,<$100k,None,Fair,44.04924981746906,-87.1415190736308
+USA,Nevada,Tucson,686,Urban,10-20 km,Polar,Moderate,Low,Medium,High,Poor,$300k-$500k,None,Poor,34.54069212799041,-86.77168125804137
+USA,Oregon,Portland,422,Suburban,10-20 km,Polar,High,High,Low,Low,Poor,$100k-$300k,High,Excellent,33.875513377477915,-95.50892517588191
+USA,Oregon,Portland,446,Urban,10-20 km,Temperate,Moderate,High,Low,Moderate,Good,$300k-$500k,Low,Fair,37.150446102190635,-95.4665302498003
+USA,Oregon,West Valley City,238,Urban,20+ km,Tropical,High,Moderate,High,Moderate,Excellent,$100k-$300k,Low,Good,50.558663868917186,-85.98574558617047
+USA,Oregon,Portland,957,Suburban,20+ km,Temperate,Moderate,Low,Low,High,Poor,$100k-$300k,Low,Good,50.51303689795584,-82.57869251313254
+USA,Nevada,Tucson,903,Urban,<5 km,Temperate,High,High,Medium,Low,Good,>$500k,Low,Excellent,36.64769897168416,-87.01699465951506
+USA,Oregon,Las Vegas,620,Rural,5-10 km,Polar,Low,Moderate,Medium,Low,Excellent,<$100k,None,Good,45.97088345953282,-85.36118150474792
+USA,Utah,Salt Lake City,497,Suburban,5-10 km,Tropical,Moderate,Low,Medium,Low,Excellent,$300k-$500k,High,Fair,43.180642802939474,-89.95497747650577
+USA,Arizona,Portland,958,Urban,<5 km,Temperate,Moderate,Moderate,High,High,Excellent,$300k-$500k,High,Fair,38.884757769817085,-85.4905777140961
+USA,Oregon,West Valley City,565,Urban,5-10 km,Arid,Low,Moderate,Low,High,Good,$300k-$500k,Low,Good,39.80626437862801,-87.64719644130567
+USA,Oregon,West Valley City,839,Suburban,10-20 km,Tropical,Moderate,Moderate,High,High,Average,<$100k,Moderate,Excellent,45.22613031021498,-86.83561376231782
+USA,Oregon,West Valley City,880,Suburban,10-20 km,Tropical,High,High,Medium,Low,Excellent,>$500k,Low,Good,34.61139209153599,-85.00621947771488
+USA,Arizona,Henderson,964,Urban,10-20 km,Arid,Moderate,Low,High,Low,Poor,>$500k,Low,Excellent,43.44531821820605,-92.39511149426205
+USA,Nevada,West Valley City,442,Suburban,10-20 km,Tropical,High,High,High,Moderate,Excellent,$300k-$500k,High,Fair,48.71981861256238,-84.91777571787422
+USA,Utah,Salt Lake City,457,Urban,20+ km,Temperate,Moderate,Low,High,Low,Poor,<$100k,Moderate,Poor,37.737742684339196,-89.90411093350164
+USA,Oregon,Las Vegas,416,Suburban,5-10 km,Arid,Low,High,Low,High,Good,$300k-$500k,Moderate,Fair,45.164387115108724,-85.17225110447946
+USA,Utah,Phoenix,977,Suburban,<5 km,Tropical,High,High,Medium,High,Poor,>$500k,Low,Fair,42.21475653610335,-85.3843908596239
+USA,Oregon,Henderson,838,Rural,5-10 km,Arid,Low,Low,Medium,Low,Excellent,$100k-$300k,Low,Fair,32.998651757953425,-84.72072830308089
+USA,Nevada,Henderson,263,Suburban,20+ km,Temperate,Moderate,High,Low,High,Poor,$300k-$500k,Moderate,Good,39.856218418246286,-88.90833915732927
+USA,Nevada,Tucson,469,Rural,20+ km,Polar,High,High,High,Low,Excellent,$300k-$500k,Low,Good,32.79631814997893,-88.65969539248351
+USA,Utah,Tucson,724,Urban,20+ km,Polar,Moderate,High,High,High,Good,>$500k,Low,Fair,29.97207862159223,-88.63310649579935
+USA,Nevada,Las Vegas,379,Urban,<5 km,Temperate,Moderate,Low,Low,Moderate,Average,$300k-$500k,None,Poor,30.66027222329237,-84.96094520008373
+USA,Arizona,Henderson,329,Urban,10-20 km,Arid,Low,Low,High,Moderate,Good,$100k-$300k,Moderate,Poor,45.92246007468215,-90.08293304921243
+USA,Oregon,Tucson,357,Suburban,10-20 km,Arid,Low,Low,Low,Moderate,Excellent,>$500k,Moderate,Excellent,36.82160319976092,-88.06054178772328
+USA,Arizona,Phoenix,259,Rural,5-10 km,Arid,High,Moderate,Medium,High,Excellent,>$500k,High,Poor,32.32927655076944,-89.55361663578573
+USA,Arizona,Henderson,446,Suburban,<5 km,Temperate,Low,Low,High,Low,Average,$300k-$500k,None,Good,45.81445554156397,-85.53889968354265
+USA,Nevada,Henderson,172,Urban,20+ km,Temperate,High,Moderate,Medium,Low,Average,$100k-$300k,None,Excellent,30.14667524945031,-92.01984612626185
+USA,Oregon,Henderson,900,Urban,<5 km,Polar,Moderate,Moderate,Medium,High,Excellent,<$100k,Low,Poor,41.657158582380546,-90.3922447129545
+USA,Utah,Salem,121,Suburban,5-10 km,Arid,Moderate,High,Medium,Low,Excellent,<$100k,Moderate,Good,41.220744191842996,-85.21139588254519
+USA,Arizona,Las Vegas,114,Suburban,10-20 km,Polar,High,High,Low,Moderate,Good,$300k-$500k,None,Excellent,36.988753764952506,-87.49441086682492
+USA,Nevada,Salt Lake City,711,Rural,10-20 km,Tropical,Moderate,Moderate,High,Moderate,Excellent,>$500k,Moderate,Excellent,47.534360104550046,-89.90847336136942
+USA,Arizona,West Valley City,468,Urban,<5 km,Temperate,High,Moderate,High,High,Poor,$100k-$300k,None,Poor,46.199570103193736,-89.12499128003614
+USA,Oregon,Portland,591,Rural,10-20 km,Temperate,High,Moderate,Low,High,Excellent,>$500k,Low,Fair,46.3467813201507,-82.01257680449777
+USA,Oregon,Henderson,121,Rural,5-10 km,Arid,High,High,Low,Moderate,Average,$300k-$500k,None,Fair,43.110841045583044,-87.09608906448658
+USA,Utah,Tucson,830,Rural,<5 km,Arid,Moderate,Moderate,Low,Moderate,Average,<$100k,High,Good,35.475637909604494,-87.20233694128764
+USA,Nevada,Portland,708,Rural,5-10 km,Tropical,Moderate,High,Medium,Moderate,Excellent,$300k-$500k,Low,Good,38.90679843555387,-100.15815918978261
+USA,Nevada,Salt Lake City,213,Suburban,5-10 km,Polar,Moderate,Low,Low,Low,Excellent,$100k-$300k,Low,Fair,35.02477307469525,-89.9101866360276
+USA,Nevada,Henderson,451,Urban,10-20 km,Polar,Low,Moderate,High,Moderate,Excellent,$300k-$500k,Low,Fair,41.88598819564876,-87.27211852552486
+USA,Utah,Tucson,354,Urban,20+ km,Temperate,Low,Moderate,Medium,High,Poor,>$500k,Moderate,Excellent,38.98713574071754,-87.66705369527904
+USA,Nevada,West Valley City,394,Suburban,20+ km,Temperate,High,Moderate,High,Low,Good,<$100k,High,Good,45.18346317607083,-89.0049963220431
+USA,Utah,Salt Lake City,934,Rural,<5 km,Tropical,Low,Low,Medium,Low,Good,>$500k,High,Fair,38.763881791166035,-89.86382720110895
+USA,Oregon,Henderson,997,Rural,10-20 km,Temperate,Moderate,High,Medium,Moderate,Excellent,$100k-$300k,Low,Poor,45.55152446201385,-91.70631471510116
+USA,Utah,Salt Lake City,363,Suburban,5-10 km,Arid,Moderate,High,Medium,High,Average,>$500k,Moderate,Fair,41.58482399474089,-89.85313798919128
+USA,Nevada,Henderson,714,Suburban,10-20 km,Temperate,Moderate,Moderate,Low,High,Good,>$500k,Moderate,Fair,35.440790820641766,-85.16455351423475
+USA,Oregon,Salt Lake City,665,Rural,5-10 km,Arid,Low,High,High,High,Average,>$500k,Low,Excellent,34.796697384108725,-89.95523676400144
+USA,Nevada,Salt Lake City,929,Suburban,20+ km,Polar,Low,High,Medium,Low,Excellent,>$500k,Low,Fair,47.100986101919354,-89.9404539163948
+USA,Utah,Henderson,579,Urban,10-20 km,Tropical,Moderate,High,Low,Moderate,Excellent,<$100k,Moderate,Good,39.78532397057272,-88.46503146586852
+USA,Nevada,Portland,463,Suburban,20+ km,Tropical,Low,High,Medium,Low,Average,$300k-$500k,None,Good,42.963298324538336,-84.59094865555957
+USA,Arizona,Phoenix,807,Suburban,<5 km,Temperate,Low,Low,High,High,Average,<$100k,Moderate,Poor,41.65398841122176,-89.37231432207477
+USA,Utah,Salem,235,Urban,<5 km,Tropical,Moderate,High,Low,High,Average,$300k-$500k,High,Excellent,37.58602660727507,-81.3614254935527
+USA,Arizona,West Valley City,775,Urban,<5 km,Arid,High,Moderate,High,Moderate,Excellent,$300k-$500k,Moderate,Fair,37.12460187230727,-81.50589804370298
+USA,Utah,Tucson,674,Suburban,20+ km,Polar,High,High,Medium,High,Poor,>$500k,Moderate,Fair,41.64232923728938,-86.82610280169412
+USA,Oregon,Salt Lake City,346,Suburban,5-10 km,Polar,Low,High,Medium,High,Average,$300k-$500k,High,Poor,31.741654744862473,-89.95166942280332
+USA,Arizona,Tucson,918,Suburban,20+ km,Polar,High,Low,Low,Low,Average,$300k-$500k,Low,Fair,32.01399691025812,-87.48770292663538
+USA,Oregon,Portland,472,Suburban,5-10 km,Polar,High,Moderate,High,Moderate,Average,$300k-$500k,None,Poor,32.83800200270808,-99.89052354103507
+USA,Utah,Portland,553,Rural,10-20 km,Arid,Low,High,Medium,High,Average,$300k-$500k,Moderate,Fair,43.917921724526,-86.92358622749117
+USA,Arizona,Salem,825,Rural,<5 km,Temperate,Moderate,Moderate,High,Low,Poor,>$500k,Moderate,Excellent,48.357731084986824,-92.16841919949924
+USA,Utah,Portland,188,Urban,5-10 km,Tropical,Moderate,Low,High,High,Poor,$100k-$300k,None,Good,33.61834065985328,-87.27597299263425
+USA,Utah,Las Vegas,105,Suburban,10-20 km,Temperate,Low,Low,Low,Low,Average,<$100k,None,Excellent,35.676336569925596,-87.76534245579695
+USA,Oregon,Henderson,222,Suburban,10-20 km,Arid,Low,Moderate,High,High,Excellent,$300k-$500k,High,Poor,40.922569338526564,-88.78003305517953
+USA,Oregon,Tucson,723,Suburban,<5 km,Polar,High,High,Medium,Moderate,Poor,>$500k,None,Poor,37.167773490605796,-86.51816969362484
+USA,Oregon,Salem,142,Rural,5-10 km,Polar,Low,High,Medium,High,Good,<$100k,High,Good,41.23364285726272,-87.4491746212962
+USA,Oregon,Las Vegas,655,Urban,20+ km,Temperate,High,Moderate,Low,Low,Good,$300k-$500k,Low,Good,39.54369798874445,-86.55298920913361
+USA,Arizona,Las Vegas,262,Urban,10-20 km,Arid,Moderate,Low,Low,High,Average,<$100k,None,Fair,44.29423097515319,-86.59039642253137
+USA,Oregon,Salt Lake City,884,Suburban,20+ km,Tropical,Low,Low,High,High,Good,$100k-$300k,Moderate,Poor,31.62643042284495,-89.87853826434619
+USA,Utah,Portland,470,Urban,20+ km,Tropical,High,Low,Low,Moderate,Average,>$500k,High,Excellent,39.369984324655796,-83.1882418987805
+USA,Arizona,Henderson,679,Rural,5-10 km,Arid,High,Low,Low,Moderate,Average,>$500k,High,Good,43.45489143637943,-89.35784944912837
+USA,Nevada,Henderson,700,Suburban,20+ km,Temperate,High,High,Low,Moderate,Excellent,<$100k,None,Excellent,33.198734988881206,-87.47099107955799
+USA,Utah,West Valley City,314,Rural,<5 km,Arid,Low,High,High,Moderate,Average,$300k-$500k,High,Excellent,40.551706962504596,-86.20205721072682
+USA,Oregon,West Valley City,851,Rural,20+ km,Temperate,Moderate,Low,High,Low,Poor,$100k-$300k,Moderate,Fair,45.33318696701977,-84.41066201987475
+USA,Nevada,Las Vegas,870,Urban,<5 km,Polar,High,High,High,Low,Excellent,$300k-$500k,High,Good,29.379012093190592,-84.58241346806466
+USA,Oregon,West Valley City,389,Suburban,20+ km,Tropical,High,Moderate,High,High,Average,$100k-$300k,None,Excellent,39.9030994671366,-84.0444480688628
+USA,Nevada,Tucson,464,Urban,20+ km,Arid,Moderate,High,High,Moderate,Excellent,<$100k,Moderate,Poor,34.77450643751728,-88.15807520276547
+USA,Oregon,Tucson,126,Rural,5-10 km,Arid,High,Low,Medium,High,Good,<$100k,Moderate,Excellent,30.0643991098636,-86.61222083857012
+USA,Nevada,Portland,230,Suburban,5-10 km,Polar,Moderate,Moderate,Medium,Moderate,Good,$100k-$300k,None,Poor,47.80956229101666,-88.37750093103938
+USA,Utah,Tucson,337,Urban,20+ km,Arid,Moderate,Low,High,High,Poor,$100k-$300k,Moderate,Fair,41.52268397970259,-88.00406193580301
+USA,Oregon,West Valley City,555,Rural,5-10 km,Polar,Low,Moderate,High,Low,Average,<$100k,None,Fair,39.43971165436158,-89.32550693934698
+USA,Arizona,West Valley City,595,Rural,<5 km,Tropical,Moderate,Low,Low,Low,Excellent,$100k-$300k,Moderate,Excellent,44.29620749078214,-81.86728523963384
+USA,Utah,Salt Lake City,558,Rural,<5 km,Temperate,Low,High,Low,Low,Excellent,<$100k,High,Poor,43.33194539133357,-89.84717402726291
+USA,Arizona,West Valley City,194,Rural,5-10 km,Tropical,Moderate,Low,Medium,Low,Poor,$300k-$500k,High,Poor,34.81533455810217,-83.94125335894029
+USA,Oregon,Salem,431,Urban,<5 km,Tropical,High,Low,Medium,High,Excellent,$100k-$300k,None,Fair,51.62355311539317,-85.76626012886429
+USA,Arizona,Portland,465,Rural,20+ km,Arid,Low,Low,High,Low,Excellent,$100k-$300k,Moderate,Good,30.726834739257175,-83.20589553212872
+USA,Oregon,West Valley City,607,Suburban,20+ km,Tropical,Low,High,Low,Moderate,Excellent,$100k-$300k,Moderate,Poor,37.546250906621935,-84.64982333037752
+USA,Oregon,Salem,718,Suburban,<5 km,Tropical,Moderate,High,Medium,Low,Average,$300k-$500k,Moderate,Excellent,46.329664021510396,-95.6856313358779
+USA,Nevada,Portland,168,Urban,10-20 km,Tropical,Low,Low,High,High,Average,$300k-$500k,Moderate,Good,32.5890035713193,-92.96468126001153
+USA,Oregon,Las Vegas,694,Rural,20+ km,Temperate,Low,Moderate,Low,Low,Average,<$100k,Moderate,Excellent,32.79948020507982,-90.35123993945427
+USA,Utah,Phoenix,951,Rural,10-20 km,Temperate,Moderate,High,High,Low,Excellent,$100k-$300k,High,Good,29.345470278269907,-87.16355953392905
+USA,Arizona,Phoenix,744,Suburban,5-10 km,Tropical,Moderate,Low,Low,Moderate,Excellent,<$100k,Moderate,Fair,40.823609179429965,-86.45071822312998
+USA,Utah,Portland,246,Suburban,<5 km,Tropical,Moderate,High,Medium,Moderate,Poor,$100k-$300k,Moderate,Poor,45.8532982209364,-88.62646067036512
+USA,Arizona,Las Vegas,354,Rural,5-10 km,Tropical,Moderate,High,High,Low,Average,<$100k,None,Good,34.25132920232195,-83.45780956849589
+USA,Nevada,Henderson,260,Urban,5-10 km,Temperate,Moderate,Moderate,Medium,Low,Good,>$500k,None,Fair,30.223373071745634,-91.33855287505973
+USA,Arizona,Salem,885,Urban,5-10 km,Tropical,Low,High,Low,Moderate,Average,<$100k,High,Poor,37.76215754723681,-89.04357687783727
+USA,Arizona,Henderson,879,Urban,<5 km,Tropical,Moderate,Moderate,Medium,High,Average,<$100k,None,Fair,35.21520120935254,-89.82095251081962
+USA,Arizona,West Valley City,228,Urban,10-20 km,Polar,Low,Low,High,Moderate,Average,$300k-$500k,High,Poor,43.33109175684291,-83.0640656501117
+USA,Oregon,Henderson,519,Suburban,5-10 km,Tropical,Moderate,Moderate,Low,Low,Poor,<$100k,Moderate,Poor,32.395983726803514,-90.70352952885894
+USA,Arizona,Salt Lake City,920,Rural,20+ km,Temperate,Low,High,High,Moderate,Average,$100k-$300k,None,Excellent,37.9396232408934,-89.86734045254309
+USA,Arizona,Henderson,495,Urban,<5 km,Arid,Moderate,Moderate,Medium,Low,Poor,>$500k,Low,Good,36.81688124490322,-89.83171563028804
+USA,Oregon,Portland,626,Suburban,5-10 km,Tropical,Low,Moderate,Low,High,Poor,<$100k,Low,Excellent,30.335627490017934,-97.24821767854915
+USA,Utah,Phoenix,600,Rural,<5 km,Temperate,Moderate,Moderate,High,Moderate,Excellent,$300k-$500k,Moderate,Excellent,32.33919875500976,-87.93377794629859
+USA,Nevada,Salem,475,Urban,<5 km,Polar,Moderate,Low,Medium,High,Poor,$300k-$500k,High,Good,46.30556084302603,-95.1500269600586
+USA,Utah,Tucson,843,Urban,<5 km,Arid,Moderate,High,Medium,Moderate,Average,$100k-$300k,Moderate,Fair,39.723401435847514,-87.12496467721658
+USA,Arizona,Tucson,386,Rural,5-10 km,Polar,High,Moderate,Medium,Low,Average,$300k-$500k,High,Excellent,41.56906216376778,-88.53920830415608
+USA,Arizona,Salt Lake City,388,Urban,10-20 km,Temperate,High,Moderate,High,Low,Average,$300k-$500k,None,Good,35.00148021527387,-89.87847391844652
+USA,Oregon,Portland,383,Suburban,<5 km,Tropical,Low,Moderate,Low,High,Good,$300k-$500k,Moderate,Excellent,40.72347220642912,-94.39224369618454
+USA,Oregon,Salt Lake City,881,Rural,20+ km,Arid,High,Moderate,High,High,Poor,>$500k,None,Excellent,41.02067174090073,-89.83682849083223
+USA,Arizona,Portland,772,Rural,<5 km,Tropical,Low,Moderate,Medium,High,Poor,$300k-$500k,High,Excellent,38.093054134584385,-87.85294578932977
+USA,Nevada,West Valley City,902,Urban,10-20 km,Temperate,High,High,High,High,Excellent,$300k-$500k,Moderate,Fair,39.733523191357044,-83.74379596083695
+USA,Nevada,Salt Lake City,919,Suburban,10-20 km,Temperate,High,Low,Medium,High,Average,$300k-$500k,High,Good,39.84373880758208,-89.80801775093653
+USA,Utah,Portland,504,Suburban,20+ km,Temperate,Low,High,High,Moderate,Good,>$500k,High,Good,49.77704959555082,-97.72557467508435
+USA,Nevada,Salem,638,Rural,<5 km,Polar,Moderate,Low,Medium,High,Average,<$100k,Moderate,Good,34.318294141673164,-94.43555928114671
+USA,Oregon,Salem,943,Urban,5-10 km,Tropical,Moderate,High,Low,High,Excellent,$300k-$500k,High,Good,34.007633964330765,-91.84341786992698
+USA,Utah,West Valley City,592,Urban,5-10 km,Temperate,Moderate,Low,High,Moderate,Average,$100k-$300k,Moderate,Fair,40.91348430220081,-88.39413814371605
+USA,Utah,Las Vegas,604,Rural,5-10 km,Tropical,High,High,Low,High,Excellent,<$100k,Low,Excellent,38.733852774874734,-87.986857243822
+USA,Arizona,Salem,508,Rural,10-20 km,Arid,Low,Moderate,High,Low,Average,<$100k,Moderate,Fair,51.09714963244768,-95.51771273112448
+USA,Nevada,Salt Lake City,954,Rural,10-20 km,Arid,Moderate,Moderate,High,Low,Poor,$300k-$500k,Low,Poor,48.01645692947823,-89.80479809642729
+USA,Oregon,Henderson,422,Suburban,5-10 km,Arid,Low,Low,High,Moderate,Poor,<$100k,Moderate,Good,43.9685488461855,-87.44659027793865
+USA,Nevada,Phoenix,940,Rural,5-10 km,Arid,Low,Low,Low,Low,Average,>$500k,Low,Good,33.550311943394846,-86.63644930955816
+USA,Oregon,West Valley City,234,Suburban,5-10 km,Tropical,High,Moderate,High,Low,Average,<$100k,Low,Fair,33.773441601226935,-89.28981092591664
+USA,Nevada,Portland,566,Urban,<5 km,Tropical,Low,Low,Medium,High,Excellent,$100k-$300k,Moderate,Fair,50.15895623505364,-93.23283762368584
+USA,Utah,Las Vegas,799,Rural,20+ km,Polar,Moderate,Moderate,Low,Low,Poor,$100k-$300k,None,Poor,35.67883058952658,-84.19535140494501
+USA,Arizona,West Valley City,750,Suburban,5-10 km,Arid,High,Moderate,Medium,High,Average,>$500k,Moderate,Poor,47.43323674701722,-81.29784959387086
+USA,Oregon,Salem,848,Suburban,20+ km,Arid,High,Low,Medium,Low,Poor,$100k-$300k,Low,Poor,40.9920010401805,-94.65489303818975
+USA,Oregon,Las Vegas,285,Urban,20+ km,Temperate,Moderate,Moderate,Low,Low,Average,$300k-$500k,None,Fair,43.75604219152085,-90.4587939777103
+USA,Utah,West Valley City,124,Suburban,20+ km,Temperate,Moderate,Low,Medium,Moderate,Poor,$100k-$300k,High,Poor,41.09803012794367,-89.65948606734747
+USA,Oregon,West Valley City,152,Rural,<5 km,Polar,Low,High,Low,Low,Poor,$300k-$500k,Low,Fair,40.07379100022376,-89.52636510672764
+USA,Utah,Salem,940,Suburban,5-10 km,Temperate,Low,Low,High,Low,Poor,<$100k,High,Poor,36.02096782353565,-96.88240080930137
+USA,Arizona,Phoenix,435,Urban,<5 km,Polar,Moderate,Low,Medium,High,Average,>$500k,Low,Good,42.789116297295706,-86.57452496074386
+USA,Arizona,Salem,549,Suburban,10-20 km,Arid,High,Moderate,Low,Moderate,Good,$100k-$300k,None,Poor,41.690191538206044,-88.33180340487732
+USA,Arizona,Henderson,929,Rural,10-20 km,Arid,Moderate,Moderate,High,Moderate,Average,$300k-$500k,Low,Excellent,38.677703403224214,-91.63053366641273
+USA,Arizona,Phoenix,320,Rural,5-10 km,Polar,High,Low,Medium,Low,Good,>$500k,Low,Excellent,32.17146397097188,-88.54246314802639
+USA,Oregon,Salt Lake City,657,Urban,<5 km,Arid,Low,Low,Medium,Moderate,Average,$100k-$300k,None,Good,45.97726524077238,-89.90242802614192
+USA,Nevada,Portland,453,Urban,20+ km,Temperate,Low,Moderate,High,High,Average,>$500k,High,Good,42.121686876373595,-95.458813762955
+USA,Arizona,Henderson,964,Urban,10-20 km,Arid,Moderate,Low,Medium,Moderate,Poor,<$100k,Low,Excellent,32.744308979373535,-92.23154441345699
+USA,Arizona,Portland,831,Rural,5-10 km,Tropical,Moderate,Low,Low,Moderate,Excellent,$100k-$300k,None,Poor,42.48832604514181,-83.55393550122636
+USA,Arizona,Las Vegas,331,Urban,10-20 km,Tropical,Moderate,Low,Medium,Low,Excellent,$300k-$500k,High,Good,39.527374814124784,-84.84080499554103
+USA,Utah,Tucson,464,Suburban,10-20 km,Arid,Low,High,Low,High,Excellent,<$100k,None,Excellent,40.09903293136253,-86.53279339820071
+USA,Arizona,Phoenix,459,Suburban,<5 km,Polar,High,High,Medium,Low,Poor,$100k-$300k,Moderate,Poor,38.99275019709448,-88.26940960757749
+USA,Utah,Salem,504,Rural,5-10 km,Polar,Moderate,Low,High,Moderate,Poor,<$100k,Moderate,Poor,36.68314497334498,-82.56725880551706
+USA,Arizona,Las Vegas,857,Rural,<5 km,Arid,Low,Moderate,Low,High,Excellent,<$100k,Low,Fair,29.855801496329985,-86.5109624200961
+USA,Oregon,Las Vegas,607,Urban,<5 km,Arid,Low,Moderate,Medium,Moderate,Excellent,>$500k,Moderate,Fair,45.34138552128918,-86.6487777997535
+USA,Oregon,Salem,389,Urban,20+ km,Tropical,Moderate,Moderate,High,Moderate,Poor,>$500k,Low,Poor,38.70082467127788,-91.80798636236663
+USA,Arizona,Salt Lake City,782,Urban,20+ km,Tropical,Moderate,Low,Low,High,Excellent,>$500k,Moderate,Excellent,36.94958027602974,-89.91856405756675
+USA,Oregon,Phoenix,220,Suburban,20+ km,Temperate,Moderate,Moderate,High,Low,Average,$100k-$300k,Low,Fair,40.19703675235684,-87.65062562823084
+USA,Arizona,Phoenix,290,Urban,<5 km,Tropical,High,Low,High,Low,Excellent,<$100k,Moderate,Poor,40.714397175564,-88.6169388515975
+USA,Utah,West Valley City,480,Rural,10-20 km,Temperate,Low,Moderate,Low,High,Average,<$100k,Low,Fair,46.95305359694261,-84.19357383252543
+USA,Utah,Tucson,531,Rural,10-20 km,Temperate,High,Moderate,Medium,High,Excellent,>$500k,Low,Good,33.96357911897678,-87.56883692505052
+USA,Oregon,Portland,438,Suburban,20+ km,Arid,Moderate,Moderate,High,Moderate,Excellent,$100k-$300k,High,Good,35.00481628948359,-99.97709350254678
+USA,Utah,Tucson,205,Urban,10-20 km,Arid,Moderate,Moderate,Medium,High,Excellent,$100k-$300k,None,Poor,38.8037640866512,-86.62123039280272
+USA,Arizona,Henderson,452,Urban,5-10 km,Arid,High,High,Medium,High,Average,<$100k,Low,Poor,39.45313088163926,-90.43025887987821
+USA,Oregon,Salt Lake City,784,Rural,5-10 km,Arid,High,Moderate,Low,High,Average,$300k-$500k,Low,Excellent,33.38009419217806,-89.84965514496965
+USA,Arizona,Salem,370,Rural,10-20 km,Polar,Low,Moderate,Low,High,Poor,>$500k,High,Fair,51.0584756829365,-95.13448743418694
+USA,Utah,Las Vegas,902,Rural,<5 km,Arid,Low,High,Medium,Low,Good,<$100k,Moderate,Fair,38.6311405617392,-92.74202552278403
+USA,Oregon,Tucson,189,Suburban,<5 km,Temperate,Low,Moderate,Medium,Low,Poor,$100k-$300k,Low,Fair,32.44484270009331,-88.24424127438013
+USA,Nevada,Portland,968,Rural,20+ km,Temperate,High,High,High,High,Excellent,$100k-$300k,Moderate,Good,35.574534527381545,-96.41631359926288
+USA,Nevada,West Valley City,754,Urban,20+ km,Tropical,Low,High,High,Low,Good,$100k-$300k,None,Fair,38.85834371997909,-88.98763936843594
+USA,Utah,Portland,456,Suburban,20+ km,Polar,High,High,Medium,Moderate,Poor,>$500k,None,Poor,31.708815789320003,-98.26985030583634
+USA,Nevada,Salt Lake City,769,Urban,20+ km,Polar,Moderate,High,Medium,Low,Excellent,$100k-$300k,Low,Excellent,43.192194124167436,-89.93116418422731
+USA,Nevada,Salt Lake City,581,Suburban,10-20 km,Arid,High,Low,Low,Moderate,Poor,$100k-$300k,High,Poor,42.111692515614976,-89.84549639069644
+USA,Oregon,Phoenix,674,Urban,20+ km,Tropical,Low,Low,Medium,Moderate,Poor,>$500k,High,Excellent,30.759284935560352,-86.3887298758209
+USA,Nevada,West Valley City,631,Rural,<5 km,Tropical,Low,High,High,Moderate,Excellent,<$100k,Low,Poor,32.69700514564442,-84.59060196833622
+USA,Nevada,Salt Lake City,122,Rural,5-10 km,Arid,High,High,Medium,Low,Good,$300k-$500k,High,Fair,38.94049358719185,-89.79956867028754
+USA,Arizona,Salt Lake City,215,Urban,5-10 km,Temperate,Moderate,Low,High,Moderate,Average,>$500k,Moderate,Poor,45.782317664377764,-89.82893136623962
+USA,Arizona,West Valley City,662,Rural,5-10 km,Polar,Moderate,Moderate,High,Low,Good,$300k-$500k,High,Good,35.56554841287516,-87.68701255834812
+USA,Arizona,Henderson,491,Suburban,5-10 km,Temperate,High,Moderate,Medium,High,Poor,$100k-$300k,Moderate,Fair,31.548939525803213,-86.16570951458107
+USA,Oregon,Henderson,150,Suburban,<5 km,Tropical,High,High,Low,Moderate,Good,<$100k,None,Good,37.417561526653046,-87.42167040659426
+USA,Nevada,Henderson,774,Suburban,20+ km,Polar,High,Low,Low,Low,Average,>$500k,High,Good,40.16186948912835,-92.75704800333791
+USA,Utah,Portland,408,Rural,<5 km,Tropical,High,Moderate,Medium,Moderate,Excellent,$300k-$500k,High,Fair,33.47804116905588,-98.01079236386045
+USA,Arizona,Henderson,873,Rural,10-20 km,Polar,Low,High,Low,High,Excellent,$300k-$500k,None,Excellent,32.18972907634425,-86.96106386563979
+USA,Arizona,Tucson,989,Rural,10-20 km,Tropical,High,High,Low,Moderate,Poor,$100k-$300k,None,Fair,31.968741753881257,-88.14147159877078
+USA,Arizona,Henderson,680,Suburban,5-10 km,Polar,Moderate,High,High,High,Average,$100k-$300k,Moderate,Excellent,43.59056622639512,-92.86008233345726
+USA,Nevada,Tucson,215,Rural,10-20 km,Temperate,High,Low,High,Low,Excellent,$100k-$300k,Moderate,Good,42.16174195677513,-86.77418454222293
+USA,Utah,Tucson,506,Rural,20+ km,Polar,Low,High,Medium,Moderate,Good,$100k-$300k,Moderate,Good,42.25991431670018,-86.2616628786204
+USA,Utah,Salem,320,Rural,5-10 km,Tropical,High,Moderate,Low,Moderate,Good,>$500k,High,Excellent,49.49790133536263,-87.5155587648415
+USA,Utah,Tucson,865,Suburban,<5 km,Arid,Low,High,Medium,High,Average,$300k-$500k,None,Good,36.02538064047312,-86.88072171626204
+USA,Nevada,Salem,213,Rural,20+ km,Arid,Low,Low,High,Low,Good,$100k-$300k,High,Fair,38.50334241087252,-82.3141924533905
+USA,Nevada,Tucson,413,Suburban,10-20 km,Temperate,Moderate,High,Low,Moderate,Average,>$500k,Moderate,Excellent,32.09706676771949,-86.62083199345794
+USA,Nevada,Henderson,684,Rural,<5 km,Temperate,Moderate,Moderate,Low,High,Good,>$500k,Moderate,Fair,38.88720923746248,-92.87674289854859
+USA,Nevada,Salt Lake City,176,Rural,10-20 km,Arid,Moderate,Low,High,High,Excellent,<$100k,None,Good,39.180182122588946,-89.9511638623976
+USA,Nevada,Tucson,713,Urban,10-20 km,Tropical,Low,Low,Medium,Moderate,Good,>$500k,High,Good,34.53022666668153,-86.92665671711416
+USA,Arizona,Tucson,484,Suburban,5-10 km,Polar,Low,High,Medium,Low,Poor,$300k-$500k,None,Excellent,33.86584636135482,-86.96830421144396
+USA,Arizona,West Valley City,884,Suburban,10-20 km,Tropical,Low,High,Medium,Moderate,Good,<$100k,Moderate,Good,48.256831617621685,-80.15123146191877
+USA,Nevada,Tucson,647,Urban,5-10 km,Tropical,High,High,Low,Low,Excellent,$100k-$300k,High,Good,39.94426668685924,-86.72467787648306
+USA,Oregon,Salem,563,Rural,<5 km,Polar,Low,Low,Low,Moderate,Poor,$300k-$500k,High,Fair,36.147671023281575,-91.57788830343227
+USA,Arizona,Salt Lake City,332,Rural,20+ km,Temperate,Low,Moderate,Low,High,Excellent,>$500k,None,Fair,33.15969165795602,-89.81097497653617
+USA,Oregon,Phoenix,568,Urban,5-10 km,Polar,Low,High,Low,High,Good,$100k-$300k,Low,Poor,38.50013109427738,-86.63529993939355
+USA,Arizona,Tucson,641,Urban,5-10 km,Polar,Moderate,High,Low,Moderate,Poor,<$100k,None,Excellent,37.03342970187824,-86.26309628356512
+USA,Arizona,Phoenix,210,Suburban,5-10 km,Temperate,High,Low,High,Moderate,Good,$300k-$500k,None,Good,29.543209291155794,-87.92000415936596
+USA,Arizona,Las Vegas,892,Rural,20+ km,Arid,Moderate,Low,Medium,Moderate,Good,$300k-$500k,Moderate,Excellent,32.75549767925643,-88.12502115548563
+USA,Arizona,Portland,673,Urban,20+ km,Temperate,High,Moderate,Low,Low,Poor,$300k-$500k,High,Excellent,43.96106155006892,-96.88309587005205
+USA,Oregon,Salem,829,Rural,5-10 km,Temperate,Low,Moderate,High,High,Poor,$100k-$300k,Low,Good,39.95406118865351,-82.73369020784456
+USA,Nevada,West Valley City,121,Urban,<5 km,Tropical,High,High,High,Moderate,Average,$300k-$500k,High,Fair,34.92253806675349,-86.81284677396458
+USA,Arizona,Salt Lake City,605,Suburban,<5 km,Temperate,High,Moderate,Medium,Low,Good,$100k-$300k,Low,Fair,42.014300313521915,-89.9122407718649
+USA,Utah,Las Vegas,594,Suburban,20+ km,Tropical,Moderate,Moderate,Medium,Moderate,Average,$300k-$500k,None,Fair,45.84719780771438,-83.46265943378897
+USA,Arizona,Phoenix,508,Rural,5-10 km,Temperate,Moderate,Low,Medium,Low,Average,<$100k,Moderate,Fair,40.35361612034069,-86.71928096923347
+USA,Arizona,Tucson,246,Urban,10-20 km,Polar,High,High,Low,Low,Average,$300k-$500k,Moderate,Excellent,30.338604646346834,-87.20693778498332
+USA,Arizona,Las Vegas,624,Suburban,20+ km,Tropical,Moderate,High,High,Moderate,Average,<$100k,Moderate,Poor,44.56068251110062,-83.80187734145503
+USA,Arizona,Henderson,146,Rural,20+ km,Polar,Low,Moderate,Low,Moderate,Good,$300k-$500k,Moderate,Excellent,37.82882522392096,-84.92403737821009
+USA,Utah,Portland,450,Rural,20+ km,Temperate,Moderate,Low,Medium,High,Poor,$300k-$500k,High,Good,48.95249095875196,-87.7406309287833
+USA,Arizona,Tucson,612,Rural,10-20 km,Temperate,Low,Low,Low,Low,Average,$100k-$300k,High,Poor,39.85297870653159,-86.5087775493542
+USA,Arizona,Salt Lake City,701,Rural,20+ km,Tropical,High,Moderate,High,High,Excellent,<$100k,Moderate,Poor,30.86244569938055,-89.95699591392086
+USA,Oregon,Portland,947,Rural,<5 km,Polar,Moderate,High,High,Moderate,Poor,$300k-$500k,Moderate,Excellent,37.41566006414427,-82.75513502520793
+USA,Arizona,Las Vegas,754,Urban,10-20 km,Temperate,High,High,Medium,High,Average,$300k-$500k,Low,Fair,44.05783084478222,-84.27913774206257
+USA,Utah,Tucson,842,Urban,10-20 km,Temperate,Moderate,High,Low,Low,Good,>$500k,None,Excellent,37.87125812247814,-86.46935011793887
+USA,Utah,Portland,374,Rural,20+ km,Temperate,Low,High,Low,High,Average,$100k-$300k,High,Good,40.936313516511525,-87.93375984111252
+USA,Oregon,Salem,319,Urban,<5 km,Tropical,Low,Low,Low,Low,Average,>$500k,None,Poor,45.71459277387598,-93.92755034056758
+USA,Arizona,Henderson,499,Urban,<5 km,Arid,Low,Low,High,High,Good,<$100k,None,Excellent,40.68096349835633,-87.5293235365115
+USA,Oregon,West Valley City,102,Urban,5-10 km,Polar,High,High,Low,Low,Average,$300k-$500k,High,Good,34.852532219337206,-85.37053992501095
+USA,Arizona,Henderson,392,Urban,<5 km,Polar,High,High,Medium,Moderate,Excellent,<$100k,Moderate,Good,45.27856550275958,-91.25868564360512
+USA,Oregon,Salt Lake City,672,Rural,20+ km,Tropical,High,High,Medium,Low,Good,$100k-$300k,Moderate,Good,44.12494192719943,-89.9243569735938
+USA,Arizona,Salt Lake City,671,Suburban,5-10 km,Arid,Low,Low,High,Moderate,Average,>$500k,Moderate,Fair,32.478964547317325,-89.91674456232528
+USA,Utah,Phoenix,381,Rural,5-10 km,Arid,Moderate,Moderate,Medium,High,Good,>$500k,None,Good,35.27988147713014,-88.69596108453054
+USA,Utah,Henderson,624,Rural,20+ km,Tropical,Moderate,High,Low,Moderate,Poor,$300k-$500k,Moderate,Poor,43.06688152067811,-87.50910254670168
+USA,Oregon,Tucson,649,Urban,5-10 km,Tropical,High,High,High,Low,Poor,>$500k,Low,Poor,30.15026020341678,-87.90222006373847
+USA,Oregon,Henderson,520,Rural,20+ km,Arid,Low,High,Low,Low,Poor,>$500k,Moderate,Excellent,30.28005714059255,-88.9330246766039
+USA,Oregon,Portland,311,Suburban,20+ km,Temperate,Moderate,High,Medium,High,Poor,$300k-$500k,Low,Fair,30.58457094476107,-99.88381654413416
+USA,Arizona,Phoenix,457,Urban,<5 km,Arid,Moderate,Moderate,High,High,Poor,$100k-$300k,Low,Poor,38.677534570656036,-86.4297864706438
+USA,Arizona,Phoenix,163,Rural,10-20 km,Arid,High,Moderate,Medium,Moderate,Average,<$100k,Low,Fair,32.41271804439335,-85.9330851325654
+USA,Oregon,Portland,142,Urban,5-10 km,Tropical,High,High,Low,High,Average,$100k-$300k,High,Fair,43.109700251325116,-86.77798848739812
+USA,Oregon,Salt Lake City,151,Rural,5-10 km,Temperate,Low,High,Medium,High,Excellent,<$100k,Low,Poor,48.01175721062785,-89.82782055720993
+USA,Utah,West Valley City,443,Urban,<5 km,Polar,Low,Moderate,Medium,High,Poor,$300k-$500k,Moderate,Fair,44.41995680537692,-84.73911913827638
+USA,Oregon,Phoenix,546,Urban,20+ km,Arid,High,Moderate,Medium,High,Average,$100k-$300k,Low,Excellent,32.50565793182444,-89.0878576732962
+USA,Nevada,Phoenix,411,Suburban,<5 km,Polar,Moderate,High,High,High,Excellent,$100k-$300k,Moderate,Fair,37.96053551436845,-87.33878029568342
+USA,Arizona,Phoenix,631,Urban,20+ km,Polar,Low,Moderate,High,High,Poor,$300k-$500k,High,Fair,40.473472210683546,-86.30729992174537
+USA,Arizona,Portland,590,Suburban,20+ km,Tropical,High,Moderate,Low,Low,Poor,$100k-$300k,Moderate,Good,44.41265344147752,-94.79545734328973
+USA,Oregon,Henderson,749,Rural,10-20 km,Temperate,Moderate,Low,High,High,Poor,>$500k,None,Good,39.541365587322666,-89.23433622445805
+USA,Utah,Las Vegas,365,Rural,10-20 km,Arid,Low,Moderate,High,Low,Poor,$100k-$300k,Moderate,Poor,41.729334279801535,-85.9402421629474
+USA,Arizona,Salt Lake City,520,Urban,<5 km,Temperate,High,Moderate,High,Moderate,Average,$300k-$500k,High,Poor,35.7557444692911,-89.82622276045805
+USA,Oregon,Phoenix,678,Rural,5-10 km,Arid,High,Low,Low,Moderate,Excellent,$100k-$300k,Moderate,Poor,37.194043306674075,-85.34316567833372
+USA,Utah,Tucson,555,Urban,10-20 km,Polar,Moderate,Moderate,High,Moderate,Average,$100k-$300k,High,Poor,36.991838376739544,-88.68320322031998
+USA,Utah,Las Vegas,726,Suburban,<5 km,Polar,Moderate,High,Low,Moderate,Average,<$100k,None,Good,40.19366129410601,-91.46404808431797
+USA,Oregon,Portland,305,Suburban,<5 km,Arid,Moderate,Moderate,High,Moderate,Poor,$100k-$300k,Low,Excellent,45.827023730735114,-84.78790243391808
+USA,Utah,Las Vegas,258,Urban,5-10 km,Temperate,Moderate,Low,Low,High,Good,>$500k,Low,Excellent,43.975415320898215,-86.26493310793644
+USA,Nevada,Las Vegas,211,Rural,10-20 km,Tropical,High,High,Low,Low,Poor,$300k-$500k,None,Fair,40.644153067592974,-87.0988040748148
+USA,Nevada,Henderson,250,Urban,10-20 km,Tropical,High,Low,Low,High,Average,$300k-$500k,Low,Good,36.54637003453102,-91.12815950289725
+USA,Utah,Tucson,646,Rural,10-20 km,Polar,Moderate,High,Low,Moderate,Average,$100k-$300k,Moderate,Good,35.44176045036917,-88.4269393005176
+USA,Nevada,Phoenix,126,Suburban,5-10 km,Polar,Low,Moderate,Medium,Low,Average,<$100k,High,Poor,40.80216826267125,-88.0616040977723
+USA,Nevada,Portland,740,Suburban,10-20 km,Tropical,Moderate,Low,Medium,High,Poor,<$100k,High,Excellent,48.93466062540597,-86.32339147747406
+USA,Oregon,Tucson,869,Suburban,10-20 km,Arid,Moderate,High,Medium,Moderate,Good,$100k-$300k,Moderate,Good,32.79906826522188,-86.9868702333169
+USA,Nevada,West Valley City,318,Rural,5-10 km,Polar,High,High,Medium,Moderate,Average,<$100k,Moderate,Excellent,31.5064957035284,-85.81985532413027
+USA,Oregon,Portland,841,Suburban,<5 km,Arid,Moderate,High,Medium,High,Average,>$500k,Moderate,Good,36.87784900041629,-83.14345186210475
+USA,Utah,Salem,274,Urban,5-10 km,Arid,Moderate,High,Medium,High,Good,<$100k,None,Poor,43.91131315147298,-82.99058804315838
+USA,Oregon,Salt Lake City,283,Urban,10-20 km,Arid,Low,Low,Medium,Low,Poor,$100k-$300k,None,Fair,49.86803587226561,-89.94928471347751
+USA,Oregon,Salt Lake City,109,Rural,20+ km,Polar,Moderate,Moderate,Low,Low,Good,>$500k,Low,Fair,33.11452821452269,-89.81760983706934
+USA,Oregon,West Valley City,918,Suburban,20+ km,Temperate,Moderate,High,Low,Low,Average,$300k-$500k,Moderate,Good,42.744060682042004,-88.75630322116693
+USA,Nevada,Salt Lake City,559,Rural,10-20 km,Tropical,Low,High,Medium,Low,Poor,>$500k,None,Excellent,42.32556281671195,-89.91424188849955
+USA,Oregon,Las Vegas,845,Urban,10-20 km,Temperate,Low,High,High,High,Average,$100k-$300k,None,Poor,39.94121004161512,-88.0306214622712
+USA,Utah,West Valley City,900,Suburban,5-10 km,Polar,High,Low,Medium,High,Poor,$300k-$500k,None,Excellent,31.601224336852326,-85.47855573413622
+USA,Oregon,Phoenix,113,Urban,10-20 km,Temperate,High,Moderate,High,Moderate,Poor,$300k-$500k,None,Fair,35.358844433406134,-87.16843805333457
+USA,Arizona,Portland,245,Suburban,20+ km,Polar,Moderate,Moderate,Medium,Moderate,Excellent,$300k-$500k,Moderate,Excellent,40.52249706997401,-82.24571188345885
+USA,Nevada,Salem,982,Urban,<5 km,Arid,Low,Moderate,Medium,Low,Excellent,<$100k,None,Good,52.27305208499655,-87.83600429002671
+USA,Nevada,Tucson,913,Suburban,<5 km,Temperate,Moderate,Moderate,High,Low,Average,$100k-$300k,None,Excellent,31.552095974383807,-86.54750433757931
+USA,Oregon,Salt Lake City,877,Rural,20+ km,Tropical,High,Moderate,High,Moderate,Excellent,$300k-$500k,None,Good,42.64089137176788,-89.9159531464537
+USA,Arizona,Portland,149,Rural,10-20 km,Tropical,Low,Moderate,High,High,Poor,>$500k,Moderate,Poor,39.887203076079786,-98.75205045522043
+USA,Utah,Salt Lake City,314,Rural,<5 km,Arid,Low,Low,High,Low,Average,$100k-$300k,None,Poor,49.12832081184043,-89.9555338729306
