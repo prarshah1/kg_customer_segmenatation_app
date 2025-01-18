@@ -19,6 +19,8 @@ def campaign_generation():
     # App title with a stylish header
     if not str(st.session_state.selected_segment).startswith("L"):
         st.header("Select a segment from 'Customer Segmentation' section to generate campaign")
+        return
+
     st.markdown(f"<h1 style='text-align: center;'>Personalized Campaign Generation for Segment: {st.session_state.selected_segment}</h1>", unsafe_allow_html=True)
 
     # Create a visually appealing layout
