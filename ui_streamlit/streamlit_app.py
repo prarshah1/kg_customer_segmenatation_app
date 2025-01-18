@@ -52,7 +52,7 @@ st.set_page_config(
 
 # Sidebar navigation
 st.sidebar.header("AXIS")
-page_options = ["Dataset Visualization", "Consumer Segmentation", "Campaign Generator"]
+page_options = ["Dataset Visualization", "Consumer Segmentation", "AI Campaign Generator"]
 page = st.sidebar.radio("", page_options)
 
 # Show selected view
