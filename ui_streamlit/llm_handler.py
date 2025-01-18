@@ -88,7 +88,7 @@ def return_full_image_prompt(prompt, company_name):
         For example: If the prompt is Generate a email for gym membership for the user.
         Then generate a image having gym equipements or people working out in gym.
 
-        So like this you need to generate images. Make the images less graphic and make them more realistic. Avoid unnecessary text. 
+        So like this you need to generate images. Make the images less graphic and make them more realistic. Avoid text on image. 
 
         Main idea: {prompt} Ignore the target audience and make a generic image.
         Company Name: {company_name}
