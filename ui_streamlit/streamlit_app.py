@@ -4,9 +4,6 @@ import networkx as nx
 import streamlit as st
 from streamlit_agraph import agraph, Node, Edge, Config
 import base64
-# Generate the networkx implementation of Zachary's Karate Club graph
-# (https://en.wikipedia.org/wiki/Zachary%27s_karate_club)
-# G = nx.karate_club_graph()
 
 import streamlit as st
 from streamlit_agraph import agraph, Config
@@ -20,10 +17,11 @@ if "G" not in st.session_state:
     st.session_state.G = graph_generator_obj.get_schema_data()
 
 if "id_label_mapping" not in st.session_state:
-        st.session_state.id_label_mapping = {}
+    st.session_state.id_label_mapping = {}
 
 if "selected_segment" not in st.session_state:
     st.session_state.selected_segment = None
+
 def get_image_b64(image_path):
     if image_path:
         try:
@@ -35,24 +33,20 @@ def get_image_b64(image_path):
             return None
     return None
 
-
 # Configure page settings
 st.set_page_config(
-    page_title="Neo4j Graph Visualization",
+    page_title="AXIS",
     page_icon="🔍",
     layout="wide"
 )
 
-
-# st.title("Neo4j Graph Visualization")
-
 # Sidebar navigation
-st.sidebar.header("Neo4j Graph Visualization")
+st.sidebar.header("AXIS")
 page_options = ["Dataset Visualization", "Consumer Segmentation", "Campaign Generator"]
 page = st.sidebar.radio("", page_options)
-# # Show selected view
-def show_schema_page():
 
+# Show selected view
+def show_schema_page():
     # Create the equivalent Node and Edge lists
     nodes = []
     edges = []
@@ -107,7 +101,7 @@ def show_schema_page():
         }
     )
 
-        # Add nodes with different colors based on labels
+    # Add nodes with different colors based on labels
     label_info = {
         'Individual': {'color': '#FF9999', 'image': "individual.png", 'value': "name"},
         'Economic': {'color': '#99FF99', 'image': "economic.png", 'value': "socio-economic_classification"},
@@ -148,10 +142,6 @@ def show_schema_page():
 
         edges.append(Edge(source=from_node, target=to_node, label=relationship_name))
 
-
-    # nodes = [Node(id=i, label=str(i), size=20) for i in range(len(st.session_state.G.nodes))]
-    # edges = [Edge(source=i, target=j, type="CURVE_SMOOTH") for (i,j) in st.session_state.G.edges]
-
     return_value = None
 
     return_value = agraph(nodes=nodes, edges=edges, config=config)
@@ -159,8 +149,6 @@ def show_schema_page():
         data_descriptions.show_dataset_description(return_value)
     else:
         data_descriptions.show_dataset_description(st.session_state.id_label_mapping[return_value])
-
-
 
 if page == page_options[0]:
     st.header("Dataset Visualization")
@@ -171,5 +159,3 @@ elif page == page_options[2]:
     campaign_generation()
 else:
     st.write("Select from navigation")
-
-
