@@ -17,7 +17,7 @@ def campaign_generation():
         st.session_state.generated_image = None
 
     # App title with a stylish header
-    st.markdown("<h1 style='text-align: center;'>Personalized Campaign Generation</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='text-align: center;'>Personalized Campaign Generation for Segment: {st.session_state.selected_segment}</h1>", unsafe_allow_html=True)
 
     # Create a visually appealing layout
     # st.markdown("<style>div.row-widget.stButton > button {width: 100%;}</style>", unsafe_allow_html=True)

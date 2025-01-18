@@ -12,8 +12,8 @@ load_dotenv()
 graph_generator_obj = GraphGenerator()
 import streamlit as st
 
-segment_descriptions = {"L1A1D1": {
-    "desc": "Lifestyle: Young (Single individuals without children, aged between <18 and 44) | Age: <18 | Digital: Daily"},
+if "segment_descriptions" not in st.session_state:
+    st.session_state.segment_descriptions = {"L1A1D1": {"desc": "Lifestyle: Young (Single individuals without children, aged between <18 and 44) | Age: <18 | Digital: Daily"},
                         "L1A1D2": {
                             "desc": "Lifestyle: Young (Single individuals without children, aged between <18 and 44) | Age: <18 | Digital: Weekly"},
                         "L1A1D3": {
@@ -158,7 +158,7 @@ def generate_segment_graph():
     segment_info = {}
 
     with driver.session() as session:
-        for segment_name in segment_descriptions.keys():
+        for segment_name in st.session_state.segment_descriptions.keys():
             count_query = f"""
             MATCH (d:Individual)-[:BELONGS_TO]->(s:Segment {{Name: '{segment_name}'}}), (d)-[:HAS_DIGITAL_ENGAGEMENT]->(de:DigitalEngagement)
             RETURN count(s) AS count, apoc.agg.first(d.`age_range`) AS age, apoc.agg.first(de.`internet_usage_frequency`) AS digital
@@ -206,7 +206,7 @@ def generate_segment_graph():
                 hoverinfo='text+name',
                 name=labels[i]
             ))
-            segment_descriptions[labels[i]]["x,y"] = f"{x_pos, y_pos}"
+            st.session_state.segment_descriptions[labels[i]]["x,y"] = f"{x_pos, y_pos}"
 
     # Customize the layout
     fig.update_layout(
@@ -260,12 +260,12 @@ def display_segments():
                 x = float(selected_point[0]['x'])
                 y = float(selected_point[0]['y'])
                 segment_id = ""
-                for key in segment_descriptions.keys():
-                    if segment_descriptions[key]["x,y"] == f"{x, y}":
+                for key in st.session_state.segment_descriptions.keys():
+                    if st.session_state.segment_descriptions[key]["x,y"] == f"{x, y}":
                         segment_id = key
                         break
                 st.markdown(
-                    f"<h5 style='color: #4A90E2;'>Segment Description:</h5><p style='font-size: 16px;'><b>   - {segment_descriptions[segment_id]['desc'].replace('|', '<br>   -')}</b></p>",
+                    f"<h5 style='color: #4A90E2;'>Segment Description:</h5><p style='font-size: 16px;'><b>   - {st.session_state.segment_descriptions[segment_id]['desc'].replace('|', '<br>   -')}</b></p>",
                     unsafe_allow_html=True)
                 html_file = graph_generator_obj.get_segment_graph_data(segment_id)
                 # Display the graph
