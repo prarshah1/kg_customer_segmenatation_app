@@ -224,9 +224,6 @@ def generate_segment_graph():
     return fig
 
 
-if "fig" not in st.session_state:
-    st.session_state.fig = generate_segment_graph()
-
 
 def display_segments():
     st.markdown("""

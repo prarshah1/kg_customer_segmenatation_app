@@ -7,6 +7,10 @@ import base64
 
 import streamlit as st
 from streamlit_agraph import agraph, Config
+from segment_graph import generate_segment_graph
+if "fig" not in st.session_state:
+    st.session_state.fig = generate_segment_graph()
+
 from segment_graph import display_segments
 from graph_generator import data_descriptions
 from campaign import campaign_generation
