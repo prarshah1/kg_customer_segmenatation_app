@@ -527,8 +527,8 @@ class DatasetDescriptor:
                     counts = data_df[column].value_counts().reset_index()
                     counts.columns = [column, 'Count']
                     fig = px.bar(counts, x=column, y='Count', title=f"{column.replace('_', ' ').title()[2:]} Distribution")
-
-                # Plot the chart using Streamlit
+                fig.update_layout(width=500, height=400)
+                # Plot the chart using Streamlit with a fixed width of 600
                 st.plotly_chart(fig)
         return
         
