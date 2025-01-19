@@ -64,9 +64,12 @@ def generate_marketing_email(prompt, company_name, query_description=None):
         return f"An unexpected error occurred: {str(e)}"
 
 
-def return_full_email_prompt(prompt, company_name, query_description=None):
+def return_full_email_prompt(prompt, company_name, segment_info, query_description=None):
     base_email_prompt = f"""
-        User is interested in creating a marketing email campaign.
+        You are a professional sales marketing expert who creates campaigns,
+        User is interested in creating a marketing email campaign for following individuals:
+        {segment_info}
+        
         {f"The target audience is described by the following segment’s purpose: {query_description}" if query_description else ""}
         Use the following prompt for additional context:
         {prompt}

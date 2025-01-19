@@ -57,11 +57,12 @@ def campaign_generation():
                 options = ["Edit Email Prompt", "Edit Image Prompt"]
                 selected_option = st.radio("Choose an option:", options, index=0, key="settings_option")
 
+                segment_info = st.session_state.segment_descriptions(st.session_state.selected_segment)
                 if selected_option == "Edit Email Prompt":
                     email_prompt = st.text_area(
                         "Edit Email Prompt",
                         value=st.session_state.get("custom_email_prompt",
-                                                   return_full_email_prompt(prompt, company_name, None)),
+                                                   return_full_email_prompt(prompt, company_name, segment_info,None)),
                         height=150,
                         key="editable_email_prompt_area"
                     )
