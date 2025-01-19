@@ -222,6 +222,7 @@ def generate_segment_graph():
 
 
 def display_segment_stats(segment_id):
+    st.markdown("<strong><hr></strong>", unsafe_allow_html=True)
     image_path = f"{os.getcwd()}/resources/lifestyle/{segment_id[:2]}.png"
     st.markdown(
         f"<h5 style='color: #4A90E2; text-align: center;'>Segment Description</h5>",
@@ -329,6 +330,7 @@ def display_segment_stats(segment_id):
         markdown_output += f"| **{display_attr1}** | {value1} | **{display_attr2}** | {value2} |\n"
 
     st.markdown(markdown_output)
+    st.markdown("<strong><hr></strong>", unsafe_allow_html=True)
 
   
 def display_segments():
