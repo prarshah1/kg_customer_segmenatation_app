@@ -155,7 +155,7 @@ if page == page_options[0]:
 elif page == page_options[1]:
     display_segments()
 elif page == page_options[2]:
-    st.header("MOSAIC - AI Campaign Generation")
+    st.header("MOSAIC - AI Content Generation")
     campaign_generation()
 else:
     st.write("Select from navigation")
