@@ -21,7 +21,7 @@ class DatasetDescriptor:
         <li><strong>Lifestage (L):</strong>   
             <span style='color:#5F9EA0;'>Young</span>, 
             <span style='color:#32CD32;'>Married Families</span>, 
-            <span style='color:#32CD32;'>Married Couples</span>, 
+            <span style='color:#BDB76B;'>Married Couples</span>, 
             <span style='color:#5F9EA0;'>Divorced</span>, 
             <span style='color:#CD5C5C;'>Empty Nesters</span>, 
             <span style='color:#B0E0E6;'>Retirees</span>
