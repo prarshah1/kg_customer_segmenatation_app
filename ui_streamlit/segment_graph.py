@@ -221,7 +221,116 @@ def generate_segment_graph():
     return fig
 
 
+def display_segment_stats(segment_id):
+    image_path = f"{os.getcwd()}/resources/lifestyle/{segment_id[:2]}.png"
+    st.markdown(
+        f"<h5 style='color: #4A90E2; text-align: center;'>Segment Description</h5>",
+        unsafe_allow_html=True)
+    img_col, desc_col = st.columns([0.5, 0.5])
+    with img_col:
+        st.image(image_path)
+    with desc_col:
+        st.markdown(f"<p style='font-size: 16px;'><b>  <br><br><br> - {st.session_state.segment_descriptions[segment_id]['desc'].replace('|', '<br>   -')}</b></p>", unsafe_allow_html=True)
 
+    # Define the query to get stats for the given segment_id
+    query = f"""
+    MATCH (d:Individual)-[:BELONGS_TO]->(s:Segment {{Name: '{segment_id}'}})
+    OPTIONAL MATCH (d)-[:HAS_ECONOMIC]->(e:Economic)
+    OPTIONAL MATCH (d)-[:HAS_DIGITAL_ENGAGEMENT]->(de:DigitalEngagement)
+    OPTIONAL MATCH (d)-[:HAS_TECHNOLOGY]->(t:Technology)
+    OPTIONAL MATCH (d)-[:HAS_BEHAVIOR]->(b:Behavioral)
+    OPTIONAL MATCH (d)-[:HAS_PSYCHOGRAPHY]->(p:Psychographic)
+    OPTIONAL MATCH (d)-[:HAS_HEALTH]->(h:HealthWellness)
+    OPTIONAL MATCH (d)-[:LOCATED_IN]->(g:Geographic)
+    OPTIONAL MATCH (d)-[:HAS_FAMILY_STRUCTURE]->(f:FamilyStructure)
+    RETURN 
+        d AS individual,
+        e.annual_income_range AS `Annual Income Range`,
+        de.`internet_usage_frequency` AS `Internet Usage`,
+        t.`tech-savvy_level` AS `Tech Savvy`,
+        b.advertisement_response_rate AS `Advertisement Response Rate`,
+        b.shopping_frequency AS `Shopping Frequency`,
+        p.media_consumption AS `Media Consumption`,
+        p.hobbies AS `Hobbies`,
+        h.fitness_level AS `Fitness Level`,
+        g.state AS `State`,
+        f.children_count AS `Children Count`,
+        f.pet_ownership AS `Pet Ownership`
+    """
+
+    from neo4j_driver import get_query_results
+    result = get_query_results(query)
+    # Extract the data
+    # st.write(result)
+
+
+    # Collect distinct values for each attribute across all individuals
+    from collections import Counter
+    import plotly.express as px
+
+    # Define the attributes to keep and their display logic
+    attributes_to_keep = {
+        "geographic_mobility": "max",
+        "age_range": "max",
+        "marital_status": "distinct",
+        "Annual Income Range": "max",
+        "Internet Usage": "max",
+        "Shopping Frequency": "max",
+        "Media Consumption": "distinct",
+        "Hobbies": "distinct",
+        "Fitness Level": "max",
+        "State": "distinct",
+        "Children Count": "distinct",
+        "Pet Ownership": "max",
+    }
+
+    # Initialize distinct values
+    distinct_values = {key: [] for key in attributes_to_keep.keys()}
+
+    # Collect values for each attribute
+    def convert_to_title(attribute):
+        return ' '.join(word.capitalize() for word in attribute.split('_'))
+
+    for entry in result:
+        individual = entry["individual"]
+        for key in distinct_values.keys():
+            if key in individual:
+                distinct_values[key].append(individual[key])
+            elif key in entry:
+                distinct_values[key].append(entry[key])
+
+    # Display distinct values based on the specified logic
+    markdown_output = ""
+    markdown_output += "| Attribute | Value | Attribute | Value |\n"
+    markdown_output += "|-----------|-------|-----------|-------|\n"
+
+    attributes_list = list(distinct_values.items())
+    for i in range(0, len(attributes_list), 2):
+        attr1, values1 = attributes_list[i]
+        display_attr1 = convert_to_title(attr1)
+        if attributes_to_keep[attr1] == "max":
+            most_common_value1 = Counter(values1).most_common(1)
+            value1 = most_common_value1[0][0] if most_common_value1 else ""
+        elif attributes_to_keep[attr1] == "distinct":
+            value1 = ', '.join(sorted(set(values1)))
+
+        if i + 1 < len(attributes_list):
+            attr2, values2 = attributes_list[i + 1]
+            display_attr2 = convert_to_title(attr2)
+            if attributes_to_keep[attr2] == "max":
+                most_common_value2 = Counter(values2).most_common(1)
+                value2 = most_common_value2[0][0] if most_common_value2 else ""
+            elif attributes_to_keep[attr2] == "distinct":
+                value2 = ', '.join(sorted(set(values2)))
+        else:
+            display_attr2 = ""
+            value2 = ""
+
+        markdown_output += f"| **{display_attr1}** | {value1} | **{display_attr2}** | {value2} |\n"
+
+    st.markdown(markdown_output)
+
+  
 def display_segments():
     st.markdown("""
     <h2>Customer Segments</h2>
@@ -262,9 +371,7 @@ def display_segments():
                         segment_id = key
                         st.session_state.selected_segment = key
                         break
-                st.markdown(
-                    f"<h5 style='color: #4A90E2;'>Segment Description:</h5><p style='font-size: 16px;'><b>   - {st.session_state.segment_descriptions[segment_id]['desc'].replace('|', '<br>   -')}</b></p>",
-                    unsafe_allow_html=True)
+                display_segment_stats(segment_id)
                 html_file = graph_generator_obj.get_segment_graph_data(segment_id)
                 # Display the graph
                 with open(html_file, 'r', encoding='utf-8') as f:

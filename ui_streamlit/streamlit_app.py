@@ -8,6 +8,7 @@ import base64
 import streamlit as st
 from streamlit_agraph import agraph, Config
 from segment_graph import generate_segment_graph
+from neo4j_driver import get_image_b64
 
 if "segment_descriptions" not in st.session_state:
     st.session_state.segment_descriptions = None
@@ -31,18 +32,6 @@ if "selected_segment" not in st.session_state:
     st.session_state.selected_segment = None
 
 
-
-def get_image_b64(image_path):
-    if image_path:
-        try:
-            with open(f"{os.getcwd()}/resources/icons/{image_path}", "rb") as img_file:
-                base64_image = "data:image/png;base64," + base64.b64encode(img_file.read()).decode()
-            return base64_image
-        except FileNotFoundError:
-            st.error(f"Image file not found: {image_path}")
-            return None
-    return None
-
 # Configure page settings
 st.set_page_config(
     page_title="AXIS",
@@ -52,7 +41,7 @@ st.set_page_config(
 
 # Sidebar navigation
 st.sidebar.header("AXIS")
-page_options = ["Dataset Visualization", "Consumer Segments", "AI Campaign Generator"]
+page_options = ["Dataset Visualization", "Consumer Segments", "MOSAIC"]
 page = st.sidebar.radio("", page_options)
 
 # Show selected view
@@ -166,6 +155,7 @@ if page == page_options[0]:
 elif page == page_options[1]:
     display_segments()
 elif page == page_options[2]:
+    st.header("MOSAIC - AI Campaign Generation")
     campaign_generation()
 else:
     st.write("Select from navigation")
