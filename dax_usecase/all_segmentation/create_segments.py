@@ -76,7 +76,8 @@ for lifestage in lifetages:
                     WHERE {get_lifestage_query(lifestage)} AND d.`age_range` = "{age}" AND de.`internet_usage_frequency` = '{digital}'
                     """
             # Store the segment name and query
-            segments.append({"segment": segment_name, "query": query, "cluster_id": f"L{lifetages.index(lifestage) + 1}A{ages.index(age) + 1}D{digitals.index(digital)+1}"})
+            segments.append({"segment": segment_name, "query": query,
+                             "cluster_id": f"L{lifetages.index(lifestage) + 1}A{ages.index(age) + 1}D{digitals.index(digital) + 1}"})
 
     # Print the generated segments and their corresponding queries
 with driver.session() as session:

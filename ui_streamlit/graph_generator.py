@@ -1,4 +1,7 @@
 from dotenv import load_dotenv
+
+from neo4j_driver import get_image_b64
+
 load_dotenv()
 from pyvis.network import Network
 import streamlit as st
@@ -133,16 +136,6 @@ class GraphGenerator:
 
         return G
 
-    def get_image_b64(self, image_path):
-        if image_path:
-            try:
-                with open(f"{os.getcwd()}/resources/icons/{image_path}", "rb") as img_file:
-                    base64_image = "data:image/png;base64," + base64.b64encode(img_file.read()).decode()
-                return base64_image
-            except FileNotFoundError:
-                st.error(f"Image file not found: {image_path}")
-                return None
-        return None
 
     def create_pyvis_html_for_segment(self, nx_graph, show_node_data=True):
         # Create Pyvis network with modified settings
@@ -221,7 +214,7 @@ class GraphGenerator:
                          label=label_value,
                          title=node_data.get('title', ''),
                          shape="image",
-                         image=self.get_image_b64(label_info.get(label)["image"]),
+                         image=get_image_b64(label_info.get(label)["image"]),
                          color=color)
 
         # Add edges with arrows and relationship names
