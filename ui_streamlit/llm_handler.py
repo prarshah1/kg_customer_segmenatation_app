@@ -84,16 +84,16 @@ def return_full_email_prompt(prompt, company_name, segment_info, query_descripti
 
 def return_full_image_prompt(prompt, company_name):
     base_image_prompt = f"""
-         Create an image for email advertisemnt based on the idea from prompt.
+    Create an photo for email advertisemnt based on the idea from prompt.
         For example : If the prompt is Generate a email for vacation plan to Italy for high income people.
-        Then generate a image having italy travel destination.
-
+        Then generate a photo having italy travel destination.
+ 
         For example: If the prompt is Generate a email for gym membership for the user.
-        Then generate a image having gym equipements or people working out in gym.
-
-        So like this you need to generate images. Make the images less graphic and make them more realistic. Avoid text on image. 
-
-        Main idea: {prompt} Ignore the target audience and make a generic image.
+        Then generate a photos having gym equipements or people working out in gym.
+ 
+        So like this you need to generate photos. Make the photos less graphic and make them more realistic. Avoid text on photos.
+ 
+        Main idea: {prompt}. Ignore the target audience and make a generic photo.
         Company Name: {company_name}
     """
     return base_image_prompt.strip()
