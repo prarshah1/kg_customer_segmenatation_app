@@ -23,9 +23,9 @@ load_dotenv()
 
 class GraphGenerator:
     def __init__(self):
-        NEO4J_URI = os.getenv("NEO4J_URI")
-        NEO4J_USER = os.getenv("NEO4J_USER")
-        NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+        NEO4J_URI = "neo4j+ssc://6322fba3.databases.neo4j.io"
+        NEO4J_USER = "neo4j"
+        NEO4J_PASSWORD = "kIiqS9f1fDgsLmmwRLsV7sQ0d9aBFITQuB6V7UbEVnc"
         ssl_context = ssl.create_default_context()
         self.driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 

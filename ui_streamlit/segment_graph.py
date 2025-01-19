@@ -145,10 +145,9 @@ def generate_segment_graph():
                             "desc": "Lifestyle: Retirees (Individuals aged 65+ without children) | Age: 65+ | Digital: Occasionally"},
                         }
 
-    NEO4J_URI = os.getenv("NEO4J_URI")
-    NEO4J_USER = os.getenv("NEO4J_USER")
-    NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
-    # Secure Neo4j connection with SSL
+    NEO4J_URI = "neo4j+ssc://6322fba3.databases.neo4j.io"
+    NEO4J_USER = "neo4j"
+    NEO4J_PASSWORD = "kIiqS9f1fDgsLmmwRLsV7sQ0d9aBFITQuB6V7UbEVnc"    # Secure Neo4j connection with SSL
     ssl_context = ssl.create_default_context()
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
